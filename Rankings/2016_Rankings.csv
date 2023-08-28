@@ -1,0 +1,1504 @@
+﻿season,seasonType,week,poll,rank,school,points
+2016,regular,1,AP Top 25,1,Alabama,1469
+2016,regular,1,AP Top 25,2,Clemson,1443
+2016,regular,1,AP Top 25,3,Oklahoma,1352
+2016,regular,1,AP Top 25,4,Florida State,1325
+2016,regular,1,AP Top 25,5,LSU,1269
+2016,regular,1,AP Top 25,6,Ohio State,1224
+2016,regular,1,AP Top 25,7,Michigan,1147
+2016,regular,1,AP Top 25,8,Stanford,1029
+2016,regular,1,AP Top 25,9,Tennessee,1021
+2016,regular,1,AP Top 25,10,Notre Dame,1006
+2016,regular,1,AP Top 25,11,Ole Miss,718
+2016,regular,1,AP Top 25,12,Michigan State,710
+2016,regular,1,AP Top 25,13,TCU,707
+2016,regular,1,AP Top 25,14,Washington,651
+2016,regular,1,AP Top 25,15,Houston,644
+2016,regular,1,AP Top 25,16,UCLA,496
+2016,regular,1,AP Top 25,17,Iowa,484
+2016,regular,1,AP Top 25,18,Georgia,448
+2016,regular,1,AP Top 25,19,Louisville,447
+2016,regular,1,AP Top 25,20,USC,344
+2016,regular,1,AP Top 25,21,Oklahoma State,316
+2016,regular,1,AP Top 25,22,North Carolina,283
+2016,regular,1,AP Top 25,23,Baylor,280
+2016,regular,1,AP Top 25,24,Oregon,218
+2016,regular,1,AP Top 25,25,Florida,180
+2016,regular,1,Coaches Poll,1,Alabama,1585
+2016,regular,1,Coaches Poll,2,Clemson,1524
+2016,regular,1,Coaches Poll,3,Oklahoma,1398
+2016,regular,1,Coaches Poll,4,Florida State,1351
+2016,regular,1,Coaches Poll,5,Ohio State,1321
+2016,regular,1,Coaches Poll,6,LSU,1241
+2016,regular,1,Coaches Poll,7,Stanford,1149
+2016,regular,1,Coaches Poll,8,Michigan,1062
+2016,regular,1,Coaches Poll,9,Notre Dame,1034
+2016,regular,1,Coaches Poll,10,Tennessee,960
+2016,regular,1,Coaches Poll,11,Michigan State,901
+2016,regular,1,Coaches Poll,12,Ole Miss,792
+2016,regular,1,Coaches Poll,13,Houston,668
+2016,regular,1,Coaches Poll,14,TCU,649
+2016,regular,1,Coaches Poll,15,Iowa,579
+2016,regular,1,Coaches Poll,16,Georgia,525
+2016,regular,1,Coaches Poll,17,USC,468
+2016,regular,1,Coaches Poll,18,Washington,454
+2016,regular,1,Coaches Poll,19,Oklahoma State,426
+2016,regular,1,Coaches Poll,20,North Carolina,422
+2016,regular,1,Coaches Poll,21,Baylor,383
+2016,regular,1,Coaches Poll,22,Oregon,361
+2016,regular,1,Coaches Poll,23,Louisville,331
+2016,regular,1,Coaches Poll,24,UCLA,296
+2016,regular,1,Coaches Poll,25,Florida,245
+2016,regular,1,FCS Coaches Poll,1,North Dakota State,625
+2016,regular,1,FCS Coaches Poll,2,Sam Houston State,555
+2016,regular,1,FCS Coaches Poll,3,Jacksonville State,547
+2016,regular,1,FCS Coaches Poll,4,Richmond,539
+2016,regular,1,FCS Coaches Poll,5,Northern Iowa,515
+2016,regular,1,FCS Coaches Poll,6,Charleston Southern,455
+2016,regular,1,FCS Coaches Poll,7,Chattanooga,433
+2016,regular,1,FCS Coaches Poll,8,Illinois State,426
+2016,regular,1,FCS Coaches Poll,9,McNeese,377
+2016,regular,1,FCS Coaches Poll,10,William & Mary,363
+2016,regular,1,FCS Coaches Poll,11,James Madison,349
+2016,regular,1,FCS Coaches Poll,12,Portland State,305
+2016,regular,1,FCS Coaches Poll,13,Montana,264
+2016,regular,1,FCS Coaches Poll,14,South Dakota State,263
+2016,regular,1,FCS Coaches Poll,15,The Citadel,261
+2016,regular,1,FCS Coaches Poll,16,Colgate,195
+2016,regular,1,FCS Coaches Poll,17,Eastern Washington,187
+2016,regular,1,FCS Coaches Poll,18,Northern Arizona,129
+2016,regular,1,FCS Coaches Poll,19,Harvard,127
+2016,regular,1,FCS Coaches Poll,20,Fordham,111
+2016,regular,1,FCS Coaches Poll,21,North Dakota,104
+2016,regular,1,FCS Coaches Poll,22,Villanova,89
+2016,regular,1,FCS Coaches Poll,23,Southern Utah,85
+2016,regular,1,FCS Coaches Poll,24,Western Illinois,81
+2016,regular,1,FCS Coaches Poll,25,North Carolina A&T,79
+2016,regular,1,AFCA Division II Coaches Poll,1,Northwest Missouri State,749
+2016,regular,1,AFCA Division II Coaches Poll,2,West Georgia,676
+2016,regular,1,AFCA Division II Coaches Poll,3,Grand Valley State,658
+2016,regular,1,AFCA Division II Coaches Poll,4,Shepherd,638
+2016,regular,1,AFCA Division II Coaches Poll,5,Colorado State-Pueblo,581
+2016,regular,1,AFCA Division II Coaches Poll,6,Ashland,523
+2016,regular,1,AFCA Division II Coaches Poll,7,Minnesota State,466
+2016,regular,1,AFCA Division II Coaches Poll,8,Indiana (PA),364
+2016,regular,1,AFCA Division II Coaches Poll,9,Henderson State,363
+2016,regular,1,AFCA Division II Coaches Poll,9,Texas A&M-Commerce,363
+2016,regular,1,AFCA Division II Coaches Poll,11,Slippery Rock,360
+2016,regular,1,AFCA Division II Coaches Poll,12,Ferris State,359
+2016,regular,1,AFCA Division II Coaches Poll,13,Humboldt State,353
+2016,regular,1,AFCA Division II Coaches Poll,14,Midwestern State,344
+2016,regular,1,AFCA Division II Coaches Poll,15,North Alabama,330
+2016,regular,1,AFCA Division II Coaches Poll,16,Indianapolis,276
+2016,regular,1,AFCA Division II Coaches Poll,17,Tuskegee,241
+2016,regular,1,AFCA Division II Coaches Poll,18,Colorado Mines,228
+2016,regular,1,AFCA Division II Coaches Poll,19,Minnesota-Duluth,196
+2016,regular,1,AFCA Division II Coaches Poll,20,Central Missouri State,184
+2016,regular,1,AFCA Division II Coaches Poll,21,Assumption,144
+2016,regular,1,AFCA Division II Coaches Poll,22,Catawba,140
+2016,regular,1,AFCA Division II Coaches Poll,23,Sioux Falls,125
+2016,regular,1,AFCA Division II Coaches Poll,24,Emporia State,124
+2016,regular,1,AFCA Division II Coaches Poll,25,Augustana (SD),119
+2016,regular,2,AP Top 25,1,Alabama,1518
+2016,regular,2,AP Top 25,2,Clemson,1416
+2016,regular,2,AP Top 25,3,Florida State,1413
+2016,regular,2,AP Top 25,4,Ohio State,1324
+2016,regular,2,AP Top 25,5,Michigan,1261
+2016,regular,2,AP Top 25,6,Houston,1243
+2016,regular,2,AP Top 25,7,Stanford,1140
+2016,regular,2,AP Top 25,8,Washington,884
+2016,regular,2,AP Top 25,9,Georgia,877
+2016,regular,2,AP Top 25,10,Wisconsin,759
+2016,regular,2,AP Top 25,11,Texas,743
+2016,regular,2,AP Top 25,12,Michigan State,722
+2016,regular,2,AP Top 25,13,Louisville,686
+2016,regular,2,AP Top 25,14,Oklahoma,664
+2016,regular,2,AP Top 25,15,TCU,635
+2016,regular,2,AP Top 25,16,Iowa,588
+2016,regular,2,AP Top 25,17,Tennessee,573
+2016,regular,2,AP Top 25,18,Notre Dame,528
+2016,regular,2,AP Top 25,19,Ole Miss,493
+2016,regular,2,AP Top 25,20,Texas A&M,477
+2016,regular,2,AP Top 25,21,LSU,423
+2016,regular,2,AP Top 25,22,Oklahoma State,409
+2016,regular,2,AP Top 25,23,Baylor,296
+2016,regular,2,AP Top 25,24,Oregon,242
+2016,regular,2,AP Top 25,25,Miami,137
+2016,regular,2,Coaches Poll,1,Alabama,1598
+2016,regular,2,Coaches Poll,2,Clemson,1513
+2016,regular,2,Coaches Poll,3,Florida State,1454
+2016,regular,2,Coaches Poll,4,Ohio State,1424
+2016,regular,2,Coaches Poll,5,Stanford,1284
+2016,regular,2,Coaches Poll,6,Michigan,1261
+2016,regular,2,Coaches Poll,7,Houston,1213
+2016,regular,2,Coaches Poll,8,Michigan State,1027
+2016,regular,2,Coaches Poll,9,Georgia,934
+2016,regular,2,Coaches Poll,10,Iowa,797
+2016,regular,2,Coaches Poll,11,Washington,782
+2016,regular,2,Coaches Poll,12,TCU,719
+2016,regular,2,Coaches Poll,13,Oklahoma,707
+2016,regular,2,Coaches Poll,14,Tennessee,657
+2016,regular,2,Coaches Poll,15,Louisville,635
+2016,regular,2,Coaches Poll,16,Wisconsin,583
+2016,regular,2,Coaches Poll,17,Oklahoma State,555
+2016,regular,2,Coaches Poll,18,Ole Miss,534
+2016,regular,2,Coaches Poll,19,Baylor,481
+2016,regular,2,Coaches Poll,20,Texas,439
+2016,regular,2,Coaches Poll,21,Notre Dame,426
+2016,regular,2,Coaches Poll,22,LSU,418
+2016,regular,2,Coaches Poll,23,Oregon,385
+2016,regular,2,Coaches Poll,24,Texas A&M,302
+2016,regular,2,Coaches Poll,25,Florida,182
+2016,regular,2,FCS Coaches Poll,1,North Dakota State,646
+2016,regular,2,FCS Coaches Poll,2,Richmond,611
+2016,regular,2,FCS Coaches Poll,3,Northern Iowa,577
+2016,regular,2,FCS Coaches Poll,3,Sam Houston State,577
+2016,regular,2,FCS Coaches Poll,5,Jacksonville State,537
+2016,regular,2,FCS Coaches Poll,6,Chattanooga,483
+2016,regular,2,FCS Coaches Poll,7,Charleston Southern,472
+2016,regular,2,FCS Coaches Poll,8,Eastern Washington,414
+2016,regular,2,FCS Coaches Poll,9,Illinois State,407
+2016,regular,2,FCS Coaches Poll,10,McNeese,398
+2016,regular,2,FCS Coaches Poll,11,James Madison,396
+2016,regular,2,FCS Coaches Poll,12,South Dakota State,347
+2016,regular,2,FCS Coaches Poll,13,William & Mary,344
+2016,regular,2,FCS Coaches Poll,14,Portland State,319
+2016,regular,2,FCS Coaches Poll,15,Montana,288
+2016,regular,2,FCS Coaches Poll,16,The Citadel,256
+2016,regular,2,FCS Coaches Poll,17,Northern Arizona,193
+2016,regular,2,FCS Coaches Poll,18,Western Illinois,166
+2016,regular,2,FCS Coaches Poll,19,Villanova,133
+2016,regular,2,FCS Coaches Poll,20,Colgate,129
+2016,regular,2,FCS Coaches Poll,21,Harvard,98
+2016,regular,2,FCS Coaches Poll,22,Youngstown State,92
+2016,regular,2,FCS Coaches Poll,23,Southern Utah,76
+2016,regular,2,FCS Coaches Poll,24,North Carolina A&T,67
+2016,regular,2,FCS Coaches Poll,25,Fordham,59
+2016,regular,2,AFCA Division II Coaches Poll,1,Northwest Missouri State,750
+2016,regular,2,AFCA Division II Coaches Poll,2,Grand Valley State,690
+2016,regular,2,AFCA Division II Coaches Poll,3,West Georgia,689
+2016,regular,2,AFCA Division II Coaches Poll,4,Shepherd,649
+2016,regular,2,AFCA Division II Coaches Poll,5,Ashland,619
+2016,regular,2,AFCA Division II Coaches Poll,6,Ferris State,594
+2016,regular,2,AFCA Division II Coaches Poll,7,Texas A&M-Commerce,553
+2016,regular,2,AFCA Division II Coaches Poll,8,Henderson State,523
+2016,regular,2,AFCA Division II Coaches Poll,9,Indiana (PA),517
+2016,regular,2,AFCA Division II Coaches Poll,10,Colorado Mines,462
+2016,regular,2,AFCA Division II Coaches Poll,11,Slippery Rock,460
+2016,regular,2,AFCA Division II Coaches Poll,12,Midwestern State,364
+2016,regular,2,AFCA Division II Coaches Poll,13,Tuskegee,359
+2016,regular,2,AFCA Division II Coaches Poll,14,Central Missouri State,354
+2016,regular,2,AFCA Division II Coaches Poll,15,Sioux Falls,297
+2016,regular,2,AFCA Division II Coaches Poll,16,Azusa Pacific,251
+2016,regular,2,AFCA Division II Coaches Poll,17,Assumption,244
+2016,regular,2,AFCA Division II Coaches Poll,18,Augustana (SD),216
+2016,regular,2,AFCA Division II Coaches Poll,19,Florida Tech,212
+2016,regular,2,AFCA Division II Coaches Poll,20,North Alabama,196
+2016,regular,2,AFCA Division II Coaches Poll,21,Minnesota State,144
+2016,regular,2,AFCA Division II Coaches Poll,22,Valdosta State,133
+2016,regular,2,AFCA Division II Coaches Poll,23,Colorado Mesa,115
+2016,regular,2,AFCA Division II Coaches Poll,24,Bemidji State,100
+2016,regular,2,AFCA Division II Coaches Poll,25,Humboldt State,57
+2016,regular,3,AP Top 25,1,Alabama,1520
+2016,regular,3,AP Top 25,2,Florida State,1437
+2016,regular,3,AP Top 25,3,Ohio State,1359
+2016,regular,3,AP Top 25,4,Michigan,1298
+2016,regular,3,AP Top 25,5,Clemson,1284
+2016,regular,3,AP Top 25,6,Houston,1264
+2016,regular,3,AP Top 25,7,Stanford,1137
+2016,regular,3,AP Top 25,8,Washington,983
+2016,regular,3,AP Top 25,9,Wisconsin,893
+2016,regular,3,AP Top 25,10,Louisville,890
+2016,regular,3,AP Top 25,11,Texas,872
+2016,regular,3,AP Top 25,12,Michigan State,747
+2016,regular,3,AP Top 25,13,Iowa,694
+2016,regular,3,AP Top 25,14,Oklahoma,686
+2016,regular,3,AP Top 25,15,Tennessee,665
+2016,regular,3,AP Top 25,16,Georgia,584
+2016,regular,3,AP Top 25,17,Texas A&M,564
+2016,regular,3,AP Top 25,18,Notre Dame,526
+2016,regular,3,AP Top 25,19,Ole Miss,473
+2016,regular,3,AP Top 25,20,LSU,391
+2016,regular,3,AP Top 25,21,Baylor,305
+2016,regular,3,AP Top 25,22,Oregon,292
+2016,regular,3,AP Top 25,23,Florida,205
+2016,regular,3,AP Top 25,24,Arkansas,198
+2016,regular,3,AP Top 25,25,Miami,197
+2016,regular,3,Coaches Poll,1,Alabama,1598
+2016,regular,3,Coaches Poll,2,Florida State,1490
+2016,regular,3,Coaches Poll,3,Clemson,1447
+2016,regular,3,Coaches Poll,4,Ohio State,1440
+2016,regular,3,Coaches Poll,5,Michigan,1279
+2016,regular,3,Coaches Poll,6,Stanford,1257
+2016,regular,3,Coaches Poll,7,Houston,1243
+2016,regular,3,Coaches Poll,8,Michigan State,1034
+2016,regular,3,Coaches Poll,9,Washington,945
+2016,regular,3,Coaches Poll,10,Louisville,894
+2016,regular,3,Coaches Poll,11,Iowa,875
+2016,regular,3,Coaches Poll,12,Wisconsin,793
+2016,regular,3,Coaches Poll,13,Georgia,777
+2016,regular,3,Coaches Poll,14,Oklahoma,723
+2016,regular,3,Coaches Poll,15,Tennessee,718
+2016,regular,3,Coaches Poll,16,Texas,648
+2016,regular,3,Coaches Poll,17,Ole Miss,525
+2016,regular,3,Coaches Poll,18,Notre Dame,453
+2016,regular,3,Coaches Poll,19,Baylor,452
+2016,regular,3,Coaches Poll,20,Texas A&M,425
+2016,regular,3,Coaches Poll,21,Oregon,403
+2016,regular,3,Coaches Poll,22,LSU,318
+2016,regular,3,Coaches Poll,23,Florida,267
+2016,regular,3,Coaches Poll,24,Arkansas,170
+2016,regular,3,Coaches Poll,25,Miami,137
+2016,regular,3,FCS Coaches Poll,1,North Dakota State,648
+2016,regular,3,FCS Coaches Poll,2,Richmond,625
+2016,regular,3,FCS Coaches Poll,3,Sam Houston State,581
+2016,regular,3,FCS Coaches Poll,4,Chattanooga,526
+2016,regular,3,FCS Coaches Poll,5,Illinois State,517
+2016,regular,3,FCS Coaches Poll,6,Jacksonville State,457
+2016,regular,3,FCS Coaches Poll,7,Eastern Washington,445
+2016,regular,3,FCS Coaches Poll,8,James Madison,441
+2016,regular,3,FCS Coaches Poll,9,Montana,409
+2016,regular,3,FCS Coaches Poll,10,South Dakota State,398
+2016,regular,3,FCS Coaches Poll,11,Northern Iowa,376
+2016,regular,3,FCS Coaches Poll,12,Charleston Southern,371
+2016,regular,3,FCS Coaches Poll,13,McNeese,340
+2016,regular,3,FCS Coaches Poll,14,William & Mary,333
+2016,regular,3,FCS Coaches Poll,15,The Citadel,298
+2016,regular,3,FCS Coaches Poll,16,Western Illinois,280
+2016,regular,3,FCS Coaches Poll,17,Portland State,181
+2016,regular,3,FCS Coaches Poll,18,Villanova,179
+2016,regular,3,FCS Coaches Poll,19,North Carolina A&T,161
+2016,regular,3,FCS Coaches Poll,20,Youngstown State,107
+2016,regular,3,FCS Coaches Poll,21,Southern Utah,103
+2016,regular,3,FCS Coaches Poll,22,Harvard,102
+2016,regular,3,FCS Coaches Poll,23,Colgate,96
+2016,regular,3,FCS Coaches Poll,24,Northern Arizona,77
+2016,regular,3,FCS Coaches Poll,25,Albany,74
+2016,regular,3,AFCA Division II Coaches Poll,1,Northwest Missouri State,750
+2016,regular,3,AFCA Division II Coaches Poll,2,Grand Valley State,713
+2016,regular,3,AFCA Division II Coaches Poll,3,West Georgia,687
+2016,regular,3,AFCA Division II Coaches Poll,4,Shepherd,655
+2016,regular,3,AFCA Division II Coaches Poll,5,Ashland,627
+2016,regular,3,AFCA Division II Coaches Poll,6,Texas A&M-Commerce,566
+2016,regular,3,AFCA Division II Coaches Poll,7,Ferris State,550
+2016,regular,3,AFCA Division II Coaches Poll,8,Henderson State,539
+2016,regular,3,AFCA Division II Coaches Poll,9,Indiana (PA),493
+2016,regular,3,AFCA Division II Coaches Poll,10,Slippery Rock,476
+2016,regular,3,AFCA Division II Coaches Poll,11,Midwestern State,426
+2016,regular,3,AFCA Division II Coaches Poll,12,Tuskegee,386
+2016,regular,3,AFCA Division II Coaches Poll,13,Central Missouri State,376
+2016,regular,3,AFCA Division II Coaches Poll,14,Sioux Falls,333
+2016,regular,3,AFCA Division II Coaches Poll,15,Azusa Pacific,309
+2016,regular,3,AFCA Division II Coaches Poll,16,Augustana (SD),268
+2016,regular,3,AFCA Division II Coaches Poll,17,Assumption,256
+2016,regular,3,AFCA Division II Coaches Poll,18,Colorado Mesa,255
+2016,regular,3,AFCA Division II Coaches Poll,19,Florida Tech,233
+2016,regular,3,AFCA Division II Coaches Poll,19,North Alabama,233
+2016,regular,3,AFCA Division II Coaches Poll,21,Minnesota State,135
+2016,regular,3,AFCA Division II Coaches Poll,22,Bemidji State,126
+2016,regular,3,AFCA Division II Coaches Poll,23,Colorado Mines,125
+2016,regular,3,AFCA Division II Coaches Poll,24,Humboldt State,71
+2016,regular,3,AFCA Division II Coaches Poll,25,Harding,49
+2016,regular,4,AP Top 25,1,Alabama,1510
+2016,regular,4,AP Top 25,2,Ohio State,1442
+2016,regular,4,AP Top 25,3,Louisville,1406
+2016,regular,4,AP Top 25,4,Michigan,1277
+2016,regular,4,AP Top 25,5,Clemson,1258
+2016,regular,4,AP Top 25,6,Houston,1245
+2016,regular,4,AP Top 25,7,Stanford,1195
+2016,regular,4,AP Top 25,8,Michigan State,1084
+2016,regular,4,AP Top 25,9,Washington,1040
+2016,regular,4,AP Top 25,10,Texas A&M,890
+2016,regular,4,AP Top 25,11,Wisconsin,828
+2016,regular,4,AP Top 25,12,Georgia,726
+2016,regular,4,AP Top 25,13,Florida State,722
+2016,regular,4,AP Top 25,14,Tennessee,707
+2016,regular,4,AP Top 25,15,Miami,565
+2016,regular,4,AP Top 25,16,Baylor,529
+2016,regular,4,AP Top 25,17,Arkansas,528
+2016,regular,4,AP Top 25,18,LSU,517
+2016,regular,4,AP Top 25,19,Florida,479
+2016,regular,4,AP Top 25,20,Nebraska,420
+2016,regular,4,AP Top 25,21,Texas,196
+2016,regular,4,AP Top 25,22,San Diego State,183
+2016,regular,4,AP Top 25,23,Ole Miss,172
+2016,regular,4,AP Top 25,24,Utah,154
+2016,regular,4,AP Top 25,25,Oklahoma,139
+2016,regular,4,Coaches Poll,1,Alabama,1571
+2016,regular,4,Coaches Poll,2,Ohio State,1482
+2016,regular,4,Coaches Poll,3,Clemson,1405
+2016,regular,4,Coaches Poll,4,Louisville,1331
+2016,regular,4,Coaches Poll,5,Michigan,1302
+2016,regular,4,Coaches Poll,6,Stanford,1273
+2016,regular,4,Coaches Poll,7,Houston,1235
+2016,regular,4,Coaches Poll,8,Michigan State,1156
+2016,regular,4,Coaches Poll,9,Washington,1065
+2016,regular,4,Coaches Poll,10,Wisconsin,872
+2016,regular,4,Coaches Poll,11,Georgia,847
+2016,regular,4,Coaches Poll,12,Tennessee,805
+2016,regular,4,Coaches Poll,13,Texas A&M,791
+2016,regular,4,Coaches Poll,14,Florida State,742
+2016,regular,4,Coaches Poll,15,Baylor,658
+2016,regular,4,Coaches Poll,16,Florida,598
+2016,regular,4,Coaches Poll,17,LSU,522
+2016,regular,4,Coaches Poll,18,Arkansas,500
+2016,regular,4,Coaches Poll,19,Miami,441
+2016,regular,4,Coaches Poll,20,Nebraska,373
+2016,regular,4,Coaches Poll,21,Ole Miss,166
+2016,regular,4,Coaches Poll,21,TCU,166
+2016,regular,4,Coaches Poll,23,Utah,155
+2016,regular,4,Coaches Poll,24,Texas,143
+2016,regular,4,Coaches Poll,25,Iowa,140
+2016,regular,4,FCS Coaches Poll,1,North Dakota State,650
+2016,regular,4,FCS Coaches Poll,2,Sam Houston State,605
+2016,regular,4,FCS Coaches Poll,3,Chattanooga,583
+2016,regular,4,FCS Coaches Poll,4,Jacksonville State,558
+2016,regular,4,FCS Coaches Poll,5,Eastern Washington,556
+2016,regular,4,FCS Coaches Poll,6,Montana,509
+2016,regular,4,FCS Coaches Poll,7,James Madison,429
+2016,regular,4,FCS Coaches Poll,8,William & Mary,426
+2016,regular,4,FCS Coaches Poll,9,Richmond,419
+2016,regular,4,FCS Coaches Poll,10,The Citadel,372
+2016,regular,4,FCS Coaches Poll,11,Charleston Southern,368
+2016,regular,4,FCS Coaches Poll,12,Illinois State,363
+2016,regular,4,FCS Coaches Poll,13,Western Illinois,326
+2016,regular,4,FCS Coaches Poll,14,Northern Iowa,310
+2016,regular,4,FCS Coaches Poll,15,Villanova,250
+2016,regular,4,FCS Coaches Poll,16,Eastern Illinois,206
+2016,regular,4,FCS Coaches Poll,17,Youngstown State,187
+2016,regular,4,FCS Coaches Poll,18,South Dakota State,184
+2016,regular,4,FCS Coaches Poll,19,Harvard,127
+2016,regular,4,FCS Coaches Poll,20,McNeese,123
+2016,regular,4,FCS Coaches Poll,21,Colgate,119
+2016,regular,4,FCS Coaches Poll,22,North Carolina A&T,118
+2016,regular,4,FCS Coaches Poll,23,Albany,110
+2016,regular,4,FCS Coaches Poll,24,Stony Brook,109
+2016,regular,4,FCS Coaches Poll,25,Northern Arizona,93
+2016,regular,4,FCS Coaches Poll,25,Portland State,93
+2016,regular,4,AFCA Division II Coaches Poll,1,Northwest Missouri State,750
+2016,regular,4,AFCA Division II Coaches Poll,2,Grand Valley State,713
+2016,regular,4,AFCA Division II Coaches Poll,3,West Georgia,658
+2016,regular,4,AFCA Division II Coaches Poll,4,Shepherd,637
+2016,regular,4,AFCA Division II Coaches Poll,5,Ashland,622
+2016,regular,4,AFCA Division II Coaches Poll,6,Texas A&M-Commerce,586
+2016,regular,4,AFCA Division II Coaches Poll,7,Henderson State,563
+2016,regular,4,AFCA Division II Coaches Poll,8,Indiana (PA),533
+2016,regular,4,AFCA Division II Coaches Poll,9,Slippery Rock,511
+2016,regular,4,AFCA Division II Coaches Poll,10,Midwestern State,458
+2016,regular,4,AFCA Division II Coaches Poll,11,Tuskegee,424
+2016,regular,4,AFCA Division II Coaches Poll,12,Sioux Falls,386
+2016,regular,4,AFCA Division II Coaches Poll,13,Ferris State,374
+2016,regular,4,AFCA Division II Coaches Poll,14,Azusa Pacific,365
+2016,regular,4,AFCA Division II Coaches Poll,15,Assumption,325
+2016,regular,4,AFCA Division II Coaches Poll,16,Florida Tech,302
+2016,regular,4,AFCA Division II Coaches Poll,17,Colorado Mesa,289
+2016,regular,4,AFCA Division II Coaches Poll,18,North Alabama,261
+2016,regular,4,AFCA Division II Coaches Poll,19,Minnesota State,178
+2016,regular,4,AFCA Division II Coaches Poll,20,Harding,172
+2016,regular,4,AFCA Division II Coaches Poll,21,UNC Pembroke,123
+2016,regular,4,AFCA Division II Coaches Poll,22,Central Missouri State,116
+2016,regular,4,AFCA Division II Coaches Poll,23,Emporia State,97
+2016,regular,4,AFCA Division II Coaches Poll,24,California (PA),71
+2016,regular,4,AFCA Division II Coaches Poll,25,Augustana (SD),48
+2016,regular,5,AP Top 25,1,Alabama,1511
+2016,regular,5,AP Top 25,2,Ohio State,1440
+2016,regular,5,AP Top 25,3,Louisville,1409
+2016,regular,5,AP Top 25,4,Michigan,1292
+2016,regular,5,AP Top 25,5,Clemson,1267
+2016,regular,5,AP Top 25,6,Houston,1239
+2016,regular,5,AP Top 25,7,Stanford,1166
+2016,regular,5,AP Top 25,8,Wisconsin,1084
+2016,regular,5,AP Top 25,9,Texas A&M,1036
+2016,regular,5,AP Top 25,10,Washington,986
+2016,regular,5,AP Top 25,11,Tennessee,909
+2016,regular,5,AP Top 25,12,Florida State,804
+2016,regular,5,AP Top 25,13,Baylor,729
+2016,regular,5,AP Top 25,14,Miami,696
+2016,regular,5,AP Top 25,15,Nebraska,640
+2016,regular,5,AP Top 25,16,Ole Miss,540
+2016,regular,5,AP Top 25,17,Michigan State,527
+2016,regular,5,AP Top 25,18,Utah,493
+2016,regular,5,AP Top 25,19,San Diego State,304
+2016,regular,5,AP Top 25,20,Arkansas,241
+2016,regular,5,AP Top 25,21,TCU,239
+2016,regular,5,AP Top 25,22,Texas,217
+2016,regular,5,AP Top 25,23,Florida,176
+2016,regular,5,AP Top 25,24,Boise State,163
+2016,regular,5,AP Top 25,25,Georgia,142
+2016,regular,5,Coaches Poll,1,Alabama,1597
+2016,regular,5,Coaches Poll,2,Ohio State,1506
+2016,regular,5,Coaches Poll,3,Clemson,1440
+2016,regular,5,Coaches Poll,4,Louisville,1411
+2016,regular,5,Coaches Poll,5,Michigan,1333
+2016,regular,5,Coaches Poll,6,Stanford,1269
+2016,regular,5,Coaches Poll,7,Houston,1250
+2016,regular,5,Coaches Poll,8,Wisconsin,1127
+2016,regular,5,Coaches Poll,9,Washington,1049
+2016,regular,5,Coaches Poll,10,Texas A&M,1016
+2016,regular,5,Coaches Poll,11,Tennessee,986
+2016,regular,5,Coaches Poll,12,Florida State,843
+2016,regular,5,Coaches Poll,13,Baylor,797
+2016,regular,5,Coaches Poll,14,Miami,664
+2016,regular,5,Coaches Poll,15,Nebraska,649
+2016,regular,5,Coaches Poll,16,Michigan State,597
+2016,regular,5,Coaches Poll,17,Ole Miss,558
+2016,regular,5,Coaches Poll,18,Utah,504
+2016,regular,5,Coaches Poll,19,TCU,330
+2016,regular,5,Coaches Poll,20,Georgia,271
+2016,regular,5,Coaches Poll,21,Florida,254
+2016,regular,5,Coaches Poll,22,Arkansas,197
+2016,regular,5,Coaches Poll,23,North Carolina,173
+2016,regular,5,Coaches Poll,24,San Diego State,156
+2016,regular,5,Coaches Poll,25,Texas,142
+2016,regular,5,FCS Coaches Poll,1,North Dakota State,650
+2016,regular,5,FCS Coaches Poll,2,Sam Houston State,610
+2016,regular,5,FCS Coaches Poll,3,Chattanooga,587
+2016,regular,5,FCS Coaches Poll,4,Jacksonville State,575
+2016,regular,5,FCS Coaches Poll,5,Eastern Washington,541
+2016,regular,5,FCS Coaches Poll,6,James Madison,494
+2016,regular,5,FCS Coaches Poll,7,Richmond,479
+2016,regular,5,FCS Coaches Poll,8,Charleston Southern,425
+2016,regular,5,FCS Coaches Poll,8,Western Illinois,425
+2016,regular,5,FCS Coaches Poll,10,The Citadel,411
+2016,regular,5,FCS Coaches Poll,11,Montana,356
+2016,regular,5,FCS Coaches Poll,12,Northern Iowa,331
+2016,regular,5,FCS Coaches Poll,13,Eastern Illinois,323
+2016,regular,5,FCS Coaches Poll,14,Villanova,312
+2016,regular,5,FCS Coaches Poll,15,Youngstown State,236
+2016,regular,5,FCS Coaches Poll,16,South Dakota State,191
+2016,regular,5,FCS Coaches Poll,17,William & Mary,189
+2016,regular,5,FCS Coaches Poll,18,Cal Poly,184
+2016,regular,5,FCS Coaches Poll,19,Harvard,169
+2016,regular,5,FCS Coaches Poll,20,Illinois State,165
+2016,regular,5,FCS Coaches Poll,21,Albany,161
+2016,regular,5,FCS Coaches Poll,22,McNeese,145
+2016,regular,5,FCS Coaches Poll,23,North Carolina A&T,127
+2016,regular,5,FCS Coaches Poll,24,Southern Utah,88
+2016,regular,5,FCS Coaches Poll,25,Colgate,53
+2016,regular,5,AFCA Division II Coaches Poll,1,Northwest Missouri State,750
+2016,regular,5,AFCA Division II Coaches Poll,2,Grand Valley State,717
+2016,regular,5,AFCA Division II Coaches Poll,3,Shepherd,684
+2016,regular,5,AFCA Division II Coaches Poll,4,Texas A&M-Commerce,655
+2016,regular,5,AFCA Division II Coaches Poll,5,Henderson State,623
+2016,regular,5,AFCA Division II Coaches Poll,6,Indiana (PA),574
+2016,regular,5,AFCA Division II Coaches Poll,7,Midwestern State,564
+2016,regular,5,AFCA Division II Coaches Poll,8,Tuskegee,528
+2016,regular,5,AFCA Division II Coaches Poll,9,Sioux Falls,474
+2016,regular,5,AFCA Division II Coaches Poll,10,Azusa Pacific,436
+2016,regular,5,AFCA Division II Coaches Poll,11,North Alabama,421
+2016,regular,5,AFCA Division II Coaches Poll,12,West Georgia,387
+2016,regular,5,AFCA Division II Coaches Poll,13,Colorado Mesa,380
+2016,regular,5,AFCA Division II Coaches Poll,14,Ferris State,352
+2016,regular,5,AFCA Division II Coaches Poll,15,California (PA),315
+2016,regular,5,AFCA Division II Coaches Poll,16,Harding,312
+2016,regular,5,AFCA Division II Coaches Poll,17,Ashland,305
+2016,regular,5,AFCA Division II Coaches Poll,18,Emporia State,208
+2016,regular,5,AFCA Division II Coaches Poll,19,Slippery Rock,185
+2016,regular,5,AFCA Division II Coaches Poll,20,Southwest Baptist,148
+2016,regular,5,AFCA Division II Coaches Poll,21,LIU Post,134
+2016,regular,5,AFCA Division II Coaches Poll,22,Assumption,94
+2016,regular,5,AFCA Division II Coaches Poll,23,Florida Tech,90
+2016,regular,5,AFCA Division II Coaches Poll,24,UNC Pembroke,81
+2016,regular,5,AFCA Division II Coaches Poll,25,Valdosta State,73
+2016,regular,5,AFCA Division II Coaches Poll,25,Bemidji State,73
+2016,regular,6,AP Top 25,1,Alabama,1514
+2016,regular,6,AP Top 25,2,Ohio State,1451
+2016,regular,6,AP Top 25,3,Clemson,1403
+2016,regular,6,AP Top 25,4,Michigan,1334
+2016,regular,6,AP Top 25,5,Washington,1234
+2016,regular,6,AP Top 25,6,Houston,1233
+2016,regular,6,AP Top 25,7,Louisville,1160
+2016,regular,6,AP Top 25,8,Texas A&M,1113
+2016,regular,6,AP Top 25,9,Tennessee,1045
+2016,regular,6,AP Top 25,10,Miami,909
+2016,regular,6,AP Top 25,11,Wisconsin,882
+2016,regular,6,AP Top 25,12,Nebraska,821
+2016,regular,6,AP Top 25,13,Baylor,805
+2016,regular,6,AP Top 25,14,Ole Miss,712
+2016,regular,6,AP Top 25,15,Stanford,711
+2016,regular,6,AP Top 25,16,Arkansas,528
+2016,regular,6,AP Top 25,17,North Carolina,497
+2016,regular,6,AP Top 25,18,Florida,391
+2016,regular,6,AP Top 25,19,Boise State,385
+2016,regular,6,AP Top 25,20,Oklahoma,324
+2016,regular,6,AP Top 25,21,Colorado,276
+2016,regular,6,AP Top 25,22,West Virginia,240
+2016,regular,6,AP Top 25,23,Florida State,230
+2016,regular,6,AP Top 25,24,Utah,86
+2016,regular,6,AP Top 25,25,Virginia Tech,85
+2016,regular,6,Coaches Poll,1,Alabama,1544
+2016,regular,6,Coaches Poll,2,Ohio State,1474
+2016,regular,6,Coaches Poll,3,Clemson,1437
+2016,regular,6,Coaches Poll,4,Michigan,1348
+2016,regular,6,Coaches Poll,5,Houston,1256
+2016,regular,6,Coaches Poll,6,Washington,1250
+2016,regular,6,Coaches Poll,7,Texas A&M,1132
+2016,regular,6,Coaches Poll,8,Louisville,1105
+2016,regular,6,Coaches Poll,9,Tennessee,1101
+2016,regular,6,Coaches Poll,10,Miami,902
+2016,regular,6,Coaches Poll,11,Baylor,876
+2016,regular,6,Coaches Poll,12,Nebraska,860
+2016,regular,6,Coaches Poll,13,Wisconsin,844
+2016,regular,6,Coaches Poll,14,Ole Miss,671
+2016,regular,6,Coaches Poll,15,Stanford,635
+2016,regular,6,Coaches Poll,16,North Carolina,587
+2016,regular,6,Coaches Poll,17,Arkansas,525
+2016,regular,6,Coaches Poll,18,Florida,490
+2016,regular,6,Coaches Poll,19,Boise State,341
+2016,regular,6,Coaches Poll,20,West Virginia,309
+2016,regular,6,Coaches Poll,21,Florida State,257
+2016,regular,6,Coaches Poll,22,Oklahoma,228
+2016,regular,6,Coaches Poll,23,Colorado,144
+2016,regular,6,Coaches Poll,24,Utah,117
+2016,regular,6,Coaches Poll,25,Western Michigan,86
+2016,regular,6,FCS Coaches Poll,1,North Dakota State,650
+2016,regular,6,FCS Coaches Poll,2,Sam Houston State,615
+2016,regular,6,FCS Coaches Poll,3,Chattanooga,588
+2016,regular,6,FCS Coaches Poll,4,Jacksonville State,566
+2016,regular,6,FCS Coaches Poll,5,Eastern Washington,559
+2016,regular,6,FCS Coaches Poll,6,James Madison,511
+2016,regular,6,FCS Coaches Poll,7,Richmond,474
+2016,regular,6,FCS Coaches Poll,8,Charleston Southern,462
+2016,regular,6,FCS Coaches Poll,9,The Citadel,434
+2016,regular,6,FCS Coaches Poll,10,Montana,417
+2016,regular,6,FCS Coaches Poll,11,Northern Iowa,371
+2016,regular,6,FCS Coaches Poll,12,Villanova,353
+2016,regular,6,FCS Coaches Poll,13,Youngstown State,307
+2016,regular,6,FCS Coaches Poll,14,Western Illinois,276
+2016,regular,6,FCS Coaches Poll,15,South Dakota State,273
+2016,regular,6,FCS Coaches Poll,16,Harvard,227
+2016,regular,6,FCS Coaches Poll,17,Albany,216
+2016,regular,6,FCS Coaches Poll,18,North Carolina A&T,204
+2016,regular,6,FCS Coaches Poll,19,McNeese,184
+2016,regular,6,FCS Coaches Poll,20,Eastern Illinois,135
+2016,regular,6,FCS Coaches Poll,21,North Dakota,131
+2016,regular,6,FCS Coaches Poll,22,Cal Poly,87
+2016,regular,6,FCS Coaches Poll,23,Illinois State,73
+2016,regular,6,FCS Coaches Poll,24,Central Arkansas,63
+2016,regular,6,FCS Coaches Poll,25,Grambling,55
+2016,regular,6,AFCA Division II Coaches Poll,1,Northwest Missouri State,750
+2016,regular,6,AFCA Division II Coaches Poll,2,Grand Valley State,717
+2016,regular,6,AFCA Division II Coaches Poll,3,Shepherd,686
+2016,regular,6,AFCA Division II Coaches Poll,4,Midwestern State,665
+2016,regular,6,AFCA Division II Coaches Poll,5,Tuskegee,613
+2016,regular,6,AFCA Division II Coaches Poll,6,Sioux Falls,588
+2016,regular,6,AFCA Division II Coaches Poll,7,California (PA),542
+2016,regular,6,AFCA Division II Coaches Poll,8,Harding,514
+2016,regular,6,AFCA Division II Coaches Poll,9,Texas A&M-Commerce,485
+2016,regular,6,AFCA Division II Coaches Poll,10,North Alabama,459
+2016,regular,6,AFCA Division II Coaches Poll,11,Ashland,428
+2016,regular,6,AFCA Division II Coaches Poll,12,Emporia State,364
+2016,regular,6,AFCA Division II Coaches Poll,13,Indiana (PA),358
+2016,regular,6,AFCA Division II Coaches Poll,14,LIU Post,339
+2016,regular,6,AFCA Division II Coaches Poll,15,Henderson State,319
+2016,regular,6,AFCA Division II Coaches Poll,16,Slippery Rock,304
+2016,regular,6,AFCA Division II Coaches Poll,17,Valdosta State,253
+2016,regular,6,AFCA Division II Coaches Poll,18,Assumption,200
+2016,regular,6,AFCA Division II Coaches Poll,19,Azusa Pacific,179
+2016,regular,6,AFCA Division II Coaches Poll,20,Florida Tech,149
+2016,regular,6,AFCA Division II Coaches Poll,21,UNC Pembroke,148
+2016,regular,6,AFCA Division II Coaches Poll,22,Bemidji State,132
+2016,regular,6,AFCA Division II Coaches Poll,23,Colorado Mesa,118
+2016,regular,6,AFCA Division II Coaches Poll,24,West Georgia,90
+2016,regular,6,AFCA Division II Coaches Poll,25,Wayne State (MI),85
+2016,regular,7,AP Top 25,1,Alabama,1520
+2016,regular,7,AP Top 25,2,Ohio State,1444
+2016,regular,7,AP Top 25,3,Clemson,1406
+2016,regular,7,AP Top 25,4,Michigan,1339
+2016,regular,7,AP Top 25,5,Washington,1286
+2016,regular,7,AP Top 25,6,Texas A&M,1202
+2016,regular,7,AP Top 25,7,Louisville,1193
+2016,regular,7,AP Top 25,8,Wisconsin,1020
+2016,regular,7,AP Top 25,9,Tennessee,962
+2016,regular,7,AP Top 25,10,Nebraska,958
+2016,regular,7,AP Top 25,11,Baylor,934
+2016,regular,7,AP Top 25,12,Ole Miss,800
+2016,regular,7,AP Top 25,13,Houston,701
+2016,regular,7,AP Top 25,14,Florida State,628
+2016,regular,7,AP Top 25,15,Boise State,590
+2016,regular,7,AP Top 25,16,Miami,576
+2016,regular,7,AP Top 25,17,Virginia Tech,546
+2016,regular,7,AP Top 25,18,Florida,483
+2016,regular,7,AP Top 25,19,Oklahoma,476
+2016,regular,7,AP Top 25,20,West Virginia,424
+2016,regular,7,AP Top 25,21,Utah,287
+2016,regular,7,AP Top 25,22,Arkansas,203
+2016,regular,7,AP Top 25,23,Auburn,166
+2016,regular,7,AP Top 25,24,Western Michigan,154
+2016,regular,7,AP Top 25,25,Navy,122
+2016,regular,7,Coaches Poll,1,Alabama,1570
+2016,regular,7,Coaches Poll,2,Ohio State,1504
+2016,regular,7,Coaches Poll,3,Clemson,1455
+2016,regular,7,Coaches Poll,4,Michigan,1370
+2016,regular,7,Coaches Poll,5,Washington,1329
+2016,regular,7,Coaches Poll,6,Texas A&M,1256
+2016,regular,7,Coaches Poll,7,Louisville,1201
+2016,regular,7,Coaches Poll,8,Baylor,1061
+2016,regular,7,Coaches Poll,9,Nebraska,1052
+2016,regular,7,Coaches Poll,10,Wisconsin,995
+2016,regular,7,Coaches Poll,11,Tennessee,919
+2016,regular,7,Coaches Poll,12,Houston,754
+2016,regular,7,Coaches Poll,13,Ole Miss,746
+2016,regular,7,Coaches Poll,14,Florida,661
+2016,regular,7,Coaches Poll,15,Boise State,628
+2016,regular,7,Coaches Poll,16,Florida State,584
+2016,regular,7,Coaches Poll,17,Miami,580
+2016,regular,7,Coaches Poll,18,West Virginia,526
+2016,regular,7,Coaches Poll,19,Virginia Tech,441
+2016,regular,7,Coaches Poll,20,Oklahoma,424
+2016,regular,7,Coaches Poll,21,Utah,408
+2016,regular,7,Coaches Poll,22,Arkansas,194
+2016,regular,7,Coaches Poll,23,Western Michigan,185
+2016,regular,7,Coaches Poll,24,Arizona State,116
+2016,regular,7,Coaches Poll,25,LSU,81
+2016,regular,7,FCS Coaches Poll,1,North Dakota State,650
+2016,regular,7,FCS Coaches Poll,2,Sam Houston State,617
+2016,regular,7,FCS Coaches Poll,3,Chattanooga,588
+2016,regular,7,FCS Coaches Poll,4,Jacksonville State,577
+2016,regular,7,FCS Coaches Poll,5,Eastern Washington,555
+2016,regular,7,FCS Coaches Poll,6,James Madison,506
+2016,regular,7,FCS Coaches Poll,7,Richmond,493
+2016,regular,7,FCS Coaches Poll,8,Charleston Southern,440
+2016,regular,7,FCS Coaches Poll,9,The Citadel,439
+2016,regular,7,FCS Coaches Poll,10,Montana,413
+2016,regular,7,FCS Coaches Poll,11,Villanova,376
+2016,regular,7,FCS Coaches Poll,12,Youngstown State,361
+2016,regular,7,FCS Coaches Poll,13,Western Illinois,301
+2016,regular,7,FCS Coaches Poll,14,South Dakota State,299
+2016,regular,7,FCS Coaches Poll,15,Harvard,266
+2016,regular,7,FCS Coaches Poll,16,North Carolina A&T,241
+2016,regular,7,FCS Coaches Poll,17,Eastern Illinois,207
+2016,regular,7,FCS Coaches Poll,18,North Dakota,202
+2016,regular,7,FCS Coaches Poll,19,Albany,178
+2016,regular,7,FCS Coaches Poll,20,Cal Poly,133
+2016,regular,7,FCS Coaches Poll,21,Northern Iowa,128
+2016,regular,7,FCS Coaches Poll,22,Central Arkansas,125
+2016,regular,7,FCS Coaches Poll,23,Grambling,67
+2016,regular,7,FCS Coaches Poll,24,Samford,64
+2016,regular,7,FCS Coaches Poll,25,New Hampshire,51
+2016,regular,7,AFCA Division II Coaches Poll,1,Northwest Missouri State,750
+2016,regular,7,AFCA Division II Coaches Poll,2,Grand Valley State,717
+2016,regular,7,AFCA Division II Coaches Poll,3,Shepherd,689
+2016,regular,7,AFCA Division II Coaches Poll,4,Midwestern State,660
+2016,regular,7,AFCA Division II Coaches Poll,5,Tuskegee,619
+2016,regular,7,AFCA Division II Coaches Poll,6,Sioux Falls,596
+2016,regular,7,AFCA Division II Coaches Poll,7,Harding,537
+2016,regular,7,AFCA Division II Coaches Poll,8,California (PA),536
+2016,regular,7,AFCA Division II Coaches Poll,9,Texas A&M-Commerce,496
+2016,regular,7,AFCA Division II Coaches Poll,10,North Alabama,494
+2016,regular,7,AFCA Division II Coaches Poll,11,Ashland,458
+2016,regular,7,AFCA Division II Coaches Poll,12,Emporia State,390
+2016,regular,7,AFCA Division II Coaches Poll,13,Indiana (PA),387
+2016,regular,7,AFCA Division II Coaches Poll,14,LIU Post,343
+2016,regular,7,AFCA Division II Coaches Poll,15,Henderson State,333
+2016,regular,7,AFCA Division II Coaches Poll,16,Valdosta State,294
+2016,regular,7,AFCA Division II Coaches Poll,17,Azusa Pacific,239
+2016,regular,7,AFCA Division II Coaches Poll,18,Assumption,230
+2016,regular,7,AFCA Division II Coaches Poll,19,Florida Tech,203
+2016,regular,7,AFCA Division II Coaches Poll,20,UNC Pembroke,181
+2016,regular,7,AFCA Division II Coaches Poll,21,Bemidji State,148
+2016,regular,7,AFCA Division II Coaches Poll,22,Wayne State (MI),141
+2016,regular,7,AFCA Division II Coaches Poll,23,Fairmont State,87
+2016,regular,7,AFCA Division II Coaches Poll,24,Minnesota-Duluth,56
+2016,regular,7,AFCA Division II Coaches Poll,25,Ferris State,53
+2016,regular,8,AP Top 25,1,Alabama,1524
+2016,regular,8,AP Top 25,2,Ohio State,1457
+2016,regular,8,AP Top 25,3,Michigan,1368
+2016,regular,8,AP Top 25,4,Clemson,1337
+2016,regular,8,AP Top 25,5,Washington,1304
+2016,regular,8,AP Top 25,6,Texas A&M,1218
+2016,regular,8,AP Top 25,7,Louisville,1168
+2016,regular,8,AP Top 25,8,Nebraska,1037
+2016,regular,8,AP Top 25,9,Baylor,1021
+2016,regular,8,AP Top 25,10,Wisconsin,935
+2016,regular,8,AP Top 25,11,Houston,766
+2016,regular,8,AP Top 25,12,West Virginia,744
+2016,regular,8,AP Top 25,13,Florida State,733
+2016,regular,8,AP Top 25,14,Boise State,694
+2016,regular,8,AP Top 25,15,Florida,626
+2016,regular,8,AP Top 25,16,Oklahoma,612
+2016,regular,8,AP Top 25,17,Arkansas,584
+2016,regular,8,AP Top 25,18,Tennessee,550
+2016,regular,8,AP Top 25,19,Utah,479
+2016,regular,8,AP Top 25,20,Western Michigan,285
+2016,regular,8,AP Top 25,21,Auburn,277
+2016,regular,8,AP Top 25,22,North Carolina,254
+2016,regular,8,AP Top 25,23,Ole Miss,188
+2016,regular,8,AP Top 25,24,Navy,163
+2016,regular,8,AP Top 25,25,LSU,123
+2016,regular,8,Coaches Poll,1,Alabama,1597
+2016,regular,8,Coaches Poll,2,Ohio State,1524
+2016,regular,8,Coaches Poll,3,Clemson,1432
+2016,regular,8,Coaches Poll,4,Michigan,1413
+2016,regular,8,Coaches Poll,5,Washington,1366
+2016,regular,8,Coaches Poll,6,Texas A&M,1287
+2016,regular,8,Coaches Poll,7,Louisville,1207
+2016,regular,8,Coaches Poll,8,Baylor,1130
+2016,regular,8,Coaches Poll,9,Nebraska,1114
+2016,regular,8,Coaches Poll,10,Wisconsin,874
+2016,regular,8,Coaches Poll,11,Houston,841
+2016,regular,8,Coaches Poll,12,Florida,830
+2016,regular,8,Coaches Poll,13,West Virginia,781
+2016,regular,8,Coaches Poll,14,Boise State,772
+2016,regular,8,Coaches Poll,15,Florida State,709
+2016,regular,8,Coaches Poll,16,Oklahoma,600
+2016,regular,8,Coaches Poll,17,Arkansas,570
+2016,regular,8,Coaches Poll,18,Utah,538
+2016,regular,8,Coaches Poll,19,Tennessee,457
+2016,regular,8,Coaches Poll,20,Western Michigan,317
+2016,regular,8,Coaches Poll,21,North Carolina,250
+2016,regular,8,Coaches Poll,22,Ole Miss,182
+2016,regular,8,Coaches Poll,23,LSU,176
+2016,regular,8,Coaches Poll,24,Auburn,156
+2016,regular,8,Coaches Poll,25,Navy,133
+2016,regular,8,FCS Coaches Poll,1,Sam Houston State,643
+2016,regular,8,FCS Coaches Poll,2,Jacksonville State,612
+2016,regular,8,FCS Coaches Poll,3,Eastern Washington,556
+2016,regular,8,FCS Coaches Poll,4,North Dakota State,546
+2016,regular,8,FCS Coaches Poll,5,James Madison,533
+2016,regular,8,FCS Coaches Poll,6,The Citadel,513
+2016,regular,8,FCS Coaches Poll,7,Richmond,495
+2016,regular,8,FCS Coaches Poll,8,Chattanooga,439
+2016,regular,8,FCS Coaches Poll,9,Charleston Southern,431
+2016,regular,8,FCS Coaches Poll,10,Montana,428
+2016,regular,8,FCS Coaches Poll,11,South Dakota State,409
+2016,regular,8,FCS Coaches Poll,12,Youngstown State,376
+2016,regular,8,FCS Coaches Poll,13,Western Illinois,336
+2016,regular,8,FCS Coaches Poll,14,North Carolina A&T,294
+2016,regular,8,FCS Coaches Poll,15,Eastern Illinois,258
+2016,regular,8,FCS Coaches Poll,16,North Dakota,253
+2016,regular,8,FCS Coaches Poll,17,Villanova,220
+2016,regular,8,FCS Coaches Poll,18,Cal Poly,207
+2016,regular,8,FCS Coaches Poll,18,Central Arkansas,207
+2016,regular,8,FCS Coaches Poll,20,Samford,147
+2016,regular,8,FCS Coaches Poll,21,Grambling,95
+2016,regular,8,FCS Coaches Poll,22,Stony Brook,91
+2016,regular,8,FCS Coaches Poll,23,Harvard,87
+2016,regular,8,FCS Coaches Poll,24,Albany,50
+2016,regular,8,FCS Coaches Poll,25,Tennessee State,43
+2016,regular,8,AFCA Division II Coaches Poll,1,Northwest Missouri State,750
+2016,regular,8,AFCA Division II Coaches Poll,2,Grand Valley State,717
+2016,regular,8,AFCA Division II Coaches Poll,3,Shepherd,692
+2016,regular,8,AFCA Division II Coaches Poll,4,Sioux Falls,649
+2016,regular,8,AFCA Division II Coaches Poll,5,Harding,614
+2016,regular,8,AFCA Division II Coaches Poll,6,California (PA),598
+2016,regular,8,AFCA Division II Coaches Poll,7,North Alabama,541
+2016,regular,8,AFCA Division II Coaches Poll,8,Texas A&M-Commerce,540
+2016,regular,8,AFCA Division II Coaches Poll,9,Ashland,507
+2016,regular,8,AFCA Division II Coaches Poll,10,Emporia State,448
+2016,regular,8,AFCA Division II Coaches Poll,11,LIU Post,432
+2016,regular,8,AFCA Division II Coaches Poll,12,Indiana (PA),414
+2016,regular,8,AFCA Division II Coaches Poll,13,Midwestern State,361
+2016,regular,8,AFCA Division II Coaches Poll,14,Valdosta State,350
+2016,regular,8,AFCA Division II Coaches Poll,15,Azusa Pacific,325
+2016,regular,8,AFCA Division II Coaches Poll,16,Assumption,285
+2016,regular,8,AFCA Division II Coaches Poll,17,Tuskegee,258
+2016,regular,8,AFCA Division II Coaches Poll,18,UNC Pembroke,253
+2016,regular,8,AFCA Division II Coaches Poll,19,Wayne State (MI),221
+2016,regular,8,AFCA Division II Coaches Poll,20,Fairmont State,201
+2016,regular,8,AFCA Division II Coaches Poll,21,Minnesota-Duluth,174
+2016,regular,8,AFCA Division II Coaches Poll,22,Ferris State,115
+2016,regular,8,AFCA Division II Coaches Poll,23,Newberry,98
+2016,regular,8,AFCA Division II Coaches Poll,24,Wingate,55
+2016,regular,8,AFCA Division II Coaches Poll,25,Notre Dame College,27
+2016,regular,8,AFCA Division II Coaches Poll,25,Southwest Baptist,27
+2016,regular,9,AP Top 25,1,Alabama,1524
+2016,regular,9,AP Top 25,2,Michigan,1446
+2016,regular,9,AP Top 25,3,Clemson,1382
+2016,regular,9,AP Top 25,4,Washington,1373
+2016,regular,9,AP Top 25,5,Louisville,1276
+2016,regular,9,AP Top 25,6,Ohio State,1143
+2016,regular,9,AP Top 25,7,Nebraska,1083
+2016,regular,9,AP Top 25,8,Baylor,1063
+2016,regular,9,AP Top 25,9,Texas A&M,1007
+2016,regular,9,AP Top 25,10,West Virginia,997
+2016,regular,9,AP Top 25,11,Wisconsin,980
+2016,regular,9,AP Top 25,12,Florida State,725
+2016,regular,9,AP Top 25,13,Boise State,716
+2016,regular,9,AP Top 25,14,Florida,654
+2016,regular,9,AP Top 25,15,Auburn,641
+2016,regular,9,AP Top 25,16,Oklahoma,626
+2016,regular,9,AP Top 25,17,Utah,584
+2016,regular,9,AP Top 25,18,Tennessee,572
+2016,regular,9,AP Top 25,19,LSU,352
+2016,regular,9,AP Top 25,20,Western Michigan,349
+2016,regular,9,AP Top 25,21,North Carolina,328
+2016,regular,9,AP Top 25,22,Navy,251
+2016,regular,9,AP Top 25,23,Colorado,207
+2016,regular,9,AP Top 25,24,Penn State,193
+2016,regular,9,AP Top 25,25,Virginia Tech,110
+2016,regular,9,Coaches Poll,1,Alabama,1599
+2016,regular,9,Coaches Poll,2,Michigan,1486
+2016,regular,9,Coaches Poll,3,Clemson,1485
+2016,regular,9,Coaches Poll,4,Washington,1434
+2016,regular,9,Coaches Poll,5,Louisville,1321
+2016,regular,9,Coaches Poll,6,Baylor,1194
+2016,regular,9,Coaches Poll,6,Nebraska,1194
+2016,regular,9,Coaches Poll,8,Ohio State,1137
+2016,regular,9,Coaches Poll,9,West Virginia,1007
+2016,regular,9,Coaches Poll,10,Texas A&M,979
+2016,regular,9,Coaches Poll,11,Wisconsin,963
+2016,regular,9,Coaches Poll,12,Florida,821
+2016,regular,9,Coaches Poll,13,Boise State,776
+2016,regular,9,Coaches Poll,14,Florida State,767
+2016,regular,9,Coaches Poll,15,Oklahoma,692
+2016,regular,9,Coaches Poll,16,Utah,664
+2016,regular,9,Coaches Poll,17,Auburn,552
+2016,regular,9,Coaches Poll,18,Tennessee,523
+2016,regular,9,Coaches Poll,19,LSU,424
+2016,regular,9,Coaches Poll,20,North Carolina,388
+2016,regular,9,Coaches Poll,21,Western Michigan,352
+2016,regular,9,Coaches Poll,22,Navy,243
+2016,regular,9,Coaches Poll,23,Colorado,242
+2016,regular,9,Coaches Poll,24,Houston,144
+2016,regular,9,Coaches Poll,25,Virginia Tech,116
+2016,regular,9,FCS Coaches Poll,1,Sam Houston State,646
+2016,regular,9,FCS Coaches Poll,2,Jacksonville State,620
+2016,regular,9,FCS Coaches Poll,3,Eastern Washington,585
+2016,regular,9,FCS Coaches Poll,4,North Dakota State,574
+2016,regular,9,FCS Coaches Poll,5,James Madison,533
+2016,regular,9,FCS Coaches Poll,6,Richmond,507
+2016,regular,9,FCS Coaches Poll,7,The Citadel,503
+2016,regular,9,FCS Coaches Poll,8,Chattanooga,457
+2016,regular,9,FCS Coaches Poll,9,Charleston Southern,439
+2016,regular,9,FCS Coaches Poll,10,South Dakota State,433
+2016,regular,9,FCS Coaches Poll,11,North Carolina A&T,355
+2016,regular,9,FCS Coaches Poll,12,North Dakota,327
+2016,regular,9,FCS Coaches Poll,13,Villanova,296
+2016,regular,9,FCS Coaches Poll,14,Youngstown State,282
+2016,regular,9,FCS Coaches Poll,15,Western Illinois,276
+2016,regular,9,FCS Coaches Poll,16,Montana,272
+2016,regular,9,FCS Coaches Poll,17,Cal Poly,242
+2016,regular,9,FCS Coaches Poll,18,Central Arkansas,241
+2016,regular,9,FCS Coaches Poll,19,Samford,208
+2016,regular,9,FCS Coaches Poll,20,Stony Brook,148
+2016,regular,9,FCS Coaches Poll,21,Grambling,138
+2016,regular,9,FCS Coaches Poll,22,Eastern Illinois,95
+2016,regular,9,FCS Coaches Poll,23,Harvard,74
+2016,regular,9,FCS Coaches Poll,24,Lehigh,41
+2016,regular,9,FCS Coaches Poll,25,South Dakota,34
+2016,regular,9,AFCA Division II Coaches Poll,1,Northwest Missouri State,750
+2016,regular,9,AFCA Division II Coaches Poll,2,Grand Valley State,716
+2016,regular,9,AFCA Division II Coaches Poll,3,Shepherd,688
+2016,regular,9,AFCA Division II Coaches Poll,4,Sioux Falls,656
+2016,regular,9,AFCA Division II Coaches Poll,5,Harding,615
+2016,regular,9,AFCA Division II Coaches Poll,6,California (PA),602
+2016,regular,9,AFCA Division II Coaches Poll,7,North Alabama,561
+2016,regular,9,AFCA Division II Coaches Poll,8,Texas A&M-Commerce,535
+2016,regular,9,AFCA Division II Coaches Poll,9,Emporia State,493
+2016,regular,9,AFCA Division II Coaches Poll,10,LIU Post,463
+2016,regular,9,AFCA Division II Coaches Poll,11,Indiana (PA),450
+2016,regular,9,AFCA Division II Coaches Poll,12,Midwestern State,429
+2016,regular,9,AFCA Division II Coaches Poll,13,Azusa Pacific,372
+2016,regular,9,AFCA Division II Coaches Poll,14,Tuskegee,329
+2016,regular,9,AFCA Division II Coaches Poll,15,Assumption,326
+2016,regular,9,AFCA Division II Coaches Poll,16,UNC Pembroke,301
+2016,regular,9,AFCA Division II Coaches Poll,17,Fairmont State,288
+2016,regular,9,AFCA Division II Coaches Poll,18,Minnesota-Duluth,236
+2016,regular,9,AFCA Division II Coaches Poll,19,Ferris State,201
+2016,regular,9,AFCA Division II Coaches Poll,20,Newberry,180
+2016,regular,9,AFCA Division II Coaches Poll,21,Ashland,134
+2016,regular,9,AFCA Division II Coaches Poll,22,Southwest Baptist,110
+2016,regular,9,AFCA Division II Coaches Poll,23,Valdosta State,58
+2016,regular,9,AFCA Division II Coaches Poll,24,Edinboro,56
+2016,regular,9,AFCA Division II Coaches Poll,25,Central Missouri State,44
+2016,regular,10,Playoff Committee Rankings,1,Alabama,0
+2016,regular,10,Playoff Committee Rankings,2,Clemson,0
+2016,regular,10,Playoff Committee Rankings,3,Michigan,0
+2016,regular,10,Playoff Committee Rankings,4,Texas A&M,0
+2016,regular,10,Playoff Committee Rankings,5,Washington,0
+2016,regular,10,Playoff Committee Rankings,6,Ohio State,0
+2016,regular,10,Playoff Committee Rankings,7,Louisville,0
+2016,regular,10,Playoff Committee Rankings,8,Wisconsin,0
+2016,regular,10,Playoff Committee Rankings,9,Auburn,0
+2016,regular,10,Playoff Committee Rankings,10,Nebraska,0
+2016,regular,10,Playoff Committee Rankings,11,Florida,0
+2016,regular,10,Playoff Committee Rankings,12,Penn State,0
+2016,regular,10,Playoff Committee Rankings,13,LSU,0
+2016,regular,10,Playoff Committee Rankings,14,Oklahoma,0
+2016,regular,10,Playoff Committee Rankings,15,Colorado,0
+2016,regular,10,Playoff Committee Rankings,16,Utah,0
+2016,regular,10,Playoff Committee Rankings,17,Baylor,0
+2016,regular,10,Playoff Committee Rankings,18,Oklahoma State,0
+2016,regular,10,Playoff Committee Rankings,19,Virginia Tech,0
+2016,regular,10,Playoff Committee Rankings,20,West Virginia,0
+2016,regular,10,Playoff Committee Rankings,21,North Carolina,0
+2016,regular,10,Playoff Committee Rankings,22,Florida State,0
+2016,regular,10,Playoff Committee Rankings,23,Western Michigan,0
+2016,regular,10,Playoff Committee Rankings,24,Boise State,0
+2016,regular,10,Playoff Committee Rankings,25,Washington State,0
+2016,regular,10,AP Top 25,1,Alabama,1524
+2016,regular,10,AP Top 25,2,Michigan,1435
+2016,regular,10,AP Top 25,3,Clemson,1401
+2016,regular,10,AP Top 25,4,Washington,1369
+2016,regular,10,AP Top 25,5,Louisville,1262
+2016,regular,10,AP Top 25,6,Ohio State,1207
+2016,regular,10,AP Top 25,7,Texas A&M,1150
+2016,regular,10,AP Top 25,8,Wisconsin,1122
+2016,regular,10,AP Top 25,9,Nebraska,951
+2016,regular,10,AP Top 25,10,Florida,929
+2016,regular,10,AP Top 25,11,Auburn,927
+2016,regular,10,AP Top 25,12,Oklahoma,835
+2016,regular,10,AP Top 25,13,Baylor,693
+2016,regular,10,AP Top 25,14,West Virginia,620
+2016,regular,10,AP Top 25,15,LSU,586
+2016,regular,10,AP Top 25,16,Utah,506
+2016,regular,10,AP Top 25,17,Western Michigan,481
+2016,regular,10,AP Top 25,18,North Carolina,423
+2016,regular,10,AP Top 25,19,Florida State,409
+2016,regular,10,AP Top 25,20,Penn State,390
+2016,regular,10,AP Top 25,21,Colorado,375
+2016,regular,10,AP Top 25,22,Oklahoma State,355
+2016,regular,10,AP Top 25,23,Virginia Tech,345
+2016,regular,10,AP Top 25,24,Boise State,203
+2016,regular,10,AP Top 25,25,Washington State,139
+2016,regular,10,Coaches Poll,1,Alabama,1599
+2016,regular,10,Coaches Poll,2,Michigan,1492
+2016,regular,10,Coaches Poll,3,Clemson,1488
+2016,regular,10,Coaches Poll,4,Washington,1434
+2016,regular,10,Coaches Poll,5,Louisville,1322
+2016,regular,10,Coaches Poll,6,Ohio State,1269
+2016,regular,10,Coaches Poll,7,Texas A&M,1207
+2016,regular,10,Coaches Poll,8,Wisconsin,1147
+2016,regular,10,Coaches Poll,9,Florida,1039
+2016,regular,10,Coaches Poll,10,Nebraska,963
+2016,regular,10,Coaches Poll,11,Oklahoma,907
+2016,regular,10,Coaches Poll,12,Auburn,896
+2016,regular,10,Coaches Poll,13,Baylor,810
+2016,regular,10,Coaches Poll,14,LSU,652
+2016,regular,10,Coaches Poll,15,West Virginia,642
+2016,regular,10,Coaches Poll,16,Utah,523
+2016,regular,10,Coaches Poll,17,North Carolina,500
+2016,regular,10,Coaches Poll,18,Western Michigan,448
+2016,regular,10,Coaches Poll,19,Florida State,432
+2016,regular,10,Coaches Poll,20,Colorado,394
+2016,regular,10,Coaches Poll,21,Virginia Tech,335
+2016,regular,10,Coaches Poll,22,Oklahoma State,298
+2016,regular,10,Coaches Poll,23,Penn State,296
+2016,regular,10,Coaches Poll,24,Boise State,266
+2016,regular,10,Coaches Poll,25,Washington State,146
+2016,regular,10,FCS Coaches Poll,1,Sam Houston State,644
+2016,regular,10,FCS Coaches Poll,2,Jacksonville State,621
+2016,regular,10,FCS Coaches Poll,3,Eastern Washington,593
+2016,regular,10,FCS Coaches Poll,4,North Dakota State,575
+2016,regular,10,FCS Coaches Poll,5,James Madison,540
+2016,regular,10,FCS Coaches Poll,6,Richmond,516
+2016,regular,10,FCS Coaches Poll,7,The Citadel,504
+2016,regular,10,FCS Coaches Poll,8,Chattanooga,464
+2016,regular,10,FCS Coaches Poll,9,Charleston Southern,442
+2016,regular,10,FCS Coaches Poll,10,North Carolina A&T,398
+2016,regular,10,FCS Coaches Poll,11,North Dakota,374
+2016,regular,10,FCS Coaches Poll,12,Villanova,336
+2016,regular,10,FCS Coaches Poll,13,Youngstown State,326
+2016,regular,10,FCS Coaches Poll,14,Western Illinois,308
+2016,regular,10,FCS Coaches Poll,15,South Dakota State,279
+2016,regular,10,FCS Coaches Poll,16,Cal Poly,272
+2016,regular,10,FCS Coaches Poll,17,Central Arkansas,268
+2016,regular,10,FCS Coaches Poll,18,Samford,181
+2016,regular,10,FCS Coaches Poll,19,Grambling,162
+2016,regular,10,FCS Coaches Poll,20,Montana,151
+2016,regular,10,FCS Coaches Poll,21,Lehigh,125
+2016,regular,10,FCS Coaches Poll,22,Harvard,100
+2016,regular,10,FCS Coaches Poll,23,New Hampshire,90
+2016,regular,10,FCS Coaches Poll,24,Eastern Illinois,49
+2016,regular,10,FCS Coaches Poll,25,Stony Brook,24
+2016,regular,10,AFCA Division II Coaches Poll,1,Northwest Missouri State,750
+2016,regular,10,AFCA Division II Coaches Poll,2,Grand Valley State,712
+2016,regular,10,AFCA Division II Coaches Poll,3,Shepherd,690
+2016,regular,10,AFCA Division II Coaches Poll,4,Sioux Falls,661
+2016,regular,10,AFCA Division II Coaches Poll,5,Harding,613
+2016,regular,10,AFCA Division II Coaches Poll,6,California (PA),600
+2016,regular,10,AFCA Division II Coaches Poll,7,North Alabama,576
+2016,regular,10,AFCA Division II Coaches Poll,8,Texas A&M-Commerce,530
+2016,regular,10,AFCA Division II Coaches Poll,9,Emporia State,496
+2016,regular,10,AFCA Division II Coaches Poll,10,LIU Post,480
+2016,regular,10,AFCA Division II Coaches Poll,11,Indiana (PA),447
+2016,regular,10,AFCA Division II Coaches Poll,12,Midwestern State,417
+2016,regular,10,AFCA Division II Coaches Poll,13,Azusa Pacific,374
+2016,regular,10,AFCA Division II Coaches Poll,14,Tuskegee,350
+2016,regular,10,AFCA Division II Coaches Poll,15,Assumption,334
+2016,regular,10,AFCA Division II Coaches Poll,16,UNC Pembroke,300
+2016,regular,10,AFCA Division II Coaches Poll,17,Minnesota-Duluth,273
+2016,regular,10,AFCA Division II Coaches Poll,18,Ferris State,219
+2016,regular,10,AFCA Division II Coaches Poll,19,Newberry,206
+2016,regular,10,AFCA Division II Coaches Poll,20,Ashland,161
+2016,regular,10,AFCA Division II Coaches Poll,21,Southwest Baptist,137
+2016,regular,10,AFCA Division II Coaches Poll,22,Fairmont State,119
+2016,regular,10,AFCA Division II Coaches Poll,23,Valdosta State,98
+2016,regular,10,AFCA Division II Coaches Poll,24,Central Missouri State,85
+2016,regular,10,AFCA Division II Coaches Poll,25,Colorado Mines,44
+2016,regular,11,Playoff Committee Rankings,1,Alabama,0
+2016,regular,11,Playoff Committee Rankings,2,Clemson,0
+2016,regular,11,Playoff Committee Rankings,3,Michigan,0
+2016,regular,11,Playoff Committee Rankings,4,Washington,0
+2016,regular,11,Playoff Committee Rankings,5,Ohio State,0
+2016,regular,11,Playoff Committee Rankings,6,Louisville,0
+2016,regular,11,Playoff Committee Rankings,7,Wisconsin,0
+2016,regular,11,Playoff Committee Rankings,8,Texas A&M,0
+2016,regular,11,Playoff Committee Rankings,9,Auburn,0
+2016,regular,11,Playoff Committee Rankings,10,Penn State,0
+2016,regular,11,Playoff Committee Rankings,11,Oklahoma,0
+2016,regular,11,Playoff Committee Rankings,12,Colorado,0
+2016,regular,11,Playoff Committee Rankings,13,Oklahoma State,0
+2016,regular,11,Playoff Committee Rankings,14,Virginia Tech,0
+2016,regular,11,Playoff Committee Rankings,15,Utah,0
+2016,regular,11,Playoff Committee Rankings,16,West Virginia,0
+2016,regular,11,Playoff Committee Rankings,17,North Carolina,0
+2016,regular,11,Playoff Committee Rankings,18,Florida State,0
+2016,regular,11,Playoff Committee Rankings,19,Nebraska,0
+2016,regular,11,Playoff Committee Rankings,20,USC,0
+2016,regular,11,Playoff Committee Rankings,21,Western Michigan,0
+2016,regular,11,Playoff Committee Rankings,22,Boise State,0
+2016,regular,11,Playoff Committee Rankings,23,Washington State,0
+2016,regular,11,Playoff Committee Rankings,24,LSU,0
+2016,regular,11,Playoff Committee Rankings,25,Arkansas,0
+2016,regular,11,AP Top 25,1,Alabama,1524
+2016,regular,11,AP Top 25,2,Michigan,1432
+2016,regular,11,AP Top 25,3,Clemson,1408
+2016,regular,11,AP Top 25,4,Washington,1364
+2016,regular,11,AP Top 25,5,Louisville,1255
+2016,regular,11,AP Top 25,6,Ohio State,1245
+2016,regular,11,AP Top 25,7,Wisconsin,1159
+2016,regular,11,AP Top 25,8,Auburn,1081
+2016,regular,11,AP Top 25,9,Oklahoma,996
+2016,regular,11,AP Top 25,10,Texas A&M,820
+2016,regular,11,AP Top 25,11,West Virginia,805
+2016,regular,11,AP Top 25,12,Penn State,752
+2016,regular,11,AP Top 25,13,Utah,686
+2016,regular,11,AP Top 25,14,Western Michigan,583
+2016,regular,11,AP Top 25,15,North Carolina,559
+2016,regular,11,AP Top 25,16,Colorado,550
+2016,regular,11,AP Top 25,17,Oklahoma State,516
+2016,regular,11,AP Top 25,18,Virginia Tech,479
+2016,regular,11,AP Top 25,19,LSU,454
+2016,regular,11,AP Top 25,20,Florida State,450
+2016,regular,11,AP Top 25,21,Nebraska,434
+2016,regular,11,AP Top 25,22,Florida,390
+2016,regular,11,AP Top 25,23,Washington State,305
+2016,regular,11,AP Top 25,24,Boise State,226
+2016,regular,11,AP Top 25,25,Baylor,90
+2016,regular,11,Coaches Poll,1,Alabama,1598
+2016,regular,11,Coaches Poll,2,Clemson,1497
+2016,regular,11,Coaches Poll,3,Michigan,1493
+2016,regular,11,Coaches Poll,4,Washington,1422
+2016,regular,11,Coaches Poll,5,Ohio State,1316
+2016,regular,11,Coaches Poll,6,Louisville,1307
+2016,regular,11,Coaches Poll,7,Wisconsin,1191
+2016,regular,11,Coaches Poll,8,Auburn,1075
+2016,regular,11,Coaches Poll,9,Oklahoma,1068
+2016,regular,11,Coaches Poll,10,West Virginia,877
+2016,regular,11,Coaches Poll,11,Texas A&M,801
+2016,regular,11,Coaches Poll,12,Utah,788
+2016,regular,11,Coaches Poll,13,North Carolina,695
+2016,regular,11,Coaches Poll,14,Penn State,667
+2016,regular,11,Coaches Poll,15,Colorado,627
+2016,regular,11,Coaches Poll,16,Florida,486
+2016,regular,11,Coaches Poll,17,Oklahoma State,483
+2016,regular,11,Coaches Poll,18,Florida State,482
+2016,regular,11,Coaches Poll,19,LSU,479
+2016,regular,11,Coaches Poll,20,Nebraska,476
+2016,regular,11,Coaches Poll,21,Western Michigan,467
+2016,regular,11,Coaches Poll,22,Virginia Tech,466
+2016,regular,11,Coaches Poll,23,Washington State,331
+2016,regular,11,Coaches Poll,24,Boise State,211
+2016,regular,11,Coaches Poll,25,Baylor,161
+2016,regular,11,FCS Coaches Poll,1,Sam Houston State,644
+2016,regular,11,FCS Coaches Poll,2,Jacksonville State,612
+2016,regular,11,FCS Coaches Poll,3,Eastern Washington,599
+2016,regular,11,FCS Coaches Poll,4,North Dakota State,578
+2016,regular,11,FCS Coaches Poll,5,James Madison,549
+2016,regular,11,FCS Coaches Poll,6,The Citadel,515
+2016,regular,11,FCS Coaches Poll,7,Chattanooga,488
+2016,regular,11,FCS Coaches Poll,8,Richmond,449
+2016,regular,11,FCS Coaches Poll,9,North Carolina A&T,430
+2016,regular,11,FCS Coaches Poll,10,North Dakota,409
+2016,regular,11,FCS Coaches Poll,11,Villanova,389
+2016,regular,11,FCS Coaches Poll,12,South Dakota State,356
+2016,regular,11,FCS Coaches Poll,13,Central Arkansas,349
+2016,regular,11,FCS Coaches Poll,14,Charleston Southern,265
+2016,regular,11,FCS Coaches Poll,15,Youngstown State,247
+2016,regular,11,FCS Coaches Poll,16,Grambling,244
+2016,regular,11,FCS Coaches Poll,17,Montana,217
+2016,regular,11,FCS Coaches Poll,18,Lehigh,177
+2016,regular,11,FCS Coaches Poll,19,Western Illinois,176
+2016,regular,11,FCS Coaches Poll,20,Cal Poly,170
+2016,regular,11,FCS Coaches Poll,21,Samford,161
+2016,regular,11,FCS Coaches Poll,22,Harvard,134
+2016,regular,11,FCS Coaches Poll,23,New Hampshire,103
+2016,regular,11,FCS Coaches Poll,24,Liberty,52
+2016,regular,11,FCS Coaches Poll,25,North Carolina Central,32
+2016,regular,11,AFCA Division II Coaches Poll,1,Northwest Missouri State,750
+2016,regular,11,AFCA Division II Coaches Poll,2,Grand Valley State,714
+2016,regular,11,AFCA Division II Coaches Poll,3,Shepherd,688
+2016,regular,11,AFCA Division II Coaches Poll,4,Sioux Falls,657
+2016,regular,11,AFCA Division II Coaches Poll,5,Harding,617
+2016,regular,11,AFCA Division II Coaches Poll,6,California (PA),602
+2016,regular,11,AFCA Division II Coaches Poll,7,North Alabama,540
+2016,regular,11,AFCA Division II Coaches Poll,8,Texas A&M-Commerce,530
+2016,regular,11,AFCA Division II Coaches Poll,9,Emporia State,506
+2016,regular,11,AFCA Division II Coaches Poll,10,LIU Post,495
+2016,regular,11,AFCA Division II Coaches Poll,11,Indiana (PA),444
+2016,regular,11,AFCA Division II Coaches Poll,12,UNC Pembroke,401
+2016,regular,11,AFCA Division II Coaches Poll,13,Minnesota-Duluth,396
+2016,regular,11,AFCA Division II Coaches Poll,14,Newberry,330
+2016,regular,11,AFCA Division II Coaches Poll,15,Ferris State,328
+2016,regular,11,AFCA Division II Coaches Poll,16,Ashland,270
+2016,regular,11,AFCA Division II Coaches Poll,17,Southwest Baptist,250
+2016,regular,11,AFCA Division II Coaches Poll,18,Fairmont State,248
+2016,regular,11,AFCA Division II Coaches Poll,19,Valdosta State,193
+2016,regular,11,AFCA Division II Coaches Poll,20,Central Missouri State,153
+2016,regular,11,AFCA Division II Coaches Poll,21,Colorado Mines,139
+2016,regular,11,AFCA Division II Coaches Poll,22,Midwestern State,123
+2016,regular,11,AFCA Division II Coaches Poll,23,Florida Tech,82
+2016,regular,11,AFCA Division II Coaches Poll,24,Colorado Mesa,81
+2016,regular,11,AFCA Division II Coaches Poll,24,Azusa Pacific,81
+2016,regular,12,Playoff Committee Rankings,1,Alabama,0
+2016,regular,12,Playoff Committee Rankings,2,Ohio State,0
+2016,regular,12,Playoff Committee Rankings,3,Michigan,0
+2016,regular,12,Playoff Committee Rankings,4,Clemson,0
+2016,regular,12,Playoff Committee Rankings,5,Louisville,0
+2016,regular,12,Playoff Committee Rankings,6,Washington,0
+2016,regular,12,Playoff Committee Rankings,7,Wisconsin,0
+2016,regular,12,Playoff Committee Rankings,8,Penn State,0
+2016,regular,12,Playoff Committee Rankings,9,Oklahoma,0
+2016,regular,12,Playoff Committee Rankings,10,Colorado,0
+2016,regular,12,Playoff Committee Rankings,11,Oklahoma State,0
+2016,regular,12,Playoff Committee Rankings,12,Utah,0
+2016,regular,12,Playoff Committee Rankings,13,USC,0
+2016,regular,12,Playoff Committee Rankings,14,West Virginia,0
+2016,regular,12,Playoff Committee Rankings,15,Auburn,0
+2016,regular,12,Playoff Committee Rankings,16,LSU,0
+2016,regular,12,Playoff Committee Rankings,17,Florida State,0
+2016,regular,12,Playoff Committee Rankings,18,Nebraska,0
+2016,regular,12,Playoff Committee Rankings,19,Tennessee,0
+2016,regular,12,Playoff Committee Rankings,20,Boise State,0
+2016,regular,12,Playoff Committee Rankings,21,Western Michigan,0
+2016,regular,12,Playoff Committee Rankings,22,Washington State,0
+2016,regular,12,Playoff Committee Rankings,23,Florida,0
+2016,regular,12,Playoff Committee Rankings,24,Stanford,0
+2016,regular,12,Playoff Committee Rankings,25,Texas A&M,0
+2016,regular,12,AP Top 25,1,Alabama,1525
+2016,regular,12,AP Top 25,2,Ohio State,1455
+2016,regular,12,AP Top 25,3,Louisville,1357
+2016,regular,12,AP Top 25,4,Michigan,1323
+2016,regular,12,AP Top 25,5,Clemson,1304
+2016,regular,12,AP Top 25,6,Wisconsin,1214
+2016,regular,12,AP Top 25,7,Washington,1150
+2016,regular,12,AP Top 25,8,Oklahoma,1064
+2016,regular,12,AP Top 25,9,Penn State,961
+2016,regular,12,AP Top 25,10,West Virginia,920
+2016,regular,12,AP Top 25,11,Utah,807
+2016,regular,12,AP Top 25,12,Colorado,797
+2016,regular,12,AP Top 25,13,Oklahoma State,659
+2016,regular,12,AP Top 25,14,Western Michigan,634
+2016,regular,12,AP Top 25,15,USC,584
+2016,regular,12,AP Top 25,16,LSU,582
+2016,regular,12,AP Top 25,17,Florida State,569
+2016,regular,12,AP Top 25,18,Auburn,543
+2016,regular,12,AP Top 25,19,Nebraska,504
+2016,regular,12,AP Top 25,20,Washington State,501
+2016,regular,12,AP Top 25,21,Florida,435
+2016,regular,12,AP Top 25,22,Boise State,315
+2016,regular,12,AP Top 25,23,Texas A&M,238
+2016,regular,12,AP Top 25,24,San Diego State,97
+2016,regular,12,AP Top 25,25,Troy,63
+2016,regular,12,Coaches Poll,1,Alabama,1575
+2016,regular,12,Coaches Poll,2,Ohio State,1495
+2016,regular,12,Coaches Poll,3,Louisville,1418
+2016,regular,12,Coaches Poll,4,Michigan,1332
+2016,regular,12,Coaches Poll,5,Clemson,1318
+2016,regular,12,Coaches Poll,6,Wisconsin,1231
+2016,regular,12,Coaches Poll,7,Washington,1190
+2016,regular,12,Coaches Poll,8,Oklahoma,1147
+2016,regular,12,Coaches Poll,9,West Virginia,994
+2016,regular,12,Coaches Poll,10,Penn State,923
+2016,regular,12,Coaches Poll,11,Utah,909
+2016,regular,12,Coaches Poll,12,Colorado,861
+2016,regular,12,Coaches Poll,13,Oklahoma State,745
+2016,regular,12,Coaches Poll,14,LSU,572
+2016,regular,12,Coaches Poll,15,Florida State,559
+2016,regular,12,Coaches Poll,16,Auburn,542
+2016,regular,12,Coaches Poll,17,Nebraska,541
+2016,regular,12,Coaches Poll,18,Florida,538
+2016,regular,12,Coaches Poll,19,USC,473
+2016,regular,12,Coaches Poll,20,Washington State,438
+2016,regular,12,Coaches Poll,21,Western Michigan,431
+2016,regular,12,Coaches Poll,22,Texas A&M,396
+2016,regular,12,Coaches Poll,23,Boise State,355
+2016,regular,12,Coaches Poll,24,North Carolina,114
+2016,regular,12,Coaches Poll,25,San Diego State,112
+2016,regular,12,FCS Coaches Poll,1,Sam Houston State,641
+2016,regular,12,FCS Coaches Poll,2,Jacksonville State,615
+2016,regular,12,FCS Coaches Poll,3,Eastern Washington,595
+2016,regular,12,FCS Coaches Poll,4,North Dakota State,575
+2016,regular,12,FCS Coaches Poll,5,James Madison,555
+2016,regular,12,FCS Coaches Poll,6,The Citadel,520
+2016,regular,12,FCS Coaches Poll,7,Richmond,490
+2016,regular,12,FCS Coaches Poll,8,North Dakota,440
+2016,regular,12,FCS Coaches Poll,9,North Carolina A&T,434
+2016,regular,12,FCS Coaches Poll,10,South Dakota State,400
+2016,regular,12,FCS Coaches Poll,11,Chattanooga,373
+2016,regular,12,FCS Coaches Poll,12,Central Arkansas,369
+2016,regular,12,FCS Coaches Poll,13,Charleston Southern,342
+2016,regular,12,FCS Coaches Poll,14,Youngstown State,309
+2016,regular,12,FCS Coaches Poll,15,Villanova,292
+2016,regular,12,FCS Coaches Poll,16,Grambling,271
+2016,regular,12,FCS Coaches Poll,17,Lehigh,235
+2016,regular,12,FCS Coaches Poll,18,Samford,213
+2016,regular,12,FCS Coaches Poll,19,Wofford,166
+2016,regular,12,FCS Coaches Poll,20,North Carolina Central,118
+2016,regular,12,FCS Coaches Poll,21,Montana,84
+2016,regular,12,FCS Coaches Poll,22,Kennesaw State,69
+2016,regular,12,FCS Coaches Poll,23,Cal Poly,56
+2016,regular,12,FCS Coaches Poll,24,Western Illinois,46
+2016,regular,12,FCS Coaches Poll,25,Illinois State,31
+2016,regular,13,Playoff Committee Rankings,1,Alabama,0
+2016,regular,13,Playoff Committee Rankings,2,Ohio State,0
+2016,regular,13,Playoff Committee Rankings,3,Michigan,0
+2016,regular,13,Playoff Committee Rankings,4,Clemson,0
+2016,regular,13,Playoff Committee Rankings,5,Washington,0
+2016,regular,13,Playoff Committee Rankings,6,Wisconsin,0
+2016,regular,13,Playoff Committee Rankings,7,Penn State,0
+2016,regular,13,Playoff Committee Rankings,8,Oklahoma,0
+2016,regular,13,Playoff Committee Rankings,9,Colorado,0
+2016,regular,13,Playoff Committee Rankings,10,Oklahoma State,0
+2016,regular,13,Playoff Committee Rankings,11,Louisville,0
+2016,regular,13,Playoff Committee Rankings,12,USC,0
+2016,regular,13,Playoff Committee Rankings,13,Auburn,0
+2016,regular,13,Playoff Committee Rankings,14,Florida State,0
+2016,regular,13,Playoff Committee Rankings,15,Florida,0
+2016,regular,13,Playoff Committee Rankings,16,Nebraska,0
+2016,regular,13,Playoff Committee Rankings,17,Tennessee,0
+2016,regular,13,Playoff Committee Rankings,18,West Virginia,0
+2016,regular,13,Playoff Committee Rankings,19,Boise State,0
+2016,regular,13,Playoff Committee Rankings,20,Houston,0
+2016,regular,13,Playoff Committee Rankings,21,Western Michigan,0
+2016,regular,13,Playoff Committee Rankings,22,Utah,0
+2016,regular,13,Playoff Committee Rankings,23,Washington State,0
+2016,regular,13,Playoff Committee Rankings,24,Stanford,0
+2016,regular,13,Playoff Committee Rankings,25,Navy,0
+2016,regular,13,AP Top 25,1,Alabama,1525
+2016,regular,13,AP Top 25,2,Ohio State,1455
+2016,regular,13,AP Top 25,3,Michigan,1370
+2016,regular,13,AP Top 25,4,Clemson,1347
+2016,regular,13,AP Top 25,5,Wisconsin,1255
+2016,regular,13,AP Top 25,6,Washington,1220
+2016,regular,13,AP Top 25,7,Oklahoma,1169
+2016,regular,13,AP Top 25,8,Penn State,1091
+2016,regular,13,AP Top 25,9,Colorado,997
+2016,regular,13,AP Top 25,10,Oklahoma State,868
+2016,regular,13,AP Top 25,11,Louisville,830
+2016,regular,13,AP Top 25,12,USC,811
+2016,regular,13,AP Top 25,13,Florida,703
+2016,regular,13,AP Top 25,14,Western Michigan,701
+2016,regular,13,AP Top 25,15,Florida State,661
+2016,regular,13,AP Top 25,16,Auburn,613
+2016,regular,13,AP Top 25,17,Nebraska,593
+2016,regular,13,AP Top 25,18,Houston,490
+2016,regular,13,AP Top 25,19,West Virginia,448
+2016,regular,13,AP Top 25,20,Boise State,389
+2016,regular,13,AP Top 25,21,Utah,280
+2016,regular,13,AP Top 25,22,Texas A&M,253
+2016,regular,13,AP Top 25,23,Washington State,186
+2016,regular,13,AP Top 25,24,Tennessee,133
+2016,regular,13,AP Top 25,25,LSU,84
+2016,regular,13,Coaches Poll,1,Alabama,1575
+2016,regular,13,Coaches Poll,2,Ohio State,1482
+2016,regular,13,Coaches Poll,3,Clemson,1420
+2016,regular,13,Coaches Poll,4,Michigan,1404
+2016,regular,13,Coaches Poll,5,Washington,1297
+2016,regular,13,Coaches Poll,6,Wisconsin,1279
+2016,regular,13,Coaches Poll,7,Oklahoma,1215
+2016,regular,13,Coaches Poll,8,Penn State,1077
+2016,regular,13,Coaches Poll,9,Colorado,1052
+2016,regular,13,Coaches Poll,10,Oklahoma State,947
+2016,regular,13,Coaches Poll,11,Louisville,864
+2016,regular,13,Coaches Poll,12,USC,774
+2016,regular,13,Coaches Poll,13,Florida,744
+2016,regular,13,Coaches Poll,14,Florida State,735
+2016,regular,13,Coaches Poll,15,Nebraska,719
+2016,regular,13,Coaches Poll,16,Auburn,663
+2016,regular,13,Coaches Poll,17,West Virginia,489
+2016,regular,13,Coaches Poll,18,Western Michigan,448
+2016,regular,13,Coaches Poll,19,Boise State,414
+2016,regular,13,Coaches Poll,20,Utah,374
+2016,regular,13,Coaches Poll,21,Houston,349
+2016,regular,13,Coaches Poll,22,Texas A&M,315
+2016,regular,13,Coaches Poll,23,Washington State,132
+2016,regular,13,Coaches Poll,24,Tennessee,129
+2016,regular,13,Coaches Poll,25,North Carolina,118
+2016,regular,13,FCS Coaches Poll,1,Sam Houston State,639
+2016,regular,13,FCS Coaches Poll,2,Jacksonville State,616
+2016,regular,13,FCS Coaches Poll,3,North Dakota State,581
+2016,regular,13,FCS Coaches Poll,4,Eastern Washington,575
+2016,regular,13,FCS Coaches Poll,5,James Madison,531
+2016,regular,13,FCS Coaches Poll,6,The Citadel,501
+2016,regular,13,FCS Coaches Poll,7,South Dakota State,483
+2016,regular,13,FCS Coaches Poll,8,North Dakota,474
+2016,regular,13,FCS Coaches Poll,9,Chattanooga,403
+2016,regular,13,FCS Coaches Poll,10,Charleston Southern,373
+2016,regular,13,FCS Coaches Poll,11,Villanova,361
+2016,regular,13,FCS Coaches Poll,12,Richmond,353
+2016,regular,13,FCS Coaches Poll,12,Youngstown State,353
+2016,regular,13,FCS Coaches Poll,14,Grambling,297
+2016,regular,13,FCS Coaches Poll,15,Lehigh,271
+2016,regular,13,FCS Coaches Poll,16,Central Arkansas,246
+2016,regular,13,FCS Coaches Poll,17,North Carolina A&T,232
+2016,regular,13,FCS Coaches Poll,18,North Carolina Central,227
+2016,regular,13,FCS Coaches Poll,19,Wofford,210
+2016,regular,13,FCS Coaches Poll,20,Cal Poly,157
+2016,regular,13,FCS Coaches Poll,21,New Hampshire,91
+2016,regular,13,FCS Coaches Poll,22,Montana,81
+2016,regular,13,FCS Coaches Poll,23,Weber State,77
+2016,regular,13,FCS Coaches Poll,24,Samford,63
+2016,regular,13,FCS Coaches Poll,25,San Diego,58
+2016,regular,14,Playoff Committee Rankings,1,Alabama,0
+2016,regular,14,Playoff Committee Rankings,2,Ohio State,0
+2016,regular,14,Playoff Committee Rankings,3,Clemson,0
+2016,regular,14,Playoff Committee Rankings,4,Washington,0
+2016,regular,14,Playoff Committee Rankings,5,Michigan,0
+2016,regular,14,Playoff Committee Rankings,6,Wisconsin,0
+2016,regular,14,Playoff Committee Rankings,7,Penn State,0
+2016,regular,14,Playoff Committee Rankings,8,Colorado,0
+2016,regular,14,Playoff Committee Rankings,9,Oklahoma,0
+2016,regular,14,Playoff Committee Rankings,10,Oklahoma State,0
+2016,regular,14,Playoff Committee Rankings,11,USC,0
+2016,regular,14,Playoff Committee Rankings,12,Florida State,0
+2016,regular,14,Playoff Committee Rankings,13,Louisville,0
+2016,regular,14,Playoff Committee Rankings,14,Auburn,0
+2016,regular,14,Playoff Committee Rankings,15,Florida,0
+2016,regular,14,Playoff Committee Rankings,16,West Virginia,0
+2016,regular,14,Playoff Committee Rankings,17,Western Michigan,0
+2016,regular,14,Playoff Committee Rankings,18,Stanford,0
+2016,regular,14,Playoff Committee Rankings,19,Navy,0
+2016,regular,14,Playoff Committee Rankings,20,Utah,0
+2016,regular,14,Playoff Committee Rankings,21,LSU,0
+2016,regular,14,Playoff Committee Rankings,22,Tennessee,0
+2016,regular,14,Playoff Committee Rankings,23,Virginia Tech,0
+2016,regular,14,Playoff Committee Rankings,24,Houston,0
+2016,regular,14,Playoff Committee Rankings,25,Pittsburgh,0
+2016,regular,14,AP Top 25,1,Alabama,1525
+2016,regular,14,AP Top 25,2,Ohio State,1456
+2016,regular,14,AP Top 25,3,Clemson,1383
+2016,regular,14,AP Top 25,4,Washington,1298
+2016,regular,14,AP Top 25,5,Michigan,1264
+2016,regular,14,AP Top 25,6,Wisconsin,1237
+2016,regular,14,AP Top 25,7,Oklahoma,1141
+2016,regular,14,AP Top 25,8,Penn State,1118
+2016,regular,14,AP Top 25,9,Colorado,1035
+2016,regular,14,AP Top 25,10,USC,948
+2016,regular,14,AP Top 25,11,Oklahoma State,931
+2016,regular,14,AP Top 25,12,Florida State,847
+2016,regular,14,AP Top 25,13,Western Michigan,807
+2016,regular,14,AP Top 25,14,West Virginia,726
+2016,regular,14,AP Top 25,15,Florida,471
+2016,regular,14,AP Top 25,16,Louisville,468
+2016,regular,14,AP Top 25,17,Stanford,452
+2016,regular,14,AP Top 25,18,Auburn,423
+2016,regular,14,AP Top 25,19,Virginia Tech,420
+2016,regular,14,AP Top 25,20,Navy,387
+2016,regular,14,AP Top 25,21,LSU,338
+2016,regular,14,AP Top 25,22,Iowa,217
+2016,regular,14,AP Top 25,23,Nebraska,181
+2016,regular,14,AP Top 25,24,Pittsburgh,168
+2016,regular,14,AP Top 25,24,South Florida,168
+2016,regular,14,Coaches Poll,1,Alabama,1600
+2016,regular,14,Coaches Poll,2,Ohio State,1520
+2016,regular,14,Coaches Poll,3,Clemson,1475
+2016,regular,14,Coaches Poll,4,Washington,1388
+2016,regular,14,Coaches Poll,5,Wisconsin,1298
+2016,regular,14,Coaches Poll,6,Michigan,1265
+2016,regular,14,Coaches Poll,7,Oklahoma,1223
+2016,regular,14,Coaches Poll,8,Penn State,1156
+2016,regular,14,Coaches Poll,9,Colorado,1116
+2016,regular,14,Coaches Poll,10,Oklahoma State,1018
+2016,regular,14,Coaches Poll,11,USC,965
+2016,regular,14,Coaches Poll,12,Florida State,902
+2016,regular,14,Coaches Poll,13,West Virginia,814
+2016,regular,14,Coaches Poll,14,Western Michigan,659
+2016,regular,14,Coaches Poll,15,Louisville,554
+2016,regular,14,Coaches Poll,16,Florida,515
+2016,regular,14,Coaches Poll,17,Stanford,474
+2016,regular,14,Coaches Poll,18,Virginia Tech,467
+2016,regular,14,Coaches Poll,19,Auburn,442
+2016,regular,14,Coaches Poll,20,Navy,380
+2016,regular,14,Coaches Poll,21,LSU,315
+2016,regular,14,Coaches Poll,22,Nebraska,309
+2016,regular,14,Coaches Poll,23,South Florida,237
+2016,regular,14,Coaches Poll,24,Utah,159
+2016,regular,14,Coaches Poll,25,Iowa,114
+2016,regular,15,Playoff Committee Rankings,1,Alabama,0
+2016,regular,15,Playoff Committee Rankings,2,Clemson,0
+2016,regular,15,Playoff Committee Rankings,3,Ohio State,0
+2016,regular,15,Playoff Committee Rankings,4,Washington,0
+2016,regular,15,Playoff Committee Rankings,5,Penn State,0
+2016,regular,15,Playoff Committee Rankings,6,Michigan,0
+2016,regular,15,Playoff Committee Rankings,7,Oklahoma,0
+2016,regular,15,Playoff Committee Rankings,8,Wisconsin,0
+2016,regular,15,Playoff Committee Rankings,9,USC,0
+2016,regular,15,Playoff Committee Rankings,10,Colorado,0
+2016,regular,15,Playoff Committee Rankings,11,Florida State,0
+2016,regular,15,Playoff Committee Rankings,12,Oklahoma State,0
+2016,regular,15,Playoff Committee Rankings,13,Louisville,0
+2016,regular,15,Playoff Committee Rankings,14,Auburn,0
+2016,regular,15,Playoff Committee Rankings,15,Western Michigan,0
+2016,regular,15,Playoff Committee Rankings,16,West Virginia,0
+2016,regular,15,Playoff Committee Rankings,17,Florida,0
+2016,regular,15,Playoff Committee Rankings,18,Stanford,0
+2016,regular,15,Playoff Committee Rankings,19,Utah,0
+2016,regular,15,Playoff Committee Rankings,20,LSU,0
+2016,regular,15,Playoff Committee Rankings,21,Tennessee,0
+2016,regular,15,Playoff Committee Rankings,22,Virginia Tech,0
+2016,regular,15,Playoff Committee Rankings,23,Pittsburgh,0
+2016,regular,15,Playoff Committee Rankings,24,Temple,0
+2016,regular,15,Playoff Committee Rankings,25,Navy,0
+2016,regular,15,AP Top 25,1,Alabama,1525
+2016,regular,15,AP Top 25,2,Ohio State,1444
+2016,regular,15,AP Top 25,3,Clemson,1396
+2016,regular,15,AP Top 25,4,Washington,1329
+2016,regular,15,AP Top 25,5,Penn State,1252
+2016,regular,15,AP Top 25,6,Michigan,1249
+2016,regular,15,AP Top 25,7,Oklahoma,1173
+2016,regular,15,AP Top 25,8,Wisconsin,1054
+2016,regular,15,AP Top 25,9,USC,1040
+2016,regular,15,AP Top 25,10,Florida State,889
+2016,regular,15,AP Top 25,11,Colorado,886
+2016,regular,15,AP Top 25,12,Western Michigan,871
+2016,regular,15,AP Top 25,13,Oklahoma State,800
+2016,regular,15,AP Top 25,14,West Virginia,788
+2016,regular,15,AP Top 25,15,Louisville,542
+2016,regular,15,AP Top 25,16,Stanford,508
+2016,regular,15,AP Top 25,17,Auburn,493
+2016,regular,15,AP Top 25,18,Virginia Tech,372
+2016,regular,15,AP Top 25,19,LSU,351
+2016,regular,15,AP Top 25,20,Florida,331
+2016,regular,15,AP Top 25,21,Iowa,272
+2016,regular,15,AP Top 25,22,Pittsburgh,237
+2016,regular,15,AP Top 25,23,Temple,229
+2016,regular,15,AP Top 25,24,Nebraska,196
+2016,regular,15,AP Top 25,25,South Florida,173
+2016,regular,15,Coaches Poll,1,Alabama,1450
+2016,regular,15,Coaches Poll,2,Ohio State,1354
+2016,regular,15,Coaches Poll,3,Clemson,1347
+2016,regular,15,Coaches Poll,4,Washington,1283
+2016,regular,15,Coaches Poll,5,Penn State,1186
+2016,regular,15,Coaches Poll,6,Michigan,1181
+2016,regular,15,Coaches Poll,7,Oklahoma,1128
+2016,regular,15,Coaches Poll,8,Wisconsin,992
+2016,regular,15,Coaches Poll,9,USC,981
+2016,regular,15,Coaches Poll,10,Florida State,898
+2016,regular,15,Coaches Poll,11,Colorado,828
+2016,regular,15,Coaches Poll,12,West Virginia,806
+2016,regular,15,Coaches Poll,13,Oklahoma State,754
+2016,regular,15,Coaches Poll,14,Western Michigan,635
+2016,regular,15,Coaches Poll,15,Louisville,631
+2016,regular,15,Coaches Poll,16,Stanford,542
+2016,regular,15,Coaches Poll,17,Auburn,504
+2016,regular,15,Coaches Poll,18,Florida,421
+2016,regular,15,Coaches Poll,19,Virginia Tech,374
+2016,regular,15,Coaches Poll,20,LSU,359
+2016,regular,15,Coaches Poll,21,Nebraska,241
+2016,regular,15,Coaches Poll,22,South Florida,197
+2016,regular,15,Coaches Poll,23,Utah,170
+2016,regular,15,Coaches Poll,24,Temple,126
+2016,regular,15,Coaches Poll,25,Iowa,97

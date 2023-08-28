@@ -1,0 +1,851 @@
+﻿season,seasonType,week,poll,rank,school,points
+2020,regular,1,AP Top 25,1,Clemson,1520
+2020,regular,1,AP Top 25,2,Ohio State,1504
+2020,regular,1,AP Top 25,3,Alabama,1422
+2020,regular,1,AP Top 25,4,Georgia,1270
+2020,regular,1,AP Top 25,5,Oklahoma,1269
+2020,regular,1,AP Top 25,6,LSU,1186
+2020,regular,1,AP Top 25,7,Penn State,1147
+2020,regular,1,AP Top 25,8,Florida,1125
+2020,regular,1,AP Top 25,9,Oregon,1119
+2020,regular,1,AP Top 25,10,Notre Dame,995
+2020,regular,1,AP Top 25,11,Auburn,852
+2020,regular,1,AP Top 25,12,Wisconsin,840
+2020,regular,1,AP Top 25,13,Texas A&M,764
+2020,regular,1,AP Top 25,14,Texas,703
+2020,regular,1,AP Top 25,15,Oklahoma State,672
+2020,regular,1,AP Top 25,16,Michigan,611
+2020,regular,1,AP Top 25,17,USC,534
+2020,regular,1,AP Top 25,18,North Carolina,496
+2020,regular,1,AP Top 25,19,Minnesota,451
+2020,regular,1,AP Top 25,20,Cincinnati,234
+2020,regular,1,AP Top 25,21,UCF,229
+2020,regular,1,AP Top 25,22,Utah,211
+2020,regular,1,AP Top 25,23,Iowa State,199
+2020,regular,1,AP Top 25,24,Iowa,134
+2020,regular,1,AP Top 25,25,Tennessee,133
+2020,regular,1,Coaches Poll,1,Clemson,1589
+2020,regular,1,Coaches Poll,2,Ohio State,1555
+2020,regular,1,Coaches Poll,3,Alabama,1495
+2020,regular,1,Coaches Poll,4,Georgia,1345
+2020,regular,1,Coaches Poll,5,LSU,1330
+2020,regular,1,Coaches Poll,6,Oklahoma,1315
+2020,regular,1,Coaches Poll,7,Penn State,1199
+2020,regular,1,Coaches Poll,8,Florida,1176
+2020,regular,1,Coaches Poll,9,Oregon,1164
+2020,regular,1,Coaches Poll,10,Notre Dame,1012
+2020,regular,1,Coaches Poll,11,Auburn,898
+2020,regular,1,Coaches Poll,12,Wisconsin,887
+2020,regular,1,Coaches Poll,13,Texas A&M,807
+2020,regular,1,Coaches Poll,14,Texas,703
+2020,regular,1,Coaches Poll,15,Michigan,687
+2020,regular,1,Coaches Poll,16,Oklahoma State,524
+2020,regular,1,Coaches Poll,17,USC,521
+2020,regular,1,Coaches Poll,18,Minnesota,494
+2020,regular,1,Coaches Poll,19,North Carolina,415
+2020,regular,1,Coaches Poll,20,Utah,241
+2020,regular,1,Coaches Poll,21,UCF,232
+2020,regular,1,Coaches Poll,22,Cincinnati,229
+2020,regular,1,Coaches Poll,23,Iowa,204
+2020,regular,1,Coaches Poll,24,Virginia Tech,143
+2020,regular,1,Coaches Poll,25,Iowa State,135
+2020,regular,3,Coaches Poll,1,Clemson,1020
+2020,regular,3,Coaches Poll,2,Alabama,973
+2020,regular,3,Coaches Poll,3,Oklahoma,907
+2020,regular,3,Coaches Poll,4,Georgia,904
+2020,regular,3,Coaches Poll,5,LSU,852
+2020,regular,3,Coaches Poll,6,Florida,837
+2020,regular,3,Coaches Poll,7,Notre Dame,760
+2020,regular,3,Coaches Poll,8,Texas,697
+2020,regular,3,Coaches Poll,9,Auburn,694
+2020,regular,3,Coaches Poll,10,Texas A&M,639
+2020,regular,3,Coaches Poll,11,North Carolina,575
+2020,regular,3,Coaches Poll,12,Oklahoma State,547
+2020,regular,3,Coaches Poll,13,UCF,414
+2020,regular,3,Coaches Poll,14,Cincinnati,403
+2020,regular,3,Coaches Poll,15,Memphis,314
+2020,regular,3,Coaches Poll,16,Louisville,313
+2020,regular,3,Coaches Poll,17,Tennessee,309
+2020,regular,3,Coaches Poll,18,Miami,267
+2020,regular,3,Coaches Poll,19,Virginia Tech,265
+2020,regular,3,Coaches Poll,20,Kentucky,232
+2020,regular,3,Coaches Poll,21,Louisiana,219
+2020,regular,3,Coaches Poll,22,BYU,201
+2020,regular,3,Coaches Poll,23,Appalachian State,177
+2020,regular,3,Coaches Poll,24,Baylor,161
+2020,regular,3,Coaches Poll,25,Army,127
+2020,regular,3,AP Top 25,1,Clemson,1524
+2020,regular,3,AP Top 25,2,Alabama,1456
+2020,regular,3,AP Top 25,3,Oklahoma,1361
+2020,regular,3,AP Top 25,4,Georgia,1324
+2020,regular,3,AP Top 25,5,Florida,1237
+2020,regular,3,AP Top 25,6,LSU,1236
+2020,regular,3,AP Top 25,7,Notre Dame,1155
+2020,regular,3,AP Top 25,8,Auburn,1055
+2020,regular,3,AP Top 25,9,Texas,1033
+2020,regular,3,AP Top 25,10,Texas A&M,983
+2020,regular,3,AP Top 25,11,Oklahoma State,927
+2020,regular,3,AP Top 25,12,North Carolina,892
+2020,regular,3,AP Top 25,13,Cincinnati,647
+2020,regular,3,AP Top 25,14,UCF,632
+2020,regular,3,AP Top 25,15,Tennessee,528
+2020,regular,3,AP Top 25,16,Memphis,495
+2020,regular,3,AP Top 25,17,Miami,463
+2020,regular,3,AP Top 25,18,Louisville,387
+2020,regular,3,AP Top 25,19,Louisiana,377
+2020,regular,3,AP Top 25,20,Virginia Tech,368
+2020,regular,3,AP Top 25,21,BYU,357
+2020,regular,3,AP Top 25,22,Army,243
+2020,regular,3,AP Top 25,23,Kentucky,238
+2020,regular,3,AP Top 25,24,Appalachian State,237
+2020,regular,3,AP Top 25,25,Pittsburgh,157
+2020,regular,4,Coaches Poll,1,Clemson,1196
+2020,regular,4,Coaches Poll,2,Alabama,1119
+2020,regular,4,Coaches Poll,3,Oklahoma,1019
+2020,regular,4,Coaches Poll,3,Georgia,1019
+2020,regular,4,Coaches Poll,5,LSU,962
+2020,regular,4,Coaches Poll,6,Florida,899
+2020,regular,4,Coaches Poll,7,Notre Dame,896
+2020,regular,4,Coaches Poll,8,Auburn,766
+2020,regular,4,Coaches Poll,9,Texas,764
+2020,regular,4,Coaches Poll,10,Ohio State,741
+2020,regular,4,Coaches Poll,11,Texas A&M,651
+2020,regular,4,Coaches Poll,12,North Carolina,563
+2020,regular,4,Coaches Poll,13,Penn State,536
+2020,regular,4,Coaches Poll,14,Miami,500
+2020,regular,4,Coaches Poll,15,UCF,497
+2020,regular,4,Coaches Poll,16,Cincinnati,416
+2020,regular,4,Coaches Poll,17,Wisconsin,411
+2020,regular,4,Coaches Poll,18,Oklahoma State,315
+2020,regular,4,Coaches Poll,19,Michigan,287
+2020,regular,4,Coaches Poll,20,Memphis,269
+2020,regular,4,Coaches Poll,21,Tennessee,266
+2020,regular,4,Coaches Poll,22,Minnesota,178
+2020,regular,4,Coaches Poll,23,BYU,177
+2020,regular,4,Coaches Poll,24,Virginia Tech,167
+2020,regular,4,Coaches Poll,25,Louisiana,158
+2020,regular,4,AP Top 25,1,Clemson,1523
+2020,regular,4,AP Top 25,2,Alabama,1458
+2020,regular,4,AP Top 25,3,Oklahoma,1368
+2020,regular,4,AP Top 25,4,Georgia,1320
+2020,regular,4,AP Top 25,5,Florida,1239
+2020,regular,4,AP Top 25,6,LSU,1221
+2020,regular,4,AP Top 25,7,Notre Dame,1200
+2020,regular,4,AP Top 25,8,Auburn,1037
+2020,regular,4,AP Top 25,8,Texas,1037
+2020,regular,4,AP Top 25,10,Texas A&M,972
+2020,regular,4,AP Top 25,11,North Carolina,883
+2020,regular,4,AP Top 25,12,Miami,816
+2020,regular,4,AP Top 25,13,UCF,771
+2020,regular,4,AP Top 25,14,Cincinnati,720
+2020,regular,4,AP Top 25,15,Oklahoma State,693
+2020,regular,4,AP Top 25,16,Tennessee,529
+2020,regular,4,AP Top 25,17,Memphis,510
+2020,regular,4,AP Top 25,18,BYU,405
+2020,regular,4,AP Top 25,19,Louisiana,374
+2020,regular,4,AP Top 25,20,Virginia Tech,350
+2020,regular,4,AP Top 25,21,Pittsburgh,315
+2020,regular,4,AP Top 25,22,Army,296
+2020,regular,4,AP Top 25,23,Kentucky,230
+2020,regular,4,AP Top 25,24,Louisville,115
+2020,regular,4,AP Top 25,25,Marshall,108
+2020,regular,5,Coaches Poll,1,Clemson,1194
+2020,regular,5,Coaches Poll,2,Alabama,1144
+2020,regular,5,Coaches Poll,3,Florida,1038
+2020,regular,5,Coaches Poll,4,Georgia,1006
+2020,regular,5,Coaches Poll,5,Notre Dame,971
+2020,regular,5,Coaches Poll,6,Ohio State,890
+2020,regular,5,Coaches Poll,7,Auburn,889
+2020,regular,5,Coaches Poll,8,Miami,795
+2020,regular,5,Coaches Poll,9,Texas,745
+2020,regular,5,Coaches Poll,10,Penn State,589
+2020,regular,5,Coaches Poll,11,North Carolina,578
+2020,regular,5,Coaches Poll,12,UCF,577
+2020,regular,5,Coaches Poll,13,Texas A&M,561
+2020,regular,5,Coaches Poll,14,Mississippi State,492
+2020,regular,5,Coaches Poll,15,Cincinnati,480
+2020,regular,5,Coaches Poll,16,Oklahoma,473
+2020,regular,5,Coaches Poll,17,LSU,445
+2020,regular,5,Coaches Poll,18,Wisconsin,438
+2020,regular,5,Coaches Poll,19,Oklahoma State,374
+2020,regular,5,Coaches Poll,20,Tennessee,321
+2020,regular,5,Coaches Poll,21,Michigan,271
+2020,regular,5,Coaches Poll,22,BYU,260
+2020,regular,5,Coaches Poll,23,Virginia Tech,215
+2020,regular,5,Coaches Poll,24,Memphis,210
+2020,regular,5,Coaches Poll,25,Pittsburgh,179
+2020,regular,5,AP Top 25,1,Clemson,1542
+2020,regular,5,AP Top 25,2,Alabama,1473
+2020,regular,5,AP Top 25,3,Florida,1324
+2020,regular,5,AP Top 25,4,Georgia,1310
+2020,regular,5,AP Top 25,5,Notre Dame,1231
+2020,regular,5,AP Top 25,6,Ohio State,1169
+2020,regular,5,AP Top 25,7,Auburn,1133
+2020,regular,5,AP Top 25,8,Miami,1045
+2020,regular,5,AP Top 25,9,Texas,862
+2020,regular,5,AP Top 25,10,Penn State,840
+2020,regular,5,AP Top 25,11,UCF,743
+2020,regular,5,AP Top 25,12,North Carolina,734
+2020,regular,5,AP Top 25,13,Texas A&M,705
+2020,regular,5,AP Top 25,14,Oregon,651
+2020,regular,5,AP Top 25,15,Cincinnati,646
+2020,regular,5,AP Top 25,16,Mississippi State,590
+2020,regular,5,AP Top 25,17,Oklahoma State,555
+2020,regular,5,AP Top 25,18,Oklahoma,535
+2020,regular,5,AP Top 25,19,Wisconsin,510
+2020,regular,5,AP Top 25,20,LSU,401
+2020,regular,5,AP Top 25,21,Tennessee,377
+2020,regular,5,AP Top 25,22,BYU,295
+2020,regular,5,AP Top 25,23,Michigan,277
+2020,regular,5,AP Top 25,24,Pittsburgh,248
+2020,regular,5,AP Top 25,25,Memphis,196
+2020,regular,6,AP Top 25,1,Clemson,1536
+2020,regular,6,AP Top 25,2,Alabama,1488
+2020,regular,6,AP Top 25,3,Georgia,1380
+2020,regular,6,AP Top 25,4,Florida,1340
+2020,regular,6,AP Top 25,5,Notre Dame,1239
+2020,regular,6,AP Top 25,6,Ohio State,1165
+2020,regular,6,AP Top 25,7,Miami,1148
+2020,regular,6,AP Top 25,8,North Carolina,944
+2020,regular,6,AP Top 25,9,Penn State,935
+2020,regular,6,AP Top 25,10,Oklahoma State,919
+2020,regular,6,AP Top 25,11,Cincinnati,895
+2020,regular,6,AP Top 25,12,Oregon,786
+2020,regular,6,AP Top 25,13,Auburn,731
+2020,regular,6,AP Top 25,14,Tennessee,717
+2020,regular,6,AP Top 25,15,BYU,661
+2020,regular,6,AP Top 25,16,Wisconsin,619
+2020,regular,6,AP Top 25,17,LSU,478
+2020,regular,6,AP Top 25,18,SMU,393
+2020,regular,6,AP Top 25,19,Virginia Tech,391
+2020,regular,6,AP Top 25,20,Michigan,350
+2020,regular,6,AP Top 25,21,Texas A&M,330
+2020,regular,6,AP Top 25,22,Texas,228
+2020,regular,6,AP Top 25,23,Louisiana,216
+2020,regular,6,AP Top 25,24,Iowa State,215
+2020,regular,6,AP Top 25,25,Minnesota,145
+2020,regular,6,Coaches Poll,1,Clemson,1533
+2020,regular,6,Coaches Poll,2,Alabama,1496
+2020,regular,6,Coaches Poll,3,Florida,1372
+2020,regular,6,Coaches Poll,3,Georgia,1372
+2020,regular,6,Coaches Poll,5,Notre Dame,1256
+2020,regular,6,Coaches Poll,6,Ohio State,1192
+2020,regular,6,Coaches Poll,7,Miami,1149
+2020,regular,6,Coaches Poll,8,Penn State,983
+2020,regular,6,Coaches Poll,9,North Carolina,982
+2020,regular,6,Coaches Poll,10,Oklahoma State,818
+2020,regular,6,Coaches Poll,11,Cincinnati,807
+2020,regular,6,Coaches Poll,12,Tennessee,744
+2020,regular,6,Coaches Poll,13,Auburn,701
+2020,regular,6,Coaches Poll,14,Wisconsin,668
+2020,regular,6,Coaches Poll,15,BYU,646
+2020,regular,6,Coaches Poll,16,LSU,616
+2020,regular,6,Coaches Poll,17,Oregon,494
+2020,regular,6,Coaches Poll,18,Virginia Tech,423
+2020,regular,6,Coaches Poll,19,Michigan,409
+2020,regular,6,Coaches Poll,20,Texas A&M,339
+2020,regular,6,Coaches Poll,21,SMU,304
+2020,regular,6,Coaches Poll,22,Texas,295
+2020,regular,6,Coaches Poll,23,Louisiana,207
+2020,regular,6,Coaches Poll,24,Iowa State,137
+2020,regular,6,Coaches Poll,25,UCF,127
+2020,regular,7,Coaches Poll,1,Clemson,1543
+2020,regular,7,Coaches Poll,2,Alabama,1478
+2020,regular,7,Coaches Poll,3,Georgia,1424
+2020,regular,7,Coaches Poll,4,Notre Dame,1332
+2020,regular,7,Coaches Poll,5,Ohio State,1194
+2020,regular,7,Coaches Poll,6,North Carolina,1175
+2020,regular,7,Coaches Poll,7,Oklahoma State,1056
+2020,regular,7,Coaches Poll,8,Penn State,1005
+2020,regular,7,Coaches Poll,9,Florida,928
+2020,regular,7,Coaches Poll,10,Cincinnati,906
+2020,regular,7,Coaches Poll,11,Texas A&M,801
+2020,regular,7,Coaches Poll,12,Miami,795
+2020,regular,7,Coaches Poll,13,BYU,759
+2020,regular,7,Coaches Poll,14,Auburn,735
+2020,regular,7,Coaches Poll,15,Wisconsin,687
+2020,regular,7,Coaches Poll,16,Oregon,646
+2020,regular,7,Coaches Poll,17,Tennessee,505
+2020,regular,7,Coaches Poll,18,SMU,464
+2020,regular,7,Coaches Poll,19,Michigan,454
+2020,regular,7,Coaches Poll,20,Iowa State,372
+2020,regular,7,Coaches Poll,21,Louisiana,280
+2020,regular,7,Coaches Poll,22,Kansas State,276
+2020,regular,7,Coaches Poll,23,Virginia Tech,156
+2020,regular,7,Coaches Poll,24,USC,147
+2020,regular,7,Coaches Poll,25,Minnesota,146
+2020,regular,7,AP Top 25,1,Clemson,1546
+2020,regular,7,AP Top 25,2,Alabama,1463
+2020,regular,7,AP Top 25,3,Georgia,1430
+2020,regular,7,AP Top 25,4,Notre Dame,1317
+2020,regular,7,AP Top 25,5,North Carolina,1190
+2020,regular,7,AP Top 25,6,Ohio State,1152
+2020,regular,7,AP Top 25,7,Oklahoma State,1069
+2020,regular,7,AP Top 25,8,Cincinnati,971
+2020,regular,7,AP Top 25,9,Penn State,970
+2020,regular,7,AP Top 25,10,Florida,904
+2020,regular,7,AP Top 25,11,Texas A&M,883
+2020,regular,7,AP Top 25,12,Oregon,817
+2020,regular,7,AP Top 25,13,Miami,790
+2020,regular,7,AP Top 25,14,Auburn,703
+2020,regular,7,AP Top 25,15,BYU,693
+2020,regular,7,AP Top 25,16,Wisconsin,633
+2020,regular,7,AP Top 25,17,SMU,522
+2020,regular,7,AP Top 25,18,Tennessee,463
+2020,regular,7,AP Top 25,19,Michigan,417
+2020,regular,7,AP Top 25,20,Iowa State,405
+2020,regular,7,AP Top 25,21,Louisiana,342
+2020,regular,7,AP Top 25,22,Kansas State,302
+2020,regular,7,AP Top 25,23,Virginia Tech,199
+2020,regular,7,AP Top 25,24,Minnesota,177
+2020,regular,7,AP Top 25,25,USC,124
+2020,regular,8,Coaches Poll,1,Clemson,1540
+2020,regular,8,Coaches Poll,2,Alabama,1494
+2020,regular,8,Coaches Poll,3,Notre Dame,1351
+2020,regular,8,Coaches Poll,4,Georgia,1295
+2020,regular,8,Coaches Poll,5,Ohio State,1254
+2020,regular,8,Coaches Poll,6,Oklahoma State,1149
+2020,regular,8,Coaches Poll,7,Penn State,1059
+2020,regular,8,Coaches Poll,8,Florida,1002
+2020,regular,8,Coaches Poll,9,Texas A&M,1001
+2020,regular,8,Coaches Poll,10,Cincinnati,989
+2020,regular,8,Coaches Poll,11,Miami,890
+2020,regular,8,Coaches Poll,11,BYU,890
+2020,regular,8,Coaches Poll,13,North Carolina,725
+2020,regular,8,Coaches Poll,14,Wisconsin,698
+2020,regular,8,Coaches Poll,15,Oregon,683
+2020,regular,8,Coaches Poll,16,SMU,618
+2020,regular,8,Coaches Poll,17,Michigan,507
+2020,regular,8,Coaches Poll,18,Iowa State,485
+2020,regular,8,Coaches Poll,19,Kansas State,395
+2020,regular,8,Coaches Poll,20,Virginia Tech,373
+2020,regular,8,Coaches Poll,21,Minnesota,209
+2020,regular,8,Coaches Poll,22,NC State,200
+2020,regular,8,Coaches Poll,23,USC,186
+2020,regular,8,Coaches Poll,24,Coastal Carolina,150
+2020,regular,8,Coaches Poll,25,Marshall,139
+2020,regular,8,AP Top 25,1,Clemson,1542
+2020,regular,8,AP Top 25,2,Alabama,1494
+2020,regular,8,AP Top 25,3,Notre Dame,1337
+2020,regular,8,AP Top 25,4,Georgia,1300
+2020,regular,8,AP Top 25,5,Ohio State,1223
+2020,regular,8,AP Top 25,6,Oklahoma State,1137
+2020,regular,8,AP Top 25,7,Texas A&M,1054
+2020,regular,8,AP Top 25,8,Penn State,1033
+2020,regular,8,AP Top 25,9,Cincinnati,1028
+2020,regular,8,AP Top 25,10,Florida,942
+2020,regular,8,AP Top 25,11,Miami,887
+2020,regular,8,AP Top 25,12,BYU,875
+2020,regular,8,AP Top 25,13,Oregon,841
+2020,regular,8,AP Top 25,14,North Carolina,677
+2020,regular,8,AP Top 25,14,Wisconsin,677
+2020,regular,8,AP Top 25,16,SMU,638
+2020,regular,8,AP Top 25,17,Iowa State,511
+2020,regular,8,AP Top 25,18,Michigan,489
+2020,regular,8,AP Top 25,19,Virginia Tech,411
+2020,regular,8,AP Top 25,20,Kansas State,399
+2020,regular,8,AP Top 25,21,Minnesota,234
+2020,regular,8,AP Top 25,22,Marshall,227
+2020,regular,8,AP Top 25,23,NC State,199
+2020,regular,8,AP Top 25,24,USC,192
+2020,regular,8,AP Top 25,25,Coastal Carolina,185
+2020,regular,9,Coaches Poll,1,Clemson,1540
+2020,regular,9,Coaches Poll,2,Alabama,1493
+2020,regular,9,Coaches Poll,3,Ohio State,1374
+2020,regular,9,Coaches Poll,4,Notre Dame,1368
+2020,regular,9,Coaches Poll,5,Georgia,1293
+2020,regular,9,Coaches Poll,6,Oklahoma State,1209
+2020,regular,9,Coaches Poll,7,Cincinnati,1058
+2020,regular,9,Coaches Poll,8,Texas A&M,1055
+2020,regular,9,Coaches Poll,9,Florida,1010
+2020,regular,9,Coaches Poll,10,BYU,941
+2020,regular,9,Coaches Poll,11,Wisconsin,928
+2020,regular,9,Coaches Poll,12,Miami,911
+2020,regular,9,Coaches Poll,13,North Carolina,796
+2020,regular,9,Coaches Poll,14,Michigan,789
+2020,regular,9,Coaches Poll,15,Oregon,674
+2020,regular,9,Coaches Poll,16,Kansas State,592
+2020,regular,9,Coaches Poll,17,Penn State,413
+2020,regular,9,Coaches Poll,18,Marshall,309
+2020,regular,9,Coaches Poll,19,Indiana,302
+2020,regular,9,Coaches Poll,20,USC,271
+2020,regular,9,Coaches Poll,21,Coastal Carolina,268
+2020,regular,9,Coaches Poll,22,Iowa State,215
+2020,regular,9,Coaches Poll,23,SMU,192
+2020,regular,9,Coaches Poll,24,Oklahoma,138
+2020,regular,9,Coaches Poll,25,Army,130
+2020,regular,9,AP Top 25,1,Clemson,1539
+2020,regular,9,AP Top 25,2,Alabama,1494
+2020,regular,9,AP Top 25,3,Ohio State,1402
+2020,regular,9,AP Top 25,4,Notre Dame,1353
+2020,regular,9,AP Top 25,5,Georgia,1292
+2020,regular,9,AP Top 25,6,Oklahoma State,1201
+2020,regular,9,AP Top 25,7,Cincinnati,1100
+2020,regular,9,AP Top 25,8,Texas A&M,1094
+2020,regular,9,AP Top 25,9,Wisconsin,950
+2020,regular,9,AP Top 25,10,Florida,933
+2020,regular,9,AP Top 25,11,BYU,906
+2020,regular,9,AP Top 25,12,Miami,888
+2020,regular,9,AP Top 25,13,Michigan,839
+2020,regular,9,AP Top 25,14,Oregon,784
+2020,regular,9,AP Top 25,15,North Carolina,758
+2020,regular,9,AP Top 25,16,Kansas State,562
+2020,regular,9,AP Top 25,17,Indiana,466
+2020,regular,9,AP Top 25,18,Penn State,443
+2020,regular,9,AP Top 25,19,Marshall,379
+2020,regular,9,AP Top 25,20,Coastal Carolina,282
+2020,regular,9,AP Top 25,21,USC,243
+2020,regular,9,AP Top 25,22,SMU,208
+2020,regular,9,AP Top 25,23,Iowa State,205
+2020,regular,9,AP Top 25,24,Oklahoma,155
+2020,regular,9,AP Top 25,25,Boise State,113
+2020,regular,10,Coaches Poll,1,Clemson,1527
+2020,regular,10,Coaches Poll,2,Alabama,1503
+2020,regular,10,Coaches Poll,3,Ohio State,1407
+2020,regular,10,Coaches Poll,4,Notre Dame,1358
+2020,regular,10,Coaches Poll,5,Georgia,1304
+2020,regular,10,Coaches Poll,6,Cincinnati,1157
+2020,regular,10,Coaches Poll,7,Texas A&M,1154
+2020,regular,10,Coaches Poll,8,Florida,1101
+2020,regular,10,Coaches Poll,9,BYU,1025
+2020,regular,10,Coaches Poll,10,Miami,964
+2020,regular,10,Coaches Poll,11,Wisconsin,908
+2020,regular,10,Coaches Poll,12,Oklahoma State,783
+2020,regular,10,Coaches Poll,13,Indiana,730
+2020,regular,10,Coaches Poll,14,Oregon,725
+2020,regular,10,Coaches Poll,15,Marshall,473
+2020,regular,10,Coaches Poll,16,Coastal Carolina,464
+2020,regular,10,Coaches Poll,17,Iowa State,433
+2020,regular,10,Coaches Poll,18,SMU,421
+2020,regular,10,Coaches Poll,19,Oklahoma,413
+2020,regular,10,Coaches Poll,20,USC,365
+2020,regular,10,Coaches Poll,21,Auburn,246
+2020,regular,10,Coaches Poll,22,Army,208
+2020,regular,10,Coaches Poll,23,Boise State,204
+2020,regular,10,Coaches Poll,24,North Carolina,192
+2020,regular,10,Coaches Poll,25,Michigan,141
+2020,regular,10,AP Top 25,1,Clemson,1515
+2020,regular,10,AP Top 25,2,Alabama,1513
+2020,regular,10,AP Top 25,3,Ohio State,1430
+2020,regular,10,AP Top 25,4,Notre Dame,1351
+2020,regular,10,AP Top 25,5,Georgia,1289
+2020,regular,10,AP Top 25,6,Cincinnati,1199
+2020,regular,10,AP Top 25,7,Texas A&M,1156
+2020,regular,10,AP Top 25,8,Florida,1066
+2020,regular,10,AP Top 25,9,BYU,1014
+2020,regular,10,AP Top 25,10,Wisconsin,985
+2020,regular,10,AP Top 25,11,Miami,946
+2020,regular,10,AP Top 25,12,Oregon,831
+2020,regular,10,AP Top 25,13,Indiana,765
+2020,regular,10,AP Top 25,14,Oklahoma State,760
+2020,regular,10,AP Top 25,15,Coastal Carolina,527
+2020,regular,10,AP Top 25,16,Marshall,523
+2020,regular,10,AP Top 25,17,Iowa State,427
+2020,regular,10,AP Top 25,18,SMU,420
+2020,regular,10,AP Top 25,19,Oklahoma,405
+2020,regular,10,AP Top 25,20,USC,354
+2020,regular,10,AP Top 25,21,Boise State,336
+2020,regular,10,AP Top 25,22,Texas,190
+2020,regular,10,AP Top 25,23,Michigan,151
+2020,regular,10,AP Top 25,24,Auburn,144
+2020,regular,10,AP Top 25,25,Liberty,118
+2020,regular,11,Coaches Poll,1,Alabama,1542
+2020,regular,11,Coaches Poll,2,Notre Dame,1461
+2020,regular,11,Coaches Poll,3,Ohio State,1443
+2020,regular,11,Coaches Poll,4,Clemson,1340
+2020,regular,11,Coaches Poll,5,Florida,1230
+2020,regular,11,Coaches Poll,6,Texas A&M,1229
+2020,regular,11,Coaches Poll,7,Cincinnati,1172
+2020,regular,11,Coaches Poll,8,BYU,1112
+2020,regular,11,Coaches Poll,9,Miami,995
+2020,regular,11,Coaches Poll,10,Indiana,901
+2020,regular,11,Coaches Poll,11,Georgia,840
+2020,regular,11,Coaches Poll,12,Oregon,828
+2020,regular,11,Coaches Poll,13,Oklahoma State,823
+2020,regular,11,Coaches Poll,14,Wisconsin,778
+2020,regular,11,Coaches Poll,15,Marshall,534
+2020,regular,11,Coaches Poll,16,Iowa State,530
+2020,regular,11,Coaches Poll,17,Coastal Carolina,495
+2020,regular,11,Coaches Poll,18,Oklahoma,476
+2020,regular,11,Coaches Poll,19,SMU,448
+2020,regular,11,Coaches Poll,20,USC,334
+2020,regular,11,Coaches Poll,21,Auburn,305
+2020,regular,11,Coaches Poll,22,Liberty,234
+2020,regular,11,Coaches Poll,23,Northwestern,218
+2020,regular,11,Coaches Poll,24,Texas,187
+2020,regular,11,Coaches Poll,25,Army,181
+2020,regular,11,AP Top 25,1,Alabama,1547
+2020,regular,11,AP Top 25,2,Notre Dame,1464
+2020,regular,11,AP Top 25,3,Ohio State,1449
+2020,regular,11,AP Top 25,4,Clemson,1355
+2020,regular,11,AP Top 25,5,Texas A&M,1223
+2020,regular,11,AP Top 25,6,Florida,1213
+2020,regular,11,AP Top 25,7,Cincinnati,1208
+2020,regular,11,AP Top 25,8,BYU,1101
+2020,regular,11,AP Top 25,9,Miami,958
+2020,regular,11,AP Top 25,10,Indiana,956
+2020,regular,11,AP Top 25,11,Oregon,948
+2020,regular,11,AP Top 25,12,Georgia,861
+2020,regular,11,AP Top 25,13,Wisconsin,852
+2020,regular,11,AP Top 25,14,Oklahoma State,762
+2020,regular,11,AP Top 25,15,Coastal Carolina,551
+2020,regular,11,AP Top 25,16,Marshall,534
+2020,regular,11,AP Top 25,17,Iowa State,491
+2020,regular,11,AP Top 25,18,Oklahoma,467
+2020,regular,11,AP Top 25,19,SMU,456
+2020,regular,11,AP Top 25,20,USC,395
+2020,regular,11,AP Top 25,21,Texas,265
+2020,regular,11,AP Top 25,22,Liberty,260
+2020,regular,11,AP Top 25,23,Northwestern,250
+2020,regular,11,AP Top 25,24,Auburn,184
+2020,regular,11,AP Top 25,25,Louisiana,118
+2020,regular,12,Coaches Poll,1,Alabama,1545
+2020,regular,12,Coaches Poll,2,Notre Dame,1468
+2020,regular,12,Coaches Poll,3,Ohio State,1430
+2020,regular,12,Coaches Poll,4,Clemson,1349
+2020,regular,12,Coaches Poll,5,Florida,1232
+2020,regular,12,Coaches Poll,6,Texas A&M,1230
+2020,regular,12,Coaches Poll,7,Cincinnati,1168
+2020,regular,12,Coaches Poll,8,BYU,1100
+2020,regular,12,Coaches Poll,9,Miami,987
+2020,regular,12,Coaches Poll,10,Indiana,983
+2020,regular,12,Coaches Poll,11,Georgia,879
+2020,regular,12,Coaches Poll,12,Wisconsin,853
+2020,regular,12,Coaches Poll,13,Oregon,849
+2020,regular,12,Coaches Poll,14,Oklahoma State,790
+2020,regular,12,Coaches Poll,15,Marshall,572
+2020,regular,12,Coaches Poll,16,Iowa State,543
+2020,regular,12,Coaches Poll,17,Oklahoma,492
+2020,regular,12,Coaches Poll,18,Coastal Carolina,485
+2020,regular,12,Coaches Poll,19,USC,384
+2020,regular,12,Coaches Poll,20,Northwestern,362
+2020,regular,12,Coaches Poll,21,Auburn,317
+2020,regular,12,Coaches Poll,22,Liberty,305
+2020,regular,12,Coaches Poll,23,Texas,219
+2020,regular,12,Coaches Poll,24,North Carolina,153
+2020,regular,12,Coaches Poll,25,Louisiana,137
+2020,regular,12,AP Top 25,1,Alabama,1548
+2020,regular,12,AP Top 25,2,Notre Dame,1467
+2020,regular,12,AP Top 25,3,Ohio State,1445
+2020,regular,12,AP Top 25,4,Clemson,1355
+2020,regular,12,AP Top 25,5,Texas A&M,1240
+2020,regular,12,AP Top 25,6,Florida,1222
+2020,regular,12,AP Top 25,7,Cincinnati,1198
+2020,regular,12,AP Top 25,8,BYU,1094
+2020,regular,12,AP Top 25,9,Indiana,997
+2020,regular,12,AP Top 25,10,Wisconsin,950
+2020,regular,12,AP Top 25,11,Oregon,949
+2020,regular,12,AP Top 25,12,Miami,940
+2020,regular,12,AP Top 25,13,Georgia,824
+2020,regular,12,AP Top 25,14,Oklahoma State,750
+2020,regular,12,AP Top 25,15,Marshall,557
+2020,regular,12,AP Top 25,15,Coastal Carolina,557
+2020,regular,12,AP Top 25,17,Iowa State,498
+2020,regular,12,AP Top 25,18,Oklahoma,497
+2020,regular,12,AP Top 25,19,Northwestern,378
+2020,regular,12,AP Top 25,20,USC,377
+2020,regular,12,AP Top 25,21,Liberty,307
+2020,regular,12,AP Top 25,22,Texas,296
+2020,regular,12,AP Top 25,23,Auburn,187
+2020,regular,12,AP Top 25,24,Louisiana,177
+2020,regular,12,AP Top 25,25,Tulsa,155
+2020,regular,13,Coaches Poll,1,Alabama,1547
+2020,regular,13,Coaches Poll,2,Notre Dame,1469
+2020,regular,13,Coaches Poll,3,Ohio State,1425
+2020,regular,13,Coaches Poll,4,Clemson,1353
+2020,regular,13,Coaches Poll,5,Florida,1256
+2020,regular,13,Coaches Poll,6,Texas A&M,1241
+2020,regular,13,Coaches Poll,7,Cincinnati,1166
+2020,regular,13,Coaches Poll,8,BYU,1103
+2020,regular,13,Coaches Poll,9,Miami,1005
+2020,regular,13,Coaches Poll,10,Georgia,897
+2020,regular,13,Coaches Poll,11,Oregon,876
+2020,regular,13,Coaches Poll,12,Indiana,821
+2020,regular,13,Coaches Poll,13,Northwestern,813
+2020,regular,13,Coaches Poll,14,Oklahoma,756
+2020,regular,13,Coaches Poll,15,Iowa State,685
+2020,regular,13,Coaches Poll,16,Marshall,563
+2020,regular,13,Coaches Poll,17,Coastal Carolina,530
+2020,regular,13,Coaches Poll,18,USC,508
+2020,regular,13,Coaches Poll,19,Auburn,427
+2020,regular,13,Coaches Poll,20,Wisconsin,409
+2020,regular,13,Coaches Poll,21,Texas,306
+2020,regular,13,Coaches Poll,22,Oklahoma State,299
+2020,regular,13,Coaches Poll,23,North Carolina,205
+2020,regular,13,Coaches Poll,24,Louisiana,165
+2020,regular,13,Coaches Poll,25,Tulsa,120
+2020,regular,13,AP Top 25,1,Alabama,1550
+2020,regular,13,AP Top 25,2,Notre Dame,1471
+2020,regular,13,AP Top 25,3,Ohio State,1440
+2020,regular,13,AP Top 25,4,Clemson,1358
+2020,regular,13,AP Top 25,5,Texas A&M,1249
+2020,regular,13,AP Top 25,6,Florida,1223
+2020,regular,13,AP Top 25,7,Cincinnati,1201
+2020,regular,13,AP Top 25,8,BYU,1109
+2020,regular,13,AP Top 25,9,Oregon,951
+2020,regular,13,AP Top 25,10,Miami,936
+2020,regular,13,AP Top 25,11,Northwestern,922
+2020,regular,13,AP Top 25,12,Indiana,899
+2020,regular,13,AP Top 25,13,Georgia,828
+2020,regular,13,AP Top 25,14,Oklahoma,693
+2020,regular,13,AP Top 25,15,Iowa State,658
+2020,regular,13,AP Top 25,16,Coastal Carolina,622
+2020,regular,13,AP Top 25,17,Marshall,542
+2020,regular,13,AP Top 25,18,Wisconsin,540
+2020,regular,13,AP Top 25,19,USC,461
+2020,regular,13,AP Top 25,20,Texas,321
+2020,regular,13,AP Top 25,21,Oklahoma State,289
+2020,regular,13,AP Top 25,22,Auburn,259
+2020,regular,13,AP Top 25,23,Louisiana,218
+2020,regular,13,AP Top 25,24,Tulsa,164
+2020,regular,13,AP Top 25,25,North Carolina,108
+2020,regular,13,Playoff Committee Rankings,1,Alabama,0
+2020,regular,13,Playoff Committee Rankings,2,Notre Dame,0
+2020,regular,13,Playoff Committee Rankings,3,Clemson,0
+2020,regular,13,Playoff Committee Rankings,4,Ohio State,0
+2020,regular,13,Playoff Committee Rankings,5,Texas A&M,0
+2020,regular,13,Playoff Committee Rankings,6,Florida,0
+2020,regular,13,Playoff Committee Rankings,7,Cincinnati,0
+2020,regular,13,Playoff Committee Rankings,8,Northwestern,0
+2020,regular,13,Playoff Committee Rankings,9,Georgia,0
+2020,regular,13,Playoff Committee Rankings,10,Miami,0
+2020,regular,13,Playoff Committee Rankings,11,Oklahoma,0
+2020,regular,13,Playoff Committee Rankings,12,Indiana,0
+2020,regular,13,Playoff Committee Rankings,13,Iowa State,0
+2020,regular,13,Playoff Committee Rankings,14,BYU,0
+2020,regular,13,Playoff Committee Rankings,15,Oregon,0
+2020,regular,13,Playoff Committee Rankings,16,Wisconsin,0
+2020,regular,13,Playoff Committee Rankings,17,Texas,0
+2020,regular,13,Playoff Committee Rankings,18,USC,0
+2020,regular,13,Playoff Committee Rankings,19,North Carolina,0
+2020,regular,13,Playoff Committee Rankings,20,Coastal Carolina,0
+2020,regular,13,Playoff Committee Rankings,21,Marshall,0
+2020,regular,13,Playoff Committee Rankings,22,Auburn,0
+2020,regular,13,Playoff Committee Rankings,23,Oklahoma State,0
+2020,regular,13,Playoff Committee Rankings,24,Iowa,0
+2020,regular,13,Playoff Committee Rankings,25,Tulsa,0
+2020,regular,14,Coaches Poll,1,Alabama,1547
+2020,regular,14,Coaches Poll,2,Notre Dame,1479
+2020,regular,14,Coaches Poll,3,Clemson,1391
+2020,regular,14,Coaches Poll,4,Ohio State,1382
+2020,regular,14,Coaches Poll,5,Florida,1255
+2020,regular,14,Coaches Poll,6,Texas A&M,1254
+2020,regular,14,Coaches Poll,7,Cincinnati,1177
+2020,regular,14,Coaches Poll,8,BYU,1073
+2020,regular,14,Coaches Poll,9,Miami,1026
+2020,regular,14,Coaches Poll,10,Georgia,972
+2020,regular,14,Coaches Poll,11,Indiana,934
+2020,regular,14,Coaches Poll,12,Iowa State,855
+2020,regular,14,Coaches Poll,13,Oklahoma,816
+2020,regular,14,Coaches Poll,14,Coastal Carolina,625
+2020,regular,14,Coaches Poll,15,Marshall,615
+2020,regular,14,Coaches Poll,16,USC,581
+2020,regular,14,Coaches Poll,17,Northwestern,535
+2020,regular,14,Coaches Poll,18,Oklahoma State,469
+2020,regular,14,Coaches Poll,19,Wisconsin,459
+2020,regular,14,Coaches Poll,20,Oregon,343
+2020,regular,14,Coaches Poll,21,Louisiana,293
+2020,regular,14,Coaches Poll,22,Tulsa,228
+2020,regular,14,Coaches Poll,23,Washington,186
+2020,regular,14,Coaches Poll,24,Iowa,125
+2020,regular,14,Coaches Poll,25,Liberty,87
+2020,regular,14,AP Top 25,1,Alabama,1550
+2020,regular,14,AP Top 25,2,Notre Dame,1481
+2020,regular,14,AP Top 25,3,Ohio State,1403
+2020,regular,14,AP Top 25,4,Clemson,1392
+2020,regular,14,AP Top 25,5,Texas A&M,1262
+2020,regular,14,AP Top 25,6,Florida,1226
+2020,regular,14,AP Top 25,7,Cincinnati,1204
+2020,regular,14,AP Top 25,8,BYU,1113
+2020,regular,14,AP Top 25,9,Miami,991
+2020,regular,14,AP Top 25,10,Indiana,984
+2020,regular,14,AP Top 25,11,Georgia,919
+2020,regular,14,AP Top 25,12,Iowa State,873
+2020,regular,14,AP Top 25,13,Oklahoma,815
+2020,regular,14,AP Top 25,14,Coastal Carolina,694
+2020,regular,14,AP Top 25,15,Marshall,600
+2020,regular,14,AP Top 25,16,Northwestern,577
+2020,regular,14,AP Top 25,17,USC,540
+2020,regular,14,AP Top 25,18,Wisconsin,531
+2020,regular,14,AP Top 25,19,Oklahoma State,426
+2020,regular,14,AP Top 25,20,Louisiana,352
+2020,regular,14,AP Top 25,21,Oregon,326
+2020,regular,14,AP Top 25,22,Tulsa,244
+2020,regular,14,AP Top 25,23,Washington,218
+2020,regular,14,AP Top 25,24,Iowa,119
+2020,regular,14,AP Top 25,25,Liberty,67
+2020,regular,14,Playoff Committee Rankings,1,Alabama,0
+2020,regular,14,Playoff Committee Rankings,2,Notre Dame,0
+2020,regular,14,Playoff Committee Rankings,3,Clemson,0
+2020,regular,14,Playoff Committee Rankings,4,Ohio State,0
+2020,regular,14,Playoff Committee Rankings,5,Texas A&M,0
+2020,regular,14,Playoff Committee Rankings,6,Florida,0
+2020,regular,14,Playoff Committee Rankings,7,Cincinnati,0
+2020,regular,14,Playoff Committee Rankings,8,Georgia,0
+2020,regular,14,Playoff Committee Rankings,9,Iowa State,0
+2020,regular,14,Playoff Committee Rankings,10,Miami,0
+2020,regular,14,Playoff Committee Rankings,11,Oklahoma,0
+2020,regular,14,Playoff Committee Rankings,12,Indiana,0
+2020,regular,14,Playoff Committee Rankings,13,BYU,0
+2020,regular,14,Playoff Committee Rankings,14,Northwestern,0
+2020,regular,14,Playoff Committee Rankings,15,Oklahoma State,0
+2020,regular,14,Playoff Committee Rankings,16,Wisconsin,0
+2020,regular,14,Playoff Committee Rankings,17,North Carolina,0
+2020,regular,14,Playoff Committee Rankings,18,Coastal Carolina,0
+2020,regular,14,Playoff Committee Rankings,19,Iowa,0
+2020,regular,14,Playoff Committee Rankings,20,USC,0
+2020,regular,14,Playoff Committee Rankings,21,Marshall,0
+2020,regular,14,Playoff Committee Rankings,22,Washington,0
+2020,regular,14,Playoff Committee Rankings,23,Oregon,0
+2020,regular,14,Playoff Committee Rankings,24,Tulsa,0
+2020,regular,14,Playoff Committee Rankings,25,Louisiana,0
+2020,regular,15,Coaches Poll,1,Alabama,1547
+2020,regular,15,Coaches Poll,2,Notre Dame,1479
+2020,regular,15,Coaches Poll,3,Clemson,1395
+2020,regular,15,Coaches Poll,4,Ohio State,1387
+2020,regular,15,Coaches Poll,5,Texas A&M,1266
+2020,regular,15,Coaches Poll,6,Florida,1258
+2020,regular,15,Coaches Poll,7,Cincinnati,1172
+2020,regular,15,Coaches Poll,8,Miami,1050
+2020,regular,15,Coaches Poll,9,Indiana,1000
+2020,regular,15,Coaches Poll,10,Georgia,987
+2020,regular,15,Coaches Poll,11,Iowa State,958
+2020,regular,15,Coaches Poll,12,Oklahoma,860
+2020,regular,15,Coaches Poll,13,Coastal Carolina,838
+2020,regular,15,Coaches Poll,14,Northwestern,683
+2020,regular,15,Coaches Poll,15,USC,615
+2020,regular,15,Coaches Poll,16,BYU,598
+2020,regular,15,Coaches Poll,17,Louisiana,500
+2020,regular,15,Coaches Poll,18,Iowa,396
+2020,regular,15,Coaches Poll,19,Tulsa,394
+2020,regular,15,Coaches Poll,20,North Carolina,370
+2020,regular,15,Coaches Poll,21,Liberty,185
+2020,regular,15,Coaches Poll,22,Colorado,178
+2020,regular,15,Coaches Poll,23,Texas,161
+2020,regular,15,Coaches Poll,24,NC State,154
+2020,regular,15,Coaches Poll,25,Wisconsin,124
+2020,regular,15,AP Top 25,1,Alabama,1550
+2020,regular,15,AP Top 25,2,Notre Dame,1482
+2020,regular,15,AP Top 25,3,Ohio State,1407
+2020,regular,15,AP Top 25,4,Clemson,1387
+2020,regular,15,AP Top 25,5,Texas A&M,1274
+2020,regular,15,AP Top 25,6,Florida,1233
+2020,regular,15,AP Top 25,7,Cincinnati,1204
+2020,regular,15,AP Top 25,8,Indiana,1047
+2020,regular,15,AP Top 25,9,Miami,1039
+2020,regular,15,AP Top 25,10,Iowa State,947
+2020,regular,15,AP Top 25,11,Coastal Carolina,923
+2020,regular,15,AP Top 25,12,Georgia,914
+2020,regular,15,AP Top 25,13,Oklahoma,837
+2020,regular,15,AP Top 25,14,BYU,713
+2020,regular,15,AP Top 25,15,Northwestern,647
+2020,regular,15,AP Top 25,16,USC,624
+2020,regular,15,AP Top 25,17,Louisiana,560
+2020,regular,15,AP Top 25,18,Tulsa,444
+2020,regular,15,AP Top 25,19,Iowa,424
+2020,regular,15,AP Top 25,20,North Carolina,306
+2020,regular,15,AP Top 25,21,Colorado,253
+2020,regular,15,AP Top 25,22,Liberty,191
+2020,regular,15,AP Top 25,23,Texas,164
+2020,regular,15,AP Top 25,24,Buffalo,145
+2020,regular,15,AP Top 25,25,Wisconsin,115
+2020,regular,15,Playoff Committee Rankings,1,Alabama,0
+2020,regular,15,Playoff Committee Rankings,2,Notre Dame,0
+2020,regular,15,Playoff Committee Rankings,3,Clemson,0
+2020,regular,15,Playoff Committee Rankings,4,Ohio State,0
+2020,regular,15,Playoff Committee Rankings,5,Texas A&M,0
+2020,regular,15,Playoff Committee Rankings,6,Florida,0
+2020,regular,15,Playoff Committee Rankings,7,Iowa State,0
+2020,regular,15,Playoff Committee Rankings,8,Cincinnati,0
+2020,regular,15,Playoff Committee Rankings,9,Georgia,0
+2020,regular,15,Playoff Committee Rankings,10,Miami,0
+2020,regular,15,Playoff Committee Rankings,11,Oklahoma,0
+2020,regular,15,Playoff Committee Rankings,12,Indiana,0
+2020,regular,15,Playoff Committee Rankings,13,Coastal Carolina,0
+2020,regular,15,Playoff Committee Rankings,14,Northwestern,0
+2020,regular,15,Playoff Committee Rankings,15,USC,0
+2020,regular,15,Playoff Committee Rankings,16,Iowa,0
+2020,regular,15,Playoff Committee Rankings,17,North Carolina,0
+2020,regular,15,Playoff Committee Rankings,18,BYU,0
+2020,regular,15,Playoff Committee Rankings,19,Louisiana,0
+2020,regular,15,Playoff Committee Rankings,20,Texas,0
+2020,regular,15,Playoff Committee Rankings,21,Colorado,0
+2020,regular,15,Playoff Committee Rankings,22,Oklahoma State,0
+2020,regular,15,Playoff Committee Rankings,23,NC State,0
+2020,regular,15,Playoff Committee Rankings,24,Tulsa,0
+2020,regular,15,Playoff Committee Rankings,25,Missouri,0
+2020,regular,16,AP Top 25,1,Alabama,1550
+2020,regular,16,AP Top 25,2,Notre Dame,1482
+2020,regular,16,AP Top 25,3,Ohio State,1405
+2020,regular,16,AP Top 25,4,Clemson,1388
+2020,regular,16,AP Top 25,5,Texas A&M,1286
+2020,regular,16,AP Top 25,6,Cincinnati,1248
+2020,regular,16,AP Top 25,7,Indiana,1140
+2020,regular,16,AP Top 25,8,Iowa State,1059
+2020,regular,16,AP Top 25,9,Coastal Carolina,994
+2020,regular,16,AP Top 25,10,Georgia,968
+2020,regular,16,AP Top 25,11,Florida,940
+2020,regular,16,AP Top 25,12,Oklahoma,902
+2020,regular,16,AP Top 25,13,USC,774
+2020,regular,16,AP Top 25,14,BYU,724
+2020,regular,16,AP Top 25,15,Northwestern,691
+2020,regular,16,AP Top 25,16,North Carolina,631
+2020,regular,16,AP Top 25,17,Louisiana,566
+2020,regular,16,AP Top 25,18,Iowa,502
+2020,regular,16,AP Top 25,19,Miami,454
+2020,regular,16,AP Top 25,20,Tulsa,408
+2020,regular,16,AP Top 25,21,Texas,227
+2020,regular,16,AP Top 25,22,Liberty,184
+2020,regular,16,AP Top 25,23,Buffalo,183
+2020,regular,16,AP Top 25,24,NC State,137
+2020,regular,16,AP Top 25,25,San José State,124
+2020,regular,16,Coaches Poll,1,Alabama,1548
+2020,regular,16,Coaches Poll,2,Notre Dame,1481
+2020,regular,16,Coaches Poll,3,Clemson,1403
+2020,regular,16,Coaches Poll,4,Ohio State,1381
+2020,regular,16,Coaches Poll,5,Texas A&M,1292
+2020,regular,16,Coaches Poll,6,Cincinnati,1213
+2020,regular,16,Coaches Poll,7,Indiana,1088
+2020,regular,16,Coaches Poll,8,Iowa State,1065
+2020,regular,16,Coaches Poll,9,Georgia,1038
+2020,regular,16,Coaches Poll,10,Oklahoma,933
+2020,regular,16,Coaches Poll,11,Florida,912
+2020,regular,16,Coaches Poll,12,Coastal Carolina,884
+2020,regular,16,Coaches Poll,13,USC,798
+2020,regular,16,Coaches Poll,14,Northwestern,779
+2020,regular,16,Coaches Poll,15,North Carolina,626
+2020,regular,16,Coaches Poll,16,BYU,616
+2020,regular,16,Coaches Poll,17,Iowa,526
+2020,regular,16,Coaches Poll,18,Louisiana,510
+2020,regular,16,Coaches Poll,19,Miami,488
+2020,regular,16,Coaches Poll,20,Tulsa,365
+2020,regular,16,Coaches Poll,21,Liberty,194
+2020,regular,16,Coaches Poll,22,Oklahoma State,189
+2020,regular,16,Coaches Poll,23,NC State,185
+2020,regular,16,Coaches Poll,24,Texas,176
+2020,regular,16,Coaches Poll,25,San José State,127
+2020,regular,16,Playoff Committee Rankings,1,Alabama,
+2020,regular,16,Playoff Committee Rankings,2,Notre Dame,
+2020,regular,16,Playoff Committee Rankings,3,Clemson,
+2020,regular,16,Playoff Committee Rankings,4,Ohio State,
+2020,regular,16,Playoff Committee Rankings,5,Texas A&M,
+2020,regular,16,Playoff Committee Rankings,6,Iowa State,
+2020,regular,16,Playoff Committee Rankings,7,Florida,
+2020,regular,16,Playoff Committee Rankings,8,Georgia,
+2020,regular,16,Playoff Committee Rankings,9,Cincinnati,
+2020,regular,16,Playoff Committee Rankings,10,Oklahoma,
+2020,regular,16,Playoff Committee Rankings,11,Indiana,
+2020,regular,16,Playoff Committee Rankings,12,Coastal Carolina,
+2020,regular,16,Playoff Committee Rankings,13,USC,
+2020,regular,16,Playoff Committee Rankings,14,Northwestern,
+2020,regular,16,Playoff Committee Rankings,15,North Carolina,
+2020,regular,16,Playoff Committee Rankings,16,Iowa,
+2020,regular,16,Playoff Committee Rankings,17,BYU,
+2020,regular,16,Playoff Committee Rankings,18,Miami,
+2020,regular,16,Playoff Committee Rankings,19,Louisiana,
+2020,regular,16,Playoff Committee Rankings,20,Texas,
+2020,regular,16,Playoff Committee Rankings,21,Oklahoma State,
+2020,regular,16,Playoff Committee Rankings,22,NC State,
+2020,regular,16,Playoff Committee Rankings,23,Tulsa,
+2020,regular,16,Playoff Committee Rankings,24,San José State,
+2020,regular,16,Playoff Committee Rankings,25,Colorado,
