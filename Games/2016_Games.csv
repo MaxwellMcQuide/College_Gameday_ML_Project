@@ -1,0 +1,833 @@
+﻿id,season,week,neutral_site,conference_game,home_id,home_team,home_conference,home_pregame_elo,away_id,away_team,away_conference,away_pregame_elo
+400869090,2016,1,true,false,25,California,Pac-12,1571,62,Hawai'i,Mountain West,1133
+400869502,2016,1,false,false,2132,Cincinnati,American Athletic,,2630,UT Martin,OVC,
+400869421,2016,1,false,false,154,Wake Forest,ACC,1373,2655,Tulane,American Athletic,1205
+400869341,2016,1,false,false,97,Louisville,ACC,1614,2429,Charlotte,Conference USA,1134
+400869503,2016,1,false,false,41,Connecticut,American Athletic,,311,Maine,CAA,
+400869257,2016,1,false,false,2117,Central Michigan,Mid-American,,2506,Presbyterian College,Big South,
+400869422,2016,1,false,false,152,NC State,ACC,,2729,William & Mary,CAA,
+400869342,2016,1,false,false,2229,Florida International,Conference USA,1269,84,Indiana,Big Ten,1493
+400868977,2016,1,false,false,2633,Tennessee,SEC,1740,2026,Appalachian State,Sun Belt,1590
+400869173,2016,1,false,false,328,Utah State,Mountain West,,2692,Weber State,Big Sky,
+400869347,2016,1,false,true,98,Western Kentucky,Conference USA,1747,242,Rice,Conference USA,1254
+400868968,2016,1,false,true,238,Vanderbilt,SEC,1391,2579,South Carolina,SEC,1553
+400869091,2016,1,false,false,254,Utah,Pac-12,,253,Southern Utah,Big Sky,
+400869177,2016,1,false,false,167,New Mexico,Mountain West,,233,South Dakota,MVFC,
+400869725,2016,1,false,false,70,Idaho,Sun Belt,,147,Montana State,Big Sky,
+400869092,2016,1,false,false,135,Minnesota,Big Ten,1561,204,Oregon State,Pac-12,1264
+400869174,2016,1,true,false,2439,UNLV,Mountain West,,2296,Jackson State,SWAC,
+400869263,2016,1,false,false,2199,Eastern Michigan,Mid-American,,2400,Mississippi Valley State,SWAC,
+400869423,2016,1,false,false,183,Syracuse,ACC,,2142,Colgate,Patriot,
+400868910,2016,1,false,false,218,Temple,American Athletic,1590,349,Army,FBS Independents,1315
+400869259,2016,1,false,false,2084,Buffalo,Mid-American,,399,Albany,CAA,
+400869651,2016,1,false,false,127,Michigan State,Big Ten,,231,Furman,Southern,
+400869258,2016,1,false,false,2247,Georgia State,Sun Belt,1396,2050,Ball State,Mid-American,1248
+400868876,2016,1,false,false,239,Baylor,Big 12,,2466,Northwestern State,Southland,
+400869093,2016,1,true,false,38,Colorado,Pac-12,1411,36,Colorado State,Mountain West,1457
+400869265,2016,1,false,false,2032,Arkansas State,Sun Belt,1510,2649,Toledo,Mid-American,1653
+400869094,2016,1,false,false,24,Stanford,Pac-12,1843,2306,Kansas State,Big 12,1521
+400869181,2016,1,false,false,2440,Nevada,Mountain West,,13,Cal Poly,Big Sky,
+400869424,2016,1,true,true,103,Boston College,ACC,1479,59,Georgia Tech,ACC,1588
+400869260,2016,1,false,false,194,Ohio State,Big Ten,1913,189,Bowling Green,Mid-American,1607
+400869509,2016,1,false,false,2426,Navy,American Athletic,,2230,Fordham,Patriot,
+400869180,2016,1,false,false,130,Michigan,Big Ten,1753,62,Hawai'i,Mountain West,1122
+400869507,2016,1,true,false,248,Houston,American Athletic,1780,201,Oklahoma,Big 12,1885
+400869267,2016,1,false,false,77,Northwestern,Big Ten,1464,2711,Western Michigan,Mid-American,1594
+400868976,2016,1,false,false,277,West Virginia,Big 12,1676,142,Missouri,SEC,1538
+400868975,2016,1,false,false,344,Mississippi State,SEC,1727,6,South Alabama,Sun Belt,1243
+400869578,2016,1,false,false,2509,Purdue,Big Ten,,2198,Eastern Kentucky,OVC,
+400869176,2016,1,false,false,309,Louisiana,Sun Belt,1299,68,Boise State,Mountain West,1727
+400869653,2016,1,false,false,120,Maryland,Big Ten,,47,Howard,MEAC,
+400869428,2016,1,false,false,259,Virginia Tech,ACC,1595,2335,Liberty,Big South,1441
+400869426,2016,1,false,false,221,Pittsburgh,ACC,,222,Villanova,CAA,
+400869097,2016,1,false,false,264,Washington,Pac-12,1749,164,Rutgers,Big Ten,1372
+400869175,2016,1,false,false,2005,Air Force,Mountain West,,2000,Abilene Christian,Southland,
+400869427,2016,1,false,false,258,Virginia,ACC,,257,Richmond,CAA,
+400869652,2016,1,false,false,356,Illinois,Big Ten,,93,Murray State,OVC,
+400869619,2016,1,false,false,197,Oklahoma State,Big 12,,2545,Southeastern Louisiana,Southland,
+400869264,2016,1,false,false,195,Ohio,Mid-American,1390,326,Texas State,Sun Belt,1178
+400869261,2016,1,false,false,213,Penn State,Big Ten,1557,2309,Kent State,Mid-American,1175
+400869262,2016,1,false,false,2294,Iowa,Big Ten,1641,193,Miami (OH),Mid-American,1195
+400868974,2016,1,true,false,275,Wisconsin,Big Ten,1700,99,LSU,SEC,1711
+400868978,2016,1,false,false,245,Texas A&M,SEC,1616,26,UCLA,Pac-12,1648
+400868970,2016,1,false,false,8,Arkansas,SEC,1741,2348,Louisiana Tech,Conference USA,1609
+400869096,2016,1,false,false,2483,Oregon,Pac-12,,302,UC Davis,Big Sky,
+400868972,2016,1,true,false,153,North Carolina,ACC,1720,61,Georgia,SEC,1698
+400869808,2016,1,false,false,290,Georgia Southern,Sun Belt,,2542,Savannah State,MEAC,
+400869810,2016,1,false,false,2653,Troy,Sun Belt,,2046,Austin Peay,OVC,
+400869425,2016,1,false,false,150,Duke,ACC,,2428,North Carolina Central,MEAC,
+400869718,2016,1,false,false,2390,Miami,ACC,,50,Florida A&M,MEAC,
+400869343,2016,1,false,false,2226,Florida Atlantic,Conference USA,,79,Southern Illinois,MVFC,
+400869505,2016,1,false,false,151,East Carolina,American Athletic,,2717,Western Carolina,Southern,
+400869266,2016,1,false,false,2006,Akron,Mid-American,,2678,VMI,Southern,
+400869504,2016,1,false,false,2116,UCF,American Athletic,,2569,South Carolina State,MEAC,
+400869345,2016,1,false,false,249,North Texas,Conference USA,1175,2567,SMU,American Athletic,1191
+400869809,2016,1,false,false,2433,Louisiana Monroe,Sun Belt,,2582,Southern,SWAC,
+400869506,2016,1,false,false,58,South Florida,American Athletic,,119,Towson,CAA,
+400869508,2016,1,false,false,235,Memphis,American Athletic,,2546,Southeast Missouri State,OVC,
+400869344,2016,1,false,false,2393,Middle Tennessee,Conference USA,,2010,Alabama A&M,SWAC,
+400869597,2016,1,false,false,2305,Kansas,Big 12,,227,Rhode Island,CAA,
+400869183,2016,1,false,false,202,Tulsa,American Athletic,1388,23,San José State,Mountain West,1383
+400869349,2016,1,false,false,2636,UT San Antonio,Conference USA,,2011,Alabama State,SWAC,
+400868973,2016,1,false,false,96,Kentucky,SEC,1473,2572,Southern Mississippi,Conference USA,1624
+400868957,2016,1,false,false,57,Florida,SEC,1633,113,UMass,FBS Independents,1261
+400869624,2016,1,false,false,2628,TCU,Big 12,,2571,South Dakota State,MVFC,
+400869179,2016,1,false,false,158,Nebraska,Big Ten,1635,278,Fresno State,Mountain West,1225
+400869625,2016,1,false,false,2641,Texas Tech,Big 12,,2617,Stephen F. Austin,Southland,
+400869098,2016,1,false,false,265,Washington State,Pac-12,,331,Eastern Washington,Big Sky,
+400868969,2016,1,true,false,333,Alabama,SEC,1965,30,USC,Pac-12,1696
+400869348,2016,1,false,false,2638,UTEP,Conference USA,1214,166,New Mexico State,Sun Belt,1124
+400868887,2016,1,false,false,66,Iowa State,Big 12,,2460,Northern Iowa,MVFC,
+400869182,2016,1,true,false,21,San Diego State,Mountain West,,160,New Hampshire,CAA,
+400868971,2016,1,false,false,2,Auburn,SEC,1656,228,Clemson,ACC,1865
+400869178,2016,1,false,false,2751,Wyoming,Mountain West,1247,2459,Northern Illinois,Mid-American,1455
+400868922,2016,1,true,false,12,Arizona,Pac-12,1496,252,BYU,FBS Independents,1620
+400869095,2016,1,false,false,9,Arizona State,Pac-12,,2464,Northern Arizona,Big Sky,
+400869346,2016,1,false,false,295,Old Dominion,Conference USA,,2261,Hampton,MEAC,
+400868946,2016,1,false,false,251,Texas,Big 12,1521,87,Notre Dame,FBS Independents,1689
+400868979,2016,1,true,false,52,Florida State,ACC,1773,145,Ole Miss,SEC,1791
+400869351,2016,2,false,false,2229,Florida International,Conference USA,1240,120,Maryland,Big Ten,1399
+400869429,2016,2,false,true,183,Syracuse,ACC,1414,97,Louisville,ACC,1719
+400869633,2016,2,false,false,164,Rutgers,Big Ten,,47,Howard,MEAC,
+400869511,2016,2,false,false,2509,Purdue,Big Ten,1312,2132,Cincinnati,American Athletic,1479
+400869270,2016,2,false,false,197,Oklahoma State,Big 12,1638,2117,Central Michigan,Mid-American,1482
+400868911,2016,2,false,false,349,Army,FBS Independents,1380,242,Rice,Conference USA,1224
+400868958,2016,2,false,false,113,UMass,FBS Independents,1257,103,Boston College,ACC,1483
+400868990,2016,2,false,false,245,Texas A&M,SEC,,2504,Prairie View,SWAC,
+400869654,2016,2,false,false,135,Minnesota,Big Ten,,282,Indiana State,MVFC,
+400869187,2016,2,false,false,158,Nebraska,Big Ten,1677,2751,Wyoming,Mountain West,1265
+400869435,2016,2,false,false,151,East Carolina,American Athletic,1526,152,NC State,ACC,1573
+400869514,2016,2,false,false,248,Houston,American Athletic,,2320,Lamar,Southland,
+400868984,2016,2,false,false,61,Georgia,SEC,,2447,Nicholls,Southland,
+400869436,2016,2,false,false,221,Pittsburgh,ACC,1551,213,Penn State,Big Ten,1567
+400869510,2016,2,false,false,130,Michigan,Big Ten,1851,2116,UCF,American Athletic,1189
+400869432,2016,2,false,false,52,Florida State,ACC,,2127,Charleston Southern,Big South,
+400869430,2016,2,false,false,228,Clemson,ACC,1861,2653,Troy,Sun Belt,1374
+400869513,2016,2,false,false,218,Temple,American Athletic,,2619,Stony Brook,CAA,
+400869626,2016,2,false,false,277,West Virginia,Big 12,,2754,Youngstown State,MVFC,
+400869184,2016,2,false,false,2005,Air Force,Mountain West,1522,2247,Georgia State,Sun Belt,1362
+400869101,2016,2,false,false,30,USC,Pac-12,1587,328,Utah State,Mountain West,1531
+400869277,2016,2,false,false,2305,Kansas,Big 12,1116,195,Ohio,Mid-American,1375
+400869433,2016,2,false,false,59,Georgia Tech,ACC,,2382,Mercer,Southern,
+400868980,2016,2,false,false,333,Alabama,SEC,2074,98,Western Kentucky,Conference USA,1777
+400869276,2016,2,false,false,189,Bowling Green,Mid-American,,155,North Dakota,Big Sky,
+400869355,2016,2,false,false,2026,Appalachian State,Sun Belt,1589,295,Old Dominion,Conference USA,1237
+400869655,2016,2,false,false,77,Northwestern,Big Ten,,2287,Illinois State,MVFC,
+400869512,2016,2,false,true,2426,Navy,American Athletic,1659,41,Connecticut,American Athletic,1403
+400869431,2016,2,false,true,150,Duke,ACC,1521,154,Wake Forest,ACC,1371
+400868983,2016,2,false,true,57,Florida,SEC,1637,96,Kentucky,SEC,1467
+400869516,2016,2,false,false,194,Ohio State,Big Ten,2083,202,Tulsa,American Athletic,1486
+400869268,2016,2,false,false,275,Wisconsin,Big Ten,1704,2006,Akron,Mid-American,1383
+400868947,2016,2,false,false,87,Notre Dame,FBS Independents,1686,2440,Nevada,Mountain West,1427
+400868877,2016,2,false,false,239,Baylor,Big 12,1827,2567,SMU,American Athletic,1219
+400869185,2016,2,false,false,36,Colorado State,Mountain West,1335,2636,UT San Antonio,Conference USA,1242
+400868991,2016,2,false,false,238,Vanderbilt,SEC,1396,2393,Middle Tennessee,Conference USA,1514
+400869269,2016,2,false,false,84,Indiana,Big Ten,1522,2050,Ball State,Mid-American,1282
+400868986,2016,2,false,false,145,Ole Miss,SEC,,2747,Wofford,Southern,
+400869190,2016,2,false,false,23,San José State,Mountain West,,2502,Portland State,Big Sky,
+400869271,2016,2,false,false,193,Miami (OH),Mid-American,,2197,Eastern Illinois,OVC,
+400869105,2016,2,false,false,264,Washington,Pac-12,1800,70,Idaho,Sun Belt,1219
+400869103,2016,2,false,false,38,Colorado,Pac-12,,304,Idaho State,Big Sky,
+400869350,2016,2,false,false,2429,Charlotte,Conference USA,,2210,Elon,CAA,
+400869274,2016,2,false,false,2309,Kent State,Mid-American,,2448,North Carolina A&T,MEAC,
+400869353,2016,2,false,false,276,Marshall,Conference USA,,2415,Morgan State,MEAC,
+400869719,2016,2,false,false,2390,Miami,ACC,1499,2226,Florida Atlantic,Conference USA,1359
+400869275,2016,2,false,false,2711,Western Michigan,Mid-American,,2428,North Carolina Central,MEAC,
+400869352,2016,2,false,false,2348,Louisiana Tech,Conference USA,,2569,South Carolina State,MEAC,
+400869357,2016,2,false,false,251,Texas,Big 12,1524,2638,UTEP,Conference USA,1240
+400869612,2016,2,false,false,201,Oklahoma,Big 12,1852,2433,Louisiana Monroe,Sun Belt,1137
+400869273,2016,2,false,false,58,South Florida,American Athletic,1629,2459,Northern Illinois,Mid-American,1437
+400869272,2016,2,false,false,2649,Toledo,Mid-American,,311,Maine,CAA,
+400868987,2016,2,false,true,344,Mississippi State,SEC,1699,2579,South Carolina,SEC,1548
+400869811,2016,2,false,true,6,South Alabama,Sun Belt,1271,290,Georgia Southern,Sun Belt,1590
+400869812,2016,2,false,false,309,Louisiana,Sun Belt,,2377,McNeese,Southland,
+400869354,2016,2,false,false,249,North Texas,Conference USA,,2065,Bethune-Cookman,MEAC,
+400868981,2016,2,false,false,2628,TCU,Big 12,1798,8,Arkansas,SEC,1738
+400869356,2016,2,false,false,2572,Southern Mississippi,Conference USA,,2542,Savannah State,MEAC,
+400868888,2016,2,false,false,2294,Iowa,Big Ten,1655,66,Iowa State,Big 12,1429
+400868985,2016,2,false,false,99,LSU,SEC,,55,Jacksonville State,OVC,
+400868923,2016,2,false,false,254,Utah,Pac-12,1676,252,BYU,FBS Independents,1615
+400868982,2016,2,false,false,2,Auburn,SEC,1660,2032,Arkansas State,Sun Belt,1472
+400869434,2016,2,false,false,356,Illinois,Big Ten,1458,153,North Carolina,ACC,1706
+400868988,2016,2,false,false,142,Missouri,SEC,1519,2199,Eastern Michigan,Mid-American,1130
+400868989,2016,2,true,false,2633,Tennessee,SEC,1741,259,Virginia Tech,ACC,1635
+400869515,2016,2,false,false,2655,Tulane,American Athletic,,2582,Southern,SWAC,
+400869102,2016,2,false,false,26,UCLA,Pac-12,1637,2439,UNLV,Mountain West,1272
+400869186,2016,2,false,false,166,New Mexico State,Sun Belt,1098,167,New Mexico,Mountain West,1395
+400869100,2016,2,false,false,9,Arizona State,Pac-12,1613,2641,Texas Tech,Big 12,1515
+400869188,2016,2,false,false,278,Fresno State,Mountain West,,16,Sacramento State,Big Sky,
+400869106,2016,2,false,false,68,Boise State,Mountain West,1774,265,Washington State,Pac-12,1549
+400869107,2016,2,false,false,21,San Diego State,Mountain West,1704,25,California,Pac-12,1582
+400869104,2016,2,false,false,2483,Oregon,Pac-12,1695,258,Virginia,ACC,1461
+400869099,2016,2,false,false,12,Arizona,Pac-12,,2755,Grambling,SWAC,
+400869189,2016,2,false,false,62,Hawai'i,Mountain West,,2630,UT Martin,OVC,
+400869517,2016,3,false,true,2132,Cincinnati,American Athletic,1506,248,Houston,American Athletic,1813
+400869361,2016,3,false,false,242,Rice,Conference USA,1201,239,Baylor,Big 12,1833
+400869193,2016,3,false,false,328,Utah State,Mountain West,1430,2032,Arkansas State,Sun Belt,1392
+400869109,2016,3,false,false,2636,UT San Antonio,Conference USA,1234,9,Arizona State,Pac-12,1630
+400869192,2016,3,false,false,164,Rutgers,Big Ten,1321,167,New Mexico,Mountain West,1386
+400869519,2016,3,false,false,213,Penn State,Big Ten,1566,218,Temple,American Athletic,1525
+400868889,2016,3,false,true,2628,TCU,Big 12,1790,66,Iowa State,Big 12,1347
+400869720,2016,3,false,false,2026,Appalachian State,Sun Belt,1612,2390,Miami,ACC,1556
+400869657,2016,3,false,false,275,Wisconsin,Big Ten,1791,2247,Georgia State,Sun Belt,1288
+400869656,2016,3,false,false,2294,Iowa,Big Ten,,2449,North Dakota State,MVFC,
+400869438,2016,3,false,false,228,Clemson,ACC,,2569,South Carolina State,MEAC,
+400869520,2016,3,false,false,235,Memphis,American Athletic,1621,2305,Kansas,Big 12,1103
+400869440,2016,3,false,true,97,Louisville,ACC,1778,52,Florida State,ACC,1801
+400869000,2016,3,false,false,2633,Tennessee,SEC,1787,195,Ohio,Mid-American,1388
+400869278,2016,3,false,false,276,Marshall,Conference USA,1649,2006,Akron,Mid-American,1296
+400869281,2016,3,false,false,189,Bowling Green,Mid-American,1437,2393,Middle Tennessee,Conference USA,1444
+400869001,2016,3,false,false,59,Georgia Tech,ACC,1584,238,Vanderbilt,SEC,1466
+400869444,2016,3,false,false,41,Connecticut,American Athletic,1407,258,Virginia,ACC,1443
+400869523,2016,3,false,false,202,Tulsa,American Athletic,,2448,North Carolina A&T,MEAC,
+400869116,2016,3,false,false,265,Washington State,Pac-12,1551,70,Idaho,Sun Belt,1162
+400869358,2016,3,false,false,2306,Kansas State,Big 12,1521,2226,Florida Atlantic,Conference USA,1302
+400869279,2016,3,false,false,2050,Ball State,Mid-American,,2198,Eastern Kentucky,OVC,
+400869198,2016,3,false,false,2117,Central Michigan,Mid-American,1496,2439,UNLV,Mountain West,1258
+400869195,2016,3,false,false,2649,Toledo,Mid-American,1691,278,Fresno State,Mountain West,1183
+400869443,2016,3,false,false,183,Syracuse,ACC,1355,58,South Florida,American Athletic,1689
+400869197,2016,3,false,false,2459,Northern Illinois,Mid-American,1377,21,San Diego State,Mountain West,1704
+400868997,2016,3,false,true,145,Ole Miss,SEC,1763,333,Alabama,SEC,2113
+400869111,2016,3,false,false,130,Michigan,Big Ten,1877,38,Colorado,Pac-12,1533
+400869113,2016,3,false,false,158,Nebraska,Big Ten,1724,2483,Oregon,Pac-12,1713
+400868959,2016,3,false,false,113,UMass,FBS Independents,1234,2229,Florida International,Conference USA,1186
+400869282,2016,3,false,false,2309,Kent State,Mid-American,,2405,Monmouth,Big South,
+400869283,2016,3,false,false,193,Miami (OH),Mid-American,1181,98,Western Kentucky,Conference USA,1738
+400869437,2016,3,false,true,259,Virginia Tech,ACC,1589,103,Boston College,ACC,1506
+400869441,2016,3,false,false,153,North Carolina,ACC,1744,256,James Madison,CAA,1415
+400869442,2016,3,false,false,197,Oklahoma State,Big 12,1624,221,Pittsburgh,ACC,1552
+400868999,2016,3,false,false,2579,South Carolina,SEC,1535,151,East Carolina,American Athletic,1528
+400869284,2016,3,false,false,356,Illinois,Big Ten,1420,2711,Western Michigan,Mid-American,1589
+400868995,2016,3,false,false,96,Kentucky,SEC,1381,166,New Mexico State,Sun Belt,1107
+400869194,2016,3,false,false,2751,Wyoming,Mountain West,,302,UC Davis,Big Sky,
+400869191,2016,3,false,false,36,Colorado State,Mountain West,,2458,Northern Colorado,Big Sky,
+400869114,2016,3,false,false,204,Oregon State,Pac-12,,304,Idaho State,Big Sky,
+400869280,2016,3,false,false,2429,Charlotte,Conference USA,1029,2199,Eastern Michigan,Mid-American,1065
+400869360,2016,3,false,false,152,NC State,ACC,1571,295,Old Dominion,Conference USA,1214
+400869813,2016,3,false,true,290,Georgia Southern,Sun Belt,1595,2433,Louisiana Monroe,Sun Belt,1103
+400869445,2016,3,false,false,154,Wake Forest,ACC,,48,Delaware,CAA,
+400869518,2016,3,false,false,2116,UCF,American Athletic,1163,120,Maryland,Big Ten,1453
+400868996,2016,3,false,true,99,LSU,SEC,1707,344,Mississippi State,SEC,1712
+400869814,2016,3,false,true,309,Louisiana,Sun Belt,1252,6,South Alabama,Sun Belt,1266
+400868912,2016,3,false,false,2638,UTEP,Conference USA,1181,349,Army,FBS Independents,1403
+400869521,2016,3,false,true,2655,Tulane,American Athletic,1207,2426,Navy,American Athletic,1655
+400869359,2016,3,false,false,2641,Texas Tech,Big 12,1498,2348,Louisiana Tech,Conference USA,1612
+400869362,2016,3,false,false,2572,Southern Mississippi,Conference USA,1630,2653,Troy,Sun Belt,1388
+400868993,2016,3,false,true,2,Auburn,SEC,1740,245,Texas A&M,SEC,1627
+400869522,2016,3,false,false,2567,SMU,American Athletic,1213,2335,Liberty,Big South,1401
+400869613,2016,3,false,false,201,Oklahoma,Big 12,1886,194,Ohio State,Big Ten,2138
+400868992,2016,3,false,false,8,Arkansas,SEC,1746,326,Texas State,Sun Belt,1193
+400868994,2016,3,false,false,57,Florida,SEC,1723,249,North Texas,Conference USA,1147
+400868998,2016,3,false,true,142,Missouri,SEC,1584,61,Georgia,SEC,1712
+400868948,2016,3,false,false,87,Notre Dame,FBS Independents,1732,127,Michigan State,Big Ten,1732
+400869439,2016,3,false,false,77,Northwestern,Big Ten,1469,150,Duke,ACC,1486
+400869115,2016,3,false,false,264,Washington,Pac-12,,2502,Portland State,Big Sky,
+400869110,2016,3,false,true,24,Stanford,Pac-12,1843,30,USC,Pac-12,1688
+400869196,2016,3,false,false,2440,Nevada,Mountain West,1381,2084,Buffalo,Mid-American,1335
+400868924,2016,3,false,false,252,BYU,FBS Independents,1616,26,UCLA,Pac-12,1651
+400869112,2016,3,false,false,23,San José State,Mountain West,1285,254,Utah,Pac-12,1675
+400869117,2016,3,false,false,25,California,Pac-12,1582,251,Texas,Big 12,1583
+400869108,2016,3,false,false,12,Arizona,Pac-12,1501,62,Hawai'i,Mountain West,1024
+400869446,2016,4,false,true,59,Georgia Tech,ACC,1653,228,Clemson,ACC,1847
+400869201,2016,4,false,false,2199,Eastern Michigan,Mid-American,1105,2751,Wyoming,Mountain West,1218
+400869524,2016,4,false,false,2567,SMU,American Athletic,1262,2628,TCU,Big 12,1797
+400869118,2016,4,false,true,254,Utah,Pac-12,1678,30,USC,Pac-12,1665
+400869448,2016,4,false,false,58,South Florida,American Athletic,1718,52,Florida State,ACC,1669
+400869659,2016,4,false,true,127,Michigan State,Big Ten,1748,275,Wisconsin,Big Ten,1776
+400869634,2016,4,false,true,164,Rutgers,Big Ten,1340,2294,Iowa,Big Ten,1737
+400869203,2016,4,false,false,2509,Purdue,Big Ten,1285,2440,Nevada,Mountain West,1436
+400869005,2016,4,false,true,145,Ole Miss,SEC,1777,61,Georgia,SEC,1707
+400869204,2016,4,false,false,66,Iowa State,Big 12,1340,23,San José State,Mountain West,1282
+400869200,2016,4,false,false,135,Minnesota,Big Ten,1555,36,Colorado State,Mountain West,1343
+400869002,2016,4,false,false,333,Alabama,SEC,2099,2309,Kent State,Mid-American,1165
+400869363,2016,4,false,false,218,Temple,American Athletic,1518,2429,Charlotte,Conference USA,989
+400869451,2016,4,false,false,259,Virginia Tech,ACC,1727,151,East Carolina,American Athletic,1523
+400869288,2016,4,false,false,258,Virginia,ACC,1442,2117,Central Michigan,Mid-American,1527
+400869450,2016,4,false,false,41,Connecticut,American Athletic,1408,183,Syracuse,ACC,1326
+400869447,2016,4,false,false,103,Boston College,ACC,,2681,Wagner,NEC,
+400869289,2016,4,false,false,195,Ohio,Mid-American,,2241,Gardner-Webb,Big South,
+400868949,2016,4,false,false,87,Notre Dame,FBS Independents,1716,150,Duke,ACC,1465
+400869658,2016,4,false,true,130,Michigan,Big Ten,1884,213,Penn State,Big Ten,1573
+400869007,2016,4,false,true,2633,Tennessee,SEC,1777,57,Florida,SEC,1744
+400868925,2016,4,true,false,277,West Virginia,Big 12,1695,252,BYU,FBS Independents,1614
+400868960,2016,4,false,false,113,UMass,FBS Independents,1243,344,Mississippi State,SEC,1711
+400869123,2016,4,false,false,204,Oregon State,Pac-12,1270,68,Boise State,Mountain West,1772
+400869285,2016,4,false,false,2006,Akron,Mid-American,1419,2026,Appalachian State,Sun Belt,1502
+400869291,2016,4,false,false,2132,Cincinnati,American Athletic,1477,193,Miami (OH),Mid-American,1206
+400869292,2016,4,false,false,2459,Northern Illinois,Mid-American,,2710,Western Illinois,MVFC,
+400869368,2016,4,false,true,295,Old Dominion,Conference USA,1184,2636,UT San Antonio,Conference USA,1251
+400869449,2016,4,false,true,153,North Carolina,ACC,1780,221,Pittsburgh,ACC,1546
+400869452,2016,4,false,false,84,Indiana,Big Ten,1523,154,Wake Forest,ACC,1406
+400869006,2016,4,false,false,142,Missouri,SEC,,2169,Delaware State,MEAC,
+400869009,2016,4,false,false,98,Western Kentucky,Conference USA,1713,238,Vanderbilt,SEC,1397
+400869202,2016,4,false,false,278,Fresno State,Mountain West,1146,202,Tulsa,American Athletic,1431
+400869122,2016,4,false,true,2483,Oregon,Pac-12,1712,38,Colorado,Pac-12,1526
+400869286,2016,4,false,false,2226,Florida Atlantic,Conference USA,1159,2050,Ball State,Mid-American,1281
+400869367,2016,4,false,true,242,Rice,Conference USA,1195,249,North Texas,Conference USA,1126
+400869003,2016,4,false,true,2,Auburn,SEC,1700,99,LSU,SEC,1708
+400869817,2016,4,false,false,6,South Alabama,Sun Belt,,2447,Nicholls,Southland,
+400869365,2016,4,false,true,2393,Middle Tennessee,Conference USA,1494,2348,Louisiana Tech,Conference USA,1573
+400869364,2016,4,false,false,2229,Florida International,Conference USA,1177,2116,UCF,American Athletic,1172
+400869815,2016,4,false,false,2032,Arkansas State,Sun Belt,,2110,Central Arkansas,Southland,
+400869816,2016,4,false,true,2653,Troy,Sun Belt,1418,166,New Mexico State,Sun Belt,1087
+400869290,2016,4,false,false,2711,Western Michigan,Mid-American,1633,290,Georgia Southern,Sun Belt,1588
+400869525,2016,4,false,false,326,Texas State,Sun Belt,1150,248,Houston,American Athletic,1842
+400868913,2016,4,false,false,2084,Buffalo,Mid-American,1280,349,Army,FBS Independents,1534
+400869605,2016,4,false,false,2306,Kansas State,Big 12,,2623,Missouri State,MVFC,
+400868878,2016,4,false,true,239,Baylor,Big 12,1839,197,Oklahoma State,Big 12,1630
+400869660,2016,4,false,true,77,Northwestern,Big Ten,1490,158,Nebraska,Big Ten,1725
+400869004,2016,4,false,true,96,Kentucky,SEC,1401,2579,South Carolina,SEC,1540
+400869121,2016,4,false,true,26,UCLA,Pac-12,1653,24,Stanford,Pac-12,1866
+400869366,2016,4,false,false,276,Marshall,Conference USA,1526,97,Louisville,ACC,1910
+400869287,2016,4,false,false,235,Memphis,American Athletic,1659,189,Bowling Green,Mid-American,1387
+400869369,2016,4,false,true,2638,UTEP,Conference USA,1050,2572,Southern Mississippi,Conference USA,1600
+400869526,2016,4,false,false,2655,Tulane,American Athletic,1225,309,Louisiana,Sun Belt,1258
+400869205,2016,4,false,false,2439,UNLV,Mountain West,1227,70,Idaho,Sun Belt,1065
+400869008,2016,4,true,true,245,Texas A&M,SEC,1667,8,Arkansas,SEC,1789
+400869120,2016,4,false,true,9,Arizona State,Pac-12,1613,25,California,Pac-12,1592
+400869199,2016,4,false,true,328,Utah State,Mountain West,1455,2005,Air Force,Mountain West,1596
+400869119,2016,4,false,true,12,Arizona,Pac-12,1501,264,Washington,Pac-12,1857
+400869527,2016,5,false,true,248,Houston,American Athletic,1937,41,Connecticut,American Athletic,1388
+400869598,2016,5,false,true,2641,Texas Tech,Big 12,1537,2305,Kansas,Big 12,1065
+400869124,2016,5,false,true,264,Washington,Pac-12,1844,24,Stanford,Pac-12,1867
+400868926,2016,5,false,false,252,BYU,FBS Independents,1612,2649,Toledo,Mid-American,1728
+400869662,2016,5,false,true,2294,Iowa,Big Ten,1722,77,Northwestern,Big Ten,1487
+400869011,2016,5,false,false,8,Arkansas,SEC,,2016,Alcorn State,SWAC,
+400869620,2016,5,false,true,197,Oklahoma State,Big 12,1625,251,Texas,Big 12,1573
+400869017,2016,5,false,true,238,Vanderbilt,SEC,1415,57,Florida,SEC,1729
+400868950,2016,5,true,false,183,Syracuse,ACC,1346,87,Notre Dame,FBS Independents,1695
+400869528,2016,5,false,true,151,East Carolina,American Athletic,1445,2116,UCF,American Athletic,1290
+400869530,2016,5,false,true,218,Temple,American Athletic,1534,2567,SMU,American Athletic,1241
+400869818,2016,5,false,true,2026,Appalachian State,Sun Belt,1509,2247,Georgia State,Sun Belt,1303
+400869635,2016,5,false,true,194,Ohio State,Big Ten,2164,164,Rutgers,Big Ten,1355
+400868879,2016,5,false,true,66,Iowa State,Big 12,1427,239,Baylor,Big 12,1844
+400869721,2016,5,false,true,59,Georgia Tech,ACC,1626,2390,Miami,ACC,1666
+400869454,2016,5,false,true,150,Duke,ACC,1486,258,Virginia,ACC,1478
+400869294,2016,5,false,false,103,Boston College,ACC,1368,2084,Buffalo,Mid-American,1285
+400869127,2016,5,false,true,38,Colorado,Pac-12,1542,204,Oregon State,Pac-12,1282
+400869296,2016,5,false,true,193,Miami (OH),Mid-American,1211,195,Ohio,Mid-American,1398
+400869295,2016,5,false,true,189,Bowling Green,Mid-American,1184,2199,Eastern Michigan,Mid-American,1108
+400869013,2016,5,false,true,61,Georgia,SEC,1632,2633,Tennessee,SEC,1792
+400869665,2016,5,false,true,158,Nebraska,Big Ten,1728,356,Illinois,Big Ten,1376
+400869455,2016,5,false,true,52,Florida State,ACC,1725,153,North Carolina,ACC,1773
+400869606,2016,5,false,true,277,West Virginia,Big 12,1697,2306,Kansas State,Big 12,1664
+400869663,2016,5,false,true,120,Maryland,Big Ten,1444,2509,Purdue,Big Ten,1314
+400869664,2016,5,false,true,130,Michigan,Big Ten,1955,275,Wisconsin,Big Ten,1836
+400868961,2016,5,false,false,113,UMass,FBS Independents,1256,2655,Tulane,American Athletic,1226
+400869012,2016,5,false,false,2,Auburn,SEC,1705,2433,Louisiana Monroe,Sun Belt,1110
+400869206,2016,5,false,false,2005,Air Force,Mountain West,1598,2426,Navy,American Athletic,1637
+400869293,2016,5,false,true,2309,Kent State,Mid-American,1139,2006,Akron,Mid-American,1412
+400869297,2016,5,false,true,2050,Ball State,Mid-American,1280,2459,Northern Illinois,Mid-American,1375
+400869456,2016,5,false,true,152,NC State,ACC,1601,154,Wake Forest,ACC,1423
+400869666,2016,5,false,true,213,Penn State,Big Ten,1502,135,Minnesota,Big Ten,1553
+400869016,2016,5,false,true,2579,South Carolina,SEC,1522,245,Texas A&M,SEC,1739
+400869209,2016,5,false,true,167,New Mexico,Mountain West,1367,23,San José State,Mountain West,1195
+400869819,2016,5,false,true,70,Idaho,Sun Belt,1080,2653,Troy,Sun Belt,1510
+400869614,2016,5,false,true,2628,TCU,Big 12,1818,201,Oklahoma,Big 12,1860
+400869370,2016,5,false,true,2429,Charlotte,Conference USA,973,295,Old Dominion,Conference USA,1218
+400869128,2016,5,false,true,25,California,Pac-12,1576,254,Utah,Pac-12,1681
+400869376,2016,5,false,false,98,Western Kentucky,Conference USA,,2277,Houston Christian,Southland,
+400869529,2016,5,false,true,2132,Cincinnati,American Athletic,1472,58,South Florida,American Athletic,1662
+400869371,2016,5,false,true,2229,Florida International,Conference USA,1059,2226,Florida Atlantic,Conference USA,1160
+400869298,2016,5,false,true,2117,Central Michigan,Mid-American,1491,2711,Western Michigan,Mid-American,1669
+400869010,2016,5,false,true,333,Alabama,SEC,2125,96,Kentucky,SEC,1419
+400869015,2016,5,false,false,145,Ole Miss,SEC,1852,235,Memphis,American Athletic,1862
+400869374,2016,5,false,true,249,North Texas,Conference USA,1145,2393,Middle Tennessee,Conference USA,1499
+400869372,2016,5,false,true,2348,Louisiana Tech,Conference USA,1568,2638,UTEP,Conference USA,1038
+400869375,2016,5,false,true,2572,Southern Mississippi,Conference USA,1612,242,Rice,Conference USA,1176
+400869014,2016,5,false,true,99,LSU,SEC,1703,142,Missouri,SEC,1589
+400869373,2016,5,false,false,221,Pittsburgh,ACC,1553,276,Marshall,Conference USA,1486
+400869821,2016,5,false,false,326,Texas State,Sun Belt,,2916,Incarnate Word,Southland,
+400869661,2016,5,false,true,84,Indiana,Big Ten,1506,127,Michigan State,Big Ten,1688
+400869212,2016,5,false,false,6,South Alabama,Sun Belt,1260,21,San Diego State,Mountain West,1706
+400869820,2016,5,false,true,166,New Mexico State,Sun Belt,995,309,Louisiana,Sun Belt,1257
+400869453,2016,5,false,true,228,Clemson,ACC,1874,97,Louisville,ACC,1950
+400869126,2016,5,false,true,30,USC,Pac-12,1662,9,Arizona State,Pac-12,1629
+400869129,2016,5,false,true,265,Washington State,Pac-12,1648,2483,Oregon,Pac-12,1696
+400869208,2016,5,false,true,36,Colorado State,Mountain West,1345,2751,Wyoming,Mountain West,1215
+400869207,2016,5,false,true,68,Boise State,Mountain West,1760,328,Utah State,Mountain West,1453
+400869210,2016,5,false,true,2439,UNLV,Mountain West,1212,278,Fresno State,Mountain West,1154
+400869125,2016,5,false,true,26,UCLA,Pac-12,1652,12,Arizona,Pac-12,1514
+400869211,2016,5,false,true,62,Hawai'i,Mountain West,1024,2440,Nevada,Mountain West,1407
+400869822,2016,6,false,true,2032,Arkansas State,Sun Belt,1367,290,Georgia Southern,Sun Belt,1552
+400869531,2016,6,false,true,235,Memphis,American Athletic,1814,218,Temple,American Athletic,1565
+400869379,2016,6,false,true,2348,Louisiana Tech,Conference USA,1568,98,Western Kentucky,Conference USA,1695
+400869457,2016,6,false,true,103,Boston College,ACC,1445,228,Clemson,ACC,1885
+400868962,2016,6,false,false,295,Old Dominion,Conference USA,1287,113,UMass,FBS Independents,1240
+400869533,2016,6,false,true,202,Tulsa,American Athletic,1423,2567,SMU,American Athletic,1210
+400869214,2016,6,false,true,167,New Mexico,Mountain West,1367,68,Boise State,Mountain West,1758
+400869534,2016,6,false,true,41,Connecticut,American Athletic,1374,2132,Cincinnati,American Athletic,1427
+400869668,2016,6,false,true,135,Minnesota,Big Ten,1551,2294,Iowa,Big Ten,1689
+400869669,2016,6,false,true,213,Penn State,Big Ten,1504,120,Maryland,Big Ten,1553
+400869599,2016,6,false,true,2305,Kansas,Big 12,1022,2628,TCU,Big 12,1810
+400869381,2016,6,false,true,2636,UT San Antonio,Conference USA,1217,2572,Southern Mississippi,Conference USA,1609
+400869021,2016,6,false,true,344,Mississippi State,SEC,1698,2,Auburn,SEC,1779
+400868951,2016,6,false,false,152,NC State,ACC,1622,87,Notre Dame,FBS Independents,1696
+400869615,2016,6,true,true,201,Oklahoma,Big 12,1868,251,Texas,Big 12,1538
+400869535,2016,6,false,true,58,South Florida,American Athletic,1707,151,East Carolina,American Athletic,1383
+400869458,2016,6,false,true,221,Pittsburgh,ACC,1581,59,Georgia Tech,ACC,1598
+400869300,2016,6,false,true,195,Ohio,Mid-American,1403,189,Bowling Green,Mid-American,1175
+400869536,2016,6,false,true,2426,Navy,American Athletic,1605,248,Houston,American Athletic,1951
+400869302,2016,6,false,true,2006,Akron,Mid-American,1402,193,Miami (OH),Mid-American,1206
+400869304,2016,6,false,true,2199,Eastern Michigan,Mid-American,1117,2649,Toledo,Mid-American,1726
+400869667,2016,6,false,true,356,Illinois,Big Ten,1374,2509,Purdue,Big Ten,1205
+400869643,2016,6,false,true,194,Ohio State,Big Ten,2233,84,Indiana,Big Ten,1509
+400869023,2016,6,false,true,245,Texas A&M,SEC,1744,2633,Tennessee,SEC,1787
+400869459,2016,6,false,true,153,North Carolina,ACC,1773,259,Virginia Tech,ACC,1805
+400868927,2016,6,false,false,127,Michigan State,Big Ten,1685,252,BYU,FBS Independents,1614
+400869213,2016,6,false,true,2751,Wyoming,Mountain West,1284,2005,Air Force,Mountain West,1630
+400869299,2016,6,false,true,2117,Central Michigan,Mid-American,1399,2050,Ball State,Mid-American,1274
+400869301,2016,6,false,true,2084,Buffalo,Mid-American,1208,2309,Kent State,Mid-American,1149
+400869590,2016,6,false,true,197,Oklahoma State,Big 12,1660,66,Iowa State,Big 12,1446
+400869823,2016,6,false,true,2247,Georgia State,Sun Belt,1292,326,Texas State,Sun Belt,1055
+400868914,2016,6,false,false,150,Duke,ACC,1453,349,Army,FBS Independents,1529
+400869132,2016,6,false,true,30,USC,Pac-12,1708,38,Colorado,Pac-12,1627
+400869020,2016,6,false,true,96,Kentucky,SEC,1420,238,Vanderbilt,SEC,1425
+400869217,2016,6,false,true,23,San José State,Mountain West,1195,62,Hawai'i,Mountain West,1119
+400869303,2016,6,false,true,2711,Western Michigan,Mid-American,1761,2459,Northern Illinois,Mid-American,1381
+400869460,2016,6,false,true,154,Wake Forest,ACC,1402,183,Syracuse,ACC,1345
+400869018,2016,6,false,true,8,Arkansas,SEC,1717,333,Alabama,SEC,2124
+400869636,2016,6,false,true,164,Rutgers,Big Ten,1286,130,Michigan,Big Ten,1958
+400869216,2016,6,false,true,2440,Nevada,Mountain West,1312,278,Fresno State,Mountain West,1098
+400869380,2016,6,false,true,249,North Texas,Conference USA,1139,276,Marshall,Conference USA,1458
+400869824,2016,6,false,true,2433,Louisiana Monroe,Sun Belt,1036,70,Idaho,Sun Belt,1071
+400869607,2016,6,false,true,2306,Kansas State,Big 12,1664,2641,Texas Tech,Big 12,1580
+400869133,2016,6,false,true,2483,Oregon,Pac-12,1651,264,Washington,Pac-12,1957
+400869722,2016,6,false,true,2390,Miami,ACC,1694,52,Florida State,ACC,1725
+400869378,2016,6,false,true,2638,UTEP,Conference USA,1038,2229,Florida International,Conference USA,1061
+400869134,2016,6,false,true,204,Oregon State,Pac-12,1197,25,California,Pac-12,1585
+400869215,2016,6,false,true,36,Colorado State,Mountain West,1276,328,Utah State,Mountain West,1455
+400869130,2016,6,false,true,254,Utah,Pac-12,1672,12,Arizona,Pac-12,1478
+400869135,2016,6,false,true,24,Stanford,Pac-12,1754,265,Washington State,Pac-12,1693
+400869131,2016,6,false,true,9,Arizona State,Pac-12,1583,26,UCLA,Pac-12,1688
+400869218,2016,6,false,true,21,San Diego State,Mountain West,1616,2439,UNLV,Mountain West,1268
+400869377,2016,6,false,true,2226,Florida Atlantic,Conference USA,1158,2429,Charlotte,Conference USA,904
+400869022,2016,6,false,true,2579,South Carolina,SEC,1517,61,Georgia,SEC,1637
+400869825,2016,7,false,true,309,Louisiana,Sun Belt,1236,2026,Appalachian State,Sun Belt,1520
+400869461,2016,7,false,true,97,Louisville,ACC,1939,150,Duke,ACC,1467
+400869538,2016,7,false,true,2655,Tulane,American Athletic,1242,235,Memphis,American Athletic,1810
+400869221,2016,7,false,true,278,Fresno State,Mountain West,1101,21,San Diego State,Mountain West,1627
+400868928,2016,7,false,false,252,BYU,FBS Independents,1663,344,Mississippi State,SEC,1644
+400869462,2016,7,false,true,228,Clemson,ACC,1965,152,NC State,ACC,1636
+400869671,2016,7,false,true,120,Maryland,Big Ten,1488,135,Minnesota,Big Ten,1548
+400869608,2016,7,false,true,201,Oklahoma,Big 12,1860,2306,Kansas State,Big 12,1667
+400869627,2016,7,false,true,2641,Texas Tech,Big 12,1577,277,West Virginia,Big 12,1697
+400868915,2016,7,false,false,349,Army,FBS Independents,,322,Lafayette,Patriot,
+400869026,2016,7,false,true,61,Georgia,SEC,1657,238,Vanderbilt,SEC,1415
+400869637,2016,7,false,true,164,Rutgers,Big Ten,1132,356,Illinois,Big Ten,1359
+400869673,2016,7,false,true,2509,Purdue,Big Ten,1220,2294,Iowa,Big Ten,1692
+400869465,2016,7,false,true,258,Virginia,ACC,1511,221,Pittsburgh,ACC,1582
+400869464,2016,7,false,false,59,Georgia Tech,ACC,1597,290,Georgia Southern,Sun Belt,1546
+400869308,2016,7,false,true,195,Ohio,Mid-American,1399,2199,Eastern Michigan,Mid-American,1136
+400869384,2016,7,false,true,2393,Middle Tennessee,Conference USA,1505,98,Western Kentucky,Conference USA,1692
+400869309,2016,7,false,true,193,Miami (OH),Mid-American,1173,2309,Kent State,Mid-American,1220
+400868963,2016,7,false,false,113,UMass,FBS Independents,1198,2348,Louisiana Tech,Conference USA,1571
+400869028,2016,7,false,true,2633,Tennessee,SEC,1775,333,Alabama,SEC,2130
+400869670,2016,7,false,true,84,Indiana,Big Ten,1525,158,Nebraska,Big Ten,1730
+400868880,2016,7,false,true,239,Baylor,Big 12,1825,2305,Kansas,Big 12,1053
+400869463,2016,7,false,true,52,Florida State,ACC,1725,154,Wake Forest,ACC,1440
+400869723,2016,7,false,true,2390,Miami,ACC,1694,153,North Carolina,ACC,1689
+400869310,2016,7,false,true,2006,Akron,Mid-American,1435,2711,Western Michigan,Mid-American,1761
+400869136,2016,7,false,true,12,Arizona,Pac-12,1468,30,USC,Pac-12,1709
+400869219,2016,7,true,true,2005,Air Force,Mountain West,1590,167,New Mexico,Mountain West,1336
+400869305,2016,7,false,true,2084,Buffalo,Mid-American,1137,2050,Ball State,Mid-American,1275
+400869306,2016,7,false,true,2649,Toledo,Mid-American,1707,189,Bowling Green,Mid-American,1179
+400869307,2016,7,false,true,2459,Northern Illinois,Mid-American,1381,2117,Central Michigan,Mid-American,1398
+400869672,2016,7,false,true,127,Michigan State,Big Ten,1636,77,Northwestern,Big Ten,1520
+400869827,2016,7,false,true,2653,Troy,Sun Belt,1519,2247,Georgia State,Sun Belt,1315
+400869466,2016,7,false,true,183,Syracuse,ACC,1307,259,Virginia Tech,ACC,1889
+400869025,2016,7,false,true,57,Florida,SEC,1719,142,Missouri,SEC,1506
+400869139,2016,7,false,true,204,Oregon State,Pac-12,1204,254,Utah,Pac-12,1682
+400869828,2016,7,false,true,70,Idaho,Sun Belt,1073,166,New Mexico State,Sun Belt,1016
+400869382,2016,7,false,true,2429,Charlotte,Conference USA,932,2229,Florida International,Conference USA,1091
+400869383,2016,7,false,true,276,Marshall,Conference USA,1387,2226,Florida Atlantic,Conference USA,1130
+400869541,2016,7,false,true,248,Houston,American Athletic,1925,202,Tulsa,American Athletic,1421
+400869591,2016,7,false,true,251,Texas,Big 12,1546,66,Iowa State,Big 12,1448
+400869540,2016,7,false,true,58,South Florida,American Athletic,1713,41,Connecticut,American Athletic,1398
+400869385,2016,7,false,true,242,Rice,Conference USA,1179,2636,UT San Antonio,Conference USA,1322
+400869829,2016,7,false,true,2433,Louisiana Monroe,Sun Belt,1034,326,Texas State,Sun Belt,1032
+400869024,2016,7,false,true,8,Arkansas,SEC,1711,145,Ole Miss,SEC,1900
+400869826,2016,7,false,true,2032,Arkansas State,Sun Belt,1373,6,South Alabama,Sun Belt,1350
+400869539,2016,7,false,true,2116,UCF,American Athletic,1352,218,Temple,American Athletic,1569
+400869027,2016,7,false,false,99,LSU,SEC,1786,2572,Southern Mississippi,Conference USA,1504
+400868952,2016,7,false,false,87,Notre Dame,FBS Independents,1682,24,Stanford,Pac-12,1676
+400869644,2016,7,false,true,275,Wisconsin,Big Ten,1833,194,Ohio State,Big Ten,2217
+400869137,2016,7,false,true,38,Colorado,Pac-12,1626,9,Arizona State,Pac-12,1585
+400869220,2016,7,false,true,68,Boise State,Mountain West,1789,36,Colorado State,Mountain West,1296
+400869138,2016,7,false,true,265,Washington State,Pac-12,1771,26,UCLA,Pac-12,1686
+400869223,2016,7,false,true,23,San José State,Mountain West,1146,2440,Nevada,Mountain West,1309
+400869222,2016,7,false,true,62,Hawai'i,Mountain West,1168,2439,UNLV,Mountain West,1257
+400869467,2016,8,false,true,259,Virginia Tech,ACC,1801,2390,Miami,ACC,1680
+400869830,2016,8,false,true,6,South Alabama,Sun Belt,1335,2653,Troy,Sun Belt,1522
+400869224,2016,8,false,false,68,Boise State,Mountain West,1776,252,BYU,FBS Independents,1671
+400869542,2016,8,false,true,218,Temple,American Athletic,1560,58,South Florida,American Athletic,1718
+400869230,2016,8,false,true,21,San Diego State,Mountain West,1613,23,San José State,Mountain West,1154
+400869140,2016,8,false,true,25,California,Pac-12,1578,2483,Oregon,Pac-12,1543
+400869543,2016,8,false,true,41,Connecticut,American Athletic,1393,2116,UCF,American Athletic,1361
+400869600,2016,8,false,true,2305,Kansas,Big 12,1025,197,Oklahoma State,Big 12,1658
+400869609,2016,8,false,true,2306,Kansas State,Big 12,1637,251,Texas,Big 12,1586
+400869674,2016,8,false,true,2294,Iowa,Big Ten,1682,275,Wisconsin,Big Ten,1847
+400869678,2016,8,false,true,77,Northwestern,Big Ten,1564,84,Indiana,Big Ten,1530
+400869638,2016,8,false,true,135,Minnesota,Big Ten,1595,164,Rutgers,Big Ten,1114
+400869469,2016,8,false,true,97,Louisville,ACC,1925,152,NC State,ACC,1644
+400868916,2016,8,false,false,349,Army,FBS Independents,1515,249,North Texas,Conference USA,1210
+400868964,2016,8,false,false,2579,South Carolina,SEC,1497,113,UMass,FBS Independents,1165
+400869313,2016,8,false,true,2649,Toledo,Mid-American,1690,2117,Central Michigan,Mid-American,1408
+400869316,2016,8,false,true,189,Bowling Green,Mid-American,1196,193,Miami (OH),Mid-American,1177
+400869468,2016,8,false,true,103,Boston College,ACC,1365,183,Syracuse,ACC,1395
+400869315,2016,8,false,true,2309,Kent State,Mid-American,1216,195,Ohio,Mid-American,1364
+400869225,2016,8,false,true,2005,Air Force,Mountain West,1571,62,Hawai'i,Mountain West,1169
+400869311,2016,8,false,true,2050,Ball State,Mid-American,1284,2006,Akron,Mid-American,1357
+400869470,2016,8,false,true,258,Virginia,ACC,1486,153,North Carolina,ACC,1703
+400869143,2016,8,false,true,24,Stanford,Pac-12,1690,38,Colorado,Pac-12,1681
+400869029,2016,8,false,true,333,Alabama,SEC,2198,245,Texas A&M,SEC,1756
+400869831,2016,8,false,true,2026,Appalachian State,Sun Belt,1551,70,Idaho,Sun Belt,1153
+400869312,2016,8,false,true,2459,Northern Illinois,Mid-American,1371,2084,Buffalo,Mid-American,1128
+400869389,2016,8,false,false,242,Rice,Conference USA,,2504,Prairie View,SWAC,
+400869546,2016,8,false,true,2426,Navy,American Athletic,1631,235,Memphis,American Athletic,1787
+400869314,2016,8,false,true,2711,Western Michigan,Mid-American,1839,2199,Eastern Michigan,Mid-American,1171
+400869628,2016,8,false,true,277,West Virginia,Big 12,1769,2628,TCU,Big 12,1779
+400869677,2016,8,false,true,158,Nebraska,Big Ten,1725,2509,Purdue,Big Ten,1230
+400869676,2016,8,false,true,130,Michigan,Big Ten,2112,356,Illinois,Big Ten,1377
+400869833,2016,8,false,false,2247,Georgia State,Sun Belt,,2630,UT Martin,OVC,
+400869547,2016,8,false,true,202,Tulsa,American Athletic,1437,2655,Tulane,American Athletic,1265
+400869142,2016,8,false,true,26,UCLA,Pac-12,1683,254,Utah,Pac-12,1660
+400869033,2016,8,false,false,142,Missouri,SEC,1464,2393,Middle Tennessee,Conference USA,1512
+400869386,2016,8,false,true,276,Marshall,Conference USA,1382,2429,Charlotte,Conference USA,938
+400869226,2016,8,false,true,2439,UNLV,Mountain West,1256,36,Colorado State,Mountain West,1309
+400869030,2016,8,false,true,2,Auburn,SEC,1833,8,Arkansas,SEC,1720
+400869144,2016,8,false,true,264,Washington,Pac-12,2065,204,Oregon State,Pac-12,1226
+400869545,2016,8,false,true,2567,SMU,American Athletic,1212,248,Houston,American Athletic,1909
+400869390,2016,8,false,true,2636,UT San Antonio,Conference USA,1317,2638,UTEP,Conference USA,1008
+400869544,2016,8,false,true,2132,Cincinnati,American Athletic,1403,151,East Carolina,American Athletic,1377
+400869388,2016,8,false,true,98,Western Kentucky,Conference USA,1685,295,Old Dominion,Conference USA,1329
+400869387,2016,8,false,true,2229,Florida International,Conference USA,1085,2348,Louisiana Tech,Conference USA,1604
+400869834,2016,8,false,true,326,Texas State,Sun Belt,1025,309,Louisiana,Sun Belt,1205
+400869675,2016,8,false,true,120,Maryland,Big Ten,1441,127,Michigan State,Big Ten,1592
+400869031,2016,8,false,true,96,Kentucky,SEC,1430,344,Mississippi State,SEC,1636
+400869034,2016,8,false,false,238,Vanderbilt,SEC,,2634,Tennessee State,OVC,
+400869616,2016,8,false,true,2641,Texas Tech,Big 12,1505,201,Oklahoma,Big 12,1890
+400869832,2016,8,false,true,166,New Mexico State,Sun Belt,936,290,Georgia Southern,Sun Belt,1530
+400869645,2016,8,false,true,213,Penn State,Big Ten,1569,194,Ohio State,Big Ten,2203
+400869227,2016,8,false,false,167,New Mexico,Mountain West,1355,2433,Louisiana Monroe,Sun Belt,1041
+400869032,2016,8,false,true,99,LSU,SEC,1848,145,Ole Miss,SEC,1891
+400869141,2016,8,false,true,9,Arizona State,Pac-12,1530,265,Washington State,Pac-12,1774
+400869229,2016,8,false,true,2440,Nevada,Mountain West,1301,2751,Wyoming,Mountain West,1324
+400869228,2016,8,false,true,328,Utah State,Mountain West,1435,278,Fresno State,Mountain West,1115
+400869471,2016,9,false,true,221,Pittsburgh,ACC,1607,259,Virginia Tech,ACC,1838
+400869317,2016,9,false,true,2084,Buffalo,Mid-American,1055,2006,Akron,Mid-American,1371
+400869318,2016,9,false,true,2649,Toledo,Mid-American,1695,195,Ohio,Mid-American,1361
+400869835,2016,9,false,true,290,Georgia Southern,Sun Belt,1503,2026,Appalachian State,Sun Belt,1555
+400869145,2016,9,false,true,30,USC,Pac-12,1776,25,California,Pac-12,1579
+400869548,2016,9,false,true,58,South Florida,American Athletic,1668,2426,Navy,American Athletic,1674
+400869234,2016,9,false,true,328,Utah State,Mountain West,1446,21,San Diego State,Mountain West,1667
+400869231,2016,9,false,true,278,Fresno State,Mountain West,1104,2005,Air Force,Mountain West,1523
+400869474,2016,9,false,true,59,Georgia Tech,ACC,1613,150,Duke,ACC,1481
+400869551,2016,9,false,true,151,East Carolina,American Athletic,1357,41,Connecticut,American Athletic,1375
+400869549,2016,9,false,true,248,Houston,American Athletic,1763,2116,UCF,American Athletic,1379
+400869475,2016,9,false,true,258,Virginia,ACC,1456,97,Louisville,ACC,2007
+400869038,2016,9,false,true,142,Missouri,SEC,1457,96,Kentucky,SEC,1433
+400868965,2016,9,false,false,113,UMass,FBS Independents,,2681,Wagner,NEC,
+400869592,2016,9,false,true,66,Iowa State,Big 12,1408,2306,Kansas State,Big 12,1637
+400869682,2016,9,false,true,2509,Purdue,Big Ten,1242,213,Penn State,Big Ten,1580
+400869319,2016,9,false,true,2117,Central Michigan,Mid-American,1403,2309,Kent State,Mid-American,1219
+400869679,2016,9,false,true,356,Illinois,Big Ten,1369,135,Minnesota,Big Ten,1589
+400869681,2016,9,false,true,127,Michigan State,Big Ten,1560,130,Michigan,Big Ten,2120
+400869621,2016,9,false,true,197,Oklahoma State,Big 12,1655,277,West Virginia,Big 12,1830
+400869472,2016,9,false,true,152,NC State,ACC,1562,103,Boston College,ACC,1352
+400869148,2016,9,false,true,254,Utah,Pac-12,1675,264,Washington,Pac-12,2045
+400869646,2016,9,false,true,194,Ohio State,Big Ten,2192,77,Northwestern,Big Ten,1579
+400868881,2016,9,false,true,251,Texas,Big 12,1586,239,Baylor,Big 12,1853
+400869035,2016,9,true,true,61,Georgia,SEC,1643,57,Florida,SEC,1761
+400869717,2016,9,false,true,2199,Eastern Michigan,Mid-American,1193,193,Miami (OH),Mid-American,1211
+400868917,2016,9,false,false,154,Wake Forest,ACC,1441,349,Army,FBS Independents,1439
+400869392,2016,9,false,true,2226,Florida Atlantic,Conference USA,1135,98,Western Kentucky,Conference USA,1739
+400869037,2016,9,false,false,344,Mississippi State,SEC,,2535,Samford,Southern,
+400869680,2016,9,false,true,84,Indiana,Big Ten,1515,120,Maryland,Big Ten,1473
+400869629,2016,9,false,true,2628,TCU,Big 12,1718,2641,Texas Tech,Big 12,1519
+400869550,2016,9,false,true,218,Temple,American Athletic,1610,2132,Cincinnati,American Athletic,1423
+400868953,2016,9,false,false,87,Notre Dame,FBS Independents,1668,2390,Miami,ACC,1643
+400869553,2016,9,false,true,2655,Tulane,American Athletic,1227,2567,SMU,American Athletic,1358
+400869837,2016,9,false,true,6,South Alabama,Sun Belt,1336,2247,Georgia State,Sun Belt,1312
+400869147,2016,9,false,true,2483,Oregon,Pac-12,1542,9,Arizona State,Pac-12,1538
+400869395,2016,9,false,true,2636,UT San Antonio,Conference USA,1292,249,North Texas,Conference USA,1286
+400869393,2016,9,false,true,2348,Louisiana Tech,Conference USA,1602,242,Rice,Conference USA,1184
+400869836,2016,9,false,true,2032,Arkansas State,Sun Belt,1388,2433,Louisiana Monroe,Sun Belt,960
+400869391,2016,9,false,true,2229,Florida International,Conference USA,1087,2393,Middle Tennessee,Conference USA,1519
+400869394,2016,9,false,true,2572,Southern Mississippi,Conference USA,1442,276,Marshall,Conference USA,1347
+400869601,2016,9,false,true,201,Oklahoma,Big 12,1876,2305,Kansas,Big 12,1028
+400869683,2016,9,false,true,275,Wisconsin,Big Ten,1850,158,Nebraska,Big Ten,1713
+400869232,2016,9,false,true,2751,Wyoming,Mountain West,1338,68,Boise State,Mountain West,1774
+400869039,2016,9,false,true,2579,South Carolina,SEC,1489,2633,Tennessee,SEC,1707
+400869036,2016,9,false,true,145,Ole Miss,SEC,1850,2,Auburn,SEC,1982
+400869040,2016,9,false,false,245,Texas A&M,SEC,1753,166,New Mexico State,Sun Belt,963
+400869473,2016,9,false,true,52,Florida State,ACC,1724,228,Clemson,ACC,1957
+400869396,2016,9,false,true,2638,UTEP,Conference USA,1033,295,Old Dominion,Conference USA,1275
+400869552,2016,9,false,true,235,Memphis,American Athletic,1744,202,Tulsa,American Athletic,1475
+400869235,2016,9,false,true,23,San José State,Mountain West,1100,2439,UNLV,Mountain West,1215
+400869149,2016,9,false,true,204,Oregon State,Pac-12,1246,265,Washington State,Pac-12,1766
+400869146,2016,9,false,true,12,Arizona,Pac-12,1401,24,Stanford,Pac-12,1681
+400869233,2016,9,false,true,62,Hawai'i,Mountain West,1217,167,New Mexico,Mountain West,1436
+400869320,2016,10,false,true,2459,Northern Illinois,Mid-American,1444,189,Bowling Green,Mid-American,1162
+400869321,2016,10,false,true,2050,Ball State,Mid-American,1270,2711,Western Michigan,Mid-American,1817
+400869322,2016,10,false,true,2006,Akron,Mid-American,1284,2649,Toledo,Mid-American,1661
+400869323,2016,10,false,true,195,Ohio,Mid-American,1395,2084,Buffalo,Mid-American,1142
+400869838,2016,10,false,true,2247,Georgia State,Sun Belt,1311,2032,Arkansas State,Sun Belt,1451
+400869593,2016,10,false,true,66,Iowa State,Big 12,1415,201,Oklahoma,Big 12,1926
+400869150,2016,10,false,true,38,Colorado,Pac-12,1690,26,UCLA,Pac-12,1668
+400869324,2016,10,false,true,193,Miami (OH),Mid-American,1238,2117,Central Michigan,Mid-American,1387
+400869554,2016,10,false,true,41,Connecticut,American Athletic,1263,218,Temple,American Athletic,1641
+400869236,2016,10,false,true,68,Boise State,Mountain West,1768,23,San José State,Mountain West,1113
+400868954,2016,10,true,false,2426,Navy,American Athletic,1664,87,Notre Dame,FBS Independents,1669
+400868918,2016,10,false,false,349,Army,FBS Independents,1455,2005,Air Force,Mountain West,1510
+400869684,2016,10,false,true,356,Illinois,Big Ten,1334,127,Michigan State,Big Ten,1584
+400869639,2016,10,false,true,164,Rutgers,Big Ten,1120,84,Indiana,Big Ten,1520
+400869630,2016,10,false,true,2641,Texas Tech,Big 12,1536,251,Texas,Big 12,1594
+400869045,2016,10,false,false,145,Ole Miss,SEC,1838,290,Georgia Southern,Sun Belt,1446
+400869046,2016,10,false,true,344,Mississippi State,SEC,1633,245,Texas A&M,SEC,1779
+400869476,2016,10,false,true,103,Boston College,ACC,1383,97,Louisville,ACC,1982
+400869042,2016,10,false,true,2,Auburn,SEC,1994,238,Vanderbilt,SEC,1429
+400869687,2016,10,false,true,77,Northwestern,Big Ten,1592,275,Wisconsin,Big Ten,1851
+400869481,2016,10,false,true,2390,Miami,ACC,1642,221,Pittsburgh,ACC,1616
+400869480,2016,10,false,true,153,North Carolina,ACC,1733,59,Georgia Tech,ACC,1612
+400869403,2016,10,false,true,2393,Middle Tennessee,Conference USA,1502,2636,UT San Antonio,Conference USA,1320
+400869482,2016,10,false,true,154,Wake Forest,ACC,1425,258,Virginia,ACC,1481
+400869237,2016,10,false,true,36,Colorado State,Mountain West,1350,278,Fresno State,Mountain West,1117
+400869397,2016,10,false,true,2572,Southern Mississippi,Conference USA,1452,2429,Charlotte,Conference USA,973
+400869399,2016,10,false,true,242,Rice,Conference USA,1107,2226,Florida Atlantic,Conference USA,1067
+400869686,2016,10,false,true,135,Minnesota,Big Ten,1624,2509,Purdue,Big Ten,1175
+400869839,2016,10,false,true,2026,Appalachian State,Sun Belt,1612,326,Texas State,Sun Belt,982
+400868966,2016,10,false,false,2653,Troy,Sun Belt,1521,113,UMass,FBS Independents,1173
+400868930,2016,10,false,false,2132,Cincinnati,American Athletic,1392,252,BYU,FBS Independents,1673
+400869610,2016,10,false,true,2306,Kansas State,Big 12,1630,197,Oklahoma State,Big 12,1710
+400868882,2016,10,false,true,239,Baylor,Big 12,1845,2628,TCU,Big 12,1701
+400869041,2016,10,false,true,8,Arkansas,SEC,1571,57,Florida,SEC,1775
+400869478,2016,10,false,true,150,Duke,ACC,1482,259,Virginia Tech,ACC,1829
+400869685,2016,10,false,true,130,Michigan,Big Ten,2096,120,Maryland,Big Ten,1468
+400869477,2016,10,false,true,228,Clemson,ACC,1948,183,Syracuse,ACC,1408
+400869153,2016,10,false,true,24,Stanford,Pac-12,1713,204,Oregon State,Pac-12,1270
+400869151,2016,10,false,true,265,Washington State,Pac-12,1742,12,Arizona,Pac-12,1369
+400869048,2016,10,false,false,2633,Tennessee,SEC,,2635,Tennessee Tech,OVC,
+400869047,2016,10,false,true,2579,South Carolina,SEC,1493,142,Missouri,SEC,1423
+400869556,2016,10,false,true,2567,SMU,American Athletic,1356,235,Memphis,American Athletic,1625
+400869841,2016,10,false,true,2433,Louisiana Monroe,Sun Belt,897,6,South Alabama,Sun Belt,1337
+400921256,2016,10,false,true,2116,UCF,American Athletic,1389,2655,Tulane,American Athletic,1229
+400869840,2016,10,false,true,309,Louisiana,Sun Belt,1248,70,Idaho,Sun Belt,1149
+400869400,2016,10,false,true,249,North Texas,Conference USA,1258,2348,Louisiana Tech,Conference USA,1679
+400869398,2016,10,false,true,98,Western Kentucky,Conference USA,1807,2229,Florida International,Conference USA,1104
+400869479,2016,10,false,true,152,NC State,ACC,1531,52,Florida State,ACC,1733
+400869602,2016,10,false,true,277,West Virginia,Big 12,1775,2305,Kansas,Big 12,978
+400869152,2016,10,false,true,30,USC,Pac-12,1806,2483,Oregon,Pac-12,1585
+400869401,2016,10,false,true,295,Old Dominion,Conference USA,1276,276,Marshall,Conference USA,1337
+400869240,2016,10,false,true,21,San Diego State,Mountain West,1714,62,Hawai'i,Mountain West,1220
+400869043,2016,10,false,true,96,Kentucky,SEC,1467,61,Georgia,SEC,1629
+400869688,2016,10,false,true,213,Penn State,Big Ten,1647,2294,Iowa,Big Ten,1679
+400869044,2016,10,false,true,99,LSU,SEC,1889,333,Alabama,SEC,2201
+400869555,2016,10,false,true,202,Tulsa,American Athletic,1594,151,East Carolina,American Athletic,1469
+400869647,2016,10,false,true,194,Ohio State,Big Ten,2179,158,Nebraska,Big Ten,1712
+400869402,2016,10,false,false,2638,UTEP,Conference USA,,2277,Houston Christian,Southland,
+400869239,2016,10,false,true,2751,Wyoming,Mountain West,1344,328,Utah State,Mountain West,1399
+400869238,2016,10,false,true,167,New Mexico,Mountain West,1433,2440,Nevada,Mountain West,1287
+400869154,2016,10,false,true,25,California,Pac-12,1549,264,Washington,Pac-12,2032
+400869325,2016,11,false,true,2050,Ball State,Mid-American,1245,2199,Eastern Michigan,Mid-American,1166
+400869326,2016,11,false,true,2309,Kent State,Mid-American,1235,2711,Western Michigan,Mid-American,1842
+400869327,2016,11,false,true,2006,Akron,Mid-American,1243,189,Bowling Green,Mid-American,1130
+400869328,2016,11,true,true,2459,Northern Illinois,Mid-American,1476,2649,Toledo,Mid-American,1702
+400869483,2016,11,false,true,150,Duke,ACC,1497,153,North Carolina,ACC,1792
+400869844,2016,11,false,true,290,Georgia Southern,Sun Belt,1455,309,Louisiana,Sun Belt,1218
+400869155,2016,11,false,true,9,Arizona State,Pac-12,1495,254,Utah,Pac-12,1688
+400869484,2016,11,false,true,52,Florida State,ACC,1727,103,Boston College,ACC,1326
+400869558,2016,11,false,true,151,East Carolina,American Athletic,1432,2567,SMU,American Athletic,1260
+400868883,2016,11,false,true,201,Oklahoma,Big 12,1907,239,Baylor,Big 12,1702
+400869689,2016,11,false,true,84,Indiana,Big Ten,1504,213,Penn State,Big Ten,1721
+400869631,2016,11,false,true,251,Texas,Big 12,1605,277,West Virginia,Big 12,1764
+400869692,2016,11,false,true,2509,Purdue,Big Ten,1184,77,Northwestern,Big Ten,1584
+400869640,2016,11,false,true,127,Michigan State,Big Ten,1573,164,Rutgers,Big Ten,1136
+400869594,2016,11,false,true,2305,Kansas,Big 12,989,66,Iowa State,Big 12,1434
+400869561,2016,11,false,true,2426,Navy,American Athletic,1666,202,Tulsa,American Athletic,1631
+400869049,2016,11,false,true,333,Alabama,SEC,2196,344,Mississippi State,SEC,1651
+400869557,2016,11,false,true,2116,UCF,American Athletic,1453,2132,Cincinnati,American Athletic,1379
+400869054,2016,11,false,true,2633,Tennessee,SEC,1703,96,Kentucky,SEC,1472
+400869051,2016,11,false,true,57,Florida,SEC,1702,2579,South Carolina,SEC,1505
+400869488,2016,11,false,true,183,Syracuse,ACC,1318,152,NC State,ACC,1537
+400869329,2016,11,false,true,2084,Buffalo,Mid-American,1109,193,Miami (OH),Mid-American,1301
+400869845,2016,11,false,true,2247,Georgia State,Sun Belt,1290,2433,Louisiana Monroe,Sun Belt,935
+400869404,2016,11,false,true,2429,Charlotte,Conference USA,1046,242,Rice,Conference USA,1062
+400869724,2016,11,false,true,258,Virginia,ACC,1468,2390,Miami,ACC,1696
+400869843,2016,11,false,true,2032,Arkansas State,Sun Belt,1472,166,New Mexico State,Sun Belt,937
+400868931,2016,11,false,false,252,BYU,FBS Independents,,253,Southern Utah,Big Sky,
+400869406,2016,11,false,true,2348,Louisiana Tech,Conference USA,1689,2636,UT San Antonio,Conference USA,1392
+400869409,2016,11,false,true,295,Old Dominion,Conference USA,1343,2572,Southern Mississippi,Conference USA,1379
+400869560,2016,11,false,true,248,Houston,American Athletic,1753,2655,Tulane,American Athletic,1165
+400869842,2016,11,false,true,2653,Troy,Sun Belt,1536,2026,Appalachian State,Sun Belt,1612
+400869648,2016,11,false,true,120,Maryland,Big Ten,1383,194,Ohio State,Big Ten,2296
+400869693,2016,11,false,true,275,Wisconsin,Big Ten,1859,356,Illinois,Big Ten,1345
+400869052,2016,11,false,true,61,Georgia,SEC,1624,2,Auburn,SEC,1975
+400869622,2016,11,false,true,197,Oklahoma State,Big 12,1715,2641,Texas Tech,Big 12,1525
+400869486,2016,11,false,true,259,Virginia Tech,ACC,1814,59,Georgia Tech,ACC,1553
+400869485,2016,11,false,true,228,Clemson,ACC,2038,221,Pittsburgh,ACC,1562
+400868919,2016,11,true,false,87,Notre Dame,FBS Independents,1667,349,Army,FBS Independents,1414
+400869053,2016,11,false,true,142,Missouri,SEC,1411,238,Vanderbilt,SEC,1448
+400869244,2016,11,false,true,2439,UNLV,Mountain West,1202,2751,Wyoming,Mountain West,1410
+400869408,2016,11,false,true,98,Western Kentucky,Conference USA,1807,249,North Texas,Conference USA,1248
+400869846,2016,11,false,true,326,Texas State,Sun Belt,982,70,Idaho,Sun Belt,1179
+400869159,2016,11,false,true,2483,Oregon,Pac-12,1546,24,Stanford,Pac-12,1702
+400869405,2016,11,false,true,2226,Florida Atlantic,Conference USA,1112,2638,UTEP,Conference USA,1032
+400869242,2016,11,false,true,62,Hawai'i,Mountain West,1120,68,Boise State,Mountain West,1747
+400869559,2016,11,false,true,235,Memphis,American Athletic,1721,58,South Florida,American Athletic,1678
+400869050,2016,11,false,true,8,Arkansas,SEC,1644,99,LSU,SEC,1894
+400869487,2016,11,false,true,97,Louisville,ACC,2039,154,Wake Forest,ACC,1438
+400869407,2016,11,false,true,276,Marshall,Conference USA,1270,2393,Middle Tennessee,Conference USA,1430
+400869691,2016,11,false,true,158,Nebraska,Big Ten,1595,135,Minnesota,Big Ten,1615
+400869055,2016,11,false,true,245,Texas A&M,SEC,1761,145,Ole Miss,SEC,1829
+400869157,2016,11,false,true,264,Washington,Pac-12,2085,30,USC,Pac-12,1845
+400869690,2016,11,false,true,2294,Iowa,Big Ten,1605,130,Michigan,Big Ten,2181
+400869158,2016,11,false,true,26,UCLA,Pac-12,1652,204,Oregon State,Pac-12,1281
+400869156,2016,11,false,true,12,Arizona,Pac-12,1228,38,Colorado,Pac-12,1706
+400869243,2016,11,false,true,328,Utah State,Mountain West,1333,167,New Mexico,Mountain West,1438
+400869241,2016,11,false,true,2005,Air Force,Mountain West,1551,36,Colorado State,Mountain West,1425
+400869245,2016,11,false,true,2440,Nevada,Mountain West,1282,21,San Diego State,Mountain West,1814
+400869160,2016,11,false,true,265,Washington State,Pac-12,1883,25,California,Pac-12,1496
+400869330,2016,12,false,true,189,Bowling Green,Mid-American,1161,2309,Kent State,Mid-American,1252
+400869331,2016,12,false,true,2117,Central Michigan,Mid-American,1324,195,Ohio,Mid-American,1428
+400869332,2016,12,false,true,2649,Toledo,Mid-American,1695,2050,Ball State,Mid-American,1226
+400869333,2016,12,false,true,2199,Eastern Michigan,Mid-American,1185,2459,Northern Illinois,Mid-American,1483
+400869562,2016,12,false,false,248,Houston,American Athletic,1734,97,Louisville,ACC,2058
+400869847,2016,12,false,true,2653,Troy,Sun Belt,1541,2032,Arkansas State,Sun Belt,1467
+400869563,2016,12,false,true,2132,Cincinnati,American Athletic,1337,235,Memphis,American Athletic,1704
+400869246,2016,12,false,true,68,Boise State,Mountain West,1775,2439,UNLV,Mountain West,1206
+400869065,2016,12,false,false,245,Texas A&M,SEC,1763,2636,UT San Antonio,Conference USA,1353
+400869649,2016,12,false,true,127,Michigan State,Big Ten,1661,194,Ohio State,Big Ten,2357
+400869698,2016,12,false,true,2509,Purdue,Big Ten,1154,275,Wisconsin,Big Ten,1924
+400869623,2016,12,false,true,2628,TCU,Big 12,1844,197,Oklahoma State,Big 12,1710
+400869697,2016,12,false,true,158,Nebraska,Big Ten,1606,120,Maryland,Big Ten,1322
+400868884,2016,12,false,true,239,Baylor,Big 12,1673,2306,Kansas State,Big 12,1625
+400869414,2016,12,false,true,242,Rice,Conference USA,1062,2638,UTEP,Conference USA,1031
+400869694,2016,12,false,true,356,Illinois,Big Ten,1280,2294,Iowa,Big Ten,1620
+400869059,2016,12,false,false,61,Georgia,SEC,1650,309,Louisiana,Sun Belt,1251
+400868920,2016,12,false,false,349,Army,FBS Independents,,2415,Morgan State,MEAC,
+400869494,2016,12,false,true,59,Georgia Tech,ACC,1599,258,Virginia,ACC,1442
+400869495,2016,12,false,true,152,NC State,ACC,1551,2390,Miami,ACC,1722
+400922862,2016,12,false,true,99,LSU,SEC,1941,57,Florida,SEC,1712
+400869490,2016,12,false,false,103,Boston College,ACC,1269,41,Connecticut,American Athletic,1249
+400869165,2016,12,false,true,254,Utah,Pac-12,1726,2483,Oregon,Pac-12,1498
+400869849,2016,12,false,true,2247,Georgia State,Sun Belt,1219,290,Georgia Southern,Sun Belt,1422
+400869410,2016,12,false,true,2429,Charlotte,Conference USA,1046,2393,Middle Tennessee,Conference USA,1347
+400868932,2016,12,false,false,252,BYU,FBS Independents,1686,113,UMass,FBS Independents,1158
+400869848,2016,12,false,true,2026,Appalachian State,Sun Belt,1607,2433,Louisiana Monroe,Sun Belt,1006
+400869492,2016,12,false,true,221,Pittsburgh,ACC,1589,150,Duke,ACC,1506
+400869496,2016,12,false,false,153,North Carolina,ACC,,2643,The Citadel,Southern,
+400869334,2016,12,false,true,2711,Western Michigan,Mid-American,1825,2084,Buffalo,Mid-American,1102
+400869164,2016,12,false,true,38,Colorado,Pac-12,1720,265,Washington State,Pac-12,1933
+400869493,2016,12,false,true,183,Syracuse,ACC,1304,52,Florida State,ACC,1784
+400869064,2016,12,false,true,2633,Tennessee,SEC,1710,142,Missouri,SEC,1428
+400868955,2016,12,false,false,87,Notre Dame,FBS Independents,1751,259,Virginia Tech,ACC,1768
+400869695,2016,12,false,true,130,Michigan,Big Ten,2166,84,Indiana,Big Ten,1492
+400869250,2016,12,false,true,2751,Wyoming,Mountain West,1406,21,San Diego State,Mountain West,1836
+400869566,2016,12,false,true,2655,Tulane,American Athletic,1184,218,Temple,American Athletic,1655
+400869595,2016,12,false,true,66,Iowa State,Big 12,1416,2641,Texas Tech,Big 12,1530
+400869603,2016,12,false,true,2305,Kansas,Big 12,1007,251,Texas,Big 12,1609
+400869696,2016,12,false,true,135,Minnesota,Big Ten,1604,77,Northwestern,Big Ten,1614
+400869063,2016,12,false,false,2579,South Carolina,SEC,,2717,Western Carolina,Southern,
+400922541,2016,12,false,true,151,East Carolina,American Athletic,1346,2426,Navy,American Athletic,1666
+400869249,2016,12,false,true,2440,Nevada,Mountain West,1260,328,Utah State,Mountain West,1335
+400869060,2016,12,false,false,96,Kentucky,SEC,,2046,Austin Peay,OVC,
+400869850,2016,12,false,true,166,New Mexico State,Sun Belt,942,326,Texas State,Sun Belt,913
+400869166,2016,12,false,true,25,California,Pac-12,1446,24,Stanford,Pac-12,1750
+400869413,2016,12,false,true,249,North Texas,Conference USA,1209,2572,Southern Mississippi,Conference USA,1341
+400869412,2016,12,false,true,2226,Florida Atlantic,Conference USA,1113,295,Old Dominion,Conference USA,1381
+400925661,2016,12,false,false,6,South Alabama,Sun Belt,,2506,Presbyterian College,Big South,
+400869056,2016,12,false,false,333,Alabama,SEC,,236,Chattanooga,Southern,
+400869491,2016,12,false,true,154,Wake Forest,ACC,1419,228,Clemson,ACC,2011
+400869062,2016,12,false,true,344,Mississippi State,SEC,1580,8,Arkansas,SEC,1597
+400869251,2016,12,false,true,278,Fresno State,Mountain West,1042,62,Hawai'i,Mountain West,1092
+400869411,2016,12,false,true,2229,Florida International,Conference USA,1104,276,Marshall,Conference USA,1353
+400869565,2016,12,false,true,2567,SMU,American Athletic,1346,58,South Florida,American Athletic,1695
+400869057,2016,12,false,false,2,Auburn,SEC,,2010,Alabama A&M,SWAC,
+400869162,2016,12,false,true,264,Washington,Pac-12,2031,9,Arizona State,Pac-12,1457
+400869617,2016,12,false,true,277,West Virginia,Big 12,1760,201,Oklahoma,Big 12,1936
+400869641,2016,12,false,true,164,Rutgers,Big Ten,1048,213,Penn State,Big Ten,1733
+400869066,2016,12,false,true,238,Vanderbilt,SEC,1431,145,Ole Miss,SEC,1827
+400869564,2016,12,false,true,2116,UCF,American Athletic,1495,202,Tulsa,American Athletic,1631
+400869248,2016,12,false,true,36,Colorado State,Mountain West,1426,167,New Mexico,Mountain West,1436
+400869247,2016,12,false,true,23,San José State,Mountain West,1134,2005,Air Force,Mountain West,1550
+400869161,2016,12,false,true,204,Oregon State,Pac-12,1283,12,Arizona,Pac-12,1214
+400869163,2016,12,false,true,26,UCLA,Pac-12,1650,30,USC,Pac-12,1899
+400869337,2016,13,false,true,2199,Eastern Michigan,Mid-American,1194,2117,Central Michigan,Mid-American,1340
+400869336,2016,13,false,true,193,Miami (OH),Mid-American,1308,2050,Ball State,Mid-American,1228
+400869335,2016,13,false,true,195,Ohio,Mid-American,1412,2006,Akron,Mid-American,1212
+400869067,2016,13,false,true,245,Texas A&M,SEC,1757,99,LSU,SEC,1912
+400869339,2016,13,false,true,2309,Kent State,Mid-American,1141,2459,Northern Illinois,Mid-American,1474
+400869497,2016,13,false,true,153,North Carolina,ACC,1783,152,NC State,ACC,1535
+400869568,2016,13,false,true,235,Memphis,American Athletic,1735,248,Houston,American Athletic,1842
+400869338,2016,13,false,true,189,Bowling Green,Mid-American,1272,2084,Buffalo,Mid-American,1080
+400869073,2016,13,false,true,142,Missouri,SEC,1393,8,Arkansas,SEC,1633
+400869252,2016,13,false,true,2005,Air Force,Mountain West,1531,68,Boise State,Mountain West,1764
+400869699,2016,13,false,true,2294,Iowa,Big Ten,1657,158,Nebraska,Big Ten,1627
+400869168,2016,13,false,true,265,Washington State,Pac-12,1885,264,Washington,Pac-12,2038
+400869632,2016,13,false,true,251,Texas,Big 12,1599,2628,TCU,Big 12,1760
+400869418,2016,13,false,true,2572,Southern Mississippi,Conference USA,1327,2348,Louisiana Tech,Conference USA,1728
+400869340,2016,13,false,true,2711,Western Michigan,Mid-American,1847,2649,Toledo,Mid-American,1693
+400868885,2016,13,true,true,2641,Texas Tech,Big 12,1331,239,Baylor,Big 12,1614
+400869567,2016,13,false,true,202,Tulsa,American Athletic,1653,2132,Cincinnati,American Athletic,1306
+400869167,2016,13,false,true,12,Arizona,Pac-12,1159,9,Arizona State,Pac-12,1450
+400869852,2016,13,false,true,309,Louisiana,Sun Belt,1255,2032,Arkansas State,Sun Belt,1569
+400869700,2016,13,false,true,84,Indiana,Big Ten,1517,2509,Purdue,Big Ten,1158
+400869642,2016,13,false,true,120,Maryland,Big Ten,1301,164,Rutgers,Big Ten,1018
+400869501,2016,13,false,true,259,Virginia Tech,ACC,1771,258,Virginia,ACC,1427
+400869070,2016,13,false,false,61,Georgia,SEC,1646,59,Georgia Tech,ACC,1614
+400869071,2016,13,false,false,97,Louisville,ACC,1950,96,Kentucky,SEC,1465
+400869650,2016,13,false,true,194,Ohio State,Big Ten,2329,130,Michigan,Big Ten,2141
+400869604,2016,13,false,true,2306,Kansas State,Big 12,1684,2305,Kansas,Big 12,1017
+400869569,2016,13,false,true,58,South Florida,American Athletic,1684,2116,UCF,American Athletic,1473
+400869701,2016,13,false,true,77,Northwestern,Big Ten,1576,356,Illinois,Big Ten,1243
+400869500,2016,13,false,true,221,Pittsburgh,ACC,1701,183,Syracuse,ACC,1274
+400869498,2016,13,false,true,154,Wake Forest,ACC,1423,103,Boston College,ACC,1347
+400869416,2016,13,false,true,295,Old Dominion,Conference USA,1398,2229,Florida International,Conference USA,1167
+400869255,2016,13,false,true,278,Fresno State,Mountain West,1043,23,San José State,Mountain West,1153
+400869702,2016,13,false,true,213,Penn State,Big Ten,1763,127,Michigan State,Big Ten,1689
+400869072,2016,13,false,true,145,Ole Miss,SEC,1730,344,Mississippi State,SEC,1544
+400869068,2016,13,false,true,333,Alabama,SEC,2267,2,Auburn,SEC,1949
+400869499,2016,13,false,true,2390,Miami,ACC,1738,150,Duke,ACC,1394
+400869703,2016,13,false,true,275,Wisconsin,Big Ten,1920,135,Minnesota,Big Ten,1642
+400869853,2016,13,false,true,70,Idaho,Sun Belt,1248,6,South Alabama,Sun Belt,1299
+400869572,2016,13,false,true,2567,SMU,American Athletic,1357,2426,Navy,American Athletic,1726
+400868956,2016,13,false,false,30,USC,Pac-12,1928,87,Notre Dame,FBS Independents,1748
+400869596,2016,13,false,true,66,Iowa State,Big 12,1615,277,West Virginia,Big 12,1705
+400869256,2016,13,false,true,2439,UNLV,Mountain West,1217,2440,Nevada,Mountain West,1263
+400869420,2016,13,false,true,2638,UTEP,Conference USA,988,249,North Texas,Conference USA,1223
+400869854,2016,13,false,true,326,Texas State,Sun Belt,800,2653,Troy,Sun Belt,1439
+400869851,2016,13,false,true,166,New Mexico State,Sun Belt,1055,2026,Appalachian State,Sun Belt,1609
+400869570,2016,13,false,true,41,Connecticut,American Athletic,1171,2655,Tulane,American Athletic,1153
+400869171,2016,13,false,true,204,Oregon State,Pac-12,1338,2483,Oregon,Pac-12,1514
+400869417,2016,13,false,true,2393,Middle Tennessee,Conference USA,1338,2226,Florida Atlantic,Conference USA,1096
+400869169,2016,13,false,true,25,California,Pac-12,1442,26,UCLA,Pac-12,1621
+400869415,2016,13,false,true,2636,UT San Antonio,Conference USA,1359,2429,Charlotte,Conference USA,1055
+400869419,2016,13,false,true,276,Marshall,Conference USA,1290,98,Western Kentucky,Conference USA,1846
+400869170,2016,13,false,true,38,Colorado,Pac-12,1768,254,Utah,Pac-12,1710
+400869074,2016,13,false,false,228,Clemson,ACC,2007,2579,South Carolina,SEC,1495
+400869571,2016,13,false,true,218,Temple,American Athletic,1686,151,East Carolina,American Athletic,1286
+400869075,2016,13,false,true,238,Vanderbilt,SEC,1528,2633,Tennessee,SEC,1745
+400869069,2016,13,false,false,52,Florida State,ACC,1814,57,Florida,SEC,1741
+400869172,2016,13,false,false,24,Stanford,Pac-12,1754,242,Rice,Conference USA,1105
+400869253,2016,13,false,true,21,San Diego State,Mountain West,1824,36,Colorado State,Mountain West,1467
+400869254,2016,13,false,true,167,New Mexico,Mountain West,1395,2751,Wyoming,Mountain West,1418
+400868933,2016,13,false,false,252,BYU,FBS Independents,1741,328,Utah State,Mountain West,1332
+400868967,2016,13,false,false,62,Hawai'i,Mountain West,1091,113,UMass,FBS Independents,1103
+400926941,2016,14,true,true,195,Ohio,Mid-American,1410,2711,Western Michigan,Mid-American,1878
+400926942,2016,14,true,true,264,Washington,Pac-12,2096,38,Colorado,Pac-12,1771
+400926948,2016,14,false,true,98,Western Kentucky,Conference USA,1936,2348,Louisiana Tech,Conference USA,1656
+400926947,2016,14,false,true,2426,Navy,American Athletic,1809,218,Temple,American Athletic,1712
+400869611,2016,14,false,true,2628,TCU,Big 12,1799,2306,Kansas State,Big 12,1663
+400869856,2016,14,false,true,290,Georgia Southern,Sun Belt,1404,2653,Troy,Sun Belt,1457
+400869618,2016,14,false,true,201,Oklahoma,Big 12,1991,197,Oklahoma State,Big 12,1794
+400869859,2016,14,false,true,6,South Alabama,Sun Belt,1287,166,New Mexico State,Sun Belt,1036
+400869858,2016,14,false,true,2433,Louisiana Monroe,Sun Belt,1004,309,Louisiana,Sun Belt,1274
+400868886,2016,14,false,true,277,West Virginia,Big 12,1778,239,Baylor,Big 12,1529
+400926943,2016,14,true,true,57,Florida,SEC,1708,333,Alabama,SEC,2278
+400869857,2016,14,false,true,70,Idaho,Sun Belt,1260,2247,Georgia State,Sun Belt,1237
+400869855,2016,14,false,true,326,Texas State,Sun Belt,782,2032,Arkansas State,Sun Belt,1550
+400926949,2016,14,false,true,2751,Wyoming,Mountain West,1366,21,San Diego State,Mountain West,1679
+400926946,2016,14,true,true,213,Penn State,Big Ten,1844,275,Wisconsin,Big Ten,1925
+400926944,2016,14,true,true,259,Virginia Tech,ACC,1848,228,Clemson,ACC,2085
+400868921,2016,15,true,false,349,Army,FBS Independents,1330,2426,Navy,American Athletic,1733

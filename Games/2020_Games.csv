@@ -1,0 +1,543 @@
+﻿id,season,week,neutral_site,conference_game,home_id,home_team,home_conference,home_pregame_elo,away_id,away_team,away_conference,away_pregame_elo
+401238035,2020,1,false,false,5,UAB,Conference USA,,2110,Central Arkansas,Southland,
+401207101,2020,1,false,false,2572,Southern Mississippi,Conference USA,1451,6,South Alabama,Sun Belt,1227
+401237353,2020,1,false,false,276,Marshall,Conference USA,,2198,Eastern Kentucky,OVC,
+401235700,2020,1,false,false,349,Army,FBS Independents,1495,2393,Middle Tennessee,Conference USA,1429
+401212484,2020,1,false,false,326,Texas State,Sun Belt,1193,2567,SMU,American Athletic,1557
+401207098,2020,1,false,false,249,North Texas,Conference USA,,2277,Houston Christian,Southland,
+401212553,2020,1,false,false,235,Memphis,American Athletic,1698,2032,Arkansas State,Sun Belt,1431
+401239884,2020,1,false,false,2638,UTEP,Conference USA,,2617,Stephen F. Austin,Southland,
+401234576,2020,1,false,false,2426,Navy,American Athletic,1625,252,BYU,FBS Independents,1513
+401234559,2020,2,false,false,2390,Miami,ACC,1528,5,UAB,Conference USA,1399
+401236081,2020,2,false,false,2026,Appalachian State,Sun Belt,1696,2429,Charlotte,Conference USA,1377
+401236053,2020,2,false,false,2306,Kansas State,Big 12,1632,2032,Arkansas State,Sun Belt,1427
+401234565,2020,2,false,true,153,North Carolina,ACC,1615,183,Syracuse,ACC,1481
+401236038,2020,2,false,false,277,West Virginia,Big 12,,2198,Eastern Kentucky,OVC,
+401236221,2020,2,false,false,66,Iowa State,Big 12,1663,309,Louisiana,Sun Belt,1651
+401240113,2020,2,false,false,349,Army,FBS Independents,1610,2433,Louisiana Monroe,Sun Belt,1305
+401234574,2020,2,false,true,87,Notre Dame,FBS Independents,1833,150,Duke,ACC,1411
+401207113,2020,2,false,false,326,Texas State,Sun Belt,1206,2636,UT San Antonio,Conference USA,1222
+401240233,2020,2,false,false,221,Pittsburgh,ACC,,2046,Austin Peay,OVC,
+401234563,2020,2,false,true,52,Florida State,ACC,1496,59,Georgia Tech,ACC,1341
+401215298,2020,2,false,false,290,Georgia Southern,Sun Belt,,2097,Campbell,Big South,
+401236054,2020,2,false,false,201,Oklahoma,Big 12,,2623,Missouri State,MVFC,
+401240039,2020,2,false,false,58,South Florida,American Athletic,,2643,The Citadel,Southern,
+401234562,2020,2,false,true,154,Wake Forest,ACC,1510,228,Clemson,ACC,2062
+401239973,2020,2,false,false,6,South Alabama,Sun Belt,1272,2655,Tulane,American Athletic,1531
+401234564,2020,2,false,false,97,Louisville,ACC,1437,98,Western Kentucky,Conference USA,1515
+401236039,2020,2,false,false,2641,Texas Tech,Big 12,,2277,Houston Christian,Southland,
+401236222,2020,2,false,false,251,Texas,Big 12,1744,2638,UTEP,Conference USA,1145
+401236658,2020,2,false,false,2305,Kansas,Big 12,1315,324,Coastal Carolina,Sun Belt,1316
+401240126,2020,3,false,false,324,Coastal Carolina,Sun Belt,,2097,Campbell,Big South,
+401236041,2020,3,false,false,197,Oklahoma State,Big 12,1596,202,Tulsa,American Athletic,1413
+401234567,2020,3,false,true,150,Duke,ACC,1416,103,Boston College,ACC,1465
+401234571,2020,3,false,true,221,Pittsburgh,ACC,1503,183,Syracuse,ACC,1433
+401212522,2020,3,false,true,2655,Tulane,American Athletic,1521,2426,Navy,American Athletic,1438
+401207124,2020,3,false,false,98,Western Kentucky,Conference USA,1480,2335,Liberty,FBS Independents,1390
+401215301,2020,3,false,true,2247,Georgia State,Sun Belt,1305,309,Louisiana,Sun Belt,1693
+401212541,2020,3,false,false,2132,Cincinnati,American Athletic,,2046,Austin Peay,OVC,
+401241282,2020,3,false,false,87,Notre Dame,FBS Independents,1828,58,South Florida,American Athletic,1335
+401234568,2020,3,false,false,59,Georgia Tech,ACC,1355,2116,UCF,American Athletic,1757
+401240041,2020,3,false,false,2636,UT San Antonio,Conference USA,,2617,Stephen F. Austin,Southland,
+401236939,2020,3,false,false,276,Marshall,Conference USA,1464,2026,Appalachian State,Sun Belt,1700
+401240640,2020,3,false,false,2393,Middle Tennessee,Conference USA,1314,2653,Troy,Sun Belt,1388
+401237492,2020,3,false,false,228,Clemson,ACC,,2643,The Citadel,Southern,
+401207120,2020,3,false,false,249,North Texas,Conference USA,1384,2567,SMU,American Athletic,1544
+401234569,2020,3,false,true,97,Louisville,ACC,1472,2390,Miami,ACC,1553
+401215302,2020,3,false,true,2433,Louisiana Monroe,Sun Belt,1261,326,Texas State,Sun Belt,1202
+401207106,2020,3,false,true,2572,Southern Mississippi,Conference USA,1406,2348,Louisiana Tech,Conference USA,1536
+401234570,2020,3,false,true,152,NC State,ACC,1347,154,Wake Forest,ACC,1506
+401239885,2020,3,false,false,2638,UTEP,Conference USA,,2000,Abilene Christian,Southland,
+401207132,2020,4,false,false,6,South Alabama,Sun Belt,1282,5,UAB,Conference USA,1374
+401207134,2020,4,false,false,2636,UT San Antonio,Conference USA,1226,2393,Middle Tennessee,Conference USA,1229
+401236253,2020,4,false,false,2026,Appalachian State,Sun Belt,,2097,Campbell,Big South,
+401212536,2020,4,false,true,151,East Carolina,American Athletic,1237,2116,UCF,American Athletic,1787
+401235996,2020,4,false,true,201,Oklahoma,Big 12,1771,2306,Kansas State,Big 12,1611
+401236952,2020,4,false,true,145,Ole Miss,SEC,1558,57,Florida,SEC,1778
+401237034,2020,4,false,true,2,Auburn,SEC,1782,96,Kentucky,SEC,1649
+401215303,2020,4,false,true,309,Louisiana,Sun Belt,1676,290,Georgia Southern,Sun Belt,1465
+401234595,2020,4,false,true,221,Pittsburgh,ACC,1518,97,Louisville,ACC,1451
+401234594,2020,4,false,true,183,Syracuse,ACC,1418,59,Georgia Tech,ACC,1325
+401207126,2020,4,false,false,2335,Liberty,FBS Independents,1408,2229,Florida International,Conference USA,1383
+401235994,2020,4,false,true,2628,TCU,Big 12,1583,66,Iowa State,Big 12,1621
+401235995,2020,4,false,true,2641,Texas Tech,Big 12,1525,251,Texas,Big 12,1833
+401237035,2020,4,false,true,99,LSU,SEC,2061,344,Mississippi State,SEC,1550
+401240194,2020,4,false,false,2433,Louisiana Monroe,Sun Belt,1200,2638,UTEP,Conference USA,1056
+401235997,2020,4,false,true,197,Oklahoma State,Big 12,1599,277,West Virginia,Big 12,1507
+401240996,2020,4,false,false,2132,Cincinnati,American Athletic,1673,349,Army,FBS Independents,1654
+401237033,2020,4,false,true,8,Arkansas,SEC,1307,61,Georgia,SEC,1832
+401234638,2020,4,false,true,258,Virginia,ACC,1609,150,Duke,ACC,1371
+401241303,2020,4,false,false,103,Boston College,ACC,1510,326,Texas State,Sun Belt,1263
+401234734,2020,4,false,false,2572,Southern Mississippi,Conference USA,1411,2655,Tulane,American Athletic,1511
+401212485,2020,4,false,false,2567,SMU,American Athletic,,2617,Stephen F. Austin,Southland,
+401232157,2020,4,false,false,2348,Louisiana Tech,Conference USA,,2277,Houston Christian,Southland,
+401236951,2020,4,false,true,142,Missouri,SEC,1592,333,Alabama,SEC,1962
+401235993,2020,4,false,true,239,Baylor,Big 12,1717,2305,Kansas,Big 12,1280
+401234593,2020,4,false,true,2390,Miami,ACC,1574,52,Florida State,ACC,1482
+401237037,2020,4,false,true,245,Texas A&M,SEC,1647,238,Vanderbilt,SEC,1289
+401237036,2020,4,false,true,2579,South Carolina,SEC,1498,2633,Tennessee,SEC,1545
+401234566,2020,4,false,true,259,Virginia Tech,ACC,1623,152,NC State,ACC,1350
+401236223,2020,4,false,false,252,BYU,FBS Independents,1700,2653,Troy,Sun Belt,1473
+401240282,2020,5,false,false,154,Wake Forest,ACC,,2097,Campbell,Big South,
+401246275,2020,5,false,false,252,BYU,FBS Independents,1789,2348,Louisiana Tech,Conference USA,1531
+401234600,2020,5,false,true,221,Pittsburgh,ACC,1518,152,NC State,ACC,1328
+401237096,2020,5,false,true,57,Florida,SEC,1794,2579,South Carolina,SEC,1495
+401235998,2020,5,false,true,277,West Virginia,Big 12,1487,239,Baylor,Big 12,1756
+401236002,2020,5,false,true,251,Texas,Big 12,1824,2628,TCU,Big 12,1581
+401237099,2020,5,false,true,2633,Tennessee,SEC,1548,142,Missouri,SEC,1582
+401215304,2020,5,false,true,324,Coastal Carolina,Sun Belt,1351,2032,Arkansas State,Sun Belt,1448
+401212547,2020,5,false,false,2247,Georgia State,Sun Belt,1322,151,East Carolina,American Athletic,1235
+401207141,2020,5,false,true,5,UAB,Conference USA,1453,2636,UT San Antonio,Conference USA,1227
+401237513,2020,5,false,false,2335,Liberty,FBS Independents,,2453,North Alabama,Big South,
+401240040,2020,5,false,false,349,Army,FBS Independents,,2000,Abilene Christian,Southland,
+401237093,2020,5,false,true,333,Alabama,SEC,1972,245,Texas A&M,SEC,1638
+401212486,2020,5,false,true,2567,SMU,American Athletic,1608,235,Memphis,American Athletic,1702
+401236000,2020,5,false,true,2305,Kansas,Big 12,1241,197,Oklahoma State,Big 12,1619
+401236001,2020,5,false,true,2306,Kansas State,Big 12,1626,2641,Texas Tech,Big 12,1534
+401212476,2020,5,false,true,2132,Cincinnati,American Athletic,1700,58,South Florida,American Athletic,1245
+401234597,2020,5,false,true,103,Boston College,ACC,1508,153,North Carolina,ACC,1663
+401237097,2020,5,false,true,96,Kentucky,SEC,1627,145,Ole Miss,SEC,1542
+401207136,2020,5,false,true,2226,Florida Atlantic,Conference USA,1685,2429,Charlotte,Conference USA,1373
+401238034,2020,5,false,false,52,Florida State,ACC,,55,Jacksonville State,OVC,
+401234599,2020,5,false,true,150,Duke,ACC,1353,259,Virginia Tech,ACC,1645
+401207138,2020,5,false,true,2393,Middle Tennessee,Conference USA,1228,98,Western Kentucky,Conference USA,1462
+401212557,2020,5,false,false,2005,Air Force,Mountain West,1645,2426,Navy,American Athletic,1448
+401215305,2020,5,false,true,2433,Louisiana Monroe,Sun Belt,1114,290,Georgia Southern,Sun Belt,1467
+401235999,2020,5,false,true,66,Iowa State,Big 12,1623,201,Oklahoma,Big 12,1756
+401237094,2020,5,false,true,344,Mississippi State,SEC,1623,8,Arkansas,SEC,1292
+401207139,2020,5,false,true,249,North Texas,Conference USA,1320,2572,Southern Mississippi,Conference USA,1298
+401237098,2020,5,false,true,238,Vanderbilt,SEC,1298,99,LSU,SEC,1988
+401212531,2020,5,false,true,2116,UCF,American Athletic,1789,202,Tulsa,American Athletic,1410
+401237095,2020,5,false,true,61,Georgia,SEC,1847,2,Auburn,SEC,1804
+401234598,2020,5,false,true,228,Clemson,ACC,2066,258,Virginia,ACC,1627
+401212523,2020,6,false,true,248,Houston,American Athletic,1468,2655,Tulane,American Athletic,1624
+401234601,2020,6,false,true,59,Georgia Tech,ACC,1297,97,Louisville,ACC,1451
+401207215,2020,6,false,false,2335,Liberty,FBS Independents,1408,2433,Louisiana Monroe,Sun Belt,1128
+401234608,2020,6,false,true,258,Virginia,ACC,1626,152,NC State,ACC,1339
+401237102,2020,6,false,true,245,Texas A&M,SEC,1603,57,Florida,SEC,1798
+401236005,2020,6,true,true,201,Oklahoma,Big 12,1739,251,Texas,Big 12,1807
+401237105,2020,6,false,true,99,LSU,SEC,2004,142,Missouri,SEC,1522
+401237106,2020,6,false,true,238,Vanderbilt,SEC,1282,2579,South Carolina,SEC,1491
+401234607,2020,6,false,true,153,North Carolina,ACC,1660,259,Virginia Tech,ACC,1637
+401234605,2020,6,false,true,183,Syracuse,ACC,1446,150,Duke,ACC,1361
+401240114,2020,6,false,false,349,Army,FBS Independents,,2643,The Citadel,Southern,
+401215308,2020,6,false,true,2653,Troy,Sun Belt,1384,326,Texas State,Sun Belt,1265
+401240997,2020,6,false,false,252,BYU,FBS Independents,1842,2636,UT San Antonio,Conference USA,1228
+401237103,2020,6,false,true,61,Georgia,SEC,1892,2633,Tennessee,SEC,1608
+401246425,2020,6,false,false,2032,Arkansas State,Sun Belt,,2110,Central Arkansas,Southland,
+401236003,2020,6,false,true,66,Iowa State,Big 12,1640,2641,Texas Tech,Big 12,1523
+401237101,2020,6,false,true,2,Auburn,SEC,1759,8,Arkansas,SEC,1334
+401207143,2020,6,false,true,2229,Florida International,Conference USA,1383,2393,Middle Tennessee,Conference USA,1237
+401236004,2020,6,false,true,2628,TCU,Big 12,1598,2306,Kansas State,Big 12,1637
+401234603,2020,6,false,true,103,Boston College,ACC,1511,221,Pittsburgh,ACC,1507
+401212515,2020,6,false,true,2426,Navy,American Athletic,1382,218,Temple,American Athletic,1411
+401212477,2020,6,false,true,58,South Florida,American Athletic,1239,151,East Carolina,American Athletic,1197
+401207146,2020,6,false,true,98,Western Kentucky,Conference USA,1453,276,Marshall,Conference USA,1499
+401237104,2020,6,false,true,96,Kentucky,SEC,1622,344,Mississippi State,SEC,1581
+401234606,2020,6,false,true,87,Notre Dame,FBS Independents,1918,52,Florida State,ACC,1371
+401237100,2020,6,false,true,145,Ole Miss,SEC,1547,333,Alabama,SEC,2007
+401234604,2020,6,false,true,228,Clemson,ACC,2067,2390,Miami,ACC,1685
+401207145,2020,6,false,true,2348,Louisiana Tech,Conference USA,1478,2638,UTEP,Conference USA,1142
+401207142,2020,6,false,true,249,North Texas,Conference USA,1297,2429,Charlotte,Conference USA,1379
+401215311,2020,7,false,true,309,Louisiana,Sun Belt,1674,324,Coastal Carolina,Sun Belt,1440
+401215310,2020,7,false,true,2032,Arkansas State,Sun Belt,1359,2247,Georgia State,Sun Belt,1360
+401212487,2020,7,false,true,2655,Tulane,American Athletic,1567,2567,SMU,American Athletic,1610
+401212551,2020,7,false,false,248,Houston,American Athletic,1525,252,BYU,FBS Independents,1821
+401212548,2020,7,false,true,151,East Carolina,American Athletic,1252,2426,Navy,American Athletic,1383
+401237109,2020,7,false,true,2579,South Carolina,SEC,1562,2,Auburn,SEC,1754
+401234610,2020,7,false,true,59,Georgia Tech,ACC,1357,228,Clemson,ACC,2089
+401236007,2020,7,false,true,277,West Virginia,Big 12,1509,2305,Kansas,Big 12,1172
+401215313,2020,7,false,true,6,South Alabama,Sun Belt,1203,326,Texas State,Sun Belt,1230
+401212478,2020,7,false,true,218,Temple,American Athletic,1410,58,South Florida,American Athletic,1184
+401237111,2020,7,false,true,2633,Tennessee,SEC,1581,96,Kentucky,SEC,1671
+401234615,2020,7,false,false,183,Syracuse,ACC,1405,2335,Liberty,FBS Independents,1464
+401234614,2020,7,false,true,2390,Miami,ACC,1663,221,Pittsburgh,ACC,1506
+401207153,2020,7,false,true,5,UAB,Conference USA,1452,98,Western Kentucky,Conference USA,1395
+401240115,2020,7,false,false,2636,UT San Antonio,Conference USA,1249,349,Army,FBS Independents,1627
+401234613,2020,7,false,true,87,Notre Dame,FBS Independents,1907,97,Louisville,ACC,1391
+401212537,2020,7,false,true,235,Memphis,American Athletic,1700,2116,UCF,American Athletic,1739
+401239872,2020,7,false,false,2653,Troy,Sun Belt,,2198,Eastern Kentucky,OVC,
+401234611,2020,7,false,true,152,NC State,ACC,1413,150,Duke,ACC,1402
+401237108,2020,7,false,true,8,Arkansas,SEC,1339,145,Ole Miss,SEC,1554
+401250215,2020,7,false,false,290,Georgia Southern,Sun Belt,1453,113,UMass,FBS Independents,955
+401237112,2020,7,false,true,344,Mississippi State,SEC,1532,245,Texas A&M,SEC,1607
+401234616,2020,7,false,true,154,Wake Forest,ACC,1503,258,Virginia,ACC,1552
+401207150,2020,7,false,true,2393,Middle Tennessee,Conference USA,1251,249,North Texas,Conference USA,1230
+401207149,2020,7,false,true,2348,Louisiana Tech,Conference USA,1472,276,Marshall,Conference USA,1557
+401234612,2020,7,false,true,52,Florida State,ACC,1382,153,North Carolina,ACC,1678
+401237107,2020,7,false,true,333,Alabama,SEC,2000,61,Georgia,SEC,1919
+401234609,2020,7,false,true,259,Virginia Tech,ACC,1619,103,Boston College,ACC,1512
+401240642,2020,8,false,true,2026,Appalachian State,Sun Belt,1665,2032,Arkansas State,Sun Belt,1369
+401250783,2020,8,false,false,2229,Florida International,Conference USA,,55,Jacksonville State,OVC,
+401212479,2020,8,false,true,58,South Florida,American Athletic,1186,202,Tulsa,American Athletic,1460
+401247297,2020,8,false,true,275,Wisconsin,Big Ten,1847,356,Illinois,Big Ten,1441
+401238036,2020,8,false,false,5,UAB,Conference USA,1502,309,Louisiana,Sun Belt,1654
+401236010,2020,8,false,true,2306,Kansas State,Big 12,1647,2305,Kansas,Big 12,1156
+401234621,2020,8,false,true,153,North Carolina,ACC,1673,152,NC State,ACC,1432
+401240116,2020,8,false,false,349,Army,FBS Independents,,2382,Mercer,Southern,
+401236011,2020,8,false,true,2628,TCU,Big 12,1588,201,Oklahoma,Big 12,1763
+401237115,2020,8,false,true,145,Ole Miss,SEC,1513,2,Auburn,SEC,1729
+401247299,2020,8,false,true,127,Michigan State,Big Ten,1551,164,Rutgers,Big Ten,1229
+401234619,2020,8,false,true,97,Louisville,ACC,1405,52,Florida State,ACC,1387
+401212516,2020,8,false,true,235,Memphis,American Athletic,1702,218,Temple,American Athletic,1408
+401207154,2020,8,false,true,2429,Charlotte,Conference USA,1446,2638,UTEP,Conference USA,1148
+401215316,2020,8,false,true,324,Coastal Carolina,Sun Belt,1460,290,Georgia Southern,Sun Belt,1508
+401234618,2020,8,false,true,228,Clemson,ACC,2194,183,Syracuse,ACC,1370
+401247293,2020,8,false,true,194,Ohio State,Big Ten,2079,158,Nebraska,Big Ten,1568
+401207160,2020,8,false,false,2335,Liberty,FBS Independents,1499,2572,Southern Mississippi,Conference USA,1321
+401212524,2020,8,false,true,2116,UCF,American Athletic,1737,2655,Tulane,American Athletic,1565
+401207156,2020,8,false,true,276,Marshall,Conference USA,1592,2226,Florida Atlantic,Conference USA,1679
+401247295,2020,8,false,true,84,Indiana,Big Ten,1573,213,Penn State,Big Ten,1827
+401237114,2020,8,false,true,2633,Tennessee,SEC,1518,333,Alabama,SEC,2030
+401207158,2020,8,false,true,242,Rice,Conference USA,1307,2393,Middle Tennessee,Conference USA,1208
+401236008,2020,8,false,true,251,Texas,Big 12,1783,239,Baylor,Big 12,1734
+401234623,2020,8,false,true,154,Wake Forest,ACC,1545,259,Virginia Tech,ACC,1673
+401247296,2020,8,false,true,2509,Purdue,Big Ten,1492,2294,Iowa,Big Ten,1783
+401236009,2020,8,false,true,197,Oklahoma State,Big 12,1688,66,Iowa State,Big 12,1664
+401212552,2020,8,false,true,2426,Navy,American Athletic,1381,248,Houston,American Athletic,1513
+401234622,2020,8,false,true,221,Pittsburgh,ACC,1496,87,Notre Dame,FBS Independents,1893
+401215317,2020,8,false,true,2653,Troy,Sun Belt,1419,2247,Georgia State,Sun Belt,1350
+401207102,2020,8,false,false,98,Western Kentucky,Conference USA,,236,Chattanooga,Southern,
+401237122,2020,8,false,true,142,Missouri,SEC,1565,96,Kentucky,SEC,1734
+401234617,2020,8,false,true,103,Boston College,ACC,1458,59,Georgia Tech,ACC,1252
+401236012,2020,8,false,true,2641,Texas Tech,Big 12,1499,277,West Virginia,Big 12,1525
+401250784,2020,8,false,true,6,South Alabama,Sun Belt,1222,2433,Louisiana Monroe,Sun Belt,1072
+401248998,2020,8,false,true,2440,Nevada,Mountain West,1297,2751,Wyoming,Mountain West,1545
+401237118,2020,8,false,true,99,LSU,SEC,1961,2579,South Carolina,SEC,1587
+401248997,2020,8,false,true,68,Boise State,Mountain West,1638,328,Utah State,Mountain West,1428
+401248994,2020,8,false,true,278,Fresno State,Mountain West,1483,62,Hawai'i,Mountain West,1465
+401247298,2020,8,false,true,77,Northwestern,Big Ten,1495,120,Maryland,Big Ten,1290
+401247294,2020,8,false,true,135,Minnesota,Big Ten,1703,130,Michigan,Big Ten,1801
+401234620,2020,8,false,true,2390,Miami,ACC,1673,258,Virginia,ACC,1510
+401207157,2020,8,false,true,2636,UT San Antonio,Conference USA,1255,2348,Louisiana Tech,Conference USA,1437
+401212488,2020,8,false,true,2567,SMU,American Athletic,1612,2132,Cincinnati,American Athletic,1706
+401240998,2020,8,false,false,252,BYU,FBS Independents,1833,326,Texas State,Sun Belt,1211
+401248993,2020,8,false,true,23,San José State,Mountain West,1352,2005,Air Force,Mountain West,1711
+401248996,2020,8,false,true,21,San Diego State,Mountain West,1579,2439,UNLV,Mountain West,1285
+401215321,2020,9,false,true,290,Georgia Southern,Sun Belt,1475,6,South Alabama,Sun Belt,1265
+401249000,2020,9,false,true,278,Fresno State,Mountain West,1446,36,Colorado State,Mountain West,1409
+401247302,2020,9,false,true,120,Maryland,Big Ten,1202,135,Minnesota,Big Ten,1648
+401212533,2020,9,false,true,202,Tulsa,American Athletic,1507,151,East Carolina,American Athletic,1254
+401249001,2020,9,false,true,2751,Wyoming,Mountain West,1541,62,Hawai'i,Mountain West,1502
+401234624,2020,9,false,true,228,Clemson,ACC,2179,103,Boston College,ACC,1487
+401247305,2020,9,false,true,130,Michigan,Big Ten,1856,127,Michigan State,Big Ten,1495
+401237117,2020,9,false,true,96,Kentucky,SEC,1704,61,Georgia,SEC,1889
+401234629,2020,9,false,true,183,Syracuse,ACC,1385,154,Wake Forest,ACC,1562
+401236015,2020,9,false,true,277,West Virginia,Big 12,1514,2306,Kansas State,Big 12,1703
+401212543,2020,9,false,true,2132,Cincinnati,American Athletic,1775,235,Memphis,American Athletic,1702
+401236014,2020,9,false,true,2305,Kansas,Big 12,1100,66,Iowa State,Big 12,1663
+401247301,2020,9,false,true,356,Illinois,Big Ten,1384,2509,Purdue,Big Ten,1504
+401207162,2020,9,false,true,2226,Florida Atlantic,Conference USA,1652,2636,UT San Antonio,Conference USA,1261
+401215318,2020,9,false,true,2247,Georgia State,Sun Belt,1357,324,Coastal Carolina,Sun Belt,1493
+401212517,2020,9,false,true,2655,Tulane,American Athletic,1544,218,Temple,American Athletic,1408
+401212538,2020,9,false,true,248,Houston,American Athletic,1538,2116,UCF,American Athletic,1758
+401207166,2020,9,false,true,2572,Southern Mississippi,Conference USA,1289,242,Rice,Conference USA,1289
+401215320,2020,9,false,true,2032,Arkansas State,Sun Belt,1330,2653,Troy,Sun Belt,1412
+401236013,2020,9,false,true,239,Baylor,Big 12,1718,2628,TCU,Big 12,1559
+401234626,2020,9,false,true,59,Georgia Tech,ACC,1223,87,Notre Dame,FBS Independents,1966
+401247303,2020,9,false,true,2294,Iowa,Big Ten,1771,77,Northwestern,Big Ten,1583
+401247300,2020,9,false,true,164,Rutgers,Big Ten,1285,84,Indiana,Big Ten,1581
+401207163,2020,9,false,true,2348,Louisiana Tech,Conference USA,1431,5,UAB,Conference USA,1505
+401237121,2020,9,false,true,2,Auburn,SEC,1726,99,LSU,SEC,1992
+401234627,2020,9,false,true,97,Louisville,ACC,1490,259,Virginia Tech,ACC,1656
+401236017,2020,9,false,true,197,Oklahoma State,Big 12,1689,251,Texas,Big 12,1799
+401215319,2020,9,false,true,2433,Louisiana Monroe,Sun Belt,1029,2026,Appalachian State,Sun Belt,1704
+401237123,2020,9,false,true,238,Vanderbilt,SEC,1211,145,Ole Miss,SEC,1516
+401248999,2020,9,false,true,2005,Air Force,Mountain West,1661,68,Boise State,Mountain West,1690
+401237119,2020,9,false,true,333,Alabama,SEC,2056,344,Mississippi State,SEC,1507
+401249003,2020,9,false,true,167,New Mexico,Mountain West,1230,23,San José State,Mountain West,1402
+401234625,2020,9,false,false,150,Duke,ACC,1383,2429,Charlotte,Conference USA,1443
+401212489,2020,9,false,true,2567,SMU,American Athletic,1543,2426,Navy,American Athletic,1356
+401237120,2020,9,false,true,245,Texas A&M,SEC,1632,8,Arkansas,SEC,1380
+401237116,2020,9,false,true,57,Florida,SEC,1794,142,Missouri,SEC,1595
+401247306,2020,9,false,true,213,Penn State,Big Ten,1819,194,Ohio State,Big Ten,2115
+401234628,2020,9,false,true,258,Virginia,ACC,1511,153,North Carolina,ACC,1715
+401236016,2020,9,false,true,2641,Texas Tech,Big 12,1510,201,Oklahoma,Big 12,1792
+401215322,2020,9,false,true,326,Texas State,Sun Belt,1178,309,Louisiana,Sun Belt,1651
+401249004,2020,9,false,true,328,Utah State,Mountain West,1376,21,San Diego State,Mountain West,1619
+401239887,2020,9,false,false,252,BYU,FBS Independents,1866,98,Western Kentucky,Conference USA,1345
+401249002,2020,9,false,true,2439,UNLV,Mountain West,1245,2440,Nevada,Mountain West,1301
+401249856,2020,10,false,true,2309,Kent State,Mid-American,1366,2199,Eastern Michigan,Mid-American,1399
+401249857,2020,10,false,true,2006,Akron,Mid-American,1004,2711,Western Michigan,Mid-American,1485
+401249889,2020,10,false,true,193,Miami (OH),Mid-American,1411,2050,Ball State,Mid-American,1433
+401249860,2020,10,false,true,2117,Central Michigan,Mid-American,1415,195,Ohio,Mid-American,1575
+401249859,2020,10,false,true,2459,Northern Illinois,Mid-American,1316,2084,Buffalo,Mid-American,1562
+401249858,2020,10,false,true,2649,Toledo,Mid-American,1273,189,Bowling Green,Mid-American,1051
+401249009,2020,10,false,true,2440,Nevada,Mountain West,1339,328,Utah State,Mountain West,1319
+401249010,2020,10,false,true,36,Colorado State,Mountain West,1363,2751,Wyoming,Mountain West,1596
+401234630,2020,10,false,true,152,NC State,ACC,1390,2390,Miami,ACC,1672
+401249008,2020,10,false,true,21,San Diego State,Mountain West,1676,23,San José State,Mountain West,1425
+401249005,2020,10,false,false,68,Boise State,Mountain West,1734,252,BYU,FBS Independents,1890
+401212525,2020,10,false,true,151,East Carolina,American Athletic,1258,2655,Tulane,American Athletic,1624
+401249400,2020,10,false,true,30,USC,Pac-12,1593,9,Arizona State,Pac-12,1549
+401212480,2020,10,false,true,235,Memphis,American Athletic,1599,58,South Florida,American Athletic,1139
+401215327,2020,10,false,true,2247,Georgia State,Sun Belt,1216,2433,Louisiana Monroe,Sun Belt,1048
+401253924,2020,10,false,true,309,Louisiana,Sun Belt,1634,2032,Arkansas State,Sun Belt,1263
+401212490,2020,10,false,true,218,Temple,American Athletic,1328,2567,SMU,American Athletic,1556
+401236022,2020,10,false,true,251,Texas,Big 12,1804,277,West Virginia,Big 12,1608
+401247313,2020,10,false,true,2294,Iowa,Big Ten,1760,127,Michigan State,Big Ten,1524
+401234633,2020,10,false,true,150,Duke,ACC,1486,153,North Carolina,ACC,1711
+401247309,2020,10,false,true,84,Indiana,Big Ten,1590,130,Michigan,Big Ten,1827
+401247307,2020,10,false,true,77,Northwestern,Big Ten,1594,158,Nebraska,Big Ten,1532
+401234636,2020,10,false,false,259,Virginia Tech,ACC,1657,2335,Liberty,FBS Independents,1531
+401215326,2020,10,false,true,290,Georgia Southern,Sun Belt,1473,2653,Troy,Sun Belt,1479
+401234631,2020,10,false,true,183,Syracuse,ACC,1342,103,Boston College,ACC,1509
+401251931,2020,10,false,false,276,Marshall,Conference USA,1619,113,UMass,FBS Independents,900
+401215324,2020,10,false,true,326,Texas State,Sun Belt,1195,2026,Appalachian State,Sun Belt,1685
+401240035,2020,10,false,false,2572,Southern Mississippi,Conference USA,,2453,North Alabama,Big South,
+401237125,2020,10,true,true,61,Georgia,SEC,1896,57,Florida,SEC,1832
+401247312,2020,10,false,true,213,Penn State,Big Ten,1817,120,Maryland,Big Ten,1214
+401236021,2020,10,false,true,2628,TCU,Big 12,1594,2641,Texas Tech,Big 12,1448
+401237126,2020,10,false,true,344,Mississippi State,SEC,1458,238,Vanderbilt,SEC,1155
+401212544,2020,10,false,true,2132,Cincinnati,American Athletic,1878,248,Houston,American Athletic,1503
+401236019,2020,10,false,true,201,Oklahoma,Big 12,1854,2305,Kansas,Big 12,1082
+401247308,2020,10,false,true,356,Illinois,Big Ten,1380,135,Minnesota,Big Ten,1636
+401249006,2020,10,false,true,2439,UNLV,Mountain West,1207,278,Fresno State,Mountain West,1492
+401234634,2020,10,false,true,52,Florida State,ACC,1302,221,Pittsburgh,ACC,1423
+401236020,2020,10,false,true,2306,Kansas State,Big 12,1609,197,Oklahoma State,Big 12,1684
+401207169,2020,10,false,true,2226,Florida Atlantic,Conference USA,1664,98,Western Kentucky,Conference USA,1321
+401249402,2020,10,false,true,38,Colorado,Pac-12,1407,26,UCLA,Pac-12,1415
+401236018,2020,10,false,true,66,Iowa State,Big 12,1681,239,Baylor,Big 12,1683
+401237127,2020,10,false,true,2579,South Carolina,SEC,1556,245,Texas A&M,SEC,1634
+401249399,2020,10,false,true,2483,Oregon,Pac-12,1840,24,Stanford,Pac-12,1469
+401237124,2020,10,false,true,8,Arkansas,SEC,1378,2633,Tennessee,SEC,1492
+401234632,2020,10,false,true,87,Notre Dame,FBS Independents,1942,228,Clemson,ACC,2157
+401247310,2020,10,false,true,194,Ohio State,Big Ten,2117,164,Rutgers,Big Ten,1276
+401215325,2020,10,false,true,324,Coastal Carolina,Sun Belt,1634,6,South Alabama,Sun Belt,1267
+401249397,2020,10,false,true,204,Oregon State,Pac-12,1407,265,Washington State,Pac-12,1605
+401249007,2020,10,false,true,62,Hawai'i,Mountain West,1447,167,New Mexico,Mountain West,1207
+401249861,2020,11,false,true,195,Ohio,Mid-American,1572,2006,Akron,Mid-American,933
+401249862,2020,11,false,true,189,Bowling Green,Mid-American,981,2309,Kent State,Mid-American,1370
+401249890,2020,11,false,true,2084,Buffalo,Mid-American,1583,193,Miami (OH),Mid-American,1422
+401249865,2020,11,false,true,2050,Ball State,Mid-American,1422,2199,Eastern Michigan,Mid-American,1395
+401249864,2020,11,false,true,2459,Northern Illinois,Mid-American,1295,2117,Central Michigan,Mid-American,1418
+401249866,2020,11,false,true,2711,Western Michigan,Mid-American,1556,2649,Toledo,Mid-American,1343
+401249012,2020,11,false,true,68,Boise State,Mountain West,1657,36,Colorado State,Mountain West,1398
+401207174,2020,11,false,true,2229,Florida International,Conference USA,1369,2226,Florida Atlantic,Conference USA,1657
+401247317,2020,11,false,true,135,Minnesota,Big Ten,1679,2294,Iowa,Big Ten,1851
+401212545,2020,11,false,true,2132,Cincinnati,American Athletic,1909,151,East Carolina,American Athletic,1253
+401234641,2020,11,false,true,259,Virginia Tech,ACC,1645,2390,Miami,ACC,1660
+401207200,2020,11,false,false,2655,Tulane,American Athletic,1629,349,Army,FBS Independents,1621
+401234642,2020,11,false,true,153,North Carolina,ACC,1773,154,Wake Forest,ACC,1605
+401236024,2020,11,false,true,277,West Virginia,Big 12,1611,2628,TCU,Big 12,1615
+401207218,2020,11,false,false,2335,Liberty,FBS Independents,,2717,Western Carolina,Southern,
+401247316,2020,11,false,true,127,Michigan State,Big Ten,1433,84,Indiana,Big Ten,1652
+401247320,2020,11,false,true,158,Nebraska,Big Ten,1524,213,Penn State,Big Ten,1705
+401237132,2020,11,false,true,96,Kentucky,SEC,1697,238,Vanderbilt,SEC,1161
+401207176,2020,11,false,true,276,Marshall,Conference USA,1650,2393,Middle Tennessee,Conference USA,1226
+401247314,2020,11,false,true,164,Rutgers,Big Ten,1299,356,Illinois,Big Ten,1337
+401215332,2020,11,false,true,309,Louisiana,Sun Belt,1624,6,South Alabama,Sun Belt,1262
+401249013,2020,11,false,true,328,Utah State,Mountain West,1258,278,Fresno State,Mountain West,1495
+401215328,2020,11,false,true,2026,Appalachian State,Sun Belt,1688,2247,Georgia State,Sun Belt,1240
+401207179,2020,11,false,true,2636,UT San Antonio,Conference USA,1249,2638,UTEP,Conference USA,1151
+401234637,2020,11,false,true,103,Boston College,ACC,1504,87,Notre Dame,FBS Independents,1964
+401249406,2020,11,false,true,24,Stanford,Pac-12,1456,38,Colorado,Pac-12,1415
+401215331,2020,11,false,true,290,Georgia Southern,Sun Belt,1483,326,Texas State,Sun Belt,1192
+401257934,2020,11,false,true,258,Virginia,ACC,1515,97,Louisville,ACC,1489
+401212481,2020,11,false,true,248,Houston,American Athletic,1472,58,South Florida,American Athletic,1153
+401249403,2020,11,false,true,12,Arizona,Pac-12,1387,30,USC,Pac-12,1592
+401207178,2020,11,false,true,98,Western Kentucky,Conference USA,1328,2572,Southern Mississippi,Conference USA,1225
+401249014,2020,11,false,true,21,San Diego State,Mountain West,1628,62,Hawai'i,Mountain West,1443
+401236023,2020,11,false,true,2641,Texas Tech,Big 12,1427,239,Baylor,Big 12,1673
+401247315,2020,11,false,true,2509,Purdue,Big Ten,1508,77,Northwestern,Big Ten,1602
+401249015,2020,11,false,true,167,New Mexico,Mountain West,1211,2440,Nevada,Mountain West,1400
+401249405,2020,11,false,true,265,Washington State,Pac-12,1609,2483,Oregon,Pac-12,1853
+401237129,2020,11,false,true,57,Florida,SEC,1869,8,Arkansas,SEC,1407
+401212491,2020,11,false,true,202,Tulsa,American Athletic,1503,2567,SMU,American Athletic,1593
+401234639,2020,11,false,true,152,NC State,ACC,1402,52,Florida State,ACC,1253
+401247319,2020,11,false,true,130,Michigan,Big Ten,1765,275,Wisconsin,Big Ten,1904
+401212518,2020,11,false,true,2116,UCF,American Athletic,1793,218,Temple,American Athletic,1291
+401237133,2020,11,false,true,145,Ole Miss,SEC,1572,2579,South Carolina,SEC,1428
+401249016,2020,11,false,true,23,San José State,Mountain West,1473,2439,UNLV,Mountain West,1204
+401249404,2020,11,false,true,264,Washington,Pac-12,1760,204,Oregon State,Pac-12,1403
+401261454,2020,12,false,true,26,UCLA,Pac-12,1407,25,California,Pac-12,1499
+401249868,2020,12,false,true,189,Bowling Green,Mid-American,920,2084,Buffalo,Mid-American,1650
+401249867,2020,12,false,true,2309,Kent State,Mid-American,1431,2006,Akron,Mid-American,953
+401249872,2020,12,false,true,2117,Central Michigan,Mid-American,1486,2711,Western Michigan,Mid-American,1554
+401249870,2020,12,false,true,2050,Ball State,Mid-American,1430,2459,Northern Illinois,Mid-American,1227
+401249871,2020,12,false,true,2199,Eastern Michigan,Mid-American,1387,2649,Toledo,Mid-American,1345
+401212526,2020,12,false,true,202,Tulsa,American Athletic,1509,2655,Tulane,American Athletic,1695
+401234643,2020,12,false,true,97,Louisville,ACC,1463,183,Syracuse,ACC,1347
+401247325,2020,12,false,true,135,Minnesota,Big Ten,1623,2509,Purdue,Big Ten,1502
+401261674,2020,12,false,false,2226,Florida Atlantic,Conference USA,1674,113,UMass,FBS Independents,869
+401249018,2020,12,false,true,2005,Air Force,Mountain West,1617,167,New Mexico,Mountain West,1212
+401247374,2020,12,false,false,235,Memphis,American Athletic,,2617,Stephen F. Austin,Southland,
+401235975,2020,12,false,false,349,Army,FBS Independents,1555,290,Georgia Southern,Sun Belt,1480
+401237136,2020,12,false,true,8,Arkansas,SEC,1385,99,LSU,SEC,1846
+401247326,2020,12,false,true,194,Ohio State,Big Ten,2094,84,Indiana,Big Ten,1690
+401215333,2020,12,false,true,324,Coastal Carolina,Sun Belt,1639,2026,Appalachian State,Sun Belt,1679
+401212519,2020,12,false,true,218,Temple,American Athletic,1280,151,East Carolina,American Athletic,1224
+401215334,2020,12,false,true,326,Texas State,Sun Belt,1195,2032,Arkansas State,Sun Belt,1273
+401237138,2020,12,false,true,238,Vanderbilt,SEC,1166,57,Florida,SEC,1891
+401247321,2020,12,false,true,158,Nebraska,Big Ten,1544,356,Illinois,Big Ten,1339
+401207184,2020,12,false,true,249,North Texas,Conference USA,1273,242,Rice,Conference USA,1353
+401207181,2020,12,false,true,98,Western Kentucky,Conference USA,1328,2229,Florida International,Conference USA,1352
+401209818,2020,12,false,false,252,BYU,FBS Independents,,2453,North Alabama,Big South,
+401207185,2020,12,false,true,2572,Southern Mississippi,Conference USA,1225,2636,UT San Antonio,Conference USA,1321
+401249415,2020,12,false,true,2483,Oregon,Pac-12,1862,26,UCLA,Pac-12,1478
+401247323,2020,12,false,true,77,Northwestern,Big Ten,1608,275,Wisconsin,Big Ten,1997
+401249019,2020,12,false,true,2440,Nevada,Mountain West,1399,21,San Diego State,Mountain West,1668
+401247327,2020,12,false,true,213,Penn State,Big Ten,1685,2294,Iowa,Big Ten,1907
+401240641,2020,12,false,false,2653,Troy,Sun Belt,1469,2393,Middle Tennessee,Conference USA,1200
+401212540,2020,12,false,true,2116,UCF,American Athletic,1804,2132,Cincinnati,American Athletic,1938
+401249411,2020,12,false,true,204,Oregon State,Pac-12,1412,25,California,Pac-12,1428
+401215335,2020,12,false,true,6,South Alabama,Sun Belt,1229,2247,Georgia State,Sun Belt,1249
+401236025,2020,12,false,true,66,Iowa State,Big 12,1691,2306,Kansas State,Big 12,1610
+401237135,2020,12,false,true,333,Alabama,SEC,2105,96,Kentucky,SEC,1692
+401234648,2020,12,false,true,221,Pittsburgh,ACC,1472,259,Virginia Tech,ACC,1645
+401248275,2020,12,false,false,258,Virginia,ACC,,2000,Abilene Christian,Southland,
+401237137,2020,12,false,true,2,Auburn,SEC,1872,2633,Tennessee,SEC,1463
+401237141,2020,12,false,true,2579,South Carolina,SEC,1404,142,Missouri,SEC,1557
+401237139,2020,12,false,true,61,Georgia,SEC,1859,344,Mississippi State,SEC,1452
+401234647,2020,12,false,false,152,NC State,ACC,1423,2335,Liberty,FBS Independents,1543
+401247324,2020,12,false,true,164,Rutgers,Big Ten,1297,130,Michigan,Big Ten,1672
+401236027,2020,12,false,true,201,Oklahoma,Big 12,1912,197,Oklahoma State,Big 12,1683
+401249413,2020,12,false,true,264,Washington,Pac-12,1751,12,Arizona,Pac-12,1393
+401249410,2020,12,false,true,254,Utah,Pac-12,1721,30,USC,Pac-12,1586
+401249017,2020,12,false,true,62,Hawai'i,Mountain West,1403,68,Boise State,Mountain West,1709
+401249025,2020,13,false,true,328,Utah State,Mountain West,1236,167,New Mexico,Mountain West,1184
+401251926,2020,13,false,false,2335,Liberty,FBS Independents,1539,113,UMass,FBS Independents,890
+401236029,2020,13,false,true,251,Texas,Big 12,1801,66,Iowa State,Big 12,1815
+401247332,2020,13,false,true,2294,Iowa,Big Ten,1934,158,Nebraska,Big Ten,1476
+401212483,2020,13,false,true,58,South Florida,American Athletic,1095,2116,UCF,American Athletic,1807
+401234650,2020,13,false,true,153,North Carolina,ACC,1772,87,Notre Dame,FBS Independents,1955
+401249028,2020,13,false,true,2439,UNLV,Mountain West,1191,2751,Wyoming,Mountain West,1561
+401249874,2020,13,false,true,2199,Eastern Michigan,Mid-American,1341,2117,Central Michigan,Mid-American,1476
+401249417,2020,13,false,true,25,California,Pac-12,1425,24,Stanford,Pac-12,1449
+401249418,2020,13,false,true,204,Oregon State,Pac-12,1415,2483,Oregon,Pac-12,1858
+401215339,2020,13,false,true,2247,Georgia State,Sun Belt,1288,290,Georgia Southern,Sun Belt,1481
+401237143,2020,13,false,true,142,Missouri,SEC,1559,238,Vanderbilt,SEC,1183
+401236032,2020,13,false,true,197,Oklahoma State,Big 12,1636,2641,Texas Tech,Big 12,1434
+401249876,2020,13,false,true,195,Ohio,Mid-American,1552,189,Bowling Green,Mid-American,930
+401247329,2020,13,false,true,84,Indiana,Big Ten,1701,120,Maryland,Big Ten,1326
+401212513,2020,13,false,true,151,East Carolina,American Athletic,1298,2567,SMU,American Athletic,1587
+401234655,2020,13,false,true,183,Syracuse,ACC,1281,152,NC State,ACC,1427
+401249873,2020,13,false,true,2649,Toledo,Mid-American,1391,2050,Ball State,Mid-American,1428
+401249875,2020,13,false,true,2711,Western Michigan,Mid-American,1564,2459,Northern Illinois,Mid-American,1229
+401249877,2020,13,false,true,2084,Buffalo,Mid-American,1640,2309,Kent State,Mid-American,1468
+401237144,2020,13,false,true,57,Florida,SEC,1874,96,Kentucky,SEC,1564
+401247333,2020,13,false,true,130,Michigan,Big Ten,1657,213,Penn State,Big Ten,1658
+401249892,2020,13,false,true,2006,Akron,Mid-American,916,193,Miami (OH),Mid-American,1355
+401215337,2020,13,false,true,2032,Arkansas State,Sun Belt,1271,6,South Alabama,Sun Belt,1190
+401215338,2020,13,false,true,326,Texas State,Sun Belt,1197,324,Coastal Carolina,Sun Belt,1662
+401215340,2020,13,false,true,2433,Louisiana Monroe,Sun Belt,1024,309,Louisiana,Sun Belt,1657
+401207191,2020,13,false,true,2636,UT San Antonio,Conference USA,1320,249,North Texas,Conference USA,1296
+401215336,2020,13,false,true,2026,Appalachian State,Sun Belt,1656,2653,Troy,Sun Belt,1447
+401234651,2020,13,false,true,228,Clemson,ACC,2135,221,Pittsburgh,ACC,1587
+401237142,2020,13,false,true,333,Alabama,SEC,2233,2,Auburn,SEC,1866
+401247330,2020,13,false,true,127,Michigan State,Big Ten,1395,77,Northwestern,Big Ten,1656
+401247328,2020,13,false,true,2509,Purdue,Big Ten,1503,164,Rutgers,Big Ten,1312
+401234649,2020,13,false,true,103,Boston College,ACC,1513,97,Louisville,ACC,1529
+401237147,2020,13,false,true,145,Ole Miss,SEC,1596,344,Mississippi State,SEC,1463
+401265734,2020,13,false,false,38,Colorado,Pac-12,1422,21,San Diego State,Mountain West,1651
+401236028,2020,13,false,true,239,Baylor,Big 12,1666,2306,Kansas State,Big 12,1486
+401264080,2020,13,false,true,2426,Navy,American Athletic,1343,235,Memphis,American Athletic,1585
+401234652,2020,13,false,true,59,Georgia Tech,ACC,1247,150,Duke,ACC,1424
+401237146,2020,13,false,true,245,Texas A&M,SEC,1762,99,LSU,SEC,1825
+401237145,2020,13,false,true,2579,South Carolina,SEC,1402,61,Georgia,SEC,1848
+401265458,2020,13,false,true,264,Washington,Pac-12,1756,254,Utah,Pac-12,1668
+401249421,2020,13,false,true,26,UCLA,Pac-12,1482,12,Arizona,Pac-12,1388
+401236030,2020,13,false,true,2305,Kansas,Big 12,1024,2628,TCU,Big 12,1574
+401249024,2020,13,false,true,62,Hawai'i,Mountain West,1411,2440,Nevada,Mountain West,1416
+401265703,2020,14,false,true,249,North Texas,Conference USA,1212,2348,Louisiana Tech,Conference USA,1433
+401249029,2020,14,false,true,328,Utah State,Mountain West,1260,2005,Air Force,Mountain West,1645
+401252117,2020,14,false,true,2026,Appalachian State,Sun Belt,1734,309,Louisiana,Sun Belt,1725
+401247335,2020,14,false,true,2509,Purdue,Big Ten,1474,158,Nebraska,Big Ten,1489
+401237150,2020,14,false,true,2,Auburn,SEC,1831,245,Texas A&M,SEC,1793
+401236036,2020,14,false,true,2306,Kansas State,Big 12,1491,251,Texas,Big 12,1797
+401257812,2020,14,false,true,276,Marshall,Conference USA,1676,242,Rice,Conference USA,1330
+401236035,2020,14,false,true,2641,Texas Tech,Big 12,1436,2305,Kansas,Big 12,988
+401236037,2020,14,false,true,2628,TCU,Big 12,1610,197,Oklahoma State,Big 12,1634
+401247340,2020,14,false,true,127,Michigan State,Big Ten,1429,194,Ohio State,Big Ten,2083
+401249880,2020,14,false,true,2459,Northern Illinois,Mid-American,1232,2649,Toledo,Mid-American,1389
+401264082,2020,14,false,true,2655,Tulane,American Athletic,1678,235,Memphis,American Athletic,1576
+401265818,2020,14,false,true,142,Missouri,SEC,1629,8,Arkansas,SEC,1406
+401247336,2020,14,false,true,164,Rutgers,Big Ten,1341,213,Penn State,Big Ten,1679
+401248781,2020,14,false,false,153,North Carolina,ACC,,2717,Western Carolina,Southern,
+401262494,2020,14,false,true,6,South Alabama,Sun Belt,1210,2653,Troy,Sun Belt,1369
+401249881,2020,14,false,true,2006,Akron,Mid-American,882,189,Bowling Green,Mid-American,886
+401249879,2020,14,false,true,2711,Western Michigan,Mid-American,1561,2199,Eastern Michigan,Mid-American,1336
+401249878,2020,14,false,true,2117,Central Michigan,Mid-American,1481,2050,Ball State,Mid-American,1430
+401234662,2020,14,false,true,87,Notre Dame,FBS Independents,1970,183,Syracuse,ACC,1279
+401262493,2020,14,false,true,2032,Arkansas State,Sun Belt,1251,2433,Louisiana Monroe,Sun Belt,956
+401236034,2020,14,false,true,66,Iowa State,Big 12,1819,277,West Virginia,Big 12,1652
+401247337,2020,14,false,true,356,Illinois,Big Ten,1407,2294,Iowa,Big Ten,1921
+401234656,2020,14,false,true,258,Virginia,ACC,1541,103,Boston College,ACC,1523
+401237151,2020,14,false,true,2633,Tennessee,SEC,1469,57,Florida,SEC,1901
+401247338,2020,14,false,true,275,Wisconsin,Big Ten,1949,84,Indiana,Big Ten,1703
+401264083,2020,14,false,true,2426,Navy,American Athletic,1352,202,Tulsa,American Athletic,1526
+401234659,2020,14,false,true,152,NC State,ACC,1429,59,Georgia Tech,ACC,1324
+401249424,2020,14,false,true,264,Washington,Pac-12,1756,24,Stanford,Pac-12,1449
+401237514,2020,14,false,false,324,Coastal Carolina,Sun Belt,1705,252,BYU,FBS Independents,1967
+401261675,2020,14,false,false,290,Georgia Southern,Sun Belt,1464,2226,Florida Atlantic,Conference USA,1653
+401249033,2020,14,false,true,23,San José State,Mountain West,1486,62,Hawai'i,Mountain West,1412
+401249423,2020,14,false,true,25,California,Pac-12,1425,2483,Oregon,Pac-12,1850
+401249031,2020,14,false,true,21,San Diego State,Mountain West,1616,36,Colorado State,Mountain West,1346
+401249426,2020,14,false,true,12,Arizona,Pac-12,1360,38,Colorado,Pac-12,1457
+401234657,2020,14,false,true,259,Virginia Tech,ACC,1530,228,Clemson,ACC,2167
+401237153,2020,14,false,true,96,Kentucky,SEC,1537,2579,South Carolina,SEC,1374
+401266134,2020,14,false,true,150,Duke,ACC,1347,2390,Miami,ACC,1660
+401236033,2020,14,false,true,201,Oklahoma,Big 12,1959,239,Baylor,Big 12,1661
+401265817,2020,14,false,true,99,LSU,SEC,1794,333,Alabama,SEC,2268
+401249032,2020,14,false,true,2440,Nevada,Mountain West,1415,278,Fresno State,Mountain West,1517
+401249034,2020,14,false,true,167,New Mexico,Mountain West,1160,2751,Wyoming,Mountain West,1603
+401249425,2020,14,false,true,9,Arizona State,Pac-12,1550,26,UCLA,Pac-12,1510
+401249422,2020,14,false,true,254,Utah,Pac-12,1668,204,Oregon State,Pac-12,1423
+401266789,2020,14,false,true,2429,Charlotte,Conference USA,1340,98,Western Kentucky,Conference USA,1368
+401249427,2020,14,false,true,30,USC,Pac-12,1639,265,Washington State,Pac-12,1600
+401257813,2020,15,false,true,2572,Southern Mississippi,Conference USA,1226,2226,Florida Atlantic,Conference USA,1596
+401261245,2020,15,false,true,59,Georgia Tech,ACC,1314,221,Pittsburgh,ACC,1555
+401257816,2020,15,false,true,2638,UTEP,Conference USA,1079,249,North Texas,Conference USA,1208
+401249429,2020,15,false,true,12,Arizona,Pac-12,1345,9,Arizona State,Pac-12,1534
+401249037,2020,15,false,true,23,San José State,Mountain West,1500,2440,Nevada,Mountain West,1443
+401247342,2020,15,false,true,120,Maryland,Big Ten,1324,164,Rutgers,Big Ten,1336
+401247344,2020,15,false,true,77,Northwestern,Big Ten,1622,356,Illinois,Big Ten,1420
+401249885,2020,15,false,true,2050,Ball State,Mid-American,1503,2711,Western Michigan,Mid-American,1516
+401249884,2020,15,false,true,2199,Eastern Michigan,Mid-American,1381,2459,Northern Illinois,Mid-American,1207
+401247346,2020,15,false,true,213,Penn State,Big Ten,1684,127,Michigan State,Big Ten,1393
+401247345,2020,15,false,true,158,Nebraska,Big Ten,1508,135,Minnesota,Big Ten,1622
+401266696,2020,15,false,true,97,Louisville,ACC,1519,154,Wake Forest,ACC,1606
+401249428,2020,15,false,true,38,Colorado,Pac-12,1472,254,Utah,Pac-12,1664
+401267164,2020,15,false,true,8,Arkansas,SEC,1408,333,Alabama,SEC,2319
+401267161,2020,15,false,true,142,Missouri,SEC,1627,61,Georgia,SEC,1876
+401257815,2020,15,false,true,242,Rice,Conference USA,1424,5,UAB,Conference USA,1503
+401249886,2020,15,false,true,2084,Buffalo,Mid-American,1696,2006,Akron,Mid-American,956
+401259671,2020,15,false,true,2653,Troy,Sun Belt,1430,324,Coastal Carolina,Sun Belt,1722
+401207203,2020,15,true,false,349,Army,FBS Independents,1554,2426,Navy,American Athletic,1339
+401249883,2020,15,false,true,2649,Toledo,Mid-American,1414,2117,Central Michigan,Mid-American,1408
+401250713,2020,15,false,true,239,Baylor,Big 12,1659,197,Oklahoma State,Big 12,1623
+401264084,2020,15,false,true,235,Memphis,American Athletic,1556,248,Houston,American Athletic,1530
+401247347,2020,15,false,true,2294,Iowa,Big Ten,1908,275,Wisconsin,Big Ten,1912
+401234661,2020,15,false,true,2390,Miami,ACC,1764,153,North Carolina,ACC,1757
+401267163,2020,15,false,true,238,Vanderbilt,SEC,1113,2633,Tennessee,SEC,1479
+401266694,2020,15,false,true,52,Florida State,ACC,1232,150,Duke,ACC,1243
+401249035,2020,15,false,true,2751,Wyoming,Mountain West,1591,68,Boise State,Mountain West,1701
+401215309,2020,15,false,true,290,Georgia Southern,Sun Belt,1521,2026,Appalachian State,Sun Belt,1729
+401266711,2020,15,false,false,2628,TCU,Big 12,1621,2348,Louisiana Tech,Conference USA,1437
+401251100,2020,15,false,true,57,Florida,SEC,1891,99,LSU,SEC,1743
+401260157,2020,15,false,true,344,Mississippi State,SEC,1461,2,Auburn,SEC,1804
+401249431,2020,15,false,true,26,UCLA,Pac-12,1526,30,USC,Pac-12,1698
+401234572,2020,15,false,true,259,Virginia Tech,ACC,1506,258,Virginia,ACC,1559
+401249435,2020,15,false,false,252,BYU,FBS Independents,1950,21,San Diego State,Mountain West,1618
+401249432,2020,15,false,true,204,Oregon State,Pac-12,1427,24,Stanford,Pac-12,1481
+401249036,2020,15,false,true,167,New Mexico,Mountain West,1172,278,Fresno State,Mountain West,1489
+401249038,2020,15,false,true,62,Hawai'i,Mountain West,1398,2439,UNLV,Mountain West,1149
+401240101,2020,16,false,true,276,Marshall,Conference USA,1582,5,UAB,Conference USA,1506
+401269382,2020,16,false,true,164,Rutgers,Big Ten,1340,158,Nebraska,Big Ten,1504
+401249854,2020,16,true,true,2084,Buffalo,Mid-American,1747,2050,Ball State,Mid-American,1504
+401249434,2020,16,false,true,30,USC,Pac-12,1695,2483,Oregon,Pac-12,1833
+401247349,2020,16,true,true,194,Ohio State,Big Ten,2119,77,Northwestern,Big Ten,1643
+401260158,2020,16,false,true,2633,Tennessee,SEC,1504,245,Texas A&M,SEC,1820
+401262060,2020,16,true,true,66,Iowa State,Big 12,1899,201,Oklahoma,Big 12,1961
+401269375,2020,16,false,true,254,Utah,Pac-12,1685,265,Washington State,Pac-12,1541
+401265699,2020,16,false,false,349,Army,FBS Independents,1573,2005,Air Force,Mountain West,1677
+401267166,2020,16,false,true,344,Mississippi State,SEC,1460,142,Missouri,SEC,1558
+401267165,2020,16,false,true,99,LSU,SEC,1757,145,Ole Miss,SEC,1598
+401269384,2020,16,false,true,275,Wisconsin,Big Ten,1862,135,Minnesota,Big Ten,1626
+401256001,2020,16,true,true,87,Notre Dame,FBS Independents,1962,228,Clemson,ACC,2191
+401249043,2020,16,true,true,23,San José State,Mountain West,1513,68,Boise State,Mountain West,1708
+401269381,2020,16,false,true,213,Penn State,Big Ten,1691,356,Illinois,Big Ten,1399
+401269376,2020,16,false,true,26,UCLA,Pac-12,1529,24,Stanford,Pac-12,1482
+401237074,2020,16,true,true,57,Florida,SEC,1877,333,Alabama,SEC,2351
+401264085,2020,16,false,true,2132,Cincinnati,American Athletic,1935,202,Tulsa,American Athletic,1539
+401269378,2020,16,false,true,204,Oregon State,Pac-12,1426,9,Arizona State,Pac-12,1712
