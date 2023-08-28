@@ -1,0 +1,835 @@
+"Gameday","week","season","home_team","away_team","home_rank","away_rank","home_conference","away_conference","home_pregame_elo","away_pregame_elo","spread","homeWinProb","neutral_site","conference_game","rivalry","home_pregame_elo_na","away_pregame_elo_na","spread_na","homeWinProb_na","elo_combined","No","Yes"
+"0","1","2023","Notre Dame","Navy","13","0","FBS Independents","American Athletic",1826,1403,19.5,0.911,"1","0","1",FALSE,FALSE,FALSE,FALSE,3229,0.976,0.024
+"0","1","2023","Jacksonville State","UTEP","0","0","Conference USA","Conference USA",1443,1534,2,0.555,"0","1","0",TRUE,TRUE,FALSE,FALSE,2977,1,0
+"0","1","2023","New Mexico State","UMass","0","0","Conference USA","FBS Independents",1184,1036,7.5,0.698,"0","0","0",FALSE,FALSE,FALSE,FALSE,2220,1,0
+"0","1","2023","San Diego State","Ohio","0","0","Mountain West","Mid-American",1535,1368,3,0.582,"0","0","0",FALSE,FALSE,FALSE,FALSE,2903,1,0
+"0","1","2023","Vanderbilt","Hawai'i","0","0","SEC","Mountain West",1222,1432,18.5,0.899,"0","0","0",FALSE,FALSE,FALSE,FALSE,2654,1,0
+"0","1","2023","USC","San Jose State","6","0","Pac-12","Mountain West",1487,1338,30,0.981,"0","0","0",FALSE,FALSE,FALSE,FALSE,2825,1,0
+"0","1","2023","Louisiana Tech","Florida International","0","0","Conference USA","Conference USA",1301,1080,10,0.755,"0","1","0",FALSE,FALSE,FALSE,FALSE,2381,1,0
+"0","1","2023","Wake Forest","Elon","0","0","ACC","CAA",1520,1574,14,0.85,"0","0","0",TRUE,TRUE,TRUE,TRUE,3094,1,0
+"0","1","2023","UCF","Kent State","0","0","Big 12","Mid-American",1569,1340,35,0.992,"0","0","0",FALSE,FALSE,FALSE,FALSE,2909,0.99,0.01
+"0","1","2023","Western Michigan","St Francis (PA)","0","0","Mid-American","NEC",1351,1650,6,0.595,"0","0","0",TRUE,TRUE,TRUE,TRUE,3001,1,0
+"0","1","2023","Georgia State","Rhode Island","0","0","Sun Belt","CAA",1490,1207,7,0.635,"0","0","0",TRUE,TRUE,TRUE,TRUE,2697,1,0
+"0","1","2023","Connecticut","NC State","0","0","FBS Independents","ACC",1117,1632,15,0.15,"0","0","0",FALSE,FALSE,FALSE,FALSE,2749,1,0
+"0","1","2023","Missouri","South Dakota","0","0","SEC","MVFC",1036,1980,7,0.635,"0","0","0",TRUE,TRUE,TRUE,TRUE,3016,0.944,0.056
+"0","1","2023","UAB","North Carolina A&T","0","0","American Athletic","CAA",1512,1262,6,0.815,"0","0","0",TRUE,TRUE,TRUE,TRUE,2774,1,0
+"0","1","2023","Utah","Florida","14","0","Pac-12","SEC",1790,1572,7,0.685,"0","0","0",FALSE,FALSE,FALSE,FALSE,3362,0.846,0.154
+"0","1","2023","Minnesota","Nebraska","0","0","Big Ten","Big Ten",1639,1636,6.5,0.673,"0","1","1",FALSE,FALSE,FALSE,FALSE,3275,0.998,0.002
+"0","1","2023","Tulsa","Arkansas-Pine Bluff","0","0","American Athletic","SWAC",1412,1534,15,0.815,"0","0","0",TRUE,TRUE,TRUE,TRUE,2946,1,0
+"0","1","2023","Eastern Michigan","Howard","0","0","Mid-American","MEAC",1616,1534,15,0.989,"0","0","0",TRUE,TRUE,TRUE,TRUE,3150,0.996,0.004
+"0","1","2023","Michigan State","Central Michigan","0","0","Big Ten","Mid-American",1563,1536,14.5,0.841,"0","0","0",FALSE,FALSE,FALSE,FALSE,3099,1,0
+"0","1","2023","Miami","Miami (OH)","0","0","ACC","Mid-American",1570,1516,17.5,0.886,"0","0","0",FALSE,FALSE,FALSE,FALSE,3086,1,0
+"0","1","2023","Georgia Tech","Louisville","0","0","ACC","ACC",1346,1568,7.5,0.302,"1","1","0",FALSE,FALSE,FALSE,FALSE,2914,0.996,0.004
+"0","1","2023","Kansas","Missouri State","0","0","Big 12","MVFC",1194,1535,11.5,0.685,"0","0","0",TRUE,TRUE,TRUE,TRUE,2729,1,0
+"0","1","2023","Hawai'i","Stanford","0","0","Mountain West","Pac-12",1432,1355,8,0.291,"0","0","0",FALSE,FALSE,FALSE,FALSE,2787,1,0
+"0","1","2023","Boston College","Northern Illinois","0","0","ACC","Mid-American",1443,1376,10,0.755,"0","0","0",FALSE,FALSE,FALSE,FALSE,2819,1,0
+"0","1","2023","Kentucky","Ball State","0","0","SEC","Mid-American",1670,1410,26,0.964,"0","0","0",FALSE,FALSE,FALSE,FALSE,3080,1,0
+"0","1","2023","Purdue","Fresno State","0","0","Big Ten","Mountain West",1635,1590,5,0.635,"0","0","0",FALSE,FALSE,FALSE,FALSE,3225,1,0
+"0","1","2023","Tennessee","Virginia","12","0","SEC","ACC",1640,1526,28,0.973,"1","0","0",FALSE,FALSE,FALSE,FALSE,3166,0.932,0.068
+"0","1","2023","SMU","Louisiana Tech","0","0","American Athletic","Conference USA",1574,1301,17.5,0.886,"0","0","0",FALSE,FALSE,FALSE,FALSE,2875,1,0
+"0","1","2023","Liberty","Bowling Green","0","0","Conference USA","Mid-American",1600,1210,13,0.815,"0","0","0",FALSE,FALSE,FALSE,FALSE,2810,1,0
+"0","1","2023","TCU","Colorado","17","0","Big 12","Pac-12",1436,1387,21,0.926,"0","0","0",FALSE,FALSE,FALSE,FALSE,2823,0.964,0.036
+"0","1","2023","Oklahoma","Arkansas State","20","0","Big 12","Sun Belt",1749,1262,33,0.989,"0","0","0",FALSE,FALSE,FALSE,FALSE,3011,1,0
+"0","1","2023","Iowa","Utah State","25","0","Big Ten","Mountain West",1624,1566,21,0.926,"0","0","0",FALSE,FALSE,FALSE,FALSE,3190,0.996,0.004
+"0","1","2023","Michigan","East Carolina","2","0","Big Ten","American Athletic",1848,1518,35,0.992,"0","0","0",FALSE,FALSE,FALSE,FALSE,3366,0.962,0.038
+"0","1","2023","Ole Miss","Mercer","22","0","SEC","Southern",1443,1382,7.5,0.755,"0","0","0",TRUE,TRUE,TRUE,TRUE,2825,1,0
+"0","1","2023","Ohio","Long Island University","0","0","Mid-American","NEC",1368,1570,13.5,0.744,"0","0","0",TRUE,TRUE,TRUE,TRUE,2938,1,0
+"0","1","2023","Iowa State","Northern Iowa","0","0","Big 12","MVFC",1445,1496,2,0.997,"0","0","0",TRUE,TRUE,TRUE,TRUE,2941,1,0
+"0","1","2023","Jacksonville State","East Tennessee State","0","0","Conference USA","Southern",1301,1566,7,0.582,"0","0","0",TRUE,TRUE,TRUE,TRUE,2867,1,0
+"0","1","2023","Temple","Akron","0","0","American Athletic","Mid-American",1101,1096,10,0.755,"0","0","0",FALSE,FALSE,FALSE,FALSE,2197,1,0
+"0","1","2023","Oregon","Portland State","15","0","Pac-12","Big Sky",1443,1749,7,0.176,"0","0","0",TRUE,TRUE,TRUE,TRUE,3192,0.996,0.004
+"0","1","2023","Texas","Rice","11","0","Big 12","American Athletic",1633,1245,35,0.992,"0","0","1",FALSE,FALSE,FALSE,FALSE,2878,0.982,0.018
+"0","1","2023","Maryland","Towson","0","0","Big Ten","CAA",1555,1664,8,0.555,"0","0","0",TRUE,TRUE,TRUE,TRUE,3219,1,0
+"0","1","2023","Pittsburgh","Wofford","0","0","ACC","Southern",1432,1684,19,0.947,"0","0","0",TRUE,TRUE,TRUE,TRUE,3116,1,0
+"0","1","2023","Auburn","UMass","0","0","SEC","FBS Independents",1632,1036,39.5,0.997,"0","0","0",FALSE,FALSE,FALSE,FALSE,2668,1,0
+"0","1","2023","Washington","Boise State","10","0","Pac-12","Mountain West",1536,1664,15,0.85,"0","0","0",FALSE,FALSE,FALSE,FALSE,3200,1,0
+"0","1","2023","Western Kentucky","South Florida","0","0","Conference USA","American Athletic",1684,1284,13.5,0.824,"0","0","0",FALSE,FALSE,FALSE,FALSE,2968,1,0
+"0","1","2023","Indiana","Ohio State","0","3","Big Ten","Big Ten",1330,1932,27.5,0.029,"0","1","0",FALSE,FALSE,FALSE,FALSE,3262,0.998,0.002
+"0","1","2023","Wisconsin","Buffalo","19","0","Big Ten","Mid-American",1742,1382,24.5,0.954,"0","0","0",FALSE,FALSE,FALSE,FALSE,3124,0.998,0.002
+"0","1","2023","Syracuse","Colgate","0","0","ACC","Patriot",1749,1536,7,0.698,"0","0","0",TRUE,TRUE,TRUE,TRUE,3285,0.986,0.014
+"0","1","2023","Mississippi State","Southeastern Louisiana","0","0","SEC","Southland",1670,1568,17.5,0.996,"0","0","0",TRUE,TRUE,TRUE,TRUE,3238,1,0
+"0","1","2023","North Texas","California","0","0","American Athletic","Pac-12",1426,1510,7.5,0.302,"0","0","0",FALSE,FALSE,FALSE,FALSE,2936,1,0
+"0","1","2023","Arkansas","Western Carolina","0","0","SEC","Southern",1626,1080,19.5,0.921,"1","0","0",TRUE,TRUE,TRUE,TRUE,2706,0.998,0.002
+"0","1","2023","Marshall","Albany","0","0","Sun Belt","CAA",1546,1412,5,0.673,"0","0","0",TRUE,TRUE,TRUE,TRUE,2958,1,0
+"0","1","2023","Florida Atlantic","Monmouth","0","0","American Athletic","CAA",1536,1635,7,0.744,"0","0","0",TRUE,TRUE,TRUE,TRUE,3171,0.994,0.006
+"0","1","2023","Georgia Southern","The Citadel","0","0","Sun Belt","Southern",1536,1496,14.5,0.34,"0","0","0",TRUE,TRUE,TRUE,TRUE,3032,1,0
+"0","1","2023","Charlotte","South Carolina State","0","0","American Athletic","MEAC",1614,1490,3,0.5,"0","0","0",TRUE,TRUE,TRUE,TRUE,3104,1,0
+"0","1","2023","James Madison","Bucknell","0","0","Sun Belt","Patriot",1405,1564,23.5,0.992,"0","0","0",TRUE,TRUE,TRUE,TRUE,2969,1,0
+"0","1","2023","Florida International","Maine","0","0","Conference USA","CAA",1080,1600,15,0.755,"0","0","0",TRUE,TRUE,TRUE,TRUE,2680,1,0
+"0","1","2023","USC","Nevada","6","0","Pac-12","Mountain West",1487,1564,38,0.996,"0","0","0",FALSE,FALSE,FALSE,FALSE,3051,1,0
+"0","1","2023","Colorado State","Washington State","0","0","Mountain West","Pac-12",1399,1590,13.5,0.176,"0","0","0",FALSE,FALSE,FALSE,FALSE,2989,1,0
+"0","1","2023","Louisiana Monroe","Army","0","0","Sun Belt","FBS Independents",1207,1544,7.5,0.302,"0","0","0",FALSE,FALSE,FALSE,FALSE,2751,1,0
+"0","1","2023","Memphis","Bethune-Cookman","0","0","American Athletic","SWAC",1512,1632,11.5,0.886,"0","0","0",TRUE,TRUE,TRUE,TRUE,3144,1,0
+"0","1","2023","Baylor","Texas State","0","0","Big 12","Sun Belt",1690,1270,26.5,0.966,"0","0","0",FALSE,FALSE,FALSE,FALSE,2960,1,0
+"0","1","2023","Texas A&M","New Mexico","23","0","SEC","Mountain West",1708,1229,37.5,0.995,"0","0","0",FALSE,FALSE,FALSE,FALSE,2937,1,0
+"0","1","2023","Vanderbilt","Alabama A&M","0","0","SEC","SWAC",1639,1546,21,0.66,"0","0","0",TRUE,TRUE,TRUE,TRUE,3185,1,0
+"0","1","2023","Houston","UT San Antonio","0","0","Big 12","American Athletic",1620,1512,2,0.555,"0","0","0",FALSE,FALSE,FALSE,FALSE,3132,1,0
+"0","1","2023","Southern Mississippi","Alcorn State","0","0","Sun Belt","SWAC",1497,1330,4,0.685,"0","0","0",TRUE,TRUE,TRUE,TRUE,2827,1,0
+"0","1","2023","Alabama","Middle Tennessee","4","0","SEC","Conference USA",1979,1445,39,0.996,"0","0","0",FALSE,FALSE,FALSE,FALSE,3424,0.99,0.01
+"0","1","2023","Louisiana","Northwestern State","0","0","Sun Belt","Southland",1555,1614,13,0.66,"0","0","0",TRUE,TRUE,TRUE,TRUE,3169,1,0
+"0","1","2023","North Carolina","South Carolina","21","0","ACC","SEC",1555,1486,3,0.582,"1","0","1",FALSE,FALSE,FALSE,FALSE,3041,1,0
+"0","1","2023","Wyoming","Texas Tech","0","0","Mountain West","Big 12",1497,1536,13.5,0.176,"0","0","0",FALSE,FALSE,FALSE,FALSE,3033,1,0
+"0","1","2023","Penn State","West Virginia","7","0","Big Ten","Big 12",1670,1490,20.5,0.921,"0","0","1",FALSE,FALSE,FALSE,FALSE,3160,1,0
+"0","1","2023","Illinois","Toledo","0","0","Big Ten","Mid-American",1496,1534,9.5,0.744,"0","0","0",FALSE,FALSE,FALSE,FALSE,3030,1,0
+"0","1","2023","Virginia Tech","Old Dominion","0","0","ACC","Sun Belt",1412,1390,14,0.833,"0","0","0",FALSE,FALSE,FALSE,FALSE,2802,1,0
+"0","1","2023","Tulane","South Alabama","24","0","American Athletic","Sun Belt",1444,1351,7.5,0.698,"0","0","0",FALSE,FALSE,FALSE,FALSE,2795,1,0
+"0","1","2023","UTEP","Incarnate Word","0","0","Conference USA","Southland",1272,1382,21,0.995,"0","0","0",TRUE,TRUE,TRUE,TRUE,2654,1,0
+"0","1","2023","New Mexico State","Western Illinois","0","0","Conference USA","MVFC",1387,1487,7.5,0.635,"0","0","0",TRUE,TRUE,TRUE,TRUE,2874,1,0
+"0","1","2023","Arizona","Northern Arizona","0","0","Pac-12","Big Sky",1639,1572,10.5,0.302,"0","0","0",TRUE,TRUE,TRUE,TRUE,3211,0.998,0.002
+"0","1","2023","BYU","Sam Houston State","0","0","Big 12","Conference USA",1301,1427,23.5,0.947,"0","0","0",TRUE,TRUE,FALSE,FALSE,2728,1,0
+"0","1","2023","San Diego State","Idaho State","0","0","Mountain West","Big Sky",1427,1412,23.5,0.947,"0","0","0",TRUE,TRUE,TRUE,TRUE,2839,1,0
+"0","1","2023","UCLA","Coastal Carolina","0","0","Pac-12","Sun Belt",1667,1647,16,0.865,"0","0","0",FALSE,FALSE,FALSE,FALSE,3314,0.996,0.004
+"0","1","2023","Rutgers","Northwestern","0","0","Big Ten","Big Ten",1365,1361,5,0.635,"0","1","0",FALSE,FALSE,FALSE,FALSE,2726,1,0
+"0","1","2023","San Jose State","Oregon State","0","18","Mountain West","Pac-12",1338,1544,17,0.121,"0","0","0",FALSE,FALSE,FALSE,FALSE,2882,1,0
+"0","1","2023","Florida State","LSU","8","5","ACC","SEC",1501,1538,3,0.418,"1","0","0",FALSE,FALSE,FALSE,FALSE,3039,0.796,0.204
+"0","1","2023","Duke","Clemson","0","9","ACC","ACC",1168,1766,13.5,0.176,"0","1","0",FALSE,FALSE,FALSE,FALSE,2934,0.888,0.112
+"0","2","2023","Louisville","Murray State","0","0","ACC","MVFC",1742,1574,10,0.698,"0","0","0",TRUE,TRUE,TRUE,TRUE,3316,0.946,0.054
+"0","2","2023","Indiana","Indiana State","0","0","Big Ten","MVFC",1168,1497,10,0.541,"0","0","0",TRUE,TRUE,TRUE,TRUE,2665,1,0
+"0","2","2023","Kansas","Illinois","0","0","Big 12","Big Ten",1194,1496,17,0.886,"0","0","0",FALSE,FALSE,TRUE,TRUE,2690,1,0
+"0","2","2023","Fresno State","Eastern Washington","0","0","Mountain West","Big Sky",1650,1790,2.5,0.095,"0","0","0",TRUE,TRUE,TRUE,TRUE,3440,0.82,0.18
+"0","2","2023","Wake Forest","Vanderbilt","0","0","ACC","SEC",1640,1222,18,0.886,"0","0","0",FALSE,FALSE,TRUE,TRUE,2862,1,0
+"0","2","2023","Virginia","James Madison","0","0","ACC","Sun Belt",1526,1300,18.5,0.992,"0","0","0",FALSE,FALSE,TRUE,TRUE,2826,1,0
+"0","2","2023","Boston College","Holy Cross","0","0","ACC","Patriot",1520,1382,8,0.815,"0","0","0",TRUE,TRUE,TRUE,TRUE,2902,1,0
+"0","2","2023","Penn State","Delaware","7","0","Big Ten","CAA",1801,1520,9.5,0.432,"0","0","0",TRUE,TRUE,TRUE,TRUE,3321,0.94,0.06
+"0","2","2023","Kansas State","Troy","16","0","Big 12","Sun Belt",1616,1347,24,0.899,"0","0","0",FALSE,FALSE,TRUE,TRUE,2963,0.996,0.004
+"0","2","2023","Baylor","Utah","0","14","Big 12","Pac-12",1690,1790,11.5,0.315,"0","0","0",FALSE,FALSE,TRUE,TRUE,3480,0.72,0.28
+"0","2","2023","Georgia","Ball State","1","0","SEC","Mid-American",1980,1410,10,0.595,"0","0","0",FALSE,FALSE,TRUE,TRUE,3390,0.834,0.166
+"0","2","2023","Virginia Tech","Purdue","0","0","ACC","Big Ten",1412,1635,6.5,0.709,"0","0","0",FALSE,FALSE,TRUE,TRUE,3047,0.996,0.004
+"0","2","2023","Army","Delaware State","0","0","FBS Independents","MEAC",1632,1538,35,0.996,"0","0","0",TRUE,TRUE,TRUE,TRUE,3170,1,0
+"0","2","2023","Colorado","Nebraska","0","0","Pac-12","Big Ten",1387,1636,13.5,0.34,"0","0","1",FALSE,FALSE,TRUE,TRUE,3023,0.996,0.004
+"0","2","2023","NC State","Notre Dame","0","13","ACC","FBS Independents",1632,1826,2,0.685,"0","0","0",FALSE,FALSE,TRUE,TRUE,3458,0.684,0.316
+"0","2","2023","Ohio State","Youngstown State","3","0","Big Ten","MVFC",1932,1487,7,0.635,"0","0","0",TRUE,TRUE,TRUE,TRUE,3419,0.806,0.194
+"0","2","2023","Georgia Tech","South Carolina State","0","0","ACC","MEAC",1445,1574,11.5,0.541,"0","0","0",TRUE,TRUE,TRUE,TRUE,3019,1,0
+"0","2","2023","Central Michigan","New Hampshire","0","0","Mid-American","CAA",1632,1574,9.5,0.595,"0","0","0",TRUE,TRUE,TRUE,TRUE,3206,1,0
+"0","2","2023","Miami","Texas A&M","0","23","ACC","SEC",1570,1708,17.5,0.85,"0","0","0",FALSE,FALSE,TRUE,TRUE,3278,0.918,0.082
+"0","2","2023","Michigan","UNLV","2","0","Big Ten","Mountain West",1848,1300,30,0.899,"0","0","0",FALSE,FALSE,TRUE,TRUE,3148,0.966,0.034
+"0","2","2023","Iowa State","Iowa","0","25","Big 12","Big Ten",1779,1624,7.5,0.279,"0","0","1",FALSE,FALSE,TRUE,TRUE,3403,0.802,0.198
+"0","2","2023","Tulane","Ole Miss","24","22","American Athletic","SEC",1444,1658,7.5,0.555,"0","0","1",FALSE,FALSE,TRUE,TRUE,3102,0.996,0.004
+"0","2","2023","Northern Illinois","Southern Illinois","0","0","Mid-American","MVFC",1490,1444,4,0.418,"0","0","0",TRUE,TRUE,TRUE,TRUE,2934,1,0
+"0","2","2023","Navy","Wagner","0","0","American Athletic","NEC",1404,1518,7,0.833,"0","0","0",TRUE,TRUE,TRUE,TRUE,2922,1,0
+"0","2","2023","Toledo","Texas Southern","0","0","Mid-American","SWAC",1301,1490,3,0.698,"0","0","0",TRUE,TRUE,TRUE,TRUE,2791,1,0
+"0","2","2023","Michigan State","Richmond","0","0","Big Ten","CAA",1262,1656,15,0.555,"0","0","0",TRUE,TRUE,TRUE,TRUE,2918,1,0
+"0","2","2023","Northwestern","UTEP","0","0","Big Ten","Conference USA",1361,1360,7.5,0.302,"0","0","0",FALSE,FALSE,TRUE,TRUE,2721,1,0
+"0","2","2023","UT San Antonio","Texas State","0","0","American Athletic","Sun Belt",1512,1270,35,0.995,"0","0","0",FALSE,FALSE,TRUE,TRUE,2782,1,0
+"0","2","2023","Syracuse","Western Michigan","0","0","ACC","Mid-American",1405,1538,8,0.685,"0","0","0",FALSE,FALSE,TRUE,TRUE,2943,1,0
+"0","2","2023","UMass","Miami (OH)","0","0","FBS Independents","Mid-American",1036,1516,7,0.996,"0","0","0",FALSE,FALSE,TRUE,TRUE,2552,1,0
+"0","2","2023","Wyoming","Portland State","0","0","Mountain West","Big Sky",1572,1566,13.5,0.755,"0","0","0",TRUE,TRUE,TRUE,TRUE,3138,1,0
+"0","2","2023","San Jose State","Cal Poly","0","0","Mountain West","Big Sky",1501,1412,8,0.893,"0","0","0",TRUE,TRUE,TRUE,TRUE,2913,1,0
+"0","2","2023","East Carolina","Marshall","0","0","American Athletic","Sun Belt",1518,1548,15,0.796,"0","0","1",FALSE,FALSE,TRUE,TRUE,3066,1,0
+"0","2","2023","Arkansas","Kent State","0","0","SEC","Mid-American",1626,1340,24.5,0.824,"0","0","0",FALSE,FALSE,TRUE,TRUE,2966,1,0
+"0","2","2023","Washington","Tulsa","10","0","Pac-12","American Athletic",1536,1502,4,0.815,"0","0","0",FALSE,FALSE,TRUE,TRUE,3038,0.998,0.002
+"0","2","2023","South Alabama","Southeastern Louisiana","0","0","Sun Belt","Southland",1486,1300,8,0.291,"0","0","0",TRUE,TRUE,TRUE,TRUE,2786,1,0
+"0","2","2023","North Carolina","Appalachian State","21","0","ACC","Sun Belt",1555,1656,13.5,0.954,"0","0","0",FALSE,FALSE,TRUE,TRUE,3211,0.992,0.008
+"0","2","2023","Florida Atlantic","Ohio","0","0","American Athletic","Mid-American",1427,1368,5,0.995,"0","0","0",FALSE,FALSE,TRUE,TRUE,2795,1,0
+"0","2","2023","Buffalo","Fordham","0","0","Mid-American","Patriot",1382,1338,4.5,0.291,"0","0","0",TRUE,TRUE,TRUE,TRUE,2720,1,0
+"0","2","2023","West Virginia","Duquesne","0","0","Big 12","NEC",1742,1564,7,0.541,"0","0","0",TRUE,TRUE,TRUE,TRUE,3306,0.976,0.024
+"0","2","2023","Duke","Lafayette","0","0","ACC","Patriot",1526,1546,9.5,0.568,"0","0","0",TRUE,TRUE,TRUE,TRUE,3072,1,0
+"0","2","2023","Oklahoma","SMU","20","0","Big 12","American Athletic",1749,1574,5,0.744,"0","0","0",FALSE,FALSE,TRUE,TRUE,3323,0.926,0.074
+"0","2","2023","Old Dominion","Louisiana","0","0","Sun Belt","Sun Belt",1390,1720,14,0.256,"0","1","0",FALSE,FALSE,TRUE,TRUE,3110,0.996,0.004
+"0","2","2023","Liberty","New Mexico State","0","0","Conference USA","Conference USA",1600,1184,13,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,2784,1,0
+"0","2","2023","Akron","Morgan State","0","0","Mid-American","MEAC",1444,1570,10,0.685,"0","0","0",TRUE,TRUE,TRUE,TRUE,3014,1,0
+"0","2","2023","Georgia Southern","UAB","0","0","Sun Belt","American Athletic",1382,1546,7.5,0.685,"0","0","0",FALSE,FALSE,TRUE,TRUE,2928,1,0
+"0","2","2023","Florida International","North Texas","0","0","Conference USA","American Athletic",1080,1426,15,0.981,"0","0","0",FALSE,FALSE,TRUE,TRUE,2506,1,0
+"0","2","2023","Pittsburgh","Cincinnati","0","0","ACC","Big 12",1667,1801,16,0.256,"0","0","1",FALSE,FALSE,TRUE,TRUE,3468,0.816,0.184
+"0","2","2023","South Florida","Florida A&M","0","0","American Athletic","SWAC",1270,1426,14,0.755,"0","0","0",TRUE,TRUE,TRUE,TRUE,2696,1,0
+"0","2","2023","Nevada","Idaho","0","0","Mountain West","Big Sky",1340,1526,14.5,0.744,"0","0","0",TRUE,TRUE,TRUE,TRUE,2866,1,0
+"0","2","2023","Louisiana Tech","Northwestern State","0","0","Conference USA","Southland",1496,1534,20.5,0.973,"0","0","0",TRUE,TRUE,TRUE,TRUE,3030,1,0
+"0","2","2023","Alabama","Texas","4","11","SEC","Big 12",1979,1633,6.5,0.673,"0","0","0",FALSE,FALSE,FALSE,FALSE,3612,0.764,0.236
+"0","2","2023","Arkansas State","Memphis","0","0","Sun Belt","American Athletic",1262,1490,15,0.555,"0","0","1",FALSE,FALSE,TRUE,TRUE,2752,1,0
+"0","2","2023","Rice","Houston","0","0","American Athletic","Big 12",1245,1620,7.5,0.582,"0","0","1",FALSE,FALSE,TRUE,TRUE,2865,1,0
+"0","2","2023","Missouri","Middle Tennessee","0","0","SEC","Conference USA",1404,1445,26,0.698,"0","0","0",FALSE,FALSE,TRUE,TRUE,2849,1,0
+"0","2","2023","Boise State","UCF","0","0","Mountain West","Big 12",1664,1569,16,0.947,"0","0","0",FALSE,FALSE,TRUE,TRUE,3233,1,0
+"0","2","2023","Western Kentucky","Houston Christian","0","0","Conference USA","Southland",1382,1536,4,0.315,"0","0","0",TRUE,TRUE,TRUE,TRUE,2918,1,0
+"0","2","2023","Texas Tech","Oregon","0","15","Big 12","Pac-12",1536,1574,17.5,0.841,"0","0","0",FALSE,FALSE,TRUE,TRUE,3110,1,0
+"0","2","2023","Georgia State","Connecticut","0","0","Sun Belt","FBS Independents",1522,1117,21,0.893,"0","0","0",FALSE,FALSE,TRUE,TRUE,2639,1,0
+"0","2","2023","Coastal Carolina","Jacksonville State","0","0","Sun Belt","Conference USA",1426,1534,13.5,0.685,"0","0","0",TRUE,TRUE,TRUE,TRUE,2960,1,0
+"0","2","2023","South Carolina","Furman","0","0","SEC","Southern",1404,1635,13.5,0.796,"0","0","0",TRUE,TRUE,TRUE,TRUE,3039,0.996,0.004
+"0","2","2023","Maryland","Charlotte","0","0","Big Ten","American Athletic",1496,1272,16,0.622,"0","0","0",FALSE,FALSE,TRUE,TRUE,2768,1,0
+"0","2","2023","San Diego State","UCLA","0","0","Mountain West","Pac-12",1535,1667,7.5,0.698,"0","0","0",FALSE,FALSE,TRUE,TRUE,3202,1,0
+"0","2","2023","LSU","Grambling","5","0","SEC","SWAC",1432,1544,7.5,0.685,"0","0","0",TRUE,TRUE,TRUE,TRUE,2976,0.974,0.026
+"0","2","2023","Minnesota","Eastern Michigan","0","0","Big Ten","Mid-American",1639,1380,13.5,0.981,"0","0","0",FALSE,FALSE,TRUE,TRUE,3019,1,0
+"0","2","2023","Washington State","Wisconsin","0","19","Pac-12","Big Ten",1590,1742,21.5,0.673,"0","0","0",FALSE,FALSE,TRUE,TRUE,3332,0.936,0.064
+"0","2","2023","Mississippi State","Arizona","0","0","SEC","Pac-12",1520,1306,7.5,0.267,"0","0","0",FALSE,FALSE,TRUE,TRUE,2826,1,0
+"0","2","2023","Rutgers","Temple","0","0","Big Ten","American Athletic",1365,1101,17.5,0.992,"0","0","0",FALSE,FALSE,TRUE,TRUE,2466,1,0
+"0","2","2023","Florida","McNeese","0","0","SEC","Southland",1534,1570,14,0.365,"0","0","0",TRUE,TRUE,TRUE,TRUE,3104,1,0
+"0","2","2023","Utah State","Idaho State","0","0","Mountain West","Big Sky",1487,1330,39.5,0.966,"0","0","0",TRUE,TRUE,TRUE,TRUE,2817,1,0
+"0","2","2023","TCU","Nicholls","17","0","Big 12","Southland",1572,1496,7.5,0.698,"0","0","0",TRUE,TRUE,TRUE,TRUE,3068,0.95,0.05
+"0","2","2023","Sam Houston State","Air Force","0","0","Conference USA","Mountain West",1620,1306,4,0.893,"1","0","0",TRUE,TRUE,TRUE,TRUE,2926,0.998,0.002
+"0","2","2023","Louisiana Monroe","Lamar","0","0","Sun Belt","Southland",1412,1512,7.5,0.992,"0","0","0",TRUE,TRUE,TRUE,TRUE,2924,1,0
+"0","2","2023","Florida State","Southern Mississippi","8","0","ACC","Sun Belt",1501,1266,26.5,0.964,"0","0","0",FALSE,FALSE,TRUE,TRUE,2767,0.994,0.006
+"0","2","2023","Oregon State","UC Davis","18","0","Pac-12","Big Sky",1555,1520,10,0.815,"0","0","0",TRUE,TRUE,TRUE,TRUE,3075,1,0
+"0","2","2023","California","Auburn","0","0","Pac-12","SEC",1510,1632,7.5,0.635,"0","0","0",FALSE,FALSE,TRUE,TRUE,3142,1,0
+"0","2","2023","USC","Stanford","6","0","Pac-12","Pac-12",1487,1355,16.5,0.673,"0","1","1",FALSE,FALSE,TRUE,TRUE,2842,1,0
+"0","2","2023","Arizona State","Oklahoma State","0","0","Pac-12","Big 12",1614,1775,3,0.555,"0","0","0",FALSE,FALSE,TRUE,TRUE,3389,0.882,0.118
+"0","2","2023","Hawai'i","Albany","0","0","Mountain West","CAA",1360,1749,10,0.291,"0","0","0",TRUE,TRUE,TRUE,TRUE,3109,0.996,0.004
+"0","3","2023","Miami","Bethune-Cookman","0","0","ACC","SWAC",1376,1368,8,0.755,"0","0","0",TRUE,TRUE,TRUE,TRUE,2744,1,0
+"0","3","2023","Memphis","Navy","0","0","American Athletic","American Athletic",1490,1403,10.5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,2893,1,0
+"0","3","2023","Maryland","Virginia","0","0","Big Ten","ACC",1496,1526,3,0.445,"0","0","1",FALSE,FALSE,TRUE,TRUE,3022,1,0
+"0","3","2023","UT San Antonio","Army","0","0","American Athletic","FBS Independents",1512,1544,6,0.302,"0","0","0",FALSE,FALSE,TRUE,TRUE,3056,1,0
+"0","3","2023","Air Force","Utah State","0","0","Mountain West","Mountain West",1650,1566,5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,3216,1,0
+"0","3","2023","Indiana","Louisville","0","0","Big Ten","ACC",1330,1568,15,0.176,"1","0","0",FALSE,FALSE,TRUE,TRUE,2898,0.996,0.004
+"0","3","2023","Illinois","Penn State","0","7","Big Ten","Big Ten",1496,1670,7.5,0.865,"0","1","0",FALSE,FALSE,TRUE,TRUE,3166,0.924,0.076
+"0","3","2023","Ohio","Iowa State","0","0","Mid-American","Big 12",1368,1779,16,0.685,"0","0","0",FALSE,FALSE,TRUE,TRUE,3147,0.986,0.014
+"0","3","2023","Kent State","Central Connecticut","0","0","Mid-American","NEC",1510,1614,13.5,0.582,"0","0","0",TRUE,TRUE,TRUE,TRUE,3124,1,0
+"0","3","2023","Buffalo","Liberty","0","0","Mid-American","Conference USA",1382,1600,16,0.824,"0","0","0",FALSE,FALSE,TRUE,TRUE,2982,1,0
+"0","3","2023","Boston College","Florida State","0","8","ACC","ACC",1443,1501,9.5,0.5,"0","1","0",FALSE,FALSE,TRUE,TRUE,2944,1,0
+"0","3","2023","Wisconsin","Georgia Southern","19","0","Big Ten","Sun Belt",1742,1382,24,0.954,"0","0","0",FALSE,FALSE,TRUE,TRUE,3124,0.99,0.01
+"0","3","2023","Old Dominion","Wake Forest","0","0","Sun Belt","ACC",1390,1640,6,0.85,"0","0","0",FALSE,FALSE,TRUE,TRUE,3030,1,0
+"0","3","2023","Missouri","Kansas State","0","16","SEC","Big 12",1404,1616,2,0.698,"0","0","0",FALSE,FALSE,TRUE,TRUE,3020,1,0
+"0","3","2023","Boise State","North Dakota","0","0","Mountain West","MVFC",1664,1404,10,0.833,"0","0","0",TRUE,TRUE,TRUE,TRUE,3068,1,0
+"0","3","2023","Mississippi State","LSU","0","5","SEC","SEC",1520,1538,9,0.267,"0","1","1",FALSE,FALSE,FALSE,FALSE,3058,0.832,0.168
+"0","3","2023","Baylor","Long Island University","0","0","Big 12","NEC",1036,1544,5,0.766,"0","0","0",TRUE,TRUE,TRUE,TRUE,2580,1,0
+"0","3","2023","Utah","Weber State","14","0","Pac-12","Big Sky",1382,1563,16.5,0.302,"0","0","0",TRUE,TRUE,TRUE,TRUE,2945,0.998,0.002
+"0","3","2023","Ball State","Indiana State","0","0","Mid-American","MVFC",1502,1520,7.5,0.841,"0","0","0",TRUE,TRUE,TRUE,TRUE,3022,1,0
+"0","3","2023","Eastern Michigan","UMass","0","0","Mid-American","FBS Independents",1380,1036,16,0.997,"0","0","0",FALSE,FALSE,TRUE,TRUE,2416,0.996,0.004
+"0","3","2023","NC State","VMI","0","0","ACC","Southern",1566,1535,23.5,0.15,"0","0","0",TRUE,TRUE,TRUE,TRUE,3101,1,0
+"0","3","2023","Temple","Norfolk State","0","0","American Athletic","MEAC",1664,1520,2,0.973,"0","0","0",TRUE,TRUE,TRUE,TRUE,3184,1,0
+"0","3","2023","Notre Dame","Central Michigan","13","0","FBS Independents","Mid-American",1826,1536,7,0.673,"0","0","0",FALSE,FALSE,TRUE,TRUE,3362,0.806,0.194
+"0","3","2023","Tulsa","Oklahoma","0","20","American Athletic","Big 12",1502,1749,7.5,0.555,"0","0","0",FALSE,FALSE,TRUE,TRUE,3251,0.986,0.014
+"0","3","2023","North Carolina","Minnesota","21","0","ACC","Big Ten",1555,1639,9.5,0.709,"0","0","0",FALSE,FALSE,TRUE,TRUE,3194,0.998,0.002
+"0","3","2023","Appalachian State","East Carolina","0","0","Sun Belt","American Athletic",1656,1518,10,0.445,"0","0","0",FALSE,FALSE,TRUE,TRUE,3174,0.998,0.002
+"0","3","2023","Duke","Northwestern","0","0","ACC","Big Ten",1168,1361,9,0.698,"0","0","0",FALSE,FALSE,TRUE,TRUE,2529,1,0
+"0","3","2023","Rutgers","Virginia Tech","0","0","Big Ten","ACC",1365,1412,13.5,0.911,"0","0","0",FALSE,FALSE,TRUE,TRUE,2777,1,0
+"0","3","2023","South Florida","Alabama","0","4","American Athletic","SEC",1284,1979,10,0.886,"0","0","0",FALSE,FALSE,TRUE,TRUE,3263,0.934,0.066
+"0","3","2023","Oregon State","San Diego State","18","0","Pac-12","Mountain West",1544,1535,7.5,0.85,"0","0","0",FALSE,FALSE,TRUE,TRUE,3079,1,0
+"0","3","2023","Connecticut","Florida International","0","0","FBS Independents","Conference USA",1117,1080,39.5,0.973,"0","0","0",FALSE,FALSE,TRUE,TRUE,2197,0.998,0.002
+"0","3","2023","Iowa","Western Michigan","25","0","Big Ten","Mid-American",1624,1538,26,0.981,"0","0","0",FALSE,FALSE,TRUE,TRUE,3162,0.998,0.002
+"0","3","2023","Georgia","South Carolina","1","0","SEC","SEC",1980,1486,24,0.951,"0","1","1",FALSE,FALSE,FALSE,FALSE,3466,0.998,0.002
+"0","3","2023","Ohio State","Western Kentucky","3","0","Big Ten","Conference USA",1932,1684,7.5,0.176,"0","0","0",FALSE,FALSE,TRUE,TRUE,3616,0.694,0.306
+"0","3","2023","California","Idaho","0","0","Pac-12","Big Sky",1502,1568,14,0.886,"0","0","0",TRUE,TRUE,TRUE,TRUE,3070,1,0
+"0","3","2023","Texas A&M","Louisiana Monroe","23","0","SEC","Sun Belt",1708,1207,18,0.981,"0","0","0",FALSE,FALSE,TRUE,TRUE,2915,1,0
+"0","3","2023","Southern Mississippi","Tulane","0","24","Sun Belt","American Athletic",1266,1444,30,0.921,"0","0","1",FALSE,FALSE,TRUE,TRUE,2710,0.802,0.198
+"0","3","2023","Washington State","Northern Colorado","0","0","Pac-12","Big Sky",1443,1534,9.5,0.302,"0","0","0",TRUE,TRUE,TRUE,TRUE,2977,1,0
+"0","3","2023","UCLA","North Carolina Central","0","0","Pac-12","MEAC",1355,1518,13.5,0.365,"0","0","0",TRUE,TRUE,TRUE,TRUE,2873,1,0
+"0","3","2023","Michigan State","Washington","0","10","Big Ten","Pac-12",1563,1536,11.5,0.214,"0","0","0",FALSE,FALSE,FALSE,FALSE,3099,1,0
+"0","3","2023","Charlotte","Georgia State","0","0","American Athletic","Sun Belt",1272,1522,9.5,0.66,"0","0","0",FALSE,FALSE,TRUE,TRUE,2794,1,0
+"0","3","2023","UCF","Villanova","0","0","Big 12","CAA",1570,1361,21,0.966,"0","0","0",TRUE,TRUE,TRUE,TRUE,2931,1,0
+"0","3","2023","Troy","James Madison","0","0","Sun Belt","Sun Belt",1347,1300,3,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2647,1,0
+"0","3","2023","Texas State","Jackson State","0","0","Sun Belt","SWAC",1538,1544,7,0.302,"0","0","0",TRUE,TRUE,TRUE,TRUE,3082,1,0
+"0","3","2023","Middle Tennessee","Murray State","0","0","Conference USA","MVFC",1536,1497,21,0.911,"0","0","0",TRUE,TRUE,TRUE,TRUE,3033,1,0
+"0","3","2023","Auburn","Samford","0","0","SEC","Southern",1382,1338,18.5,0.926,"0","0","0",TRUE,TRUE,TRUE,TRUE,2720,1,0
+"0","3","2023","SMU","Prairie View","0","0","American Athletic","SWAC",1405,1368,39,0.964,"0","0","0",TRUE,TRUE,TRUE,TRUE,2773,1,0
+"0","3","2023","Coastal Carolina","Duquesne","0","0","Sun Belt","NEC",1410,1522,15,0.555,"0","0","0",TRUE,TRUE,TRUE,TRUE,2932,1,0
+"0","3","2023","Rice","Texas Southern","0","0","American Athletic","SWAC",1445,1380,3,0.555,"0","0","0",TRUE,TRUE,TRUE,TRUE,2825,1,0
+"0","3","2023","Louisiana Tech","North Texas","0","0","Conference USA","American Athletic",1301,1426,30,0.966,"0","0","0",FALSE,FALSE,TRUE,TRUE,2727,1,0
+"0","3","2023","Oklahoma State","South Alabama","0","0","Big 12","Sun Belt",1775,1351,17,0.992,"0","0","0",FALSE,FALSE,TRUE,TRUE,3126,0.994,0.006
+"0","3","2023","Florida","Tennessee","0","12","SEC","SEC",1572,1640,7.5,0.302,"0","1","1",FALSE,FALSE,FALSE,FALSE,3212,0.628,0.372
+"0","3","2023","Arkansas State","Stony Brook","0","0","Sun Belt","CAA",1633,1487,2.5,0.709,"0","0","0",TRUE,TRUE,TRUE,TRUE,3120,1,0
+"0","3","2023","Cincinnati","Miami (OH)","0","0","Big 12","Mid-American",1801,1516,2,0.302,"0","0","1",FALSE,FALSE,TRUE,TRUE,3317,0.934,0.066
+"0","3","2023","UNLV","Vanderbilt","0","0","Mountain West","SEC",1300,1222,10,0.85,"0","0","0",FALSE,FALSE,TRUE,TRUE,2522,1,0
+"0","3","2023","Nebraska","Northern Illinois","0","0","Big Ten","Mid-American",1636,1376,5,0.755,"0","0","0",FALSE,FALSE,TRUE,TRUE,3012,1,0
+"0","3","2023","UAB","Louisiana","0","0","American Athletic","Sun Belt",1546,1720,5,0.5,"0","0","0",FALSE,FALSE,TRUE,TRUE,3266,0.996,0.004
+"0","3","2023","Toledo","San Jose State","0","0","Mid-American","Mountain West",1534,1338,8,0.5,"0","0","0",FALSE,FALSE,TRUE,TRUE,2872,1,0
+"0","3","2023","Kentucky","Akron","0","0","SEC","Mid-American",1670,1096,30,0.981,"0","0","0",FALSE,FALSE,TRUE,TRUE,2766,1,0
+"0","3","2023","West Virginia","Pittsburgh","0","0","Big 12","ACC",1490,1667,7,0.709,"0","0","1",FALSE,FALSE,TRUE,TRUE,3157,1,0
+"0","3","2023","Michigan","Bowling Green","2","0","Big Ten","Mid-American",1848,1210,13,0.815,"0","0","0",FALSE,FALSE,TRUE,TRUE,3058,0.952,0.048
+"0","3","2023","Purdue","Syracuse","0","0","Big Ten","ACC",1635,1405,9.5,0.744,"0","0","0",FALSE,FALSE,TRUE,TRUE,3040,1,0
+"0","3","2023","Ole Miss","Georgia Tech","22","0","SEC","ACC",1658,1346,26,0.992,"0","0","0",FALSE,FALSE,TRUE,TRUE,3004,1,0
+"0","3","2023","Arkansas","BYU","0","0","SEC","Big 12",1626,1648,21,0.954,"0","0","0",FALSE,FALSE,TRUE,TRUE,3274,1,0
+"0","3","2023","New Mexico","New Mexico State","0","0","Mountain West","Conference USA",1229,1184,30,0.981,"0","0","1",FALSE,FALSE,TRUE,TRUE,2413,1,0
+"0","3","2023","Clemson","Florida Atlantic","9","0","ACC","American Athletic",1766,1427,3,0.886,"0","0","0",FALSE,FALSE,TRUE,TRUE,3193,0.962,0.038
+"0","3","2023","Houston","TCU","0","17","Big 12","Big 12",1620,1436,10,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,3056,1,0
+"0","3","2023","Oregon","Hawai'i","15","0","Pac-12","Mountain West",1574,1432,15,0.815,"0","0","0",FALSE,FALSE,TRUE,TRUE,3006,1,0
+"0","3","2023","Stanford","Sacramento State","0","0","Pac-12","Big Sky",1544,1566,21,0.899,"0","0","0",TRUE,TRUE,TRUE,TRUE,3110,1,0
+"0","3","2023","Texas","Wyoming","11","0","Big 12","Mountain West",1633,1497,18.5,0.302,"0","0","0",FALSE,FALSE,TRUE,TRUE,3130,0.984,0.016
+"0","3","2023","Colorado","Colorado State","0","0","Pac-12","Mountain West",1387,1399,18,0.185,"0","0","1",FALSE,FALSE,TRUE,TRUE,2786,1,0
+"0","3","2023","Nevada","Kansas","0","0","Mountain West","Big 12",1564,1194,33,0.824,"0","0","0",FALSE,FALSE,TRUE,TRUE,2758,1,0
+"0","3","2023","Arizona State","Fresno State","0","0","Pac-12","Mountain West",1614,1590,9.5,0.755,"0","0","0",FALSE,FALSE,TRUE,TRUE,3204,1,0
+"0","3","2023","Arizona","UTEP","0","0","Pac-12","Conference USA",1306,1360,26,0.995,"0","0","0",FALSE,FALSE,TRUE,TRUE,2666,1,0
+"0","4","2023","Coastal Carolina","Georgia State","0","0","Sun Belt","Sun Belt",1647,1522,9.5,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,3169,1,0
+"0","4","2023","Purdue","Wisconsin","0","19","Big Ten","Big Ten",1635,1742,9.5,0.899,"0","1","0",FALSE,FALSE,TRUE,TRUE,3377,0.794,0.206
+"0","4","2023","Virginia","NC State","0","0","ACC","ACC",1526,1632,18.5,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,3158,1,0
+"0","4","2023","San Jose State","Air Force","0","0","Mountain West","Mountain West",1338,1650,6,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,2988,1,0
+"0","4","2023","San Diego State","Boise State","0","0","Mountain West","Mountain West",1535,1664,9.5,0.176,"0","1","0",FALSE,FALSE,TRUE,TRUE,3199,1,0
+"0","4","2023","Georgia","UAB","1","0","SEC","American Athletic",1980,1546,19.5,0.744,"0","0","0",FALSE,FALSE,TRUE,TRUE,3526,0.8,0.2
+"0","4","2023","Cincinnati","Oklahoma","0","20","Big 12","Big 12",1801,1749,17.5,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,3550,0.8,0.2
+"0","4","2023","Tulane","Nicholls","24","0","American Athletic","Southland",1667,1426,16.5,0.992,"0","0","0",TRUE,TRUE,TRUE,TRUE,3093,1,0
+"0","4","2023","Northwestern","Minnesota","0","0","Big Ten","Big Ten",1361,1639,7.5,0.176,"0","1","0",FALSE,FALSE,TRUE,TRUE,3000,1,0
+"0","4","2023","Baylor","Texas","0","11","Big 12","Big 12",1690,1633,8,0.291,"0","1","0",FALSE,FALSE,FALSE,FALSE,3323,0.89,0.11
+"0","4","2023","Iowa State","Oklahoma State","0","0","Big 12","Big 12",1779,1775,14.5,0.911,"0","1","0",FALSE,FALSE,TRUE,TRUE,3554,0.832,0.168
+"0","4","2023","Ball State","Georgia Southern","0","0","Mid-American","Sun Belt",1410,1382,10,0.291,"0","0","0",FALSE,FALSE,TRUE,TRUE,2792,1,0
+"0","4","2023","Vanderbilt","Kentucky","0","0","SEC","SEC",1222,1670,7.5,0.267,"0","1","1",FALSE,FALSE,TRUE,TRUE,2892,1,0
+"0","4","2023","West Virginia","Texas Tech","0","0","Big 12","Big 12",1490,1536,7,0.996,"0","1","0",FALSE,FALSE,TRUE,TRUE,3026,1,0
+"0","4","2023","Syracuse","Army","0","0","ACC","FBS Independents",1405,1544,14,0.609,"0","0","0",FALSE,FALSE,TRUE,TRUE,2949,1,0
+"0","4","2023","Arkansas State","Southern Mississippi","0","0","Sun Belt","Sun Belt",1262,1266,6,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2528,1,0
+"0","4","2023","Washington State","Oregon State","0","18","Pac-12","Pac-12",1590,1544,2,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,3134,1,0
+"0","4","2023","Alabama","Ole Miss","4","22","SEC","SEC",1979,1658,14.5,0.841,"0","1","1",FALSE,FALSE,FALSE,FALSE,3637,0.876,0.124
+"0","4","2023","Tennessee","UT San Antonio","12","0","SEC","American Athletic",1640,1512,10,0.899,"0","0","0",FALSE,FALSE,TRUE,TRUE,3152,0.918,0.082
+"0","4","2023","Oregon","Colorado","15","0","Pac-12","Pac-12",1574,1387,3,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2961,1,0
+"0","4","2023","Pittsburgh","North Carolina","0","21","ACC","ACC",1667,1555,2,0.685,"0","1","0",FALSE,FALSE,TRUE,TRUE,3222,1,0
+"0","4","2023","Arizona State","USC","0","6","Pac-12","Pac-12",1614,1487,9,0.997,"0","1","0",FALSE,FALSE,TRUE,TRUE,3101,0.952,0.048
+"0","4","2023","South Carolina","Mississippi State","0","0","SEC","SEC",1486,1520,16,0.315,"0","1","0",FALSE,FALSE,TRUE,TRUE,3006,1,0
+"0","4","2023","Utah","UCLA","14","0","Pac-12","Pac-12",1790,1667,8,0.709,"0","1","0",FALSE,FALSE,FALSE,FALSE,3457,0.854,0.146
+"0","4","2023","Wake Forest","Georgia Tech","0","0","ACC","ACC",1640,1346,7,0.685,"0","1","0",FALSE,FALSE,TRUE,TRUE,2986,1,0
+"0","4","2023","South Florida","Rice","0","0","American Athletic","American Athletic",1284,1245,10,0.176,"0","1","0",FALSE,FALSE,TRUE,TRUE,2529,1,0
+"0","4","2023","Washington","California","10","0","Pac-12","Pac-12",1536,1510,17,0.954,"0","1","0",FALSE,FALSE,TRUE,TRUE,3046,1,0
+"0","4","2023","Temple","Miami","0","0","American Athletic","ACC",1101,1570,13.5,0.796,"0","0","0",FALSE,FALSE,TRUE,TRUE,2671,1,0
+"0","4","2023","Stanford","Arizona","0","0","Pac-12","Pac-12",1355,1306,9,0.824,"0","1","0",FALSE,FALSE,TRUE,TRUE,2661,1,0
+"0","4","2023","Marshall","Virginia Tech","0","0","Sun Belt","ACC",1548,1412,17.5,0.815,"0","0","0",FALSE,FALSE,TRUE,TRUE,2960,1,0
+"0","4","2023","LSU","Arkansas","5","0","SEC","SEC",1538,1626,13.5,0.824,"0","1","1",FALSE,FALSE,FALSE,FALSE,3164,0.988,0.012
+"0","4","2023","Texas A&M","Auburn","23","0","SEC","SEC",1708,1632,9.5,0.673,"0","1","0",FALSE,FALSE,TRUE,TRUE,3340,0.964,0.036
+"0","4","2023","Louisville","Boston College","0","0","ACC","ACC",1568,1443,17.5,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,3011,1,0
+"0","4","2023","Illinois","Florida Atlantic","0","0","Big Ten","American Athletic",1496,1427,23.5,0.886,"0","0","0",FALSE,FALSE,TRUE,TRUE,2923,1,0
+"0","4","2023","Nebraska","Louisiana Tech","0","0","Big Ten","Conference USA",1636,1301,35,0.886,"0","0","0",FALSE,FALSE,TRUE,TRUE,2937,1,0
+"0","4","2023","Clemson","Florida State","9","8","ACC","ACC",1766,1501,2.5,0.568,"0","1","1",FALSE,FALSE,FALSE,FALSE,3267,0.99,0.01
+"0","4","2023","Louisiana","Buffalo","0","0","Sun Belt","Mid-American",1720,1382,17.5,0.947,"0","0","0",FALSE,FALSE,TRUE,TRUE,3102,1,0
+"0","4","2023","TCU","SMU","17","0","Big 12","American Athletic",1436,1574,18.5,0.85,"0","0","1",FALSE,FALSE,TRUE,TRUE,3010,0.966,0.034
+"0","4","2023","Kansas","BYU","0","0","Big 12","Big 12",1194,1648,21.5,0.995,"0","1","0",FALSE,FALSE,TRUE,TRUE,2842,1,0
+"0","4","2023","South Alabama","Central Michigan","0","0","Sun Belt","Mid-American",1351,1536,23.5,0.992,"0","0","0",FALSE,FALSE,TRUE,TRUE,2887,1,0
+"0","4","2023","UMass","New Mexico","0","0","FBS Independents","Mountain West",1036,1229,18.5,0.744,"0","0","0",FALSE,FALSE,TRUE,TRUE,2265,1,0
+"0","4","2023","Missouri","Memphis","0","0","SEC","American Athletic",1404,1490,37.5,0.997,"1","0","0",FALSE,FALSE,TRUE,TRUE,2894,0.994,0.006
+"0","4","2023","Indiana","Akron","0","0","Big Ten","Mid-American",1330,1096,3,0.966,"0","0","0",FALSE,FALSE,TRUE,TRUE,2426,1,0
+"0","4","2023","Kansas State","UCF","16","0","Big 12","Big 12",1616,1569,5,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,3185,0.966,0.034
+"0","4","2023","Northern Illinois","Tulsa","0","0","Mid-American","American Athletic",1376,1502,9.5,0.755,"0","0","0",FALSE,FALSE,TRUE,TRUE,2878,1,0
+"0","4","2023","Toledo","Western Michigan","0","0","Mid-American","Mid-American",1534,1538,4.5,0.365,"0","1","0",FALSE,FALSE,TRUE,TRUE,3072,1,0
+"0","4","2023","Michigan","Rutgers","2","0","Big Ten","Big Ten",1848,1365,4.5,0.582,"0","1","0",FALSE,FALSE,TRUE,TRUE,3213,0.936,0.064
+"0","4","2023","Miami (OH)","Delaware State","0","0","Mid-American","MEAC",1658,1347,14,0.865,"0","0","0",TRUE,TRUE,TRUE,TRUE,3005,1,0
+"0","4","2023","Old Dominion","Texas A&M-Commerce","0","0","Sun Belt","Southland",1667,1572,5,0.595,"0","0","0",TRUE,TRUE,TRUE,TRUE,3239,1,0
+"0","4","2023","Michigan State","Maryland","0","0","Big Ten","Big Ten",1563,1496,13.5,0.214,"0","1","0",FALSE,FALSE,TRUE,TRUE,3059,1,0
+"0","4","2023","Connecticut","Duke","0","0","FBS Independents","ACC",1117,1168,6,0.582,"0","0","0",FALSE,FALSE,TRUE,TRUE,2285,1,0
+"0","4","2023","Bowling Green","Ohio","0","0","Mid-American","Mid-American",1210,1368,9,0.34,"0","1","0",FALSE,FALSE,TRUE,TRUE,2578,1,0
+"0","4","2023","Jacksonville State","Eastern Michigan","0","0","Conference USA","Mid-American",1614,1574,16,0.176,"0","0","0",TRUE,TRUE,TRUE,TRUE,3188,1,0
+"0","4","2023","Florida International","Liberty","0","0","Conference USA","Conference USA",1080,1600,7,0.568,"0","1","0",FALSE,FALSE,TRUE,TRUE,2680,1,0
+"0","4","2023","Texas State","Nevada","0","0","Sun Belt","Mountain West",1270,1564,2,0.744,"0","0","0",FALSE,FALSE,TRUE,TRUE,2834,1,0
+"0","4","2023","Wyoming","Appalachian State","0","0","Mountain West","Sun Belt",1497,1656,3,0.698,"0","0","0",FALSE,FALSE,TRUE,TRUE,3153,1,0
+"0","4","2023","Houston","Sam Houston State","0","0","Big 12","Conference USA",1427,1635,9.5,0.709,"0","0","0",TRUE,TRUE,TRUE,TRUE,3062,0.996,0.004
+"0","4","2023","Florida","Charlotte","0","0","SEC","American Athletic",1572,1272,21,0.992,"0","0","0",FALSE,FALSE,TRUE,TRUE,2844,1,0
+"0","4","2023","Troy","Western Kentucky","0","0","Sun Belt","Conference USA",1347,1684,12,0.766,"0","0","0",FALSE,FALSE,TRUE,TRUE,3031,1,0
+"0","4","2023","Middle Tennessee","Colorado State","0","0","Conference USA","Mountain West",1445,1399,19,0.744,"0","0","0",FALSE,FALSE,TRUE,TRUE,2844,1,0
+"0","4","2023","Notre Dame","Ohio State","13","3","FBS Independents","Big Ten",1826,1932,7.5,0.302,"0","0","0",FALSE,FALSE,FALSE,FALSE,3758,0.316,0.684
+"0","4","2023","Penn State","Iowa","7","25","Big Ten","Big Ten",1670,1624,2,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,3294,0.992,0.008
+"0","4","2023","Utah State","James Madison","0","0","Mountain West","Sun Belt",1566,1300,3,0.555,"0","0","0",FALSE,FALSE,TRUE,TRUE,2866,1,0
+"0","4","2023","UTEP","UNLV","0","0","Conference USA","Mountain West",1360,1300,9,0.755,"0","0","0",FALSE,FALSE,TRUE,TRUE,2660,1,0
+"0","4","2023","Fresno State","Kent State","0","0","Mountain West","Mid-American",1590,1340,26.5,0.995,"0","0","0",FALSE,FALSE,TRUE,TRUE,2930,0.998,0.002
+"0","4","2023","Hawai'i","New Mexico State","0","0","Mountain West","Conference USA",1432,1184,10,0.815,"0","0","0",FALSE,FALSE,TRUE,TRUE,2616,1,0
+"0","5","2023","Tulsa","Temple","0","0","American Athletic","American Athletic",1502,1101,6,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2603,0.998,0.002
+"0","5","2023","Western Kentucky","Middle Tennessee","0","0","Conference USA","Conference USA",1684,1445,14.5,0.824,"0","1","1",FALSE,FALSE,TRUE,TRUE,3129,0.998,0.002
+"0","5","2023","Sam Houston State","Jacksonville State","0","0","Conference USA","Conference USA",1382,1245,5,0.755,"0","1","0",TRUE,TRUE,TRUE,TRUE,2627,1,0
+"0","5","2023","NC State","Louisville","0","0","ACC","ACC",1632,1568,14,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,3200,1,0
+"0","5","2023","UTEP","Louisiana Tech","0","0","Conference USA","Conference USA",1360,1301,8,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,2661,1,0
+"0","5","2023","Oregon State","Utah","18","14","Pac-12","Pac-12",1544,1790,7.5,0.167,"0","1","0",FALSE,FALSE,TRUE,TRUE,3334,0.96,0.04
+"0","5","2023","BYU","Cincinnati","0","0","Big 12","Big 12",1648,1801,9.5,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,3449,0.87,0.13
+"0","5","2023","Memphis","Boise State","0","0","American Athletic","Mountain West",1490,1664,6.5,0.582,"0","0","0",FALSE,FALSE,TRUE,TRUE,3154,1,0
+"0","5","2023","Louisiana Monroe","Appalachian State","0","0","Sun Belt","Sun Belt",1207,1656,8,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,2863,1,0
+"0","5","2023","Central Michigan","Eastern Michigan","0","0","Mid-American","Mid-American",1536,1380,11.5,0.582,"0","1","1",FALSE,FALSE,TRUE,TRUE,2916,1,0
+"0","5","2023","Rice","East Carolina","0","0","American Athletic","American Athletic",1245,1518,10,0.582,"0","1","0",FALSE,FALSE,TRUE,TRUE,2763,1,0
+"0","5","2023","Texas Tech","Houston","0","0","Big 12","Big 12",1536,1620,21.5,0.841,"0","1","1",FALSE,FALSE,TRUE,TRUE,3156,1,0
+"0","5","2023","Rutgers","Wagner","0","0","Big Ten","NEC",1443,1426,9.5,0.698,"0","0","0",TRUE,TRUE,TRUE,TRUE,2869,1,0
+"0","5","2023","Akron","Buffalo","0","0","Mid-American","Mid-American",1096,1382,7,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2478,1,0
+"0","5","2023","Kent State","Miami (OH)","0","0","Mid-American","Mid-American",1340,1516,9.5,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2856,1,0
+"0","5","2023","Tulane","UAB","24","0","American Athletic","American Athletic",1444,1546,7.5,0.568,"0","1","0",FALSE,FALSE,TRUE,TRUE,2990,1,0
+"0","5","2023","Fresno State","Nevada","0","0","Mountain West","Mountain West",1590,1564,1.5,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,3154,1,0
+"0","5","2023","UMass","Arkansas State","0","0","FBS Independents","Sun Belt",1036,1262,18,0.966,"0","0","0",FALSE,FALSE,TRUE,TRUE,2298,1,0
+"0","5","2023","Purdue","Illinois","0","0","Big Ten","Big Ten",1635,1496,7,0.635,"0","1","1",FALSE,FALSE,TRUE,TRUE,3131,1,0
+"0","5","2023","Tennessee","South Carolina","12","0","SEC","SEC",1640,1486,13,0.815,"0","1","0",FALSE,FALSE,FALSE,FALSE,3126,0.958,0.042
+"0","5","2023","Southern Mississippi","Texas State","0","0","Sun Belt","Sun Belt",1266,1270,16.5,0.992,"0","1","0",FALSE,FALSE,TRUE,TRUE,2536,1,0
+"0","5","2023","Oklahoma","Iowa State","20","0","Big 12","Big 12",1749,1779,2.5,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,3528,0.802,0.198
+"0","5","2023","Nebraska","Michigan","0","2","Big Ten","Big Ten",1636,1848,10.5,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,3484,0.658,0.342
+"0","5","2023","Marshall","Old Dominion","0","0","Sun Belt","Sun Belt",1548,1390,13.5,0.685,"0","1","0",FALSE,FALSE,TRUE,TRUE,2938,1,0
+"0","5","2023","Kentucky","Florida","0","0","SEC","SEC",1670,1572,18.5,0.886,"0","1","0",FALSE,FALSE,TRUE,TRUE,3242,1,0
+"0","5","2023","Auburn","Georgia","0","1","SEC","SEC",1632,1980,18.5,0.101,"0","1","1",FALSE,FALSE,FALSE,FALSE,3612,0.948,0.052
+"0","5","2023","James Madison","South Alabama","0","0","Sun Belt","Sun Belt",1300,1351,18.5,0.995,"0","1","0",FALSE,FALSE,TRUE,TRUE,2651,1,0
+"0","5","2023","UCF","Baylor","0","0","Big 12","Big 12",1569,1690,6.5,0.824,"0","1","0",FALSE,FALSE,TRUE,TRUE,3259,1,0
+"0","5","2023","Northwestern","Penn State","0","7","Big Ten","Big Ten",1361,1670,18.5,0.176,"0","1","0",FALSE,FALSE,TRUE,TRUE,3031,0.934,0.066
+"0","5","2023","Western Michigan","Ball State","0","0","Mid-American","Mid-American",1538,1410,3,0.698,"0","1","0",FALSE,FALSE,TRUE,TRUE,2948,1,0
+"0","5","2023","Ole Miss","LSU","22","5","SEC","SEC",1658,1538,5,0.365,"0","1","1",FALSE,FALSE,FALSE,FALSE,3196,0.832,0.168
+"0","5","2023","Maryland","Indiana","0","0","Big Ten","Big Ten",1496,1330,10,0.964,"0","1","0",FALSE,FALSE,TRUE,TRUE,2826,1,0
+"0","5","2023","Syracuse","Clemson","0","9","ACC","ACC",1405,1766,13.5,0.095,"0","1","0",FALSE,FALSE,TRUE,TRUE,3171,0.894,0.106
+"0","5","2023","SMU","Charlotte","0","0","American Athletic","American Athletic",1574,1272,8,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,2846,1,0
+"0","5","2023","Virginia Tech","Pittsburgh","0","0","ACC","ACC",1412,1667,9,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,3079,1,0
+"0","5","2023","California","Arizona State","0","0","Pac-12","Pac-12",1510,1614,4.5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,3124,1,0
+"0","5","2023","Arkansas","Texas A&M","0","23","SEC","SEC",1626,1708,6.5,0.824,"1","1","1",FALSE,FALSE,TRUE,TRUE,3334,0.786,0.214
+"0","5","2023","Vanderbilt","Missouri","0","0","SEC","SEC",1222,1404,10,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,2626,1,0
+"0","5","2023","Colorado","USC","0","6","Pac-12","Pac-12",1387,1487,38,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,2874,0.946,0.054
+"0","5","2023","Boston College","Virginia","0","0","ACC","ACC",1443,1526,25.5,0.926,"0","1","0",FALSE,FALSE,TRUE,TRUE,2969,1,0
+"0","5","2023","TCU","West Virginia","17","0","Big 12","Big 12",1436,1490,7,0.911,"0","1","0",FALSE,FALSE,TRUE,TRUE,2926,0.964,0.036
+"0","5","2023","Georgia State","Troy","0","0","Sun Belt","Sun Belt",1522,1347,7.5,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,2869,1,0
+"0","5","2023","Mississippi State","Alabama","0","4","SEC","SEC",1520,1979,15,0.069,"0","1","1",FALSE,FALSE,TRUE,TRUE,3499,0.834,0.166
+"0","5","2023","Duke","Notre Dame","0","13","ACC","FBS Independents",1168,1826,19,0.302,"0","0","0",FALSE,FALSE,TRUE,TRUE,2994,0.992,0.008
+"0","5","2023","Iowa","Michigan State","25","0","Big Ten","Big Ten",1624,1563,3.5,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,3187,0.99,0.01
+"0","5","2023","Arizona","Washington","0","10","Pac-12","Pac-12",1306,1536,38,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,2842,1,0
+"0","5","2023","Texas","Kansas","11","0","Big 12","Big 12",1633,1194,18,0.893,"0","1","0",FALSE,FALSE,FALSE,FALSE,2827,0.99,0.01
+"0","5","2023","Stanford","Oregon","0","15","Pac-12","Pac-12",1355,1574,7.5,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,2929,1,0
+"0","5","2023","Georgia Tech","Bowling Green","0","0","ACC","Mid-American",1346,1210,7,0.685,"0","0","0",FALSE,FALSE,TRUE,TRUE,2556,1,0
+"0","5","2023","Connecticut","Utah State","0","0","FBS Independents","Mountain West",1117,1566,13.5,0.685,"0","0","0",FALSE,FALSE,TRUE,TRUE,2683,1,0
+"0","5","2023","Minnesota","Louisiana","0","0","Big Ten","Sun Belt",1639,1720,39,0.992,"0","0","0",FALSE,FALSE,TRUE,TRUE,3359,0.92,0.08
+"0","5","2023","Navy","South Florida","0","0","American Athletic","American Athletic",1403,1284,7.5,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2687,1,0
+"0","5","2023","Toledo","Northern Illinois","0","0","Mid-American","Mid-American",1534,1376,7.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2910,1,0
+"0","5","2023","Wyoming","New Mexico","0","0","Mountain West","Mountain West",1497,1229,13,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2726,1,0
+"0","5","2023","UNLV","Hawai'i","0","0","Mountain West","Mountain West",1300,1432,15,0.865,"0","1","0",FALSE,FALSE,TRUE,TRUE,2732,1,0
+"0","5","2023","Georgia Southern","Coastal Carolina","0","0","Sun Belt","Sun Belt",1382,1647,17,0.445,"0","1","0",FALSE,FALSE,TRUE,TRUE,3029,1,0
+"0","5","2023","Air Force","San Diego State","0","0","Mountain West","Mountain West",1650,1535,17.5,0.214,"0","1","0",FALSE,FALSE,TRUE,TRUE,3185,0.998,0.002
+"0","6","2023","Middle Tennessee","Jacksonville State","0","0","Conference USA","Conference USA",1347,1667,12,0.996,"0","1","0",TRUE,TRUE,TRUE,TRUE,3014,1,0
+"0","6","2023","New Mexico State","Florida International","0","0","Conference USA","Conference USA",1184,1080,13,0.833,"0","1","0",FALSE,FALSE,TRUE,TRUE,2264,1,0
+"0","6","2023","Liberty","Sam Houston State","0","0","Conference USA","Conference USA",1404,1036,13,0.582,"0","1","0",TRUE,TRUE,TRUE,TRUE,2440,1,0
+"0","6","2023","Louisiana Tech","Western Kentucky","0","0","Conference USA","Conference USA",1301,1684,2,0.911,"0","1","0",FALSE,FALSE,TRUE,TRUE,2985,1,0
+"0","6","2023","Oklahoma State","Kansas State","0","16","Big 12","Big 12",1775,1616,18,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,3391,0.91,0.09
+"0","6","2023","Illinois","Nebraska","0","0","Big Ten","Big Ten",1496,1636,15,0.214,"0","1","0",FALSE,FALSE,TRUE,TRUE,3132,0.998,0.002
+"0","6","2023","Miami","Georgia Tech","0","0","ACC","ACC",1570,1346,9.5,0.947,"0","1","0",FALSE,FALSE,TRUE,TRUE,2916,1,0
+"0","6","2023","Virginia","William & Mary","0","0","ACC","CAA",1496,1487,9.5,0.85,"0","0","0",TRUE,TRUE,TRUE,TRUE,2983,1,0
+"0","6","2023","Louisiana","Texas State","0","0","Sun Belt","Sun Belt",1720,1270,2.5,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,2990,1,0
+"0","6","2023","Louisiana Monroe","South Alabama","0","0","Sun Belt","Sun Belt",1207,1351,5,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,2558,1,0
+"0","6","2023","Clemson","Wake Forest","9","0","ACC","ACC",1766,1640,26,0.095,"0","1","0",FALSE,FALSE,TRUE,TRUE,3406,0.836,0.164
+"0","6","2023","Minnesota","Michigan","0","2","Big Ten","Big Ten",1639,1848,14,0.095,"0","1","1",FALSE,FALSE,TRUE,TRUE,3487,0.706,0.294
+"0","6","2023","Rice","Connecticut","0","0","American Athletic","FBS Independents",1245,1117,10,0.981,"0","0","0",FALSE,FALSE,TRUE,TRUE,2362,1,0
+"0","6","2023","Oklahoma","Texas","20","11","Big 12","Big 12",1749,1633,14,0.673,"1","1","1",FALSE,FALSE,TRUE,TRUE,3382,0.68,0.32
+"0","6","2023","Southern Mississippi","Old Dominion","0","0","Sun Belt","Sun Belt",1266,1390,16.5,0.685,"0","1","0",FALSE,FALSE,TRUE,TRUE,2656,1,0
+"0","6","2023","Wisconsin","Rutgers","19","0","Big Ten","Big Ten",1742,1365,2,0.267,"0","1","0",FALSE,FALSE,TRUE,TRUE,3107,0.956,0.044
+"0","6","2023","Louisville","Notre Dame","0","13","ACC","FBS Independents",1568,1826,7.5,0.609,"0","0","0",FALSE,FALSE,TRUE,TRUE,3394,0.888,0.112
+"0","6","2023","Florida State","Virginia Tech","8","0","ACC","ACC",1501,1412,7.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2913,0.986,0.014
+"0","6","2023","NC State","Marshall","0","0","ACC","Sun Belt",1632,1548,13.5,0.635,"0","0","0",FALSE,FALSE,TRUE,TRUE,3180,1,0
+"0","6","2023","Georgia","Kentucky","1","0","SEC","SEC",1980,1670,10,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,3650,0.682,0.318
+"0","6","2023","Buffalo","Central Michigan","0","0","Mid-American","Mid-American",1382,1536,13.5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,2918,1,0
+"0","6","2023","Ohio State","Maryland","3","0","Big Ten","Big Ten",1932,1496,19.5,0.996,"0","1","0",FALSE,FALSE,TRUE,TRUE,3428,0.854,0.146
+"0","6","2023","Baylor","Texas Tech","0","0","Big 12","Big 12",1690,1536,6.5,0.911,"0","1","1",FALSE,FALSE,TRUE,TRUE,3226,0.998,0.002
+"0","6","2023","Kansas","UCF","0","0","Big 12","Big 12",1194,1569,3.5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,2763,1,0
+"0","6","2023","Iowa","Purdue","25","0","Big Ten","Big Ten",1624,1635,17.5,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,3259,0.98,0.02
+"0","6","2023","UCLA","Washington State","0","0","Pac-12","Pac-12",1667,1590,2,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,3257,1,0
+"0","6","2023","Iowa State","TCU","0","17","Big 12","Big 12",1779,1436,0,0.966,"0","1","0",FALSE,FALSE,TRUE,TRUE,3215,0.986,0.014
+"0","6","2023","Florida","Vanderbilt","0","0","SEC","SEC",1572,1222,17.5,0.886,"0","1","0",FALSE,FALSE,TRUE,TRUE,2794,1,0
+"0","6","2023","California","Oregon State","0","18","Pac-12","Pac-12",1510,1544,3,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,3054,1,0
+"0","6","2023","Arizona State","Colorado","0","0","Pac-12","Pac-12",1614,1387,14,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,3001,1,0
+"0","6","2023","Texas A&M","Alabama","23","4","SEC","SEC",1708,1979,2.5,0.66,"0","1","0",FALSE,FALSE,TRUE,TRUE,3687,0.65,0.35
+"0","6","2023","Mississippi State","Western Michigan","0","0","SEC","Mid-American",1520,1538,4.5,0.744,"0","0","0",FALSE,FALSE,TRUE,TRUE,3058,1,0
+"0","6","2023","UMass","Toledo","0","0","FBS Independents","Mid-American",1036,1534,7.5,0.555,"0","0","0",FALSE,FALSE,TRUE,TRUE,2570,1,0
+"0","6","2023","North Carolina","Syracuse","21","0","ACC","ACC",1555,1405,7.5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,2960,0.988,0.012
+"0","6","2023","USC","Arizona","6","0","Pac-12","Pac-12",1487,1306,14,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2793,1,0
+"0","6","2023","Temple","UT San Antonio","0","0","American Athletic","American Athletic",1101,1512,9.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2613,1,0
+"0","6","2023","UAB","South Florida","0","0","American Athletic","American Athletic",1546,1284,6,0.66,"0","1","0",FALSE,FALSE,TRUE,TRUE,2830,1,0
+"0","6","2023","Wyoming","Fresno State","0","0","Mountain West","Mountain West",1497,1590,15,0.886,"0","1","0",FALSE,FALSE,TRUE,TRUE,3087,1,0
+"0","6","2023","Ole Miss","Arkansas","22","0","SEC","SEC",1658,1626,7,0.302,"0","1","1",FALSE,FALSE,TRUE,TRUE,3284,1,0
+"0","6","2023","Missouri","LSU","0","5","SEC","SEC",1404,1538,9,0.992,"0","1","0",FALSE,FALSE,TRUE,TRUE,2942,0.828,0.172
+"0","6","2023","Florida Atlantic","Tulsa","0","0","American Athletic","American Athletic",1427,1502,6.5,0.698,"0","1","0",FALSE,FALSE,TRUE,TRUE,2929,0.998,0.002
+"0","6","2023","Army","Boston College","0","0","FBS Independents","ACC",1544,1443,8,0.85,"0","0","0",FALSE,FALSE,TRUE,TRUE,2987,1,0
+"0","6","2023","Northwestern","Howard","0","0","Big Ten","MEAC",1496,1538,13.5,0.961,"0","0","0",TRUE,TRUE,TRUE,TRUE,3034,1,0
+"0","6","2023","Navy","North Texas","0","0","American Athletic","American Athletic",1403,1426,8,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,2829,1,0
+"0","6","2023","Eastern Michigan","Ball State","0","0","Mid-American","Mid-American",1380,1410,35,0.996,"0","1","0",FALSE,FALSE,TRUE,TRUE,2790,0.978,0.022
+"0","6","2023","Akron","Northern Illinois","0","0","Mid-American","Mid-American",1096,1376,7.5,0.865,"0","1","0",FALSE,FALSE,TRUE,TRUE,2472,1,0
+"0","6","2023","Miami (OH)","Bowling Green","0","0","Mid-American","Mid-American",1516,1210,4.5,0.698,"0","1","0",FALSE,FALSE,TRUE,TRUE,2726,1,0
+"0","6","2023","Ohio","Kent State","0","0","Mid-American","Mid-American",1368,1340,13.5,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2708,1,0
+"0","6","2023","Troy","Arkansas State","0","0","Sun Belt","Sun Belt",1347,1262,26,0.926,"0","1","0",FALSE,FALSE,TRUE,TRUE,2609,1,0
+"0","6","2023","Boise State","San Jose State","0","0","Mountain West","Mountain West",1664,1338,17.5,0.698,"0","1","0",FALSE,FALSE,TRUE,TRUE,3002,1,0
+"0","6","2023","Utah State","Colorado State","0","0","Mountain West","Mountain West",1566,1399,6,0.673,"0","1","0",FALSE,FALSE,TRUE,TRUE,2965,1,0
+"0","7","2023","Middle Tennessee","Louisiana Tech","0","0","Conference USA","Conference USA",1445,1301,3,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,2746,1,0
+"0","7","2023","Appalachian State","Coastal Carolina","0","0","Sun Belt","Sun Belt",1656,1647,7,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,3303,1,0
+"0","7","2023","Jacksonville State","Liberty","0","0","Conference USA","Conference USA",1487,1536,8,0.698,"0","1","0",TRUE,TRUE,TRUE,TRUE,3023,1,0
+"0","7","2023","Florida International","UTEP","0","0","Conference USA","Conference USA",1080,1360,5,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,2440,1,0
+"0","7","2023","New Mexico State","Sam Houston State","0","0","Conference USA","Conference USA",1382,1633,7.5,0.095,"0","1","0",TRUE,TRUE,TRUE,TRUE,3015,0.992,0.008
+"0","7","2023","Houston","West Virginia","0","0","Big 12","Big 12",1620,1490,5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,3110,1,0
+"0","7","2023","East Carolina","SMU","0","0","American Athletic","American Athletic",1518,1574,7,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,3092,1,0
+"0","7","2023","Memphis","Tulane","0","24","American Athletic","American Athletic",1490,1444,7,0.673,"0","1","0",FALSE,FALSE,TRUE,TRUE,2934,0.8,0.2
+"0","7","2023","Utah State","Fresno State","0","0","Mountain West","Mountain West",1566,1590,13.5,0.886,"0","1","0",FALSE,FALSE,TRUE,TRUE,3156,1,0
+"0","7","2023","Colorado","Stanford","0","0","Pac-12","Pac-12",1387,1355,7.5,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,2742,1,0
+"0","7","2023","Vanderbilt","Georgia","0","1","SEC","SEC",1222,1980,10,0.432,"0","1","1",FALSE,FALSE,TRUE,TRUE,3202,0.964,0.036
+"0","7","2023","South Carolina","Florida","0","0","SEC","SEC",1486,1572,7,0.66,"0","1","0",FALSE,FALSE,TRUE,TRUE,3058,1,0
+"0","7","2023","Oregon State","UCLA","18","0","Pac-12","Pac-12",1544,1667,10,0.833,"0","1","0",FALSE,FALSE,TRUE,TRUE,3211,1,0
+"0","7","2023","Kentucky","Missouri","0","0","SEC","SEC",1670,1404,5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,3074,1,0
+"0","7","2023","Wisconsin","Iowa","19","25","Big Ten","Big Ten",1742,1624,11.5,0.291,"0","1","1",FALSE,FALSE,TRUE,TRUE,3366,0.838,0.162
+"0","7","2023","Alabama","Arkansas","4","0","SEC","SEC",1979,1626,18,0.893,"0","1","0",FALSE,FALSE,FALSE,FALSE,3605,0.97,0.03
+"0","7","2023","Cincinnati","Iowa State","0","0","Big 12","Big 12",1801,1779,8,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,3580,0.818,0.182
+"0","7","2023","North Carolina","Miami","21","0","ACC","ACC",1555,1570,9.5,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,3125,0.996,0.004
+"0","7","2023","Georgia State","Marshall","0","0","Sun Belt","Sun Belt",1522,1548,27.5,0.685,"0","1","0",FALSE,FALSE,TRUE,TRUE,3070,1,0
+"0","7","2023","Duke","NC State","0","0","ACC","ACC",1168,1632,10,0.176,"0","1","0",FALSE,FALSE,TRUE,TRUE,2800,1,0
+"0","7","2023","Washington","Oregon","10","15","Pac-12","Pac-12",1536,1574,2,0.555,"0","1","1",FALSE,FALSE,FALSE,FALSE,3110,1,0
+"0","7","2023","Eastern Michigan","Kent State","0","0","Mid-American","Mid-American",1380,1340,5,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,2720,1,0
+"0","7","2023","UT San Antonio","UAB","0","0","American Athletic","American Athletic",1512,1546,17,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,3058,1,0
+"0","7","2023","Utah","California","14","0","Pac-12","Pac-12",1790,1510,2,0.841,"0","1","0",FALSE,FALSE,TRUE,TRUE,3300,0.968,0.032
+"0","7","2023","Pittsburgh","Louisville","0","0","ACC","ACC",1667,1568,7,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,3235,1,0
+"0","7","2023","Tennessee","Texas A&M","12","23","SEC","SEC",1640,1708,3.5,0.095,"0","1","0",FALSE,FALSE,TRUE,TRUE,3348,0.722,0.278
+"0","7","2023","Colorado State","Boise State","0","0","Mountain West","Mountain West",1399,1664,4,0.34,"0","1","0",FALSE,FALSE,TRUE,TRUE,3063,1,0
+"0","7","2023","Purdue","Ohio State","0","3","Big Ten","Big Ten",1635,1932,8,0.029,"0","1","0",FALSE,FALSE,TRUE,TRUE,3567,0.854,0.146
+"0","7","2023","Maryland","Illinois","0","0","Big Ten","Big Ten",1496,1496,14,0.964,"0","1","0",FALSE,FALSE,TRUE,TRUE,2992,1,0
+"0","7","2023","Virginia Tech","Wake Forest","0","0","ACC","ACC",1412,1640,2.5,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,3052,1,0
+"0","7","2023","Texas Tech","Kansas State","0","16","Big 12","Big 12",1536,1616,13.5,0.256,"0","1","0",FALSE,FALSE,TRUE,TRUE,3152,1,0
+"0","7","2023","Oklahoma State","Kansas","0","0","Big 12","Big 12",1775,1194,7.5,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2969,0.99,0.01
+"0","7","2023","TCU","BYU","17","0","Big 12","Big 12",1436,1648,15,0.865,"0","1","0",FALSE,FALSE,TRUE,TRUE,3084,0.96,0.04
+"0","7","2023","South Florida","Florida Atlantic","0","0","American Athletic","American Athletic",1284,1427,9.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2711,1,0
+"0","7","2023","Ball State","Toledo","0","0","Mid-American","Mid-American",1410,1534,17.5,0.214,"0","1","0",FALSE,FALSE,TRUE,TRUE,2944,1,0
+"0","7","2023","LSU","Auburn","5","0","SEC","SEC",1538,1632,16.5,0.872,"0","1","1",FALSE,FALSE,FALSE,FALSE,3170,0.988,0.012
+"0","7","2023","Washington State","Arizona","0","0","Pac-12","Pac-12",1590,1306,5,0.685,"0","1","0",FALSE,FALSE,TRUE,TRUE,2896,1,0
+"0","7","2023","North Texas","Temple","0","0","American Athletic","American Athletic",1426,1101,7.5,0.582,"0","1","0",FALSE,FALSE,TRUE,TRUE,2527,1,0
+"0","7","2023","Michigan","Indiana","2","0","Big Ten","Big Ten",1848,1330,35,0.995,"0","1","0",FALSE,FALSE,TRUE,TRUE,3178,0.968,0.032
+"0","7","2023","Florida State","Syracuse","8","0","ACC","ACC",1501,1405,7.5,0.824,"0","1","0",FALSE,FALSE,TRUE,TRUE,2906,0.986,0.014
+"0","7","2023","James Madison","Georgia Southern","0","0","Sun Belt","Sun Belt",1300,1382,10,0.685,"0","1","0",FALSE,FALSE,TRUE,TRUE,2682,1,0
+"0","7","2023","Charlotte","Navy","0","0","American Athletic","American Athletic",1272,1403,19.5,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,2675,1,0
+"0","7","2023","Rutgers","Michigan State","0","0","Big Ten","Big Ten",1365,1563,9,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,2928,1,0
+"0","7","2023","Army","Troy","0","0","FBS Independents","Sun Belt",1544,1347,13.5,0.267,"0","0","0",FALSE,FALSE,TRUE,TRUE,2891,1,0
+"0","7","2023","Buffalo","Bowling Green","0","0","Mid-American","Mid-American",1382,1210,10,0.893,"0","1","0",FALSE,FALSE,TRUE,TRUE,2592,1,0
+"0","7","2023","Penn State","UMass","7","0","Big Ten","FBS Independents",1670,1036,26,0.886,"0","0","0",FALSE,FALSE,TRUE,TRUE,2706,1,0
+"0","7","2023","Northern Illinois","Ohio","0","0","Mid-American","Mid-American",1376,1368,13,0.824,"0","1","0",FALSE,FALSE,TRUE,TRUE,2744,1,0
+"0","7","2023","Central Michigan","Akron","0","0","Mid-American","Mid-American",1536,1096,3,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,2632,1,0
+"0","7","2023","Western Michigan","Miami (OH)","0","0","Mid-American","Mid-American",1538,1516,9.5,0.766,"0","1","0",FALSE,FALSE,TRUE,TRUE,3054,1,0
+"0","7","2023","Nevada","UNLV","0","0","Mountain West","Mountain West",1564,1300,2,0.673,"0","1","1",FALSE,FALSE,TRUE,TRUE,2864,1,0
+"0","7","2023","New Mexico","San Jose State","0","0","Mountain West","Mountain West",1229,1338,16.5,0.267,"0","1","0",FALSE,FALSE,TRUE,TRUE,2567,1,0
+"0","7","2023","Texas State","Louisiana Monroe","0","0","Sun Belt","Sun Belt",1270,1207,39.5,0.951,"0","1","0",FALSE,FALSE,TRUE,TRUE,2477,1,0
+"0","7","2023","Air Force","Wyoming","0","0","Mountain West","Mountain West",1650,1497,2.5,0.267,"0","1","0",FALSE,FALSE,TRUE,TRUE,3147,1,0
+"0","7","2023","Notre Dame","USC","13","6","FBS Independents","Pac-12",1826,1487,0,0.5,"0","0","1",FALSE,FALSE,FALSE,FALSE,3313,0.868,0.132
+"0","7","2023","Hawai'i","San Diego State","0","0","Mountain West","Mountain West",1432,1535,9.5,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,2967,1,0
+"0","8","2023","Liberty","Middle Tennessee","0","0","Conference USA","Conference USA",1600,1445,4.5,0.568,"0","1","0",FALSE,FALSE,TRUE,TRUE,3045,1,0
+"0","8","2023","Jacksonville State","Western Kentucky","0","0","Conference USA","Conference USA",1670,1548,18,0.996,"0","1","0",TRUE,TRUE,TRUE,TRUE,3218,1,0
+"0","8","2023","South Alabama","Southern Mississippi","0","0","Sun Belt","Sun Belt",1351,1266,18.5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,2617,1,0
+"0","8","2023","Sam Houston State","Florida International","0","0","Conference USA","Conference USA",1720,1266,7.5,0.315,"0","1","0",TRUE,TRUE,TRUE,TRUE,2986,0.994,0.006
+"0","8","2023","UTEP","New Mexico State","0","0","Conference USA","Conference USA",1360,1184,7,0.685,"0","1","1",FALSE,FALSE,TRUE,TRUE,2544,1,0
+"0","8","2023","Tulsa","Rice","0","0","American Athletic","American Athletic",1502,1245,7,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,2747,0.998,0.002
+"0","8","2023","Marshall","James Madison","0","0","Sun Belt","Sun Belt",1548,1300,3,0.964,"0","1","0",FALSE,FALSE,TRUE,TRUE,2848,1,0
+"0","8","2023","Temple","SMU","0","0","American Athletic","American Athletic",1101,1574,9.5,0.911,"0","1","0",FALSE,FALSE,TRUE,TRUE,2675,1,0
+"0","8","2023","UAB","Memphis","0","0","American Athletic","American Athletic",1546,1490,19,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,3036,1,0
+"0","8","2023","Florida State","Duke","8","0","ACC","ACC",1501,1168,13.5,0.893,"0","1","0",FALSE,FALSE,TRUE,TRUE,2669,0.988,0.012
+"0","8","2023","LSU","Army","5","0","SEC","FBS Independents",1538,1544,7,0.541,"0","0","0",FALSE,FALSE,TRUE,TRUE,3082,0.974,0.026
+"0","8","2023","Illinois","Wisconsin","0","19","Big Ten","Big Ten",1496,1742,11.5,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,3238,0.982,0.018
+"0","8","2023","Old Dominion","Appalachian State","0","0","Sun Belt","Sun Belt",1390,1656,13.5,0.865,"0","1","0",FALSE,FALSE,TRUE,TRUE,3046,1,0
+"0","8","2023","North Carolina","Virginia","21","0","ACC","ACC",1555,1526,4.5,0.568,"0","1","1",FALSE,FALSE,TRUE,TRUE,3081,0.996,0.004
+"0","8","2023","Tulane","North Texas","24","0","American Athletic","American Athletic",1444,1426,4.5,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,2870,1,0
+"0","8","2023","Arkansas State","Coastal Carolina","0","0","Sun Belt","Sun Belt",1262,1647,10,0.568,"0","1","0",FALSE,FALSE,TRUE,TRUE,2909,1,0
+"0","8","2023","Iowa","Minnesota","25","0","Big Ten","Big Ten",1624,1639,2,0.673,"0","1","1",FALSE,FALSE,TRUE,TRUE,3263,0.978,0.022
+"0","8","2023","Ohio","Western Michigan","0","0","Mid-American","Mid-American",1368,1538,17,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2906,1,0
+"0","8","2023","Stanford","UCLA","0","0","Pac-12","Pac-12",1355,1667,6,0.315,"0","1","0",FALSE,FALSE,TRUE,TRUE,3022,1,0
+"0","8","2023","San Diego State","Nevada","0","0","Mountain West","Mountain West",1535,1564,7,0.582,"0","1","0",FALSE,FALSE,TRUE,TRUE,3099,1,0
+"0","8","2023","Miami (OH)","Toledo","0","0","Mid-American","Mid-American",1516,1534,27.5,0.996,"0","1","0",FALSE,FALSE,TRUE,TRUE,3050,0.99,0.01
+"0","8","2023","Auburn","Ole Miss","0","22","SEC","SEC",1632,1658,6.5,0.185,"0","1","1",FALSE,FALSE,TRUE,TRUE,3290,0.998,0.002
+"0","8","2023","East Carolina","Charlotte","0","0","American Athletic","American Athletic",1518,1272,9.5,0.267,"0","1","0",FALSE,FALSE,TRUE,TRUE,2790,1,0
+"0","8","2023","Missouri","South Carolina","0","0","SEC","SEC",1404,1486,3.5,0.796,"0","1","1",FALSE,FALSE,TRUE,TRUE,2890,1,0
+"0","8","2023","Cincinnati","Baylor","0","0","Big 12","Big 12",1801,1690,8.5,0.315,"0","1","0",FALSE,FALSE,TRUE,TRUE,3491,0.818,0.182
+"0","8","2023","Louisiana","Georgia State","0","0","Sun Belt","Sun Belt",1720,1522,13.5,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,3242,1,0
+"0","8","2023","Nebraska","Northwestern","0","0","Big Ten","Big Ten",1636,1361,10,0.992,"0","1","0",FALSE,FALSE,TRUE,TRUE,2997,1,0
+"0","8","2023","BYU","Texas Tech","0","0","Big 12","Big 12",1648,1536,4.5,0.947,"0","1","0",FALSE,FALSE,TRUE,TRUE,3184,1,0
+"0","8","2023","Oklahoma","UCF","20","0","Big 12","Big 12",1749,1569,7,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,3318,0.946,0.054
+"0","8","2023","Oregon","Washington State","15","0","Pac-12","Pac-12",1574,1590,21.5,0.095,"0","1","0",FALSE,FALSE,TRUE,TRUE,3164,1,0
+"0","8","2023","Wake Forest","Pittsburgh","0","0","ACC","ACC",1640,1667,13,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,3307,0.998,0.002
+"0","8","2023","Bowling Green","Akron","0","0","Mid-American","Mid-American",1210,1096,10,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,2306,1,0
+"0","8","2023","Arkansas","Mississippi State","0","0","SEC","SEC",1626,1520,9,0.176,"0","1","0",FALSE,FALSE,TRUE,TRUE,3146,1,0
+"0","8","2023","Washington","Arizona State","10","0","Pac-12","Pac-12",1536,1614,3.5,0.766,"0","1","0",FALSE,FALSE,TRUE,TRUE,3150,1,0
+"0","8","2023","Northern Illinois","Eastern Michigan","0","0","Mid-American","Mid-American",1376,1380,24.5,0.069,"0","1","0",FALSE,FALSE,TRUE,TRUE,2756,1,0
+"0","8","2023","USC","Utah","6","14","Pac-12","Pac-12",1487,1790,6.5,0.673,"0","1","0",FALSE,FALSE,FALSE,FALSE,3277,0.946,0.054
+"0","8","2023","West Virginia","Oklahoma State","0","0","Big 12","Big 12",1490,1775,7.5,0.568,"0","1","0",FALSE,FALSE,TRUE,TRUE,3265,0.992,0.008
+"0","8","2023","Georgia Tech","Boston College","0","0","ACC","ACC",1346,1443,30,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2789,1,0
+"0","8","2023","Michigan State","Michigan","0","2","Big Ten","Big Ten",1563,1848,19,0.095,"0","1","1",FALSE,FALSE,FALSE,FALSE,3411,0.816,0.184
+"0","8","2023","Kansas State","TCU","16","17","Big 12","Big 12",1616,1436,4.5,0.622,"0","1","0",FALSE,FALSE,FALSE,FALSE,3052,0.97,0.03
+"0","8","2023","Alabama","Tennessee","4","12","SEC","SEC",1979,1640,9.5,0.744,"0","1","1",FALSE,FALSE,FALSE,FALSE,3619,0.724,0.276
+"0","8","2023","Florida Atlantic","UT San Antonio","0","0","American Athletic","American Athletic",1427,1512,9.5,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2939,1,0
+"0","8","2023","Miami","Clemson","0","9","ACC","ACC",1570,1766,9.5,0.256,"0","1","0",FALSE,FALSE,FALSE,FALSE,3336,0.794,0.206
+"0","8","2023","Houston","Texas","0","11","Big 12","Big 12",1620,1633,6.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,3253,0.906,0.094
+"0","8","2023","Ohio State","Penn State","3","7","Big Ten","Big Ten",1932,1670,10,0.755,"0","1","1",FALSE,FALSE,FALSE,FALSE,3602,0.776,0.224
+"0","8","2023","Indiana","Rutgers","0","0","Big Ten","Big Ten",1330,1365,26,0.824,"0","1","0",FALSE,FALSE,TRUE,TRUE,2695,1,0
+"0","8","2023","Navy","Air Force","0","0","American Athletic","Mountain West",1403,1650,1.5,0.685,"0","0","0",FALSE,FALSE,TRUE,TRUE,3053,0.998,0.002
+"0","8","2023","Georgia Southern","Louisiana Monroe","0","0","Sun Belt","Sun Belt",1382,1207,18.5,0.997,"0","1","0",FALSE,FALSE,TRUE,TRUE,2589,1,0
+"0","8","2023","Ball State","Central Michigan","0","0","Mid-American","Mid-American",1410,1536,14.5,0.582,"0","1","0",FALSE,FALSE,TRUE,TRUE,2946,1,0
+"0","8","2023","Kent State","Buffalo","0","0","Mid-American","Mid-American",1340,1382,14,0.841,"0","1","0",FALSE,FALSE,TRUE,TRUE,2722,1,0
+"0","8","2023","Connecticut","South Florida","0","0","FBS Independents","American Athletic",1117,1284,21,0.622,"0","0","0",FALSE,FALSE,TRUE,TRUE,2401,1,0
+"0","8","2023","New Mexico","Hawai'i","0","0","Mountain West","Mountain West",1229,1432,7,0.766,"0","1","0",FALSE,FALSE,TRUE,TRUE,2661,1,0
+"0","8","2023","San Jose State","Utah State","0","0","Mountain West","Mountain West",1338,1566,27.5,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,2904,1,0
+"0","8","2023","UNLV","Colorado State","0","0","Mountain West","Mountain West",1300,1399,7.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2699,1,0
+"0","9","2023","Louisiana Tech","New Mexico State","0","0","Conference USA","Conference USA",1301,1184,9.5,0.995,"0","1","0",FALSE,FALSE,TRUE,TRUE,2485,1,0
+"0","9","2023","Western Kentucky","Liberty","0","0","Conference USA","Conference USA",1684,1600,10.5,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,3284,1,0
+"0","9","2023","Florida International","Jacksonville State","0","0","Conference USA","Conference USA",1635,1497,18.5,0.214,"0","1","0",TRUE,TRUE,TRUE,TRUE,3132,0.998,0.002
+"0","9","2023","Sam Houston State","UTEP","0","0","Conference USA","Conference USA",1412,1486,9.5,0.755,"0","1","0",TRUE,TRUE,TRUE,TRUE,2898,1,0
+"0","9","2023","Georgia Southern","Georgia State","0","0","Sun Belt","Sun Belt",1382,1522,11.5,0.66,"0","1","1",FALSE,FALSE,TRUE,TRUE,2904,1,0
+"0","9","2023","Virginia Tech","Syracuse","0","0","ACC","ACC",1412,1405,14,0.582,"0","1","0",FALSE,FALSE,TRUE,TRUE,2817,1,0
+"0","9","2023","Charlotte","Florida Atlantic","0","0","American Athletic","American Athletic",1272,1427,27.5,0.926,"0","1","0",FALSE,FALSE,TRUE,TRUE,2699,1,0
+"0","9","2023","Oklahoma State","Cincinnati","0","0","Big 12","Big 12",1775,1801,5,0.865,"0","1","0",FALSE,FALSE,TRUE,TRUE,3576,0.728,0.272
+"0","9","2023","Boise State","Wyoming","0","0","Mountain West","Mountain West",1664,1497,14,0.886,"0","1","0",FALSE,FALSE,TRUE,TRUE,3161,1,0
+"0","9","2023","Rice","Tulane","0","24","American Athletic","American Athletic",1245,1444,9.5,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,2689,0.806,0.194
+"0","9","2023","SMU","Tulsa","0","0","American Athletic","American Athletic",1574,1502,17.5,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,3076,1,0
+"0","9","2023","Ohio","Miami (OH)","0","0","Mid-American","Mid-American",1368,1516,18.5,0.185,"0","1","1",FALSE,FALSE,TRUE,TRUE,2884,1,0
+"0","9","2023","UT San Antonio","East Carolina","0","0","American Athletic","American Athletic",1512,1518,6,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,3030,0.998,0.002
+"0","9","2023","Fresno State","UNLV","0","0","Mountain West","Mountain West",1590,1300,4.5,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,2890,1,0
+"0","9","2023","Auburn","Mississippi State","0","0","SEC","SEC",1632,1520,2.5,0.685,"0","1","0",FALSE,FALSE,TRUE,TRUE,3152,1,0
+"0","9","2023","Eastern Michigan","Western Michigan","0","0","Mid-American","Mid-American",1380,1538,9.5,0.256,"0","1","0",FALSE,FALSE,TRUE,TRUE,2918,1,0
+"0","9","2023","California","USC","0","6","Pac-12","Pac-12",1510,1487,9.5,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2997,0.952,0.048
+"0","9","2023","UCF","West Virginia","0","0","Big 12","Big 12",1569,1490,2,0.418,"0","1","0",FALSE,FALSE,TRUE,TRUE,3059,1,0
+"0","9","2023","UCLA","Colorado","0","0","Pac-12","Pac-12",1667,1387,8,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,3054,1,0
+"0","9","2023","Wisconsin","Ohio State","19","3","Big Ten","Big Ten",1742,1932,9.5,0.256,"0","1","0",FALSE,FALSE,FALSE,FALSE,3674,0.456,0.544
+"0","9","2023","Arizona","Oregon State","0","18","Pac-12","Pac-12",1306,1544,17,0.824,"0","1","0",FALSE,FALSE,TRUE,TRUE,2850,1,0
+"0","9","2023","Minnesota","Michigan State","0","0","Big Ten","Big Ten",1639,1563,13.5,0.824,"0","1","0",FALSE,FALSE,TRUE,TRUE,3202,1,0
+"0","9","2023","Stanford","Washington","0","10","Pac-12","Pac-12",1355,1536,39.5,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,2891,1,0
+"0","9","2023","Ole Miss","Vanderbilt","22","0","SEC","SEC",1658,1222,14,0.815,"0","1","1",FALSE,FALSE,TRUE,TRUE,2880,1,0
+"0","9","2023","Arizona State","Washington State","0","0","Pac-12","Pac-12",1614,1590,39,0.911,"0","1","0",FALSE,FALSE,TRUE,TRUE,3204,1,0
+"0","9","2023","Utah","Oregon","14","15","Pac-12","Pac-12",1790,1574,1.5,0.541,"0","1","0",FALSE,FALSE,FALSE,FALSE,3364,0.8,0.2
+"0","9","2023","Nebraska","Purdue","0","0","Big Ten","Big Ten",1636,1635,13.5,0.315,"0","1","0",FALSE,FALSE,TRUE,TRUE,3271,0.998,0.002
+"0","9","2023","Kentucky","Tennessee","0","12","SEC","SEC",1670,1640,26,0.992,"0","1","1",FALSE,FALSE,TRUE,TRUE,3310,0.616,0.384
+"0","9","2023","Northwestern","Maryland","0","0","Big Ten","Big Ten",1361,1496,30,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2857,1,0
+"0","9","2023","Texas A&M","South Carolina","23","0","SEC","SEC",1708,1486,2.5,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,3194,1,0
+"0","9","2023","Kansas State","Houston","16","0","Big 12","Big 12",1616,1620,3.5,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,3236,0.982,0.018
+"0","9","2023","Coastal Carolina","Marshall","0","0","Sun Belt","Sun Belt",1647,1548,4.5,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,3195,1,0
+"0","9","2023","Georgia Tech","North Carolina","0","21","ACC","ACC",1346,1555,7.5,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,2901,1,0
+"0","9","2023","Baylor","Iowa State","0","0","Big 12","Big 12",1690,1779,7,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,3469,0.868,0.132
+"0","9","2023","Boston College","Connecticut","0","0","ACC","FBS Independents",1443,1117,7.5,0.755,"0","0","0",FALSE,FALSE,TRUE,TRUE,2560,1,0
+"0","9","2023","James Madison","Old Dominion","0","0","Sun Belt","Sun Belt",1300,1390,4,0.755,"0","1","1",FALSE,FALSE,TRUE,TRUE,2690,1,0
+"0","9","2023","North Texas","Memphis","0","0","American Athletic","American Athletic",1426,1490,7.5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,2916,1,0
+"0","9","2023","Miami","Virginia","0","0","ACC","ACC",1570,1526,7,0.893,"0","1","0",FALSE,FALSE,TRUE,TRUE,3096,1,0
+"0","9","2023","Texas","BYU","11","0","Big 12","Big 12",1633,1648,10,0.766,"0","1","0",FALSE,FALSE,TRUE,TRUE,3281,0.978,0.022
+"0","9","2023","Penn State","Indiana","7","0","Big Ten","Big Ten",1670,1330,18,0.893,"0","1","0",FALSE,FALSE,TRUE,TRUE,3000,1,0
+"0","9","2023","Kansas","Oklahoma","0","20","Big 12","Big 12",1194,1749,7,0.315,"0","1","0",FALSE,FALSE,FALSE,FALSE,2943,0.994,0.006
+"0","9","2023","Wake Forest","Florida State","0","8","ACC","ACC",1640,1501,9.5,0.568,"0","1","0",FALSE,FALSE,TRUE,TRUE,3141,1,0
+"0","9","2023","South Alabama","Louisiana","0","0","Sun Belt","Sun Belt",1351,1720,9,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,3071,0.994,0.006
+"0","9","2023","Louisville","Duke","0","0","ACC","ACC",1568,1168,18,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,2736,1,0
+"0","9","2023","Appalachian State","Southern Mississippi","0","0","Sun Belt","Sun Belt",1656,1266,3.5,0.833,"0","1","0",FALSE,FALSE,TRUE,TRUE,2922,1,0
+"0","9","2023","Louisiana Monroe","Arkansas State","0","0","Sun Belt","Sun Belt",1207,1262,6,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,2469,1,0
+"0","9","2023","NC State","Clemson","0","9","ACC","ACC",1632,1766,10.5,0.234,"0","1","1",FALSE,FALSE,FALSE,FALSE,3398,0.686,0.314
+"0","9","2023","Army","UMass","0","0","FBS Independents","FBS Independents",1544,1036,7.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2580,1,0
+"0","9","2023","Texas State","Troy","0","0","Sun Belt","Sun Belt",1270,1347,1.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2617,1,0
+"0","9","2023","Florida","Georgia","0","1","SEC","SEC",1572,1980,21.5,0.069,"1","1","1",FALSE,FALSE,FALSE,FALSE,3552,0.852,0.148
+"0","9","2023","Notre Dame","Pittsburgh","13","0","FBS Independents","ACC",1826,1667,25.5,0.961,"0","0","1",FALSE,FALSE,TRUE,TRUE,3493,0.8,0.2
+"0","9","2023","Colorado State","Air Force","0","0","Mountain West","Mountain West",1399,1650,12,0.555,"0","1","1",FALSE,FALSE,TRUE,TRUE,3049,1,0
+"0","9","2023","Nevada","New Mexico","0","0","Mountain West","Mountain West",1564,1229,18,0.824,"0","1","0",FALSE,FALSE,TRUE,TRUE,2793,1,0
+"0","9","2023","Hawai'i","San Jose State","0","0","Mountain West","Mountain West",1432,1338,7.5,0.698,"0","1","1",FALSE,FALSE,TRUE,TRUE,2770,1,0
+"0","10","2023","Central Michigan","Northern Illinois","0","0","Mid-American","Mid-American",1536,1376,15,0.685,"0","1","0",FALSE,FALSE,TRUE,TRUE,2912,1,0
+"0","10","2023","Toledo","Buffalo","0","0","Mid-American","Mid-American",1534,1382,27.5,0.964,"0","1","0",FALSE,FALSE,TRUE,TRUE,2916,1,0
+"0","10","2023","Akron","Kent State","0","0","Mid-American","Mid-American",1096,1340,7.5,0.992,"0","1","1",FALSE,FALSE,TRUE,TRUE,2436,0.992,0.008
+"0","10","2023","Bowling Green","Ball State","0","0","Mid-American","Mid-American",1210,1410,16.5,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2620,1,0
+"0","10","2023","Texas Tech","TCU","0","17","Big 12","Big 12",1536,1436,9.5,0.555,"0","1","1",FALSE,FALSE,TRUE,TRUE,2972,1,0
+"0","10","2023","Troy","South Alabama","0","0","Sun Belt","Sun Belt",1347,1351,2,0.095,"0","1","1",FALSE,FALSE,TRUE,TRUE,2698,1,0
+"0","10","2023","Duke","Wake Forest","0","0","ACC","ACC",1168,1640,7.5,0.841,"0","1","0",FALSE,FALSE,TRUE,TRUE,2808,1,0
+"0","10","2023","Syracuse","Boston College","0","0","ACC","ACC",1405,1443,10,0.755,"0","1","1",FALSE,FALSE,TRUE,TRUE,2848,1,0
+"0","10","2023","Wyoming","Colorado State","0","0","Mountain West","Mountain West",1497,1399,5,0.85,"0","1","1",FALSE,FALSE,TRUE,TRUE,2896,1,0
+"0","10","2023","Baylor","Houston","0","0","Big 12","Big 12",1690,1620,13.5,0.214,"0","1","0",FALSE,FALSE,TRUE,TRUE,3310,0.942,0.058
+"0","10","2023","Virginia","Georgia Tech","0","0","ACC","ACC",1526,1346,19.5,0.981,"0","1","0",FALSE,FALSE,TRUE,TRUE,2872,1,0
+"0","10","2023","Tennessee","Connecticut","12","0","SEC","FBS Independents",1640,1117,9,0.698,"0","0","0",FALSE,FALSE,TRUE,TRUE,2757,0.908,0.092
+"0","10","2023","UAB","Florida Atlantic","0","0","American Athletic","American Athletic",1546,1427,13.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2973,1,0
+"0","10","2023","Temple","Navy","0","0","American Athletic","American Athletic",1101,1403,17,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,2504,1,0
+"0","10","2023","Memphis","South Florida","0","0","American Athletic","American Athletic",1490,1284,30,0.921,"0","1","0",FALSE,FALSE,TRUE,TRUE,2774,1,0
+"0","10","2023","Indiana","Wisconsin","0","19","Big Ten","Big Ten",1330,1742,7,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,3072,0.984,0.016
+"0","10","2023","Texas","Kansas State","11","16","Big 12","Big 12",1633,1616,9.5,0.744,"0","1","0",FALSE,FALSE,FALSE,FALSE,3249,0.982,0.018
+"0","10","2023","Iowa State","Kansas","0","0","Big 12","Big 12",1779,1194,24.5,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,2973,0.992,0.008
+"0","10","2023","Florida","Arkansas","0","0","SEC","SEC",1572,1626,10,0.893,"0","1","0",FALSE,FALSE,TRUE,TRUE,3198,1,0
+"0","10","2023","Michigan","Purdue","2","0","Big Ten","Big Ten",1848,1635,2.5,0.365,"0","1","0",FALSE,FALSE,TRUE,TRUE,3483,0.76,0.24
+"0","10","2023","Pittsburgh","Florida State","0","8","ACC","ACC",1667,1501,17.5,0.886,"0","1","0",FALSE,FALSE,TRUE,TRUE,3168,1,0
+"0","10","2023","San Diego State","Utah State","0","0","Mountain West","Mountain West",1535,1566,13.5,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,3101,1,0
+"0","10","2023","Arkansas State","Louisiana","0","0","Sun Belt","Sun Belt",1262,1720,14.5,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,2982,0.996,0.004
+"0","10","2023","Georgia State","James Madison","0","0","Sun Belt","Sun Belt",1522,1300,18.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2822,1,0
+"0","10","2023","Maryland","Penn State","0","7","Big Ten","Big Ten",1496,1670,15,0.101,"0","1","1",FALSE,FALSE,TRUE,TRUE,3166,0.94,0.06
+"0","10","2023","Louisville","Virginia Tech","0","0","ACC","ACC",1568,1412,26,0.996,"0","1","0",FALSE,FALSE,TRUE,TRUE,2980,1,0
+"0","10","2023","Appalachian State","Marshall","0","0","Sun Belt","Sun Belt",1656,1548,9.5,0.432,"0","1","1",FALSE,FALSE,TRUE,TRUE,3204,0.998,0.002
+"0","10","2023","Minnesota","Illinois","0","0","Big Ten","Big Ten",1639,1496,18,0.568,"0","1","0",FALSE,FALSE,TRUE,TRUE,3135,1,0
+"0","10","2023","NC State","Miami","0","0","ACC","ACC",1632,1570,18.5,0.964,"0","1","0",FALSE,FALSE,TRUE,TRUE,3202,1,0
+"0","10","2023","Southern Mississippi","Louisiana Monroe","0","0","Sun Belt","Sun Belt",1266,1207,4,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2473,1,0
+"0","10","2023","Ole Miss","Texas A&M","22","23","SEC","SEC",1658,1708,16,0.899,"0","1","0",FALSE,FALSE,TRUE,TRUE,3366,0.714,0.286
+"0","10","2023","Arizona","UCLA","0","0","Pac-12","Pac-12",1306,1667,8,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2973,1,0
+"0","10","2023","Oregon","California","15","0","Pac-12","Pac-12",1574,1510,8,0.899,"0","1","0",FALSE,FALSE,TRUE,TRUE,3084,1,0
+"0","10","2023","South Carolina","Jacksonville State","0","0","SEC","Conference USA",1101,1650,7,0.709,"0","0","0",TRUE,TRUE,TRUE,TRUE,2751,1,0
+"0","10","2023","North Carolina","Campbell","21","0","ACC","CAA",1497,1340,21.5,0.926,"0","0","0",TRUE,TRUE,TRUE,TRUE,2837,0.986,0.014
+"0","10","2023","Washington State","Stanford","0","0","Pac-12","Pac-12",1590,1355,12,0.833,"0","1","0",FALSE,FALSE,TRUE,TRUE,2945,1,0
+"0","10","2023","East Carolina","Tulane","0","24","American Athletic","American Athletic",1518,1444,10,0.966,"0","1","0",FALSE,FALSE,TRUE,TRUE,2962,0.794,0.206
+"0","10","2023","Northwestern","Iowa","0","25","Big Ten","Big Ten",1361,1624,7,0.709,"1","1","0",FALSE,FALSE,TRUE,TRUE,2985,0.988,0.012
+"0","10","2023","Colorado","Oregon State","0","18","Pac-12","Pac-12",1387,1544,9,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2931,1,0
+"0","10","2023","Rutgers","Ohio State","0","3","Big Ten","Big Ten",1365,1932,17.5,0.029,"0","1","0",FALSE,FALSE,TRUE,TRUE,3297,0.996,0.004
+"0","10","2023","Michigan State","Nebraska","0","0","Big Ten","Big Ten",1563,1636,13,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,3199,0.998,0.002
+"0","10","2023","North Texas","UT San Antonio","0","0","American Athletic","American Athletic",1426,1512,9.5,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,2938,1,0
+"0","10","2023","Clemson","Notre Dame","9","13","ACC","FBS Independents",1766,1826,5,0.635,"0","0","0",FALSE,FALSE,FALSE,FALSE,3592,0.666,0.334
+"0","10","2023","Utah","Arizona State","14","0","Pac-12","Pac-12",1790,1614,8,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,3404,0.782,0.218
+"0","10","2023","Cincinnati","UCF","0","0","Big 12","Big 12",1801,1569,8,0.66,"0","1","1",FALSE,FALSE,TRUE,TRUE,3370,0.884,0.116
+"0","10","2023","USC","Washington","6","10","Pac-12","Pac-12",1487,1536,6,0.66,"0","1","0",FALSE,FALSE,FALSE,FALSE,3023,1,0
+"0","10","2023","Rice","SMU","0","0","American Athletic","American Athletic",1245,1574,13.5,0.796,"0","1","1",FALSE,FALSE,TRUE,TRUE,2819,1,0
+"0","10","2023","Old Dominion","Coastal Carolina","0","0","Sun Belt","Sun Belt",1390,1647,7.5,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,3037,1,0
+"0","10","2023","Vanderbilt","Auburn","0","0","SEC","SEC",1222,1632,33,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,2854,1,0
+"0","10","2023","Mississippi State","Kentucky","0","0","SEC","SEC",1520,1670,3.5,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,3190,1,0
+"0","10","2023","Oklahoma State","Oklahoma","0","20","Big 12","Big 12",1775,1749,8,0.291,"0","1","1",FALSE,FALSE,FALSE,FALSE,3524,0.936,0.064
+"0","10","2023","Tulsa","Charlotte","0","0","American Athletic","American Athletic",1502,1272,37.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2774,1,0
+"0","10","2023","Alabama","LSU","4","5","SEC","SEC",1979,1538,7,0.685,"0","1","1",FALSE,FALSE,FALSE,FALSE,3517,0.754,0.246
+"0","10","2023","West Virginia","BYU","0","0","Big 12","Big 12",1490,1648,9.5,0.15,"0","1","0",FALSE,FALSE,TRUE,TRUE,3138,1,0
+"0","10","2023","Georgia","Missouri","1","0","SEC","SEC",1980,1404,7.5,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,3384,0.84,0.16
+"0","10","2023","UMass","Merrimack","0","0","FBS Independents","NEC",1512,1749,9.5,0.673,"0","0","0",TRUE,TRUE,TRUE,TRUE,3261,0.986,0.014
+"0","10","2023","Air Force","Army","0","0","Mountain West","FBS Independents",1650,1544,7.5,0.582,"1","0","0",FALSE,FALSE,TRUE,TRUE,3194,0.996,0.004
+"0","10","2023","Nevada","Hawai'i","0","0","Mountain West","Mountain West",1564,1432,5,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,2996,1,0
+"0","10","2023","New Mexico","UNLV","0","0","Mountain West","Mountain West",1229,1300,18,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2529,1,0
+"0","10","2023","New Mexico State","Middle Tennessee","0","0","Conference USA","Conference USA",1184,1445,18.5,0.886,"0","1","0",FALSE,FALSE,TRUE,TRUE,2629,1,0
+"0","10","2023","Liberty","Louisiana Tech","0","0","Conference USA","Conference USA",1600,1301,21,0.996,"0","1","0",FALSE,FALSE,TRUE,TRUE,2901,1,0
+"0","10","2023","Texas State","Georgia Southern","0","0","Sun Belt","Sun Belt",1270,1382,6,0.992,"0","1","0",FALSE,FALSE,TRUE,TRUE,2652,1,0
+"0","10","2023","UTEP","Western Kentucky","0","0","Conference USA","Conference USA",1360,1684,33,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,3044,1,0
+"0","10","2023","Fresno State","Boise State","0","0","Mountain West","Mountain West",1590,1664,17.5,0.865,"0","1","1",FALSE,FALSE,TRUE,TRUE,3254,1,0
+"0","11","2023","Northern Illinois","Ball State","0","0","Mid-American","Mid-American",1376,1410,17.5,0.744,"0","1","1",FALSE,FALSE,TRUE,TRUE,2786,1,0
+"0","11","2023","Buffalo","Ohio","0","0","Mid-American","Mid-American",1382,1368,30,0.964,"0","1","0",FALSE,FALSE,TRUE,TRUE,2750,1,0
+"0","11","2023","Western Michigan","Central Michigan","0","0","Mid-American","Mid-American",1538,1536,24.5,0.766,"0","1","1",FALSE,FALSE,TRUE,TRUE,3074,1,0
+"0","11","2023","Toledo","Eastern Michigan","0","0","Mid-American","Mid-American",1534,1380,37.5,0.997,"0","1","0",FALSE,FALSE,TRUE,TRUE,2914,0.976,0.024
+"0","11","2023","Kent State","Bowling Green","0","0","Mid-American","Mid-American",1340,1210,4.5,0.555,"0","1","1",FALSE,FALSE,TRUE,TRUE,2550,1,0
+"0","11","2023","Miami (OH)","Akron","0","0","Mid-American","Mid-American",1516,1096,18,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2612,1,0
+"0","11","2023","Louisville","Virginia","0","0","ACC","ACC",1568,1526,7.5,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,3094,1,0
+"0","11","2023","Louisiana","Southern Mississippi","0","0","Sun Belt","Sun Belt",1720,1266,8,0.981,"0","1","0",FALSE,FALSE,TRUE,TRUE,2986,0.998,0.002
+"0","11","2023","SMU","North Texas","0","0","American Athletic","American Athletic",1574,1426,13,0.673,"0","1","1",FALSE,FALSE,TRUE,TRUE,3000,1,0
+"0","11","2023","UNLV","Wyoming","0","0","Mountain West","Mountain West",1300,1497,7.5,0.766,"0","1","0",FALSE,FALSE,TRUE,TRUE,2797,1,0
+"0","11","2023","Houston","Cincinnati","0","0","Big 12","Big 12",1620,1801,2,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,3421,0.79,0.21
+"0","11","2023","Illinois","Indiana","0","0","Big Ten","Big Ten",1496,1330,13,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2826,1,0
+"0","11","2023","Purdue","Minnesota","0","0","Big Ten","Big Ten",1635,1639,8,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,3274,1,0
+"0","11","2023","Iowa","Rutgers","25","0","Big Ten","Big Ten",1624,1365,21,0.893,"0","1","0",FALSE,FALSE,TRUE,TRUE,2989,0.996,0.004
+"0","11","2023","Wisconsin","Northwestern","19","0","Big Ten","Big Ten",1742,1361,18,0.995,"0","1","0",FALSE,FALSE,TRUE,TRUE,3103,0.99,0.01
+"0","11","2023","Nebraska","Maryland","0","0","Big Ten","Big Ten",1636,1496,13.5,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,3132,1,0
+"0","11","2023","Florida Atlantic","East Carolina","0","0","American Athletic","American Athletic",1427,1518,3,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2945,1,0
+"0","11","2023","Tulane","Tulsa","24","0","American Athletic","American Athletic",1444,1502,3.5,0.66,"0","1","0",FALSE,FALSE,TRUE,TRUE,2946,1,0
+"0","11","2023","South Florida","Temple","0","0","American Athletic","American Athletic",1284,1101,18,0.824,"0","1","0",FALSE,FALSE,TRUE,TRUE,2385,1,0
+"0","11","2023","Boise State","New Mexico","0","0","Mountain West","Mountain West",1664,1229,2.5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,2893,1,0
+"0","11","2023","Charlotte","Memphis","0","0","American Athletic","American Athletic",1272,1490,8,0.841,"0","1","0",FALSE,FALSE,TRUE,TRUE,2762,1,0
+"0","11","2023","UCLA","Arizona State","0","0","Pac-12","Pac-12",1667,1614,9.5,0.445,"0","1","0",FALSE,FALSE,TRUE,TRUE,3281,0.998,0.002
+"0","11","2023","Colorado","Arizona","0","0","Pac-12","Pac-12",1387,1306,27.5,0.568,"0","1","0",FALSE,FALSE,TRUE,TRUE,2693,1,0
+"0","11","2023","Oregon State","Stanford","18","0","Pac-12","Pac-12",1544,1355,12,0.995,"0","1","0",FALSE,FALSE,TRUE,TRUE,2899,1,0
+"0","11","2023","Oregon","USC","15","6","Pac-12","Pac-12",1574,1487,2.5,0.568,"0","1","0",FALSE,FALSE,FALSE,FALSE,3061,0.966,0.034
+"0","11","2023","Oklahoma","West Virginia","20","0","Big 12","Big 12",1749,1490,13,0.176,"0","1","0",FALSE,FALSE,TRUE,TRUE,3239,0.96,0.04
+"0","11","2023","Washington","Utah","10","14","Pac-12","Pac-12",1536,1790,3.5,0.595,"0","1","0",FALSE,FALSE,FALSE,FALSE,3326,0.932,0.068
+"0","11","2023","California","Washington State","0","0","Pac-12","Pac-12",1510,1590,10,0.582,"0","1","0",FALSE,FALSE,TRUE,TRUE,3100,1,0
+"0","11","2023","Kansas","Texas Tech","0","0","Big 12","Big 12",1194,1536,7,0.176,"0","1","0",FALSE,FALSE,TRUE,TRUE,2730,1,0
+"0","11","2023","BYU","Iowa State","0","0","Big 12","Big 12",1648,1779,10,0.256,"0","1","0",FALSE,FALSE,TRUE,TRUE,3427,0.866,0.134
+"0","11","2023","Marshall","Georgia Southern","0","0","Sun Belt","Sun Belt",1548,1382,35,0.992,"0","1","0",FALSE,FALSE,TRUE,TRUE,2930,1,0
+"0","11","2023","TCU","Texas","17","11","Big 12","Big 12",1436,1633,6,0.34,"0","1","1",FALSE,FALSE,FALSE,FALSE,3069,0.868,0.132
+"0","11","2023","Georgia State","Appalachian State","0","0","Sun Belt","Sun Belt",1522,1656,18.5,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,3178,1,0
+"0","11","2023","Kansas State","Baylor","16","0","Big 12","Big 12",1616,1690,4.5,0.992,"0","1","0",FALSE,FALSE,TRUE,TRUE,3306,0.976,0.024
+"0","11","2023","UCF","Oklahoma State","0","0","Big 12","Big 12",1569,1775,19,0.609,"0","1","0",FALSE,FALSE,TRUE,TRUE,3344,0.93,0.07
+"0","11","2023","Coastal Carolina","Texas State","0","0","Sun Belt","Sun Belt",1647,1270,33,0.981,"0","1","0",FALSE,FALSE,TRUE,TRUE,2917,1,0
+"0","11","2023","South Alabama","Arkansas State","0","0","Sun Belt","Sun Belt",1351,1262,7.5,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,2613,1,0
+"0","11","2023","Louisiana Monroe","Troy","0","0","Sun Belt","Sun Belt",1207,1347,7.5,0.582,"0","1","0",FALSE,FALSE,TRUE,TRUE,2554,1,0
+"0","11","2023","North Carolina","Duke","21","0","ACC","ACC",1555,1168,9.5,0.744,"0","1","1",FALSE,FALSE,FALSE,FALSE,2723,0.954,0.046
+"0","11","2023","Clemson","Georgia Tech","9","0","ACC","ACC",1766,1346,24.5,0.995,"0","1","1",FALSE,FALSE,TRUE,TRUE,3112,0.988,0.012
+"0","11","2023","Florida State","Miami","8","0","ACC","ACC",1501,1570,15,0.85,"0","1","1",FALSE,FALSE,FALSE,FALSE,3071,0.986,0.014
+"0","11","2023","Boston College","Virginia Tech","0","0","ACC","ACC",1443,1412,3,0.824,"0","1","1",FALSE,FALSE,TRUE,TRUE,2855,1,0
+"0","11","2023","James Madison","Connecticut","0","0","Sun Belt","FBS Independents",1300,1117,7.5,0.622,"0","0","0",FALSE,FALSE,TRUE,TRUE,2417,1,0
+"0","11","2023","Wake Forest","NC State","0","0","ACC","ACC",1640,1632,13.5,0.279,"0","1","1",FALSE,FALSE,TRUE,TRUE,3272,0.998,0.002
+"0","11","2023","Arkansas","Auburn","0","0","SEC","SEC",1626,1632,10,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,3258,1,0
+"0","11","2023","Texas A&M","Mississippi State","23","0","SEC","SEC",1708,1520,9.5,0.865,"0","1","0",FALSE,FALSE,TRUE,TRUE,3228,1,0
+"0","11","2023","UT San Antonio","Rice","0","0","American Athletic","American Athletic",1512,1245,3,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2757,0.998,0.002
+"0","11","2023","Georgia","Ole Miss","1","22","SEC","SEC",1980,1658,19.5,0.911,"0","1","0",FALSE,FALSE,FALSE,FALSE,3638,0.862,0.138
+"0","11","2023","Kentucky","Alabama","0","4","SEC","SEC",1670,1979,9.5,0.66,"0","1","0",FALSE,FALSE,TRUE,TRUE,3649,0.598,0.402
+"0","11","2023","South Carolina","Vanderbilt","0","0","SEC","SEC",1486,1222,3.5,0.966,"0","1","0",FALSE,FALSE,TRUE,TRUE,2708,1,0
+"0","11","2023","Missouri","Tennessee","0","12","SEC","SEC",1404,1640,16.5,0.673,"0","1","0",FALSE,FALSE,TRUE,TRUE,3044,0.644,0.356
+"0","11","2023","LSU","Florida","5","0","SEC","SEC",1538,1572,16.5,0.872,"0","1","1",FALSE,FALSE,FALSE,FALSE,3110,0.988,0.012
+"0","11","2023","Army","Holy Cross","0","0","FBS Independents","Patriot",1412,1790,8,0.635,"0","0","0",TRUE,TRUE,TRUE,TRUE,3202,0.972,0.028
+"0","11","2023","Penn State","Michigan","7","2","Big Ten","Big Ten",1670,1848,2,0.445,"0","1","1",FALSE,FALSE,FALSE,FALSE,3518,0.672,0.328
+"0","11","2023","Liberty","Old Dominion","0","0","Conference USA","Sun Belt",1600,1390,10,0.755,"0","0","0",FALSE,FALSE,TRUE,TRUE,2990,1,0
+"0","11","2023","Utah State","Nevada","0","0","Mountain West","Mountain West",1566,1564,7.5,0.595,"0","1","0",FALSE,FALSE,TRUE,TRUE,3130,1,0
+"0","11","2023","Louisiana Tech","Sam Houston State","0","0","Conference USA","Conference USA",1555,1538,7.5,0.893,"0","1","0",TRUE,TRUE,TRUE,TRUE,3093,1,0
+"0","11","2023","Middle Tennessee","Florida International","0","0","Conference USA","Conference USA",1445,1080,7.5,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,2525,1,0
+"0","11","2023","Navy","UAB","0","0","American Athletic","American Athletic",1403,1546,17,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2949,1,0
+"0","11","2023","Western Kentucky","New Mexico State","0","0","Conference USA","Conference USA",1684,1184,8,0.893,"0","1","0",FALSE,FALSE,TRUE,TRUE,2868,1,0
+"0","11","2023","Syracuse","Pittsburgh","0","0","ACC","ACC",1405,1667,7.5,0.267,"1","1","1",FALSE,FALSE,TRUE,TRUE,3072,0.99,0.01
+"0","11","2023","Colorado State","San Diego State","0","0","Mountain West","Mountain West",1399,1535,13,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,2934,1,0
+"0","11","2023","Ohio State","Michigan State","3","0","Big Ten","Big Ten",1932,1563,25.5,0.961,"0","1","0",FALSE,FALSE,FALSE,FALSE,3495,0.998,0.002
+"0","11","2023","San Jose State","Fresno State","0","0","Mountain West","Mountain West",1338,1590,14,0.709,"0","1","1",FALSE,FALSE,TRUE,TRUE,2928,1,0
+"0","11","2023","Hawai'i","Air Force","0","0","Mountain West","Mountain West",1432,1650,2.5,0.541,"0","1","1",FALSE,FALSE,TRUE,TRUE,3082,1,0
+"0","12","2023","Bowling Green","Toledo","0","0","Mid-American","Mid-American",1210,1534,6,0.66,"0","1","1",FALSE,FALSE,TRUE,TRUE,2744,1,0
+"0","12","2023","Northern Illinois","Western Michigan","0","0","Mid-American","Mid-American",1376,1538,14.5,0.85,"0","1","0",FALSE,FALSE,TRUE,TRUE,2914,1,0
+"0","12","2023","Eastern Michigan","Akron","0","0","Mid-American","Mid-American",1380,1096,8,0.833,"0","1","0",FALSE,FALSE,TRUE,TRUE,2476,1,0
+"0","12","2023","Miami (OH)","Buffalo","0","0","Mid-American","Mid-American",1516,1382,35,0.992,"0","1","0",FALSE,FALSE,TRUE,TRUE,2898,0.976,0.024
+"0","12","2023","Ohio","Central Michigan","0","0","Mid-American","Mid-American",1368,1536,7.5,0.432,"0","1","0",FALSE,FALSE,TRUE,TRUE,2904,1,0
+"0","12","2023","Pittsburgh","Boston College","0","0","ACC","ACC",1667,1443,2.5,0.685,"0","1","0",FALSE,FALSE,TRUE,TRUE,3110,1,0
+"0","12","2023","UT San Antonio","South Florida","0","0","American Athletic","American Athletic",1512,1284,18,0.996,"0","1","0",FALSE,FALSE,TRUE,TRUE,2796,1,0
+"0","12","2023","Washington State","Colorado","0","0","Pac-12","Pac-12",1590,1387,15,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,2977,1,0
+"0","12","2023","Iowa State","Texas","0","11","Big 12","Big 12",1779,1633,7,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,3412,0.722,0.278
+"0","12","2023","South Carolina","Kentucky","0","0","SEC","SEC",1486,1670,13,0.992,"0","1","0",FALSE,FALSE,TRUE,TRUE,3156,1,0
+"0","12","2023","West Virginia","Cincinnati","0","0","Big 12","Big 12",1490,1801,14,0.841,"0","1","1",FALSE,FALSE,TRUE,TRUE,3291,0.954,0.046
+"0","12","2023","Virginia","Duke","0","0","ACC","ACC",1526,1168,3,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2694,1,0
+"0","12","2023","Georgia Southern","Old Dominion","0","0","Sun Belt","Sun Belt",1382,1390,15,0.996,"0","1","0",FALSE,FALSE,TRUE,TRUE,2772,1,0
+"0","12","2023","Northwestern","Purdue","0","0","Big Ten","Big Ten",1361,1635,6,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,2996,0.998,0.002
+"0","12","2023","Virginia Tech","NC State","0","0","ACC","ACC",1412,1632,6,0.095,"0","1","0",FALSE,FALSE,TRUE,TRUE,3044,1,0
+"0","12","2023","South Alabama","Marshall","0","0","Sun Belt","Sun Belt",1351,1548,7.5,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,2899,1,0
+"0","12","2023","Memphis","SMU","0","0","American Athletic","American Athletic",1490,1574,12,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,3064,1,0
+"0","12","2023","Arizona State","Oregon","0","15","Pac-12","Pac-12",1614,1574,16.5,0.824,"0","1","0",FALSE,FALSE,TRUE,TRUE,3188,1,0
+"0","12","2023","Texas Tech","UCF","0","0","Big 12","Big 12",1536,1569,4,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,3105,1,0
+"0","12","2023","Indiana","Michigan State","0","0","Big Ten","Big Ten",1330,1563,27.5,0.744,"0","1","1",FALSE,FALSE,TRUE,TRUE,2893,1,0
+"0","12","2023","Auburn","New Mexico State","0","0","SEC","Conference USA",1632,1184,7.5,0.698,"0","0","0",FALSE,FALSE,TRUE,TRUE,2816,1,0
+"0","12","2023","Oregon State","Washington","18","10","Pac-12","Pac-12",1544,1536,2.5,0.841,"0","1","0",FALSE,FALSE,TRUE,TRUE,3080,1,0
+"0","12","2023","Arizona","Utah","0","14","Pac-12","Pac-12",1306,1790,9.5,0.029,"0","1","0",FALSE,FALSE,TRUE,TRUE,3096,0.988,0.012
+"0","12","2023","Miami","Louisville","0","0","ACC","ACC",1570,1568,7.5,0.568,"0","1","0",FALSE,FALSE,TRUE,TRUE,3138,1,0
+"0","12","2023","Arkansas","Florida International","0","0","SEC","Conference USA",1626,1080,9.5,0.214,"0","0","0",FALSE,FALSE,TRUE,TRUE,2706,1,0
+"0","12","2023","Charlotte","Rice","0","0","American Athletic","American Athletic",1272,1245,1.5,0.698,"0","1","0",FALSE,FALSE,TRUE,TRUE,2517,0.998,0.002
+"0","12","2023","USC","UCLA","6","0","Pac-12","Pac-12",1487,1667,12,0.796,"0","1","1",FALSE,FALSE,FALSE,FALSE,3154,1,0
+"0","12","2023","Tennessee","Georgia","12","1","SEC","SEC",1640,1980,8.5,0.279,"0","1","1",FALSE,FALSE,FALSE,FALSE,3620,0.8,0.2
+"0","12","2023","Stanford","California","0","0","Pac-12","Pac-12",1355,1510,13,0.921,"0","1","1",FALSE,FALSE,TRUE,TRUE,2865,1,0
+"0","12","2023","Ohio State","Minnesota","3","0","Big Ten","Big Ten",1932,1639,25.5,0.069,"0","1","0",FALSE,FALSE,TRUE,TRUE,3571,0.77,0.23
+"0","12","2023","Missouri","Florida","0","0","SEC","SEC",1404,1572,3,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,2976,1,0
+"0","12","2023","Houston","Oklahoma State","0","0","Big 12","Big 12",1620,1775,7.5,0.609,"0","1","0",FALSE,FALSE,TRUE,TRUE,3395,0.906,0.094
+"0","12","2023","Kansas","Kansas State","0","16","Big 12","Big 12",1194,1616,6,0.34,"0","1","1",FALSE,FALSE,FALSE,FALSE,2810,1,0
+"0","12","2023","Clemson","North Carolina","9","21","ACC","ACC",1766,1555,10.5,0.766,"0","1","0",FALSE,FALSE,FALSE,FALSE,3321,0.992,0.008
+"0","12","2023","Wisconsin","Nebraska","19","0","Big Ten","Big Ten",1742,1636,2,0.709,"0","1","1",FALSE,FALSE,TRUE,TRUE,3378,0.816,0.184
+"0","12","2023","TCU","Baylor","17","0","Big 12","Big 12",1436,1690,4,0.609,"0","1","1",FALSE,FALSE,FALSE,FALSE,3126,0.944,0.056
+"0","12","2023","Ole Miss","Louisiana Monroe","22","0","SEC","Sun Belt",1658,1207,13,0.698,"0","0","0",FALSE,FALSE,TRUE,TRUE,2865,1,0
+"0","12","2023","Penn State","Rutgers","7","0","Big Ten","Big Ten",1670,1365,3,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,3035,0.998,0.002
+"0","12","2023","Iowa","Illinois","25","0","Big Ten","Big Ten",1624,1496,9.5,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,3120,0.984,0.016
+"0","12","2023","LSU","Georgia State","5","0","SEC","Sun Belt",1538,1522,13,0.961,"0","0","0",FALSE,FALSE,TRUE,TRUE,3060,0.992,0.008
+"0","12","2023","James Madison","Appalachian State","0","0","Sun Belt","Sun Belt",1300,1656,7,0.15,"0","1","0",FALSE,FALSE,TRUE,TRUE,2956,1,0
+"0","12","2023","BYU","Oklahoma","0","20","Big 12","Big 12",1648,1749,3.5,0.996,"0","1","0",FALSE,FALSE,TRUE,TRUE,3397,0.872,0.128
+"0","12","2023","UAB","Temple","0","0","American Athletic","American Athletic",1546,1101,16.5,0.954,"0","1","0",FALSE,FALSE,TRUE,TRUE,2647,1,0
+"0","12","2023","Florida Atlantic","Tulane","0","24","American Athletic","American Athletic",1427,1444,21,0.899,"0","1","0",FALSE,FALSE,TRUE,TRUE,2871,0.794,0.206
+"0","12","2023","Ball State","Kent State","0","0","Mid-American","Mid-American",1410,1340,10,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,2750,1,0
+"0","12","2023","Maryland","Michigan","0","2","Big Ten","Big Ten",1496,1848,6,0.167,"0","1","0",FALSE,FALSE,TRUE,TRUE,3344,0.814,0.186
+"0","12","2023","Tulsa","North Texas","0","0","American Athletic","American Athletic",1502,1426,24,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,2928,1,0
+"0","12","2023","Fresno State","New Mexico","0","0","Mountain West","Mountain West",1590,1229,5,0.698,"0","1","0",FALSE,FALSE,TRUE,TRUE,2819,1,0
+"0","12","2023","Arkansas State","Texas State","0","0","Sun Belt","Sun Belt",1262,1270,7.5,0.947,"0","1","0",FALSE,FALSE,TRUE,TRUE,2532,1,0
+"0","12","2023","Georgia Tech","Syracuse","0","0","ACC","ACC",1346,1405,9.5,0.886,"0","1","0",FALSE,FALSE,TRUE,TRUE,2751,1,0
+"0","12","2023","Connecticut","Sacred Heart","0","0","FBS Independents","NEC",1404,1520,12,0.302,"0","0","0",TRUE,TRUE,TRUE,TRUE,2924,1,0
+"0","12","2023","Alabama","Chattanooga","4","0","SEC","Southern",1382,1522,15,0.85,"0","0","0",TRUE,TRUE,TRUE,TRUE,2904,0.998,0.002
+"0","12","2023","Navy","East Carolina","0","0","American Athletic","American Athletic",1403,1518,21,0.095,"0","1","0",FALSE,FALSE,TRUE,TRUE,2921,1,0
+"0","12","2023","Mississippi State","Southern Mississippi","0","0","SEC","Sun Belt",1520,1266,9.5,0.622,"0","0","0",FALSE,FALSE,TRUE,TRUE,2786,1,0
+"0","12","2023","Army","Coastal Carolina","0","0","FBS Independents","Sun Belt",1544,1647,26,0.595,"0","0","0",FALSE,FALSE,TRUE,TRUE,3191,1,0
+"0","12","2023","Liberty","UMass","0","0","Conference USA","FBS Independents",1600,1036,35,0.964,"0","0","0",FALSE,FALSE,TRUE,TRUE,2636,0.998,0.002
+"0","12","2023","Wyoming","Hawai'i","0","0","Mountain West","Mountain West",1497,1432,7.5,0.893,"0","1","1",FALSE,FALSE,TRUE,TRUE,2929,1,0
+"0","12","2023","Middle Tennessee","UTEP","0","0","Conference USA","Conference USA",1445,1360,10,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,2805,1,0
+"0","12","2023","Jacksonville State","Louisiana Tech","0","0","Conference USA","Conference USA",1650,1301,4.5,0.947,"0","1","0",TRUE,TRUE,TRUE,TRUE,2951,1,0
+"0","12","2023","Colorado State","Nevada","0","0","Mountain West","Mountain West",1399,1564,5,0.622,"0","1","0",FALSE,FALSE,TRUE,TRUE,2963,1,0
+"0","12","2023","Notre Dame","Wake Forest","13","0","FBS Independents","ACC",1826,1640,0,0.568,"0","0","0",FALSE,FALSE,TRUE,TRUE,3466,0.754,0.246
+"0","12","2023","Air Force","UNLV","0","0","Mountain West","Mountain West",1650,1300,37.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2950,1,0
+"0","12","2023","Western Kentucky","Sam Houston State","0","0","Conference USA","Conference USA",1632,1538,2.5,0.582,"0","1","0",TRUE,TRUE,TRUE,TRUE,3170,1,0
+"0","12","2023","Troy","Louisiana","0","0","Sun Belt","Sun Belt",1347,1720,18.5,0.595,"0","1","0",FALSE,FALSE,TRUE,TRUE,3067,0.996,0.004
+"0","12","2023","Utah State","Boise State","0","0","Mountain West","Mountain West",1566,1664,7,0.541,"0","1","0",FALSE,FALSE,TRUE,TRUE,3230,1,0
+"0","12","2023","San Jose State","San Diego State","0","0","Mountain West","Mountain West",1338,1535,17.5,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,2873,1,0
+"0","13","2023","Buffalo","Eastern Michigan","0","0","Mid-American","Mid-American",1382,1380,6,0.886,"0","1","0",FALSE,FALSE,TRUE,TRUE,2762,1,0
+"0","13","2023","Western Michigan","Bowling Green","0","0","Mid-American","Mid-American",1538,1210,8,0.992,"0","1","0",FALSE,FALSE,TRUE,TRUE,2748,0.992,0.008
+"0","13","2023","Mississippi State","Ole Miss","0","22","SEC","SEC",1520,1658,1.5,0.459,"0","1","1",FALSE,FALSE,FALSE,FALSE,3178,0.998,0.002
+"0","13","2023","Akron","Ohio","0","0","Mid-American","Mid-American",1096,1368,26,0.865,"0","1","0",FALSE,FALSE,TRUE,TRUE,2464,1,0
+"0","13","2023","Boston College","Miami","0","0","ACC","ACC",1443,1570,7,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,3013,1,0
+"0","13","2023","Central Michigan","Toledo","0","0","Mid-American","Mid-American",1536,1534,13,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,3070,1,0
+"0","13","2023","Oklahoma","TCU","20","17","Big 12","Big 12",1749,1436,7,0.685,"0","1","0",FALSE,FALSE,FALSE,FALSE,3185,0.99,0.01
+"0","13","2023","Nebraska","Iowa","0","25","Big Ten","Big Ten",1636,1624,10,0.635,"0","1","1",FALSE,FALSE,TRUE,TRUE,3260,1,0
+"0","13","2023","New Mexico","Utah State","0","0","Mountain West","Mountain West",1229,1566,16,0.961,"0","1","0",FALSE,FALSE,TRUE,TRUE,2795,1,0
+"0","13","2023","Arkansas","Missouri","0","0","SEC","SEC",1626,1404,7,0.981,"0","1","1",FALSE,FALSE,TRUE,TRUE,3030,1,0
+"0","13","2023","Boise State","Air Force","0","0","Mountain West","Mountain West",1664,1650,10,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,3314,0.968,0.032
+"0","13","2023","Michigan State","Penn State","0","7","Big Ten","Big Ten",1563,1670,13,0.185,"1","1","1",FALSE,FALSE,FALSE,FALSE,3233,0.92,0.08
+"0","13","2023","Texas","Texas Tech","11","0","Big 12","Big 12",1633,1536,17.5,0.185,"0","1","1",FALSE,FALSE,TRUE,TRUE,3169,0.98,0.02
+"0","13","2023","Oregon","Oregon State","15","18","Pac-12","Pac-12",1574,1544,8,0.709,"0","1","1",FALSE,FALSE,FALSE,FALSE,3118,1,0
+"0","13","2023","Louisiana","Louisiana Monroe","0","0","Sun Belt","Sun Belt",1720,1207,10.5,0.841,"0","1","1",FALSE,FALSE,TRUE,TRUE,2927,0.998,0.002
+"0","13","2023","Ball State","Miami (OH)","0","0","Mid-American","Mid-American",1410,1516,10,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2926,1,0
+"0","13","2023","Rice","Florida Atlantic","0","0","American Athletic","American Athletic",1245,1427,7.5,0.899,"0","1","0",FALSE,FALSE,TRUE,TRUE,2672,1,0
+"0","13","2023","SMU","Navy","0","0","American Athletic","American Athletic",1574,1403,10,0.815,"0","1","1",FALSE,FALSE,TRUE,TRUE,2977,1,0
+"0","13","2023","Purdue","Indiana","0","0","Big Ten","Big Ten",1635,1330,35,0.291,"0","1","1",FALSE,FALSE,TRUE,TRUE,2965,1,0
+"0","13","2023","Temple","Memphis","0","0","American Athletic","American Athletic",1101,1490,21,0.833,"0","1","0",FALSE,FALSE,TRUE,TRUE,2591,1,0
+"0","13","2023","South Florida","Charlotte","0","0","American Athletic","American Athletic",1284,1272,4.5,0.744,"0","1","0",FALSE,FALSE,TRUE,TRUE,2556,0.998,0.002
+"0","13","2023","East Carolina","Tulsa","0","0","American Athletic","American Athletic",1518,1502,9.5,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,3020,1,0
+"0","13","2023","Duke","Pittsburgh","0","0","ACC","ACC",1168,1667,2,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,2835,1,0
+"0","13","2023","San Diego State","Fresno State","0","0","Mountain West","Mountain West",1535,1590,4,0.541,"0","1","1",FALSE,FALSE,TRUE,TRUE,3125,1,0
+"0","13","2023","Arizona State","Arizona","0","0","Pac-12","Pac-12",1614,1306,19.5,0.995,"0","1","1",FALSE,FALSE,TRUE,TRUE,2920,1,0
+"0","13","2023","UCLA","California","0","0","Pac-12","Pac-12",1667,1510,4.5,0.872,"0","1","1",FALSE,FALSE,TRUE,TRUE,3177,1,0
+"0","13","2023","LSU","Texas A&M","5","23","SEC","SEC",1538,1708,16.5,0.872,"0","1","1",FALSE,FALSE,TRUE,TRUE,3246,0.89,0.11
+"0","13","2023","Baylor","West Virginia","0","0","Big 12","Big 12",1690,1490,13.5,0.954,"0","1","0",FALSE,FALSE,TRUE,TRUE,3180,1,0
+"0","13","2023","Tulane","UT San Antonio","24","0","American Athletic","American Athletic",1444,1512,9.5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,2956,1,0
+"0","13","2023","Utah","Colorado","14","0","Pac-12","Pac-12",1790,1387,8,0.755,"0","1","1",FALSE,FALSE,TRUE,TRUE,3177,0.96,0.04
+"0","13","2023","Southern Mississippi","Troy","0","0","Sun Belt","Sun Belt",1266,1347,7,0.997,"0","1","0",FALSE,FALSE,TRUE,TRUE,2613,1,0
+"0","13","2023","Georgia Tech","Georgia","0","1","ACC","SEC",1346,1980,3,0.267,"0","0","1",FALSE,FALSE,TRUE,TRUE,3326,0.962,0.038
+"0","13","2023","Old Dominion","Georgia State","0","0","Sun Belt","Sun Belt",1390,1522,7.5,0.841,"0","1","0",FALSE,FALSE,TRUE,TRUE,2912,1,0
+"0","13","2023","Minnesota","Wisconsin","0","19","Big Ten","Big Ten",1639,1742,6.5,0.176,"0","1","1",FALSE,FALSE,TRUE,TRUE,3381,0.816,0.184
+"0","13","2023","Florida","Florida State","0","8","SEC","ACC",1572,1501,9,0.267,"0","0","1",FALSE,FALSE,FALSE,FALSE,3073,1,0
+"0","13","2023","NC State","North Carolina","0","21","ACC","ACC",1632,1555,2.5,0.432,"0","1","1",FALSE,FALSE,FALSE,FALSE,3187,1,0
+"0","13","2023","UMass","Connecticut","0","0","FBS Independents","FBS Independents",1036,1117,7.5,0.755,"0","1","1",FALSE,FALSE,TRUE,TRUE,2153,1,0
+"0","13","2023","Marshall","Arkansas State","0","0","Sun Belt","Sun Belt",1548,1262,2.5,0.291,"0","1","0",FALSE,FALSE,TRUE,TRUE,2810,1,0
+"0","13","2023","South Carolina","Clemson","0","9","SEC","ACC",1486,1766,7,0.315,"0","0","1",FALSE,FALSE,FALSE,FALSE,3252,0.85,0.15
+"0","13","2023","Virginia","Virginia Tech","0","0","ACC","ACC",1526,1412,27.5,0.582,"0","1","1",FALSE,FALSE,TRUE,TRUE,2938,1,0
+"0","13","2023","Syracuse","Wake Forest","0","0","ACC","ACC",1405,1640,7.5,0.886,"0","1","0",FALSE,FALSE,TRUE,TRUE,3045,1,0
+"0","13","2023","North Texas","UAB","0","0","American Athletic","American Athletic",1426,1546,4,0.66,"0","1","0",FALSE,FALSE,TRUE,TRUE,2972,1,0
+"0","13","2023","Cincinnati","Kansas","0","0","Big 12","Big 12",1801,1194,7,0.815,"0","1","0",FALSE,FALSE,TRUE,TRUE,2995,0.986,0.014
+"0","13","2023","Auburn","Alabama","0","4","SEC","SEC",1632,1979,14,0.167,"0","1","1",FALSE,FALSE,FALSE,FALSE,3611,0.868,0.132
+"0","13","2023","Washington","Washington State","10","0","Pac-12","Pac-12",1536,1590,17,0.85,"0","1","1",FALSE,FALSE,TRUE,TRUE,3126,1,0
+"0","13","2023","Coastal Carolina","James Madison","0","0","Sun Belt","Sun Belt",1647,1300,10,0.755,"0","1","0",FALSE,FALSE,TRUE,TRUE,2947,1,0
+"0","13","2023","UCF","Houston","0","0","Big 12","Big 12",1569,1620,7.5,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,3189,1,0
+"0","13","2023","Tennessee","Vanderbilt","12","0","SEC","SEC",1640,1222,7.5,0.176,"0","1","1",FALSE,FALSE,TRUE,TRUE,2862,0.932,0.068
+"0","13","2023","Kansas State","Iowa State","16","0","Big 12","Big 12",1616,1779,18.5,0.279,"0","1","1",FALSE,FALSE,TRUE,TRUE,3395,0.812,0.188
+"0","13","2023","Stanford","Notre Dame","0","13","Pac-12","FBS Independents",1355,1826,16.5,0.796,"0","0","1",FALSE,FALSE,TRUE,TRUE,3181,0.952,0.048
+"0","13","2023","Rutgers","Maryland","0","0","Big Ten","Big Ten",1365,1496,3,0.635,"0","1","0",FALSE,FALSE,TRUE,TRUE,2861,1,0
+"0","13","2023","Appalachian State","Georgia Southern","0","0","Sun Belt","Sun Belt",1656,1382,7,0.365,"0","1","1",FALSE,FALSE,TRUE,TRUE,3038,1,0
+"0","13","2023","Louisville","Kentucky","0","0","ACC","SEC",1568,1670,13.5,0.865,"0","0","1",FALSE,FALSE,TRUE,TRUE,3238,1,0
+"0","13","2023","Illinois","Northwestern","0","0","Big Ten","Big Ten",1496,1361,15,0.796,"0","1","1",FALSE,FALSE,TRUE,TRUE,2857,1,0
+"0","13","2023","Oklahoma State","BYU","0","0","Big 12","Big 12",1775,1648,18,0.841,"0","1","0",FALSE,FALSE,TRUE,TRUE,3423,0.886,0.114
+"0","13","2023","Kent State","Northern Illinois","0","0","Mid-American","Mid-American",1340,1376,35,0.992,"0","1","0",FALSE,FALSE,TRUE,TRUE,2716,0.98,0.02
+"0","13","2023","Sam Houston State","Middle Tennessee","0","0","Conference USA","Conference USA",1538,1510,2.5,0.445,"0","1","0",TRUE,TRUE,TRUE,TRUE,3048,1,0
+"0","13","2023","Michigan","Ohio State","2","3","Big Ten","Big Ten",1848,1932,2.5,0.568,"0","1","1",FALSE,FALSE,FALSE,FALSE,3780,0.342,0.658
+"0","13","2023","UNLV","San Jose State","0","0","Mountain West","Mountain West",1300,1338,8,0.432,"0","1","0",FALSE,FALSE,TRUE,TRUE,2638,1,0
+"0","13","2023","Florida International","Western Kentucky","0","0","Conference USA","Conference USA",1080,1684,1.5,0.709,"0","1","0",FALSE,FALSE,TRUE,TRUE,2764,1,0
+"0","13","2023","Texas State","South Alabama","0","0","Sun Belt","Sun Belt",1270,1351,9.5,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,2621,1,0
+"0","13","2023","UTEP","Liberty","0","0","Conference USA","Conference USA",1360,1600,6,0.555,"0","1","0",FALSE,FALSE,TRUE,TRUE,2960,1,0
+"0","13","2023","New Mexico State","Jacksonville State","0","0","Conference USA","Conference USA",1490,1427,2,0.992,"0","1","0",TRUE,TRUE,TRUE,TRUE,2917,1,0
+"0","13","2023","Nevada","Wyoming","0","0","Mountain West","Mountain West",1564,1497,9.5,0.302,"0","1","0",FALSE,FALSE,TRUE,TRUE,3061,1,0
+"0","13","2023","Hawai'i","Colorado State","0","0","Mountain West","Mountain West",1432,1399,13.5,0.582,"0","1","0",FALSE,FALSE,TRUE,TRUE,2831,1,0

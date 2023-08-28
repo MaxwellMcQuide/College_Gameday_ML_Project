@@ -1,0 +1,47 @@
+"Gameday","season","week","home_team","home_rank","away_team","away_rank","spread","Yes"
+"No","2020","1","Texas State","0","SMU","0",24.5,0.052
+"Yes","2020","2","Wake Forest","0","Clemson","0",34.5,0.012
+"No","2020","3","Marshall","0","Appalachian State","24",6,0.228
+"No","2020","4","Auburn","8","Kentucky","23",6.5,0.44
+"Yes","2020","5","Georgia","4","Auburn","7",7.5,0.59
+"Yes","2020","6","Clemson","1","Miami","7",14.5,0.374
+"Yes","2020","7","Alabama","2","Georgia","3",6,0.752
+"No","2020","8","SMU","16","Cincinnati","9",1,0.224
+"Yes","2020","9","Penn State","18","Ohio State","3",10,0.89
+"Yes","2020","10","Notre Dame","0","Clemson","0",5,0.894
+"No","2020","11","Michigan","0","Wisconsin","0",7,0.546
+"No","2020","12","UCF","0","Cincinnati","0",4.5,0.536
+"No","2020","13","North Carolina","19","Notre Dame","2",4.5,0.666
+"Yes","2020","14","Coastal Carolina","18","BYU","13",10.5,0.516
+"No","2020","15","Iowa","16","Wisconsin","0",2,0.628
+"No","2020","16","Florida","7","Alabama","1",16,0.918
+"Yes","2021","1","Clemson","3","Georgia","5",2.5,0.506
+"Yes","2021","2","Iowa State","9","Iowa","10",4,0.41
+"No","2021","3","Florida","11","Alabama","1",14,0.666
+"No","2021","4","Arkansas","16","Texas A&M","7",4.5,0.47
+"No","2021","5","Notre Dame","9","Cincinnati","7",2,0.52
+"No","2021","6","Texas A&M","0","Alabama","1",18.5,0.626
+"No","2021","7","Mississippi State","0","Alabama","5",17.5,0.408
+"No","2021","8","Louisiana Tech","0","UT San Antonio","24",5.5,0.238
+"No","2021","9","Ohio State","5","Penn State","20",18.5,0.776
+"No","2021","10","Nebraska","0","Ohio State","5",14,0.792
+"No","2021","11","Tennessee","0","Georgia","1",19.5,0.432
+"No","2021","12","Oklahoma","13","Iowa State","0",3,0.398
+"Yes","2021","13","Michigan","5","Ohio State","2",6.5,0.904
+"Yes","2021","14","Alabama","3","Georgia","1",6.5,0.8
+"No","2021","15","Army","0","Navy","0",7,0
+"Yes","2022","1","Ohio State","2","Notre Dame","5",17,0.464
+"Yes","2022","2","Texas","0","Alabama","1",21,0.61
+"No","2022","3","Oregon","25","BYU","12",3.5,0.294
+"No","2022","4","Ohio State","3","Wisconsin","0",18.5,0.732
+"No","2022","5","Iowa","0","Michigan","4",10.5,0.684
+"No","2022","6","Arizona","0","Oregon","12",13.5,0.396
+"Yes","2022","7","Tennessee","6","Alabama","3",9,0.932
+"No","2022","8","Oklahoma State","11","Texas","20",6.5,0.522
+"No","2022","9","Penn State","13","Ohio State","2",15.5,0.948
+"Yes","2022","10","Georgia","3","Tennessee","1",10,0.99
+"No","2022","11","Ole Miss","11","Alabama","9",11.5,0.686
+"No","2022","12","Maryland","0","Ohio State","2",17.5,0.678
+"Yes","2022","13","Ohio State","2","Michigan","3",7.5,0.92
+"No","2022","14","USC","4","Utah","11",10,0.644
+"No","2022","15","Army","0","Navy","0",16,0
