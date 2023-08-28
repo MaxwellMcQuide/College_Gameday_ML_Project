@@ -1,0 +1,542 @@
+﻿season,week,gameId,homeTeam,awayTeam,spread,homeWinProb
+2020,1,401235700,Army,Middle Tennessee,-3.5,0.595
+2020,1,401237353,Marshall,Eastern Kentucky,-25.5,0.961
+2020,1,401212553,Memphis,Arkansas State,-18.5,0.899
+2020,1,401234576,Navy,BYU,1,0.473
+2020,1,401207098,North Texas,Houston Christian,-23,0.944
+2020,1,401207101,Southern Mississippi,South Alabama,-12.5,0.806
+2020,1,401212484,Texas State,SMU,24.5,0.046
+2020,1,401238035,UAB,Central Arkansas,-21,0.926
+2020,1,401239884,UTEP,Stephen F. Austin,-4,0.609
+2020,2,401236081,Appalachian State,Charlotte,-16.5,0.872
+2020,2,401240113,Army,Louisiana Monroe,-24.5,0.954
+2020,2,401234563,Florida State,Georgia Tech,-12.5,0.806
+2020,2,401215298,Georgia Southern,Campbell,-27.5,0.971
+2020,2,401236221,Iowa State,Louisiana,-13.5,0.824
+2020,2,401236658,Kansas,Coastal Carolina,-6,0.66
+2020,2,401236053,Kansas State,Arkansas State,-14.5,0.841
+2020,2,401234564,Louisville,Western Kentucky,-13,0.815
+2020,2,401234559,Miami,UAB,-15.5,0.857
+2020,2,401234565,North Carolina,Syracuse,-24,0.951
+2020,2,401234574,Notre Dame,Duke,-21.5,0.931
+2020,2,401236054,Oklahoma,Missouri State,-50.5,1
+2020,2,401240233,Pittsburgh,Austin Peay,-30.5,0.982
+2020,2,401239973,South Alabama,Tulane,11.5,0.214
+2020,2,401240039,South Florida,The Citadel,-17.5,0.886
+2020,2,401236222,Texas,UTEP,-45,0.999
+2020,2,401207113,Texas State,UT San Antonio,-6,0.66
+2020,2,401236039,Texas Tech,Houston Christian,-40,0.997
+2020,2,401234562,Wake Forest,Clemson,34.5,0.009
+2020,2,401236038,West Virginia,Eastern Kentucky,-41,0.998
+2020,3,401212541,Cincinnati,Austin Peay,-39.5,0.997
+2020,3,401237492,Clemson,The Citadel,-50.5,1
+2020,3,401240126,Coastal Carolina,Campbell,-27.5,0.971
+2020,3,401234567,Duke,Boston College,-3.5,0.595
+2020,3,401215301,Georgia State,Louisiana,17,0.121
+2020,3,401234568,Georgia Tech,UCF,9.5,0.256
+2020,3,401215302,Louisiana Monroe,Texas State,3,0.418
+2020,3,401234569,Louisville,Miami,2.5,0.432
+2020,3,401236939,Marshall,Appalachian State,6,0.34
+2020,3,401240640,Middle Tennessee,Troy,2,0.445
+2020,3,401234570,NC State,Wake Forest,2,0.445
+2020,3,401207120,North Texas,SMU,14.5,0.159
+2020,3,401241282,Notre Dame,South Florida,-22.5,0.94
+2020,3,401236041,Oklahoma State,Tulsa,-24,0.951
+2020,3,401234571,Pittsburgh,Syracuse,-21,0.926
+2020,3,401207106,Southern Mississippi,Louisiana Tech,-7,0.685
+2020,3,401212522,Tulane,Navy,-5.5,0.648
+2020,3,401239885,UTEP,Abilene Christian,-8.5,0.721
+2020,3,401240041,UT San Antonio,Stephen F. Austin,-18,0.893
+2020,3,401207124,Western Kentucky,Liberty,-14.5,0.841
+2020,4,401236253,Appalachian State,Campbell,-33.5,0.99
+2020,4,401237033,Arkansas,Georgia,28,0.027
+2020,4,401237034,Auburn,Kentucky,-6.5,0.673
+2020,4,401235993,Baylor,Kansas,-17,0.879
+2020,4,401241303,Boston College,Texas State,-21.5,0.931
+2020,4,401236223,BYU,Troy,-14.5,0.841
+2020,4,401240996,Cincinnati,Army,-12.5,0.806
+2020,4,401212536,East Carolina,UCF,28,0.027
+2020,4,401207126,Liberty,Florida International,-9.5,0.744
+2020,4,401215303,Louisiana,Georgia Southern,-11.5,0.786
+2020,4,401240194,Louisiana Monroe,UTEP,-9.5,0.744
+2020,4,401232157,Louisiana Tech,Houston Christian,-23.5,0.947
+2020,4,401237035,LSU,Mississippi State,-14.5,0.841
+2020,4,401234593,Miami,Florida State,-12,0.796
+2020,4,401236951,Missouri,Alabama,28.5,0.025
+2020,4,401235996,Oklahoma,Kansas State,-27.5,0.971
+2020,4,401235997,Oklahoma State,West Virginia,-6.5,0.673
+2020,4,401236952,Ole Miss,Florida,14,0.167
+2020,4,401234595,Pittsburgh,Louisville,-2.5,0.568
+2020,4,401212485,SMU,Stephen F. Austin,-38.5,0.996
+2020,4,401207132,South Alabama,UAB,7.5,0.302
+2020,4,401237036,South Carolina,Tennessee,4,0.391
+2020,4,401234734,Southern Mississippi,Tulane,3.5,0.405
+2020,4,401234594,Syracuse,Georgia Tech,7.5,0.302
+2020,4,401235994,TCU,Iowa State,3.5,0.405
+2020,4,401237037,Texas A&M,Vanderbilt,-31.5,0.985
+2020,4,401235995,Texas Tech,Texas,17.5,0.114
+2020,4,401207134,UT San Antonio,Middle Tennessee,-6,0.66
+2020,4,401234638,Virginia,Duke,-4,0.609
+2020,4,401234566,Virginia Tech,NC State,-6,0.66
+2020,5,401212557,Air Force,Navy,6.5,0.327
+2020,5,401237093,Alabama,Texas A&M,-18,0.893
+2020,5,401240040,Army,Abilene Christian,-31,0.984
+2020,5,401234597,Boston College,North Carolina,14.5,0.159
+2020,5,401246275,BYU,Louisiana Tech,-24,0.951
+2020,5,401212476,Cincinnati,South Florida,-22.5,0.94
+2020,5,401234598,Clemson,Virginia,-28,0.973
+2020,5,401215304,Coastal Carolina,Arkansas State,3.5,0.405
+2020,5,401234599,Duke,Virginia Tech,11,0.224
+2020,5,401237096,Florida,South Carolina,-14.5,0.841
+2020,5,401207136,Florida Atlantic,Charlotte,-5,0.635
+2020,5,401238034,Florida State,Jacksonville State,-27,0.969
+2020,5,401237095,Georgia,Auburn,-7.5,0.698
+2020,5,401212547,Georgia State,East Carolina,1.5,0.459
+2020,5,401235999,Iowa State,Oklahoma,7.5,0.302
+2020,5,401236000,Kansas,Oklahoma State,21.5,0.069
+2020,5,401236001,Kansas State,Texas Tech,-1,0.527
+2020,5,401237097,Kentucky,Ole Miss,-7,0.685
+2020,5,401237513,Liberty,North Alabama,-33,0.989
+2020,5,401215305,Louisiana Monroe,Georgia Southern,19.5,0.089
+2020,5,401207138,Middle Tennessee,Western Kentucky,7,0.315
+2020,5,401237094,Mississippi State,Arkansas,-16.5,0.872
+2020,5,401207139,North Texas,Southern Mississippi,-1.5,0.541
+2020,5,401234600,Pittsburgh,NC State,-14,0.833
+2020,5,401212486,SMU,Memphis,-2,0.555
+2020,5,401237099,Tennessee,Missouri,-10,0.755
+2020,5,401236002,Texas,TCU,-10.5,0.766
+2020,5,401207141,UAB,UT San Antonio,-21.5,0.931
+2020,5,401212531,UCF,Tulsa,-20.5,0.921
+2020,5,401237098,Vanderbilt,LSU,21,0.074
+2020,5,401240282,Wake Forest,Campbell,-34.5,0.991
+2020,5,401235998,West Virginia,Baylor,1.5,0.459
+2020,6,401246425,Arkansas State,Central Arkansas,-15.5,0.857
+2020,6,401240114,Army,The Citadel,-30.5,0.982
+2020,6,401237101,Auburn,Arkansas,-13.5,0.824
+2020,6,401234603,Boston College,Pittsburgh,6.5,0.327
+2020,6,401240997,BYU,UT San Antonio,-34,0.99
+2020,6,401234604,Clemson,Miami,-14.5,0.841
+2020,6,401207143,Florida International,Middle Tennessee,-6.5,0.673
+2020,6,401237103,Georgia,Tennessee,-12,0.796
+2020,6,401234601,Georgia Tech,Louisville,4.5,0.378
+2020,6,401212523,Houston,Tulane,-6.5,0.673
+2020,6,401236003,Iowa State,Texas Tech,-10,0.755
+2020,6,401237104,Kentucky,Mississippi State,-3.5,0.595
+2020,6,401207215,Liberty,Louisiana Monroe,-17,0.879
+2020,6,401207145,Louisiana Tech,UTEP,-14.5,0.841
+2020,6,401237105,LSU,Missouri,14,0.167
+2020,6,401212515,Navy,Temple,4,0.391
+2020,6,401234607,North Carolina,Virginia Tech,-3.5,0.595
+2020,6,401207142,North Texas,Charlotte,3,0.418
+2020,6,401234606,Notre Dame,Florida State,-20.5,0.921
+2020,6,401236005,Oklahoma,Texas,-3,0.582
+2020,6,401237100,Ole Miss,Alabama,24,0.049
+2020,6,401212477,South Florida,East Carolina,-5.5,0.648
+2020,6,401234605,Syracuse,Duke,2.5,0.432
+2020,6,401236004,TCU,Kansas State,-11,0.776
+2020,6,401237102,Texas A&M,Florida,6,0.34
+2020,6,401215308,Troy,Texas State,-7,0.685
+2020,6,401237106,Vanderbilt,South Carolina,14,0.167
+2020,6,401234608,Virginia,NC State,-7,0.685
+2020,6,401207146,Western Kentucky,Marshall,6.5,0.327
+2020,7,401237107,Alabama,Georgia,-6,0.66
+2020,7,401237108,Arkansas,Ole Miss,-1,0.527
+2020,7,401215310,Arkansas State,Georgia State,-3.5,0.595
+2020,7,401212548,East Carolina,Navy,3.5,0.405
+2020,7,401234612,Florida State,North Carolina,13.5,0.176
+2020,7,401250215,Georgia Southern,UMass,-31,0.984
+2020,7,401234610,Georgia Tech,Clemson,26.5,0.034
+2020,7,401212551,Houston,BYU,3,0.418
+2020,7,401215311,Louisiana,Coastal Carolina,-9.5,0.744
+2020,7,401207149,Louisiana Tech,Marshall,12,0.204
+2020,7,401212537,Memphis,UCF,3,0.418
+2020,7,401234614,Miami,Pittsburgh,-11.5,0.786
+2020,7,401207150,Middle Tennessee,North Texas,-3.5,0.595
+2020,7,401237112,Mississippi State,Texas A&M,4.5,0.378
+2020,7,401234611,NC State,Duke,-3.5,0.595
+2020,7,401234613,Notre Dame,Louisville,-15.5,0.857
+2020,7,401215313,South Alabama,Texas State,-5,0.635
+2020,7,401237109,South Carolina,Auburn,2.5,0.432
+2020,7,401234615,Syracuse,Liberty,3,0.418
+2020,7,401212478,Temple,South Florida,-14,0.833
+2020,7,401237111,Tennessee,Kentucky,-6.5,0.673
+2020,7,401239872,Troy,Eastern Kentucky,-30,0.981
+2020,7,401212487,Tulane,SMU,6.5,0.327
+2020,7,401207153,UAB,Western Kentucky,-11.5,0.786
+2020,7,401240115,UT San Antonio,Army,8.5,0.279
+2020,7,401234609,Virginia Tech,Boston College,-13,0.815
+2020,7,401234616,Wake Forest,Virginia,-2.5,0.568
+2020,7,401236007,West Virginia,Kansas,-21,0.926
+2020,8,401240642,Appalachian State,Arkansas State,-13.5,0.824
+2020,8,401248997,Boise State,Utah State,-17,0.879
+2020,8,401234617,Boston College,Georgia Tech,-3.5,0.595
+2020,8,401240998,BYU,Texas State,-30,0.981
+2020,8,401207154,Charlotte,UTEP,-17.5,0.886
+2020,8,401234618,Clemson,Syracuse,-47.5,0.999
+2020,8,401215316,Coastal Carolina,Georgia Southern,-1,0.527
+2020,8,401250783,Florida International,Jacksonville State,-10.5,0.766
+2020,8,401248994,Fresno State,Hawai'i,-3,0.582
+2020,8,401247295,Indiana,Penn State,6.5,0.327
+2020,8,401236010,Kansas State,Kansas,-19,0.905
+2020,8,401207160,Liberty,Southern Mississippi,-14,0.833
+2020,8,401234619,Louisville,Florida State,-5.5,0.648
+2020,8,401237118,LSU,South Carolina,-4.5,0.622
+2020,8,401207156,Marshall,Florida Atlantic,-19,0.905
+2020,8,401212516,Memphis,Temple,-14,0.833
+2020,8,401234620,Miami,Virginia,-13.5,0.824
+2020,8,401247299,Michigan State,Rutgers,-9.5,0.744
+2020,8,401247294,Minnesota,Michigan,3,0.418
+2020,8,401237122,Missouri,Kentucky,3,0.418
+2020,8,401212552,Navy,Houston,15.5,0.143
+2020,8,401248998,Nevada,Wyoming,3,0.418
+2020,8,401234621,North Carolina,NC State,-15,0.85
+2020,8,401247298,Northwestern,Maryland,-13,0.815
+2020,8,401247293,Ohio State,Nebraska,-27.5,0.971
+2020,8,401236009,Oklahoma State,Iowa State,-2.5,0.568
+2020,8,401237115,Ole Miss,Auburn,3.5,0.405
+2020,8,401234622,Pittsburgh,Notre Dame,10,0.245
+2020,8,401247296,Purdue,Iowa,3.5,0.405
+2020,8,401207158,Rice,Middle Tennessee,-3.5,0.595
+2020,8,401248996,San Diego State,UNLV,-14,0.833
+2020,8,401248993,San José State,Air Force,7.5,0.302
+2020,8,401212488,SMU,Cincinnati,-1,0.527
+2020,8,401250784,South Alabama,Louisiana Monroe,-14.5,0.841
+2020,8,401212479,South Florida,Tulsa,12,0.204
+2020,8,401236011,TCU,Oklahoma,6.5,0.327
+2020,8,401237114,Tennessee,Alabama,21.5,0.069
+2020,8,401236008,Texas,Baylor,-11,0.776
+2020,8,401236012,Texas Tech,West Virginia,2.5,0.432
+2020,8,401215317,Troy,Georgia State,-2.5,0.568
+2020,8,401238036,UAB,Louisiana,2.5,0.432
+2020,8,401212524,UCF,Tulane,-21,0.926
+2020,8,401207157,UT San Antonio,Louisiana Tech,2.5,0.432
+2020,8,401234623,Wake Forest,Virginia Tech,10.5,0.234
+2020,8,401207102,Western Kentucky,Chattanooga,-14,0.833
+2020,8,401247297,Wisconsin,Illinois,-20.5,0.921
+2020,9,401248999,Air Force,Boise State,13.5,0.176
+2020,9,401237119,Alabama,Mississippi State,-29.5,0.979
+2020,9,401215320,Arkansas State,Troy,-3.5,0.595
+2020,9,401237121,Auburn,LSU,-1,0.527
+2020,9,401236013,Baylor,TCU,2.5,0.432
+2020,9,401239887,BYU,Western Kentucky,-31,0.984
+2020,9,401212543,Cincinnati,Memphis,-6.5,0.673
+2020,9,401234624,Clemson,Boston College,-26.5,0.966
+2020,9,401234625,Duke,Charlotte,-10.5,0.766
+2020,9,401237116,Florida,Missouri,-13.5,0.824
+2020,9,401207162,Florida Atlantic,UT San Antonio,-5,0.635
+2020,9,401249000,Fresno State,Colorado State,2.5,0.432
+2020,9,401215321,Georgia Southern,South Alabama,-3.5,0.595
+2020,9,401215318,Georgia State,Coastal Carolina,3.5,0.405
+2020,9,401234626,Georgia Tech,Notre Dame,20.5,0.079
+2020,9,401212538,Houston,UCF,3,0.418
+2020,9,401247301,Illinois,Purdue,9.5,0.256
+2020,9,401247303,Iowa,Northwestern,1,0.473
+2020,9,401236014,Kansas,Iowa State,27.5,0.029
+2020,9,401237117,Kentucky,Georgia,17,0.121
+2020,9,401215319,Louisiana Monroe,Appalachian State,28.5,0.025
+2020,9,401207163,Louisiana Tech,UAB,13,0.185
+2020,9,401234627,Louisville,Virginia Tech,5,0.365
+2020,9,401247302,Maryland,Minnesota,18.5,0.101
+2020,9,401247305,Michigan,Michigan State,-21.5,0.931
+2020,9,401249003,New Mexico,San José State,-13.5,0.824
+2020,9,401236017,Oklahoma State,Texas,-3.5,0.595
+2020,9,401247306,Penn State,Ohio State,10,0.245
+2020,9,401247300,Rutgers,Indiana,11.5,0.214
+2020,9,401212489,SMU,Navy,-13,0.815
+2020,9,401207166,Southern Mississippi,Rice,1,0.473
+2020,9,401234629,Syracuse,Wake Forest,14,0.167
+2020,9,401237120,Texas A&M,Arkansas,-14.5,0.841
+2020,9,401215322,Texas State,Louisiana,16.5,0.128
+2020,9,401236016,Texas Tech,Oklahoma,16,0.135
+2020,9,401212517,Tulane,Temple,-7,0.685
+2020,9,401212533,Tulsa,East Carolina,-17,0.879
+2020,9,401249002,UNLV,Nevada,13.5,0.176
+2020,9,401249004,Utah State,San Diego State,9,0.267
+2020,9,401237123,Vanderbilt,Ole Miss,17,0.121
+2020,9,401234628,Virginia,North Carolina,7.5,0.302
+2020,9,401236015,West Virginia,Kansas State,-5,0.635
+2020,9,401249001,Wyoming,Hawai'i,3,0.418
+2020,10,401249857,Akron,Western Michigan,20.5,0.079
+2020,10,401237124,Arkansas,Tennessee,2,0.445
+2020,10,401249005,Boise State,BYU,4.5,0.378
+2020,10,401249860,Central Michigan,Ohio,2.5,0.432
+2020,10,401212544,Cincinnati,Houston,-12.5,0.806
+2020,10,401215325,Coastal Carolina,South Alabama,-17,0.879
+2020,10,401249402,Colorado,UCLA,6.5,0.327
+2020,10,401249010,Colorado State,Wyoming,3.5,0.405
+2020,10,401234633,Duke,North Carolina,11.5,0.214
+2020,10,401212525,East Carolina,Tulane,3.5,0.405
+2020,10,401207169,Florida Atlantic,Western Kentucky,-7,0.685
+2020,10,401234634,Florida State,Pittsburgh,1.5,0.459
+2020,10,401237125,Georgia,Florida,-3,0.582
+2020,10,401215326,Georgia Southern,Troy,3,0.418
+2020,10,401215327,Georgia State,Louisiana Monroe,-18.5,0.899
+2020,10,401249007,Hawai'i,New Mexico,-14,0.833
+2020,10,401247308,Illinois,Minnesota,7.5,0.302
+2020,10,401247309,Indiana,Michigan,4,0.391
+2020,10,401247313,Iowa,Michigan State,-5.5,0.648
+2020,10,401236018,Iowa State,Baylor,-14,0.833
+2020,10,401236020,Kansas State,Oklahoma State,14,0.167
+2020,10,401249856,Kent State,Eastern Michigan,-4.5,0.622
+2020,10,401253924,Louisiana,Arkansas State,-14.5,0.841
+2020,10,401251931,Marshall,UMass,-44.5,0.999
+2020,10,401212480,Memphis,South Florida,-17.5,0.886
+2020,10,401249889,Miami (OH),Ball State,1,0.473
+2020,10,401237126,Mississippi State,Vanderbilt,-18,0.893
+2020,10,401234630,NC State,Miami,10.5,0.234
+2020,10,401249009,Nevada,Utah State,-17,0.879
+2020,10,401249859,Northern Illinois,Buffalo,14.5,0.159
+2020,10,401247307,Northwestern,Nebraska,-4,0.609
+2020,10,401234632,Notre Dame,Clemson,5,0.365
+2020,10,401247310,Ohio State,Rutgers,-37.5,0.995
+2020,10,401236019,Oklahoma,Kansas,-38.5,0.996
+2020,10,401249399,Oregon,Stanford,-11.5,0.786
+2020,10,401249397,Oregon State,Washington State,-3,0.582
+2020,10,401247312,Penn State,Maryland,-27.5,0.971
+2020,10,401249008,San Diego State,San José State,-10.5,0.766
+2020,10,401237127,South Carolina,Texas A&M,9.5,0.256
+2020,10,401240035,Southern Mississippi,North Alabama,-17.5,0.886
+2020,10,401234631,Syracuse,Boston College,14.5,0.159
+2020,10,401236021,TCU,Texas Tech,-9.5,0.744
+2020,10,401212490,Temple,SMU,17.5,0.114
+2020,10,401236022,Texas,West Virginia,-6.5,0.673
+2020,10,401215324,Texas State,Appalachian State,21.5,0.069
+2020,10,401249858,Toledo,Bowling Green,-24,0.951
+2020,10,401249006,UNLV,Fresno State,11.5,0.214
+2020,10,401249400,USC,Arizona State,-11.5,0.786
+2020,10,401234636,Virginia Tech,Liberty,-17,0.879
+2020,11,401215328,Appalachian State,Georgia State,-17.5,0.886
+2020,11,401249403,Arizona,USC,15,0.15
+2020,11,401249865,Ball State,Eastern Michigan,-8.5,0.721
+2020,11,401249012,Boise State,Colorado State,-14,0.833
+2020,11,401234637,Boston College,Notre Dame,13,0.185
+2020,11,401249862,Bowling Green,Kent State,20.5,0.079
+2020,11,401249890,Buffalo,Miami (OH),-7.5,0.698
+2020,11,401212545,Cincinnati,East Carolina,-27.5,0.971
+2020,11,401237129,Florida,Arkansas,-17,0.879
+2020,11,401207174,Florida International,Florida Atlantic,9.5,0.256
+2020,11,401215331,Georgia Southern,Texas State,-11.5,0.786
+2020,11,401212481,Houston,South Florida,-14.5,0.841
+2020,11,401237132,Kentucky,Vanderbilt,-17.5,0.886
+2020,11,401207218,Liberty,Western Carolina,-39,0.996
+2020,11,401215332,Louisiana,South Alabama,-14,0.833
+2020,11,401207176,Marshall,Middle Tennessee,-23.5,0.947
+2020,11,401247319,Michigan,Wisconsin,7,0.315
+2020,11,401247316,Michigan State,Indiana,7.5,0.302
+2020,11,401247317,Minnesota,Iowa,3,0.418
+2020,11,401234639,NC State,Florida State,-11.5,0.786
+2020,11,401247320,Nebraska,Penn State,2.5,0.432
+2020,11,401249015,New Mexico,Nevada,17.5,0.114
+2020,11,401234642,North Carolina,Wake Forest,-12.5,0.806
+2020,11,401249864,Northern Illinois,Central Michigan,6,0.34
+2020,11,401249861,Ohio,Akron,-27.5,0.971
+2020,11,401237133,Ole Miss,South Carolina,-12.5,0.806
+2020,11,401247315,Purdue,Northwestern,3.5,0.405
+2020,11,401247314,Rutgers,Illinois,-5.5,0.648
+2020,11,401249014,San Diego State,Hawai'i,-10,0.755
+2020,11,401249016,San José State,UNLV,-17,0.879
+2020,11,401249406,Stanford,Colorado,-9.5,0.744
+2020,11,401236023,Texas Tech,Baylor,-1,0.527
+2020,11,401207200,Tulane,Army,-3,0.582
+2020,11,401212491,Tulsa,SMU,2,0.445
+2020,11,401212518,UCF,Temple,-28.5,0.975
+2020,11,401249013,Utah State,Fresno State,11,0.224
+2020,11,401207179,UT San Antonio,UTEP,-6,0.66
+2020,11,401257934,Virginia,Louisville,-6,0.66
+2020,11,401234641,Virginia Tech,Miami,-2,0.555
+2020,11,401249404,Washington,Oregon State,-13.5,0.824
+2020,11,401249405,Washington State,Oregon,10.5,0.234
+2020,11,401207178,Western Kentucky,Southern Mississippi,-7.5,0.698
+2020,11,401249866,Western Michigan,Toledo,-1.5,0.541
+2020,11,401236024,West Virginia,TCU,-3,0.582
+2020,12,401249018,Air Force,New Mexico,-8,0.709
+2020,12,401237135,Alabama,Kentucky,-31.5,0.985
+2020,12,401237136,Arkansas,LSU,1.5,0.459
+2020,12,401235975,Army,Georgia Southern,-3.5,0.595
+2020,12,401237137,Auburn,Tennessee,-10.5,0.766
+2020,12,401249870,Ball State,Northern Illinois,-14.5,0.841
+2020,12,401249868,Bowling Green,Buffalo,31.5,0.015
+2020,12,401209818,BYU,North Alabama,-50,1
+2020,12,401249872,Central Michigan,Western Michigan,1,0.473
+2020,12,401215333,Coastal Carolina,Appalachian State,-3,0.582
+2020,12,401249871,Eastern Michigan,Toledo,6.5,0.327
+2020,12,401261674,Florida Atlantic,UMass,-34,0.99
+2020,12,401237139,Georgia,Mississippi State,-26.5,0.966
+2020,12,401249017,Hawai'i,Boise State,13.5,0.176
+2020,12,401236025,Iowa State,Kansas State,-13.5,0.824
+2020,12,401249867,Kent State,Akron,-26,0.964
+2020,12,401234643,Louisville,Syracuse,-19.5,0.911
+2020,12,401247374,Memphis,Stephen F. Austin,-31,0.984
+2020,12,401247325,Minnesota,Purdue,2.5,0.432
+2020,12,401234647,NC State,Liberty,-4,0.609
+2020,12,401247321,Nebraska,Illinois,-16.5,0.872
+2020,12,401249019,Nevada,San Diego State,1.5,0.459
+2020,12,401207184,North Texas,Rice,-2.5,0.568
+2020,12,401247323,Northwestern,Wisconsin,7.5,0.302
+2020,12,401247326,Ohio State,Indiana,-21,0.926
+2020,12,401236027,Oklahoma,Oklahoma State,-6.5,0.673
+2020,12,401249415,Oregon,UCLA,-17.5,0.886
+2020,12,401249411,Oregon State,California,1,0.473
+2020,12,401247327,Penn State,Iowa,-1,0.527
+2020,12,401234648,Pittsburgh,Virginia Tech,6.5,0.327
+2020,12,401247324,Rutgers,Michigan,12,0.204
+2020,12,401215335,South Alabama,Georgia State,3.5,0.405
+2020,12,401237141,South Carolina,Missouri,4.5,0.378
+2020,12,401207185,Southern Mississippi,UT San Antonio,9,0.267
+2020,12,401212519,Temple,East Carolina,7,0.315
+2020,12,401215334,Texas State,Arkansas State,4.5,0.378
+2020,12,401240641,Troy,Middle Tennessee,-11,0.776
+2020,12,401212526,Tulsa,Tulane,-5,0.635
+2020,12,401212540,UCF,Cincinnati,4.5,0.378
+2020,12,401261454,UCLA,California,3.5,0.405
+2020,12,401249410,Utah,USC,-1,0.527
+2020,12,401237138,Vanderbilt,Florida,31.5,0.015
+2020,12,401248275,Virginia,Abilene Christian,-38.5,0.996
+2020,12,401249413,Washington,Arizona,-12,0.796
+2020,12,401207181,Western Kentucky,Florida International,-7,0.685
+2020,13,401249892,Akron,Miami (OH),14,0.167
+2020,13,401237142,Alabama,Auburn,-24.5,0.954
+2020,13,401215336,Appalachian State,Troy,-14,0.833
+2020,13,401215337,Arkansas State,South Alabama,-7.5,0.698
+2020,13,401236028,Baylor,Kansas State,-5.5,0.648
+2020,13,401234649,Boston College,Louisville,-1,0.527
+2020,13,401249877,Buffalo,Kent State,-7.5,0.698
+2020,13,401249417,California,Stanford,1.5,0.459
+2020,13,401234651,Clemson,Pittsburgh,-24,0.951
+2020,13,401265734,Colorado,San Diego State,-5,0.635
+2020,13,401212513,East Carolina,SMU,11.5,0.214
+2020,13,401249874,Eastern Michigan,Central Michigan,6.5,0.327
+2020,13,401237144,Florida,Kentucky,-24,0.951
+2020,13,401215339,Georgia State,Georgia Southern,-2.5,0.568
+2020,13,401234652,Georgia Tech,Duke,2.5,0.432
+2020,13,401249024,Hawai'i,Nevada,7,0.315
+2020,13,401247329,Indiana,Maryland,-11.5,0.786
+2020,13,401247332,Iowa,Nebraska,-12.5,0.806
+2020,13,401236030,Kansas,TCU,23,0.056
+2020,13,401251926,Liberty,UMass,-35.5,0.993
+2020,13,401215340,Louisiana Monroe,Louisiana,29.5,0.021
+2020,13,401247333,Michigan,Penn State,-1,0.527
+2020,13,401247330,Michigan State,Northwestern,13.5,0.176
+2020,13,401237143,Missouri,Vanderbilt,-14,0.833
+2020,13,401264080,Navy,Memphis,13.5,0.176
+2020,13,401234650,North Carolina,Notre Dame,4.5,0.378
+2020,13,401249876,Ohio,Bowling Green,-22.5,0.94
+2020,13,401236032,Oklahoma State,Texas Tech,-11.5,0.786
+2020,13,401237147,Ole Miss,Mississippi State,-9.5,0.744
+2020,13,401249418,Oregon State,Oregon,13,0.185
+2020,13,401247328,Purdue,Rutgers,-12.5,0.806
+2020,13,401237145,South Carolina,Georgia,22,0.065
+2020,13,401212483,South Florida,UCF,25,0.042
+2020,13,401234655,Syracuse,NC State,17,0.121
+2020,13,401236029,Texas,Iowa State,1.5,0.459
+2020,13,401237146,Texas A&M,LSU,-15.5,0.857
+2020,13,401215338,Texas State,Coastal Carolina,16.5,0.128
+2020,13,401249873,Toledo,Ball State,-10,0.755
+2020,13,401249421,UCLA,Arizona,-7.5,0.698
+2020,13,401249028,UNLV,Wyoming,16.5,0.128
+2020,13,401249025,Utah State,New Mexico,6,0.34
+2020,13,401207191,UT San Antonio,North Texas,-1,0.527
+2020,13,401265458,Washington,Utah,-9,0.733
+2020,13,401249875,Western Michigan,Northern Illinois,-18.5,0.899
+2020,14,401249881,Akron,Bowling Green,-2.5,0.568
+2020,14,401252117,Appalachian State,Louisiana,-3,0.582
+2020,14,401249426,Arizona,Colorado,9.5,0.256
+2020,14,401249425,Arizona State,UCLA,-2.5,0.568
+2020,14,401262493,Arkansas State,Louisiana Monroe,-20,0.916
+2020,14,401237150,Auburn,Texas A&M,6,0.34
+2020,14,401249423,California,Oregon,9,0.267
+2020,14,401249878,Central Michigan,Ball State,2.5,0.432
+2020,14,401266789,Charlotte,Western Kentucky,-2.5,0.568
+2020,14,401237514,Coastal Carolina,BYU,10.5,0.234
+2020,14,401266134,Duke,Miami,14.5,0.159
+2020,14,401261675,Georgia Southern,Florida Atlantic,2.5,0.432
+2020,14,401247337,Illinois,Iowa,13.5,0.176
+2020,14,401236034,Iowa State,West Virginia,-6,0.66
+2020,14,401236036,Kansas State,Texas,7.5,0.302
+2020,14,401237153,Kentucky,South Carolina,-11.5,0.786
+2020,14,401265817,LSU,Alabama,28.5,0.025
+2020,14,401257812,Marshall,Rice,-24.5,0.954
+2020,14,401247340,Michigan State,Ohio State,22.5,0.06
+2020,14,401265818,Missouri,Arkansas,-2.5,0.568
+2020,14,401264083,Navy,Tulsa,12,0.204
+2020,14,401234659,NC State,Georgia Tech,-7,0.685
+2020,14,401249032,Nevada,Fresno State,-6.5,0.673
+2020,14,401249034,New Mexico,Wyoming,15.5,0.143
+2020,14,401248781,North Carolina,Western Carolina,-48.5,1
+2020,14,401249880,Northern Illinois,Toledo,9.5,0.256
+2020,14,401265703,North Texas,Louisiana Tech,1,0.473
+2020,14,401234662,Notre Dame,Syracuse,-34,0.99
+2020,14,401236033,Oklahoma,Baylor,-23.5,0.947
+2020,14,401247335,Purdue,Nebraska,-1,0.527
+2020,14,401247336,Rutgers,Penn State,13,0.185
+2020,14,401249031,San Diego State,Colorado State,-7.5,0.698
+2020,14,401249033,San José State,Hawai'i,2.5,0.432
+2020,14,401262494,South Alabama,Troy,4,0.391
+2020,14,401236037,TCU,Oklahoma State,2.5,0.432
+2020,14,401237151,Tennessee,Florida,18,0.107
+2020,14,401236035,Texas Tech,Kansas,-26.5,0.966
+2020,14,401264082,Tulane,Memphis,-3,0.582
+2020,14,401249427,USC,Washington State,-11,0.776
+2020,14,401249422,Utah,Oregon State,-14,0.833
+2020,14,401249029,Utah State,Air Force,13.5,0.176
+2020,14,401234656,Virginia,Boston College,-6,0.66
+2020,14,401234657,Virginia Tech,Clemson,23,0.056
+2020,14,401249424,Washington,Stanford,-12,0.796
+2020,14,401249879,Western Michigan,Eastern Michigan,-13.5,0.824
+2020,14,401247338,Wisconsin,Indiana,-13.5,0.824
+2020,15,401249429,Arizona,Arizona State,9,0.267
+2020,15,401267164,Arkansas,Alabama,30,0.019
+2020,15,401207203,Army,Navy,-7.5,0.698
+2020,15,401249885,Ball State,Western Michigan,2,0.445
+2020,15,401250713,Baylor,Oklahoma State,6,0.34
+2020,15,401249886,Buffalo,Akron,-33,0.989
+2020,15,401249435,BYU,San Diego State,-16.5,0.872
+2020,15,401249428,Colorado,Utah,2.5,0.432
+2020,15,401249884,Eastern Michigan,Northern Illinois,-6.5,0.673
+2020,15,401251100,Florida,LSU,-23,0.944
+2020,15,401266694,Florida State,Duke,-3,0.582
+2020,15,401215309,Georgia Southern,Appalachian State,9.5,0.256
+2020,15,401261245,Georgia Tech,Pittsburgh,7.5,0.302
+2020,15,401249038,Hawai'i,UNLV,-18.5,0.899
+2020,15,401247347,Iowa,Wisconsin,2,0.445
+2020,15,401266696,Louisville,Wake Forest,-2.5,0.568
+2020,15,401247342,Maryland,Rutgers,-3,0.582
+2020,15,401264084,Memphis,Houston,6.5,0.327
+2020,15,401234661,Miami,North Carolina,-3,0.582
+2020,15,401260157,Mississippi State,Auburn,5.5,0.352
+2020,15,401267161,Missouri,Georgia,14,0.167
+2020,15,401247345,Nebraska,Minnesota,-9.5,0.744
+2020,15,401249036,New Mexico,Fresno State,14.5,0.159
+2020,15,401247344,Northwestern,Illinois,-13.5,0.824
+2020,15,401249432,Oregon State,Stanford,2.5,0.432
+2020,15,401247346,Penn State,Michigan State,-14.5,0.841
+2020,15,401257815,Rice,UAB,7,0.315
+2020,15,401249037,San José State,Nevada,2.5,0.432
+2020,15,401257813,Southern Mississippi,Florida Atlantic,9.5,0.256
+2020,15,401266711,TCU,Louisiana Tech,-21.5,0.931
+2020,15,401249883,Toledo,Central Michigan,-11,0.776
+2020,15,401259671,Troy,Coastal Carolina,12.5,0.194
+2020,15,401249431,UCLA,USC,3.5,0.405
+2020,15,401257816,UTEP,North Texas,-10,0.755
+2020,15,401267163,Vanderbilt,Tennessee,14.5,0.159
+2020,15,401234572,Virginia Tech,Virginia,-3,0.582
+2020,15,401249035,Wyoming,Boise State,9.5,0.256
+2020,16,401265699,Army,Air Force,2.5,0.432
+2020,16,401249854,Buffalo,Ball State,-12.5,0.806
+2020,16,401264085,Cincinnati,Tulsa,-13.5,0.824
+2020,16,401237074,Florida,Alabama,16,0.135
+2020,16,401262060,Iowa State,Oklahoma,5.5,0.352
+2020,16,401267165,LSU,Ole Miss,1,0.473
+2020,16,401240101,Marshall,UAB,-4.5,0.622
+2020,16,401267166,Mississippi State,Missouri,1.5,0.459
+2020,16,401256001,Notre Dame,Clemson,11,0.224
+2020,16,401247349,Ohio State,Northwestern,-16.5,0.872
+2020,16,401269378,Oregon State,Arizona State,7.5,0.302
+2020,16,401269381,Penn State,Illinois,-16,0.865
+2020,16,401269382,Rutgers,Nebraska,6.5,0.327
+2020,16,401249043,San José State,Boise State,6.5,0.327
+2020,16,401260158,Tennessee,Texas A&M,13.5,0.176
+2020,16,401269376,UCLA,Stanford,-6.5,0.673
+2020,16,401249434,USC,Oregon,-3,0.582
+2020,16,401269375,Utah,Washington State,-11.5,0.786
+2020,16,401269384,Wisconsin,Minnesota,-10.5,0.766

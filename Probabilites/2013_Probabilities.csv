@@ -1,0 +1,807 @@
+﻿season,week,gameId,homeTeam,awayTeam,spread,homeWinProb
+2013,1,332432005,Air Force,Colgate,-31.5,0.985
+2013,1,332420012,Arizona,Northern Arizona,-35,0.992
+2013,1,332430008,Arkansas,Louisiana,-14,0.833
+2013,1,332432032,Arkansas State,Arkansas-Pine Bluff,-17.5,0.886
+2013,1,332420349,Army,Morgan State,-31,0.984
+2013,1,332430002,Auburn,Washington State,-13.5,0.824
+2013,1,332412050,Ball State,Illinois State,-30.5,0.982
+2013,1,332430239,Baylor,Wofford,-28,0.973
+2013,1,332430103,Boston College,Villanova,-19,0.905
+2013,1,332410189,Bowling Green,Tulsa,3,0.418
+2013,1,332430025,California,Northwestern,8.5,0.279
+2013,1,332432132,Cincinnati,Purdue,-14,0.833
+2013,1,332430228,Clemson,Georgia,-2,0.555
+2013,1,332440036,Colorado State,Colorado,1.5,0.459
+2013,1,332410041,Connecticut,Towson,-20,0.916
+2013,1,332430150,Duke,North Carolina Central,-35,0.992
+2013,1,332430151,East Carolina,Old Dominion,-14.5,0.841
+2013,1,332432199,Eastern Michigan,Howard,-13,0.815
+2013,1,332430057,Florida,Toledo,-21,0.926
+2013,1,332410278,Fresno State,Rutgers,-8.5,0.721
+2013,1,332422247,Georgia State,Samford,7,0.315
+2013,1,332430059,Georgia Tech,Elon,-47,0.999
+2013,1,332410062,Hawai'i,USC,21.5,0.069
+2013,1,332420248,Houston,Southern,-38.5,0.996
+2013,1,332430356,Illinois,Southern Illinois,-24,0.951
+2013,1,332410084,Indiana,Indiana State,-30.5,0.982
+2013,1,332432294,Iowa,Northern Illinois,-6.5,0.673
+2013,1,332430066,Iowa State,Northern Iowa,-5.5,0.648
+2013,1,332422306,Kansas State,North Dakota State,-14.5,0.841
+2013,1,332412309,Kent State,Liberty,2,0.445
+2013,1,332440097,Louisville,Ohio,-16,0.865
+2013,1,332430276,Marshall,Miami (OH),-13,0.815
+2013,1,332430120,Maryland,Florida International,-15,0.85
+2013,1,332422390,Miami,Florida Atlantic,-31,0.984
+2013,1,332430130,Michigan,Central Michigan,-26,0.964
+2013,1,332420127,Michigan State,Western Michigan,-24,0.951
+2013,1,332412393,Middle Tennessee,Western Carolina,-12,0.796
+2013,1,332410135,Minnesota,UNLV,-17,0.879
+2013,1,332430142,Missouri,Murray State,-38,0.996
+2013,1,332430152,NC State,Louisiana Tech,-10.5,0.766
+2013,1,332430158,Nebraska,Wyoming,-21.5,0.931
+2013,1,332430167,New Mexico,UT San Antonio,-6,0.66
+2013,1,332430249,North Texas,Idaho,-17,0.879
+2013,1,332430087,Notre Dame,Temple,-24.5,0.954
+2013,1,332430194,Ohio State,Buffalo,-33.5,0.99
+2013,1,332430201,Oklahoma,Louisiana Monroe,-23,0.944
+2013,1,332430197,Oklahoma State,Mississippi State,-13,0.815
+2013,1,332432483,Oregon,Nicholls,-58.5,1
+2013,1,332430204,Oregon State,Eastern Washington,-28,0.973
+2013,1,332430213,Penn State,Syracuse,5,0.365
+2013,1,332450221,Pittsburgh,Florida State,10.5,0.234
+2013,1,332430021,San Diego State,Eastern Illinois,-19,0.905
+2013,1,332410023,San José State,Sacramento State,-33,0.989
+2013,1,332422567,SMU,Texas Tech,2.5,0.432
+2013,1,332410006,South Alabama,Southern Utah,-41,0.998
+2013,1,332412579,South Carolina,North Carolina,-11.5,0.786
+2013,1,332432572,Southern Mississippi,Texas State,-9.5,0.744
+2013,1,332430058,South Florida,McNeese,-20.5,0.921
+2013,1,332432628,TCU,LSU,5,0.365
+2013,1,332432633,Tennessee,Austin Peay,-51,1
+2013,1,332430251,Texas,New Mexico State,-42,0.998
+2013,1,332430245,Texas A&M,Rice,-28,0.973
+2013,1,332432653,Troy,UAB,-6,0.66
+2013,1,332412655,Tulane,Jackson State,-15,0.85
+2013,1,332412116,UCF,Akron,-28,0.973
+2013,1,332430026,UCLA,Nevada,-14.5,0.841
+2013,1,332410254,Utah,Utah State,-4.5,0.622
+2013,1,332410238,Vanderbilt,Ole Miss,-1.5,0.541
+2013,1,332430258,Virginia,BYU,4,0.391
+2013,1,332430259,Virginia Tech,Alabama,18.5,0.101
+2013,1,332410154,Wake Forest,Presbyterian College,-30,0.981
+2013,1,332430264,Washington,Boise State,-2.5,0.568
+2013,1,332430098,Western Kentucky,Kentucky,3,0.418
+2013,1,332430277,West Virginia,William & Mary,-32,0.986
+2013,1,332430275,Wisconsin,UMass,-45,0.999
+2013,2,332502005,Air Force,Utah State,8,0.291
+2013,2,332502006,Akron,James Madison,-3,0.582
+2013,2,332480009,Arizona State,Sacramento State,-35,0.992
+2013,2,332500008,Arkansas,Samford,-32.5,0.987
+2013,2,332500002,Auburn,Arkansas State,-7.5,0.698
+2013,2,332502050,Ball State,Army,-8,0.709
+2013,2,332500239,Baylor,Buffalo,-21.5,0.931
+2013,2,332500068,Boise State,UT Martin,-35.5,0.993
+2013,2,332490103,Boston College,Wake Forest,-5,0.635
+2013,2,332500252,BYU,Texas,6,0.34
+2013,2,332500025,California,Portland State,-27,0.969
+2013,2,332502117,Central Michigan,New Hampshire,-3.5,0.595
+2013,2,332500228,Clemson,South Carolina State,-52,1
+2013,2,332500038,Colorado,Central Arkansas,-14,0.833
+2013,2,332480151,East Carolina,Florida Atlantic,-15,0.85
+2013,2,332492229,Florida International,UCF,22,0.065
+2013,2,332500278,Fresno State,Cal Poly,-27,0.969
+2013,2,332500061,Georgia,South Carolina,-4.5,0.622
+2013,2,332502247,Georgia State,Chattanooga,10,0.245
+2013,2,332500356,Illinois,Cincinnati,10.5,0.234
+2013,2,332500084,Indiana,Navy,-7.5,0.698
+2013,2,332502294,Iowa,Missouri State,-24,0.951
+2013,2,332502305,Kansas,South Dakota,-23.5,0.947
+2013,2,332502306,Kansas State,Louisiana,-12,0.796
+2013,2,332502309,Kent State,Bowling Green,8,0.291
+2013,2,332500096,Kentucky,Miami (OH),-14.5,0.841
+2013,2,332502433,Louisiana Monroe,Grambling,-38.5,0.996
+2013,2,332502348,Louisiana Tech,Lamar,-28,0.973
+2013,2,332500097,Louisville,Eastern Kentucky,-40,0.997
+2013,2,332500099,LSU,UAB,-33.5,0.99
+2013,2,332500276,Marshall,Gardner-Webb,-42,0.998
+2013,2,332500120,Maryland,Old Dominion,-18.5,0.899
+2013,2,332500235,Memphis,Duke,6,0.34
+2013,2,332502390,Miami,Florida,2,0.445
+2013,2,332500130,Michigan,Notre Dame,-3,0.582
+2013,2,332500127,Michigan State,South Florida,-17.5,0.886
+2013,2,332500344,Mississippi State,Alcorn State,-42.5,0.998
+2013,2,332500142,Missouri,Toledo,-11.5,0.786
+2013,2,332500152,NC State,Richmond,-23,0.944
+2013,2,332500158,Nebraska,Southern Mississippi,-29,0.977
+2013,2,332502440,Nevada,UC Davis,-20,0.916
+2013,2,332500166,New Mexico State,Minnesota,17.5,0.114
+2013,2,332500153,North Carolina,Middle Tennessee,-21.5,0.931
+2013,2,332500077,Northwestern,Syracuse,-12,0.796
+2013,2,332500195,Ohio,North Texas,-6.5,0.673
+2013,2,332500194,Ohio State,San Diego State,-24,0.951
+2013,2,332500201,Oklahoma,West Virginia,-21.5,0.931
+2013,2,332500145,Ole Miss,Southeast Missouri State,-49,1
+2013,2,332500204,Oregon State,Hawai'i,-24.5,0.954
+2013,2,332500213,Penn State,Eastern Michigan,-24,0.951
+2013,2,332502509,Purdue,Indiana State,-17,0.879
+2013,2,332500164,Rutgers,Norfolk State,-37.5,0.995
+2013,2,332502567,SMU,Montana State,-10,0.755
+2013,2,332500024,Stanford,San José State,-20,0.916
+2013,2,332502628,TCU,Southeastern Louisiana,-42.5,0.998
+2013,2,332500218,Temple,Houston,2.5,0.432
+2013,2,332502633,Tennessee,Western Kentucky,-12.5,0.806
+2013,2,332500245,Texas A&M,Sam Houston State,-45,0.999
+2013,2,332500326,Texas State,Prairie View,-30,0.981
+2013,2,332502641,Texas Tech,Stephen F. Austin,-35,0.992
+2013,2,332502653,Troy,Savannah State,-45,0.999
+2013,2,332502655,Tulane,South Alabama,-7,0.685
+2013,2,332500202,Tulsa,Colorado State,-12,0.796
+2013,2,332500113,UMass,Maine,3,0.418
+2013,2,332502439,UNLV,Arizona,13,0.185
+2013,2,332500030,USC,Washington State,-15,0.85
+2013,2,332500254,Utah,Weber State,-23,0.944
+2013,2,332502638,UTEP,New Mexico,-7,0.685
+2013,2,332502636,UT San Antonio,Oklahoma State,28.5,0.025
+2013,2,332500238,Vanderbilt,Austin Peay,-46.5,0.999
+2013,2,332500258,Virginia,Oregon,23.5,0.053
+2013,2,332500259,Virginia Tech,Western Carolina,-41,0.998
+2013,2,332502711,Western Michigan,Nicholls,-27,0.969
+2013,2,332500275,Wisconsin,Tennessee Tech,-45,0.999
+2013,2,332502751,Wyoming,Idaho,-23,0.944
+2013,3,332570012,Arizona,UT San Antonio,-24.5,0.954
+2013,3,332570009,Arizona State,Wisconsin,-5.5,0.648
+2013,3,332570008,Arkansas,Southern Mississippi,-21,0.926
+2013,3,332552032,Arkansas State,Troy,-10,0.755
+2013,3,332570349,Army,Stanford,28.5,0.025
+2013,3,332570002,Auburn,Mississippi State,-6,0.66
+2013,3,332560068,Boise State,Air Force,-24,0.951
+2013,3,332572084,Buffalo,Stony Brook,-6,0.66
+2013,3,332570025,California,Ohio State,14.5,0.159
+2013,3,332572132,Cincinnati,Northwestern State,-31,0.984
+2013,3,332570036,Colorado State,Cal Poly,-11.5,0.786
+2013,3,332570041,Connecticut,Maryland,8,0.291
+2013,3,332570150,Duke,Georgia Tech,9,0.267
+2013,3,332570151,East Carolina,Virginia Tech,7,0.315
+2013,3,332572229,Florida International,Bethune-Cookman,-3,0.582
+2013,3,332570052,Florida State,Nevada,-31,0.984
+2013,3,332570070,Idaho,Northern Illinois,24,0.049
+2013,3,332570356,Illinois,Washington,7,0.315
+2013,3,332570084,Indiana,Bowling Green,-4,0.609
+2013,3,332570066,Iowa State,Iowa,3,0.418
+2013,3,332572306,Kansas State,UMass,-37,0.995
+2013,3,332570096,Kentucky,Louisville,10.5,0.234
+2013,3,332570309,Louisiana,Nicholls,-28,0.973
+2013,3,332552348,Louisiana Tech,Tulane,-7.5,0.698
+2013,3,332570099,LSU,Kent State,-38,0.996
+2013,3,332570130,Michigan,Akron,-35.5,0.993
+2013,3,332570127,Michigan State,Youngstown State,-27,0.969
+2013,3,332572393,Middle Tennessee,Memphis,-4,0.609
+2013,3,332570135,Minnesota,Western Illinois,-31,0.984
+2013,3,332572426,Navy,Delaware,-17,0.879
+2013,3,332570158,Nebraska,UCLA,-4,0.609
+2013,3,332570166,New Mexico State,UTEP,6.5,0.327
+2013,3,332570249,North Texas,Ball State,1.5,0.459
+2013,3,332570077,Northwestern,Western Michigan,-34,0.99
+2013,3,332570195,Ohio,Marshall,6,0.34
+2013,3,332570201,Oklahoma,Tulsa,-27.5,0.971
+2013,3,332570197,Oklahoma State,Lamar,-47,0.999
+2013,3,332572483,Oregon,Tennessee,-21.5,0.931
+2013,3,332570213,Penn State,UCF,-3.5,0.595
+2013,3,332570221,Pittsburgh,New Mexico,-20.5,0.921
+2013,3,332572509,Purdue,Notre Dame,21.5,0.069
+2013,3,332570242,Rice,Kansas,-2,0.555
+2013,3,332570164,Rutgers,Eastern Michigan,-29,0.977
+2013,3,332570006,South Alabama,Western Kentucky,10,0.245
+2013,3,332572579,South Carolina,Vanderbilt,-12.5,0.806
+2013,3,332570058,South Florida,Florida Atlantic,-10.5,0.766
+2013,3,332570183,Syracuse,Wagner,-28,0.973
+2013,3,332570218,Temple,Fordham,-24,0.951
+2013,3,332570251,Texas,Ole Miss,-3,0.582
+2013,3,332570245,Texas A&M,Alabama,7,0.315
+2013,3,332552641,Texas Tech,TCU,6,0.34
+2013,3,332572649,Toledo,Eastern Washington,-7.5,0.698
+2013,3,332572439,UNLV,Central Michigan,-11.5,0.786
+2013,3,332570030,USC,Boston College,-16,0.865
+2013,3,332570328,Utah State,Weber State,-31.5,0.985
+2013,3,332570154,Wake Forest,Louisiana Monroe,-3.5,0.595
+2013,3,332570265,Washington State,Southern Utah,-35,0.992
+2013,3,332570277,West Virginia,Georgia State,-38,0.996
+2013,3,332572751,Wyoming,Northern Colorado,-27,0.969
+2013,4,332642005,Air Force,Wyoming,2.5,0.432
+2013,4,332642006,Akron,Louisiana,6,0.34
+2013,4,332640333,Alabama,Colorado State,-36.5,0.994
+2013,4,332640349,Army,Wake Forest,3,0.418
+2013,4,332640239,Baylor,Louisiana Monroe,-30,0.981
+2013,4,332640189,Bowling Green,Murray State,-28,0.973
+2013,4,332640252,BYU,Utah,-6.5,0.673
+2013,4,332642117,Central Michigan,Toledo,14,0.167
+2013,4,332640041,Connecticut,Michigan,18,0.107
+2013,4,332640150,Duke,Pittsburgh,6,0.34
+2013,4,332642199,Eastern Michigan,Ball State,8,0.291
+2013,4,332640057,Florida,Tennessee,-15.5,0.857
+2013,4,332642226,Florida Atlantic,Middle Tennessee,4,0.391
+2013,4,332640052,Florida State,Bethune-Cookman,-39,0.996
+2013,4,332630278,Fresno State,Boise State,-3,0.582
+2013,4,332640061,Georgia,North Texas,-36.5,0.994
+2013,4,332642247,Georgia State,Jacksonville State,8.5,0.279
+2013,4,332640059,Georgia Tech,North Carolina,-3.5,0.595
+2013,4,332640084,Indiana,Missouri,3,0.418
+2013,4,332642294,Iowa,Western Michigan,-19,0.905
+2013,4,332642305,Kansas,Louisiana Tech,-9,0.733
+2013,4,332640097,Louisville,Florida International,-41,0.998
+2013,4,332640099,LSU,Auburn,-14,0.833
+2013,4,332640120,Maryland,West Virginia,-4.5,0.622
+2013,4,332640235,Memphis,Arkansas State,3,0.418
+2013,4,332642390,Miami,Savannah State,-55,1
+2013,4,332640193,Miami (OH),Cincinnati,24,0.049
+2013,4,332640135,Minnesota,San José State,-5.5,0.648
+2013,4,332640344,Mississippi State,Troy,-13,0.815
+2013,4,332620152,NC State,Clemson,13,0.185
+2013,4,332640158,Nebraska,South Dakota State,-24.5,0.954
+2013,4,332642440,Nevada,Hawai'i,-14,0.833
+2013,4,332642459,Northern Illinois,Eastern Illinois,-14,0.833
+2013,4,332640077,Northwestern,Maine,-33.5,0.99
+2013,4,332640087,Notre Dame,Michigan State,-6,0.66
+2013,4,332640195,Ohio,Austin Peay,-28,0.973
+2013,4,332640194,Ohio State,Florida A&M,-57,1
+2013,4,332640213,Penn State,Kent State,-14.5,0.841
+2013,4,332640242,Rice,Houston,-4,0.609
+2013,4,332640021,San Diego State,Oregon State,8,0.291
+2013,4,332640024,Stanford,Arizona State,-6.5,0.673
+2013,4,332640183,Syracuse,Tulane,-10.5,0.766
+2013,4,332640251,Texas,Kansas State,-7,0.685
+2013,4,332640245,Texas A&M,SMU,-26.5,0.966
+2013,4,332642641,Texas Tech,Texas State,-25,0.958
+2013,4,332640005,UAB,Northwestern State,-24,0.951
+2013,4,332640026,UCLA,New Mexico State,-38,0.996
+2013,4,332640113,UMass,Vanderbilt,36,0.007
+2013,4,332642439,UNLV,Western Illinois,-16.5,0.872
+2013,4,332640030,USC,Utah State,-7,0.685
+2013,4,332642638,UTEP,UT San Antonio,-1,0.527
+2013,4,332640258,Virginia,VMI,-35,0.992
+2013,4,332640259,Virginia Tech,Marshall,-11,0.776
+2013,4,332640264,Washington,Idaho State,-53,1
+2013,4,332640265,Washington State,Idaho,-35,0.992
+2013,4,332640098,Western Kentucky,Morgan State,-33,0.989
+2013,4,332640275,Wisconsin,Purdue,-23,0.944
+2013,5,332710333,Alabama,Ole Miss,-16,0.865
+2013,5,332710009,Arizona State,USC,-5,0.635
+2013,5,332710008,Arkansas,Texas A&M,3,0.418
+2013,5,332712050,Ball State,Toledo,-1,0.527
+2013,5,332710068,Boise State,Southern Mississippi,-28,0.973
+2013,5,332710103,Boston College,Florida State,23,0.056
+2013,5,332710189,Bowling Green,Akron,-15.5,0.857
+2013,5,332712084,Buffalo,Connecticut,2.5,0.432
+2013,5,332700252,BYU,Middle Tennessee,-22,0.935
+2013,5,332710228,Clemson,Wake Forest,-28.5,0.975
+2013,5,332710036,Colorado State,UTEP,-10,0.755
+2013,5,332710150,Duke,Troy,-10,0.755
+2013,5,332710061,Georgia,LSU,-3,0.582
+2013,5,332690059,Georgia Tech,Virginia Tech,-7,0.685
+2013,5,332710062,Hawai'i,Fresno State,18.5,0.101
+2013,5,332710070,Idaho,Temple,9.5,0.256
+2013,5,332710356,Illinois,Miami (OH),-24,0.951
+2013,5,332710096,Kentucky,Florida,12.5,0.194
+2013,5,332712433,Louisiana Monroe,Tulane,-11,0.776
+2013,5,332712348,Louisiana Tech,Army,-1,0.527
+2013,5,332710135,Minnesota,Iowa,-3.5,0.595
+2013,5,332710142,Missouri,Arkansas State,-21,0.926
+2013,5,332710152,NC State,Central Michigan,-24,0.951
+2013,5,332712440,Nevada,Air Force,-7,0.685
+2013,5,332710167,New Mexico,UNLV,-1,0.527
+2013,5,332710166,New Mexico State,San Diego State,17,0.121
+2013,5,332710153,North Carolina,East Carolina,-10,0.755
+2013,5,332710087,Notre Dame,Oklahoma,3,0.418
+2013,5,332710194,Ohio State,Wisconsin,-7,0.685
+2013,5,332712483,Oregon,California,-33,0.989
+2013,5,332710204,Oregon State,Colorado,-11,0.776
+2013,5,332710221,Pittsburgh,Virginia,-6.5,0.673
+2013,5,332712509,Purdue,Northern Illinois,2.5,0.432
+2013,5,332710242,Rice,Florida Atlantic,-14,0.833
+2013,5,332700023,San José State,Utah State,9.5,0.256
+2013,5,332710058,South Florida,Miami,18.5,0.101
+2013,5,332712628,TCU,SMU,-19.5,0.911
+2013,5,332712633,Tennessee,South Alabama,-21,0.926
+2013,5,332710326,Texas State,Wyoming,10.5,0.234
+2013,5,332690202,Tulsa,Iowa State,-4,0.609
+2013,5,332712116,UCF,South Carolina,7.5,0.302
+2013,5,332712636,UT San Antonio,Houston,2.5,0.432
+2013,5,332710238,Vanderbilt,UAB,-22,0.935
+2013,5,332710264,Washington,Arizona,-7,0.685
+2013,5,332710265,Washington State,Stanford,10,0.245
+2013,5,332710098,Western Kentucky,Navy,2,0.445
+2013,5,332712711,Western Michigan,Kent State,-2,0.555
+2013,5,332710277,West Virginia,Oklahoma State,21,0.074
+2013,6,332782006,Akron,Ohio,6.5,0.327
+2013,6,332780333,Alabama,Georgia State,-56,1
+2013,6,332780002,Auburn,Ole Miss,2,0.445
+2013,6,332780239,Baylor,West Virginia,-30,0.981
+2013,6,332780103,Boston College,Army,-13,0.815
+2013,6,332780189,Bowling Green,UMass,-23,0.944
+2013,6,332782084,Buffalo,Eastern Michigan,-13,0.815
+2013,6,332780025,California,Washington State,-1.5,0.541
+2013,6,332780038,Colorado,Oregon,36.5,0.006
+2013,6,332780057,Florida,Arkansas,-12.5,0.806
+2013,6,332780052,Florida State,Maryland,-17,0.879
+2013,6,332780062,Hawai'i,San José State,4.5,0.378
+2013,6,332780070,Idaho,Fresno State,25,0.042
+2013,6,332780084,Indiana,Penn State,4,0.391
+2013,6,332782294,Iowa,Michigan State,-2,0.555
+2013,6,332760066,Iowa State,Texas,7.5,0.302
+2013,6,332782305,Kansas,Texas Tech,16,0.135
+2013,6,332782309,Kent State,Northern Illinois,9.5,0.256
+2013,6,332780309,Louisiana,Texas State,-10,0.755
+2013,6,332762433,Louisiana Monroe,Western Kentucky,3,0.418
+2013,6,332780276,Marshall,UT San Antonio,-11,0.776
+2013,6,332780235,Memphis,UCF,10.5,0.234
+2013,6,332782390,Miami,Georgia Tech,-4,0.609
+2013,6,332780193,Miami (OH),Central Michigan,4.5,0.378
+2013,6,332780130,Michigan,Minnesota,-21,0.926
+2013,6,332782393,Middle Tennessee,East Carolina,8,0.291
+2013,6,332780344,Mississippi State,LSU,9.5,0.256
+2013,6,332782426,Navy,Air Force,-11,0.776
+2013,6,332780158,Nebraska,Illinois,-10.5,0.766
+2013,6,332780167,New Mexico,New Mexico State,-7,0.685
+2013,6,332780077,Northwestern,Ohio State,5.5,0.352
+2013,6,332780087,Notre Dame,Arizona State,6.5,0.327
+2013,6,332780201,Oklahoma,TCU,-10,0.755
+2013,6,332780197,Oklahoma State,Kansas State,-15,0.85
+2013,6,332770021,San Diego State,Nevada,-5.5,0.648
+2013,6,332782567,SMU,Rutgers,4,0.391
+2013,6,332782579,South Carolina,Kentucky,-21,0.926
+2013,6,332782572,Southern Mississippi,Florida International,-17,0.879
+2013,6,332780058,South Florida,Cincinnati,13.5,0.176
+2013,6,332780024,Stanford,Washington,-6.5,0.673
+2013,6,332780183,Syracuse,Clemson,13.5,0.176
+2013,6,332780218,Temple,Louisville,30,0.019
+2013,6,332782633,Tennessee,Georgia,10.5,0.234
+2013,6,332782649,Toledo,Western Michigan,-19,0.905
+2013,6,332782653,Troy,South Alabama,-2.5,0.568
+2013,6,332782655,Tulane,North Texas,2,0.445
+2013,6,332780202,Tulsa,Rice,-2.5,0.568
+2013,6,332780005,UAB,Florida Atlantic,-7,0.685
+2013,6,332760254,Utah,UCLA,3.5,0.405
+2013,6,332770328,Utah State,BYU,-6,0.66
+2013,6,332782638,UTEP,Louisiana Tech,-1.5,0.541
+2013,6,332780238,Vanderbilt,Missouri,-2.5,0.568
+2013,6,332780258,Virginia,Ball State,-6,0.66
+2013,6,332780259,Virginia Tech,North Carolina,-7,0.685
+2013,6,332780154,Wake Forest,NC State,8,0.291
+2013,7,332832005,Air Force,San Diego State,3.5,0.405
+2013,7,332850009,Arizona State,Colorado,-23.5,0.947
+2013,7,332850008,Arkansas,South Carolina,7,0.315
+2013,7,332852032,Arkansas State,Idaho,-24,0.951
+2013,7,332850349,Army,Eastern Michigan,-7.5,0.698
+2013,7,332850002,Auburn,Western Carolina,-43.5,0.999
+2013,7,332852050,Ball State,Kent State,-11,0.776
+2013,7,332850252,BYU,Georgia Tech,-4,0.609
+2013,7,332842132,Cincinnati,Temple,-20,0.916
+2013,7,332850228,Clemson,Boston College,-23,0.944
+2013,7,332850036,Colorado State,San José State,-3.5,0.595
+2013,7,332850041,Connecticut,South Florida,-6,0.66
+2013,7,332850150,Duke,Navy,-3.5,0.595
+2013,7,332852226,Florida Atlantic,Marshall,13,0.185
+2013,7,332852229,Florida International,UAB,7,0.315
+2013,7,332850061,Georgia,Missouri,-10,0.755
+2013,7,332852247,Georgia State,Troy,16,0.135
+2013,7,332850248,Houston,Memphis,-11,0.776
+2013,7,332852306,Kansas State,Baylor,10.5,0.234
+2013,7,332850096,Kentucky,Alabama,27,0.031
+2013,7,332830097,Louisville,Rutgers,-16.5,0.872
+2013,7,332850099,LSU,Florida,-5,0.635
+2013,7,332850120,Maryland,Virginia,-5.5,0.648
+2013,7,332850127,Michigan State,Indiana,-7.5,0.698
+2013,7,332850344,Mississippi State,Bowling Green,-8.5,0.721
+2013,7,332850152,NC State,Syracuse,-4.5,0.622
+2013,7,332852459,Northern Illinois,Akron,-21.5,0.931
+2013,7,332850249,North Texas,Middle Tennessee,-4.5,0.622
+2013,7,332850195,Ohio,Central Michigan,-14.5,0.841
+2013,7,332850145,Ole Miss,Texas A&M,4,0.391
+2013,7,332850213,Penn State,Michigan,1,0.473
+2013,7,332852509,Purdue,Nebraska,14,0.167
+2013,7,332852628,TCU,Kansas,-24,0.951
+2013,7,332850251,Texas,Oklahoma,13,0.185
+2013,7,332850326,Texas State,Louisiana Monroe,-6,0.66
+2013,7,332852641,Texas Tech,Iowa State,-16.5,0.872
+2013,7,332852655,Tulane,East Carolina,9,0.267
+2013,7,332850026,UCLA,California,-23,0.944
+2013,7,332850113,UMass,Miami (OH),-2.5,0.568
+2013,7,332852439,UNLV,Hawai'i,-7,0.685
+2013,7,332830030,USC,Arizona,-5,0.635
+2013,7,332850254,Utah,Stanford,9.5,0.256
+2013,7,332850328,Utah State,Boise State,7.5,0.302
+2013,7,332852638,UTEP,Tulsa,10,0.245
+2013,7,332852636,UT San Antonio,Rice,4.5,0.378
+2013,7,332850259,Virginia Tech,Pittsburgh,-9.5,0.744
+2013,7,332850264,Washington,Oregon,10.5,0.234
+2013,7,332850265,Washington State,Oregon State,-3,0.582
+2013,7,332852711,Western Michigan,Buffalo,11,0.224
+2013,7,332850275,Wisconsin,Northwestern,-10,0.755
+2013,7,332852751,Wyoming,New Mexico,-14.5,0.841
+2013,8,332920333,Alabama,Arkansas,-28,0.973
+2013,8,332920012,Arizona,Utah,-4.5,0.622
+2013,8,332920009,Arizona State,Washington,-3,0.582
+2013,8,332920239,Baylor,Iowa State,-33,0.989
+2013,8,332920068,Boise State,Nevada,-21.5,0.931
+2013,8,332922084,Buffalo,UMass,-20.5,0.921
+2013,8,332920025,California,Oregon State,7.5,0.302
+2013,8,332922117,Central Michigan,Northern Illinois,17,0.121
+2013,8,332922132,Cincinnati,Connecticut,-14.5,0.841
+2013,8,332920228,Clemson,Florida State,3,0.418
+2013,8,332920038,Colorado,Charleston Southern,-20,0.916
+2013,8,332920151,East Carolina,Southern Mississippi,-21,0.926
+2013,8,332922199,Eastern Michigan,Ohio,20,0.084
+2013,8,332920278,Fresno State,UNLV,-21,0.926
+2013,8,332920059,Georgia Tech,Syracuse,-9.5,0.744
+2013,8,332920248,Houston,BYU,9,0.267
+2013,8,332920356,Illinois,Wisconsin,10,0.245
+2013,8,332922305,Kansas,Oklahoma,24,0.049
+2013,8,332922348,Louisiana Tech,North Texas,7,0.315
+2013,8,332910097,Louisville,UCF,-17.5,0.886
+2013,8,332920235,Memphis,SMU,-1,0.527
+2013,8,332920193,Miami (OH),Akron,6,0.34
+2013,8,332920130,Michigan,Indiana,-10.5,0.766
+2013,8,332920127,Michigan State,Purdue,-21,0.926
+2013,8,332920142,Missouri,Florida,1.5,0.459
+2013,8,332920167,New Mexico,Utah State,10,0.245
+2013,8,332920166,New Mexico State,Rice,19,0.095
+2013,8,332900153,North Carolina,Miami,7.5,0.302
+2013,8,332920077,Northwestern,Minnesota,-13,0.815
+2013,8,332920087,Notre Dame,USC,-1.5,0.541
+2013,8,332920194,Ohio State,Iowa,-17,0.879
+2013,8,332920197,Oklahoma State,TCU,-7,0.685
+2013,8,332920145,Ole Miss,LSU,8,0.291
+2013,8,332922483,Oregon,Washington State,-39,0.996
+2013,8,332920221,Pittsburgh,Old Dominion,-17.5,0.886
+2013,8,332920006,South Alabama,Kent State,-6.5,0.673
+2013,8,332920024,Stanford,UCLA,-6,0.66
+2013,8,332920218,Temple,Army,1.5,0.459
+2013,8,332922633,Tennessee,South Carolina,7,0.315
+2013,8,332920245,Texas A&M,Auburn,-12,0.796
+2013,8,332920326,Texas State,Georgia State,-19,0.905
+2013,8,332922649,Toledo,Navy,-6,0.66
+2013,8,332920238,Vanderbilt,Georgia,9.5,0.256
+2013,8,332920258,Virginia,Duke,-4,0.609
+2013,8,332920154,Wake Forest,Maryland,7,0.315
+2013,8,332880098,Western Kentucky,Louisiana,-3.5,0.595
+2013,8,332922711,Western Michigan,Ball State,21,0.074
+2013,8,332920277,West Virginia,Texas Tech,6.5,0.327
+2013,8,332922751,Wyoming,Colorado State,-6.5,0.673
+2013,9,332992005,Air Force,Notre Dame,19.5,0.089
+2013,9,332992006,Akron,Ball State,11.5,0.214
+2013,9,332990333,Alabama,Tennessee,-26.5,0.966
+2013,9,332952032,Arkansas State,Louisiana,6.5,0.327
+2013,9,332990002,Auburn,Florida Atlantic,-26.5,0.966
+2013,9,332990189,Bowling Green,Toledo,-3,0.582
+2013,9,332980252,BYU,Boise State,-7,0.685
+2013,9,332990038,Colorado,Arizona,16.5,0.128
+2013,9,332992229,Florida International,Louisiana Tech,6,0.34
+2013,9,332990052,Florida State,NC State,-27.5,0.971
+2013,9,332990062,Hawai'i,Colorado State,5,0.365
+2013,9,332990356,Illinois,Michigan State,13,0.185
+2013,9,332992294,Iowa,Northwestern,-3,0.582
+2013,9,332990066,Iowa State,Oklahoma State,14,0.167
+2013,9,332992305,Kansas,Baylor,35.5,0.007
+2013,9,332992306,Kansas State,West Virginia,-7,0.685
+2013,9,332992309,Kent State,Buffalo,2,0.445
+2013,9,332992433,Louisiana Monroe,Georgia State,-11.5,0.786
+2013,9,332990099,LSU,Furman,-47.5,0.999
+2013,9,332990120,Maryland,Clemson,13,0.185
+2013,9,332992390,Miami,Wake Forest,-22,0.935
+2013,9,332972393,Middle Tennessee,Marshall,10.5,0.234
+2013,9,332990135,Minnesota,Nebraska,8.5,0.279
+2013,9,332970344,Mississippi State,Kentucky,-11,0.776
+2013,9,332990142,Missouri,South Carolina,-2.5,0.568
+2013,9,332992426,Navy,Pittsburgh,6.5,0.327
+2013,9,332992440,Nevada,UNLV,-3.5,0.595
+2013,9,332990166,New Mexico State,Abilene Christian,1.5,0.459
+2013,9,332990153,North Carolina,Boston College,-10,0.755
+2013,9,332992459,Northern Illinois,Eastern Michigan,-30.5,0.982
+2013,9,332990195,Ohio,Miami (OH),-24,0.951
+2013,9,332990194,Ohio State,Penn State,-14,0.833
+2013,9,332990201,Oklahoma,Texas Tech,-7,0.685
+2013,9,332990145,Ole Miss,Idaho,-40.5,0.997
+2013,9,332992483,Oregon,UCLA,-20,0.916
+2013,9,332990204,Oregon State,Stanford,6,0.34
+2013,9,332990242,Rice,UTEP,-18,0.893
+2013,9,332990164,Rutgers,Houston,-9.5,0.744
+2013,9,332990021,San Diego State,Fresno State,9.5,0.256
+2013,9,332990023,San José State,Wyoming,-5.5,0.648
+2013,9,332992567,SMU,Temple,-10.5,0.766
+2013,9,332992572,Southern Mississippi,North Texas,9.5,0.256
+2013,9,332990058,South Florida,Louisville,21,0.074
+2013,9,332992628,TCU,Texas,-3.5,0.595
+2013,9,332990245,Texas A&M,Vanderbilt,-18,0.893
+2013,9,332990326,Texas State,South Alabama,1,0.473
+2013,9,332992655,Tulane,Tulsa,3.5,0.405
+2013,9,332992116,UCF,Connecticut,-23,0.944
+2013,9,332990113,UMass,Western Michigan,-2,0.555
+2013,9,332990030,USC,Utah,-6.5,0.673
+2013,9,332992636,UT San Antonio,UAB,-3.5,0.595
+2013,9,332990258,Virginia,Georgia Tech,8.5,0.279
+2013,9,332990259,Virginia Tech,Duke,-13.5,0.824
+2013,9,332990264,Washington,California,-23,0.944
+2013,9,332990098,Western Kentucky,Troy,-7.5,0.698
+2013,10,333062005,Air Force,Army,-1.5,0.541
+2013,10,333062006,Akron,Kent State,2.5,0.432
+2013,10,333060008,Arkansas,Auburn,8,0.291
+2013,10,333060103,Boston College,Virginia Tech,6,0.34
+2013,10,333060025,California,Arizona,14.5,0.159
+2013,10,333060036,Colorado State,Boise State,10,0.245
+2013,10,333060057,Florida,Georgia,2.5,0.432
+2013,10,333062226,Florida Atlantic,Tulane,-3,0.582
+2013,10,333062229,Florida International,East Carolina,20,0.084
+2013,10,333060052,Florida State,Miami,-21,0.926
+2013,10,333060278,Fresno State,Nevada,-23,0.944
+2013,10,333062247,Georgia State,Western Kentucky,19,0.095
+2013,10,333060059,Georgia Tech,Pittsburgh,-8,0.709
+2013,10,333040248,Houston,South Florida,-10.5,0.766
+2013,10,333060070,Idaho,Texas State,13,0.185
+2013,10,333060084,Indiana,Minnesota,-7,0.685
+2013,10,333062294,Iowa,Wisconsin,7,0.315
+2013,10,333062306,Kansas State,Iowa State,-14.5,0.841
+2013,10,333060096,Kentucky,Alabama State,-27.5,0.971
+2013,10,333060309,Louisiana,New Mexico State,-27,0.969
+2013,10,333060276,Marshall,Southern Mississippi,-28.5,0.975
+2013,10,333030235,Memphis,Cincinnati,3,0.418
+2013,10,333060127,Michigan State,Michigan,-3.5,0.595
+2013,10,333060142,Missouri,Tennessee,-13,0.815
+2013,10,333060152,NC State,North Carolina,3,0.418
+2013,10,333060158,Nebraska,Northwestern,-7,0.685
+2013,10,333040249,North Texas,Rice,-2.5,0.568
+2013,10,333060087,Notre Dame,Navy,-17,0.879
+2013,10,333050204,Oregon State,USC,-2,0.555
+2013,10,333060213,Penn State,Illinois,-10,0.755
+2013,10,333062509,Purdue,Ohio State,31,0.016
+2013,10,333060164,Rutgers,Temple,-14,0.833
+2013,10,333060021,San Diego State,New Mexico,-17,0.879
+2013,10,333060006,South Alabama,Arkansas State,-2.5,0.568
+2013,10,333062579,South Carolina,Mississippi State,-11.5,0.786
+2013,10,333060183,Syracuse,Wake Forest,-3.5,0.595
+2013,10,333062628,TCU,West Virginia,-14,0.833
+2013,10,333060251,Texas,Kansas,-27,0.969
+2013,10,333060245,Texas A&M,UTEP,-45.5,0.999
+2013,10,333062641,Texas Tech,Oklahoma State,2.5,0.432
+2013,10,333062649,Toledo,Eastern Michigan,-28,0.973
+2013,10,333042653,Troy,Louisiana Monroe,-3,0.582
+2013,10,333060202,Tulsa,UT San Antonio,-3.5,0.595
+2013,10,333060005,UAB,Middle Tennessee,6,0.34
+2013,10,333060026,UCLA,Colorado,-24,0.951
+2013,10,333060113,UMass,Northern Illinois,24,0.049
+2013,10,333062439,UNLV,San José State,2.5,0.432
+2013,10,333060328,Utah State,Hawai'i,-21,0.926
+2013,10,333060258,Virginia,Clemson,20,0.084
+2013,10,333040265,Washington State,Arizona State,13.5,0.176
+2013,11,333130333,Alabama,LSU,-9.5,0.744
+2013,11,333130012,Arizona,UCLA,2.5,0.432
+2013,11,333130349,Army,Western Kentucky,6,0.34
+2013,11,333102050,Ball State,Central Michigan,-21.5,0.931
+2013,11,333110239,Baylor,Oklahoma,-7,0.685
+2013,11,333092084,Buffalo,Ohio,-2.5,0.568
+2013,11,333130025,California,USC,17,0.121
+2013,11,333132132,Cincinnati,SMU,-10.5,0.766
+2013,11,333130036,Colorado State,Nevada,-8,0.709
+2013,11,333120041,Connecticut,Louisville,26.5,0.034
+2013,11,333130150,Duke,NC State,-9,0.733
+2013,11,333130151,East Carolina,Tulsa,-14,0.833
+2013,11,333132199,Eastern Michigan,Western Michigan,3,0.418
+2013,11,333130057,Florida,Vanderbilt,-10,0.755
+2013,11,333130061,Georgia,Appalachian State,-31.5,0.985
+2013,11,333130070,Idaho,Old Dominion,13,0.185
+2013,11,333130084,Indiana,Illinois,-7.5,0.698
+2013,11,333130066,Iowa State,TCU,8,0.291
+2013,11,333130096,Kentucky,Missouri,14,0.167
+2013,11,333110309,Louisiana,Troy,-13,0.815
+2013,11,333132433,Louisiana Monroe,Arkansas State,-3.5,0.595
+2013,11,333132348,Louisiana Tech,Southern Mississippi,-14,0.833
+2013,11,333130276,Marshall,UAB,-23,0.944
+2013,11,333130120,Maryland,Syracuse,-3.5,0.595
+2013,11,333130235,Memphis,UT Martin,-14.5,0.841
+2013,11,333132390,Miami,Virginia Tech,-6.5,0.673
+2013,11,333090193,Miami (OH),Bowling Green,24.5,0.046
+2013,11,333130130,Michigan,Nebraska,-6.5,0.673
+2013,11,333132393,Middle Tennessee,Florida International,-17,0.879
+2013,11,333132426,Navy,Hawai'i,-18,0.893
+2013,11,333120167,New Mexico,Air Force,-1.5,0.541
+2013,11,333130166,New Mexico State,Boston College,24,0.049
+2013,11,333130153,North Carolina,Virginia,-14,0.833
+2013,11,333130249,North Texas,UTEP,-21,0.926
+2013,11,333130197,Oklahoma State,Kansas,-32,0.986
+2013,11,333130145,Ole Miss,Arkansas,-17,0.879
+2013,11,333130221,Pittsburgh,Notre Dame,3.5,0.405
+2013,11,333132509,Purdue,Iowa,14,0.167
+2013,11,333130023,San José State,San Diego State,-6.5,0.673
+2013,11,333110024,Stanford,Oregon,9.5,0.256
+2013,11,333132633,Tennessee,Auburn,7.5,0.302
+2013,11,333130245,Texas A&M,Mississippi State,-19,0.905
+2013,11,333132641,Texas Tech,Kansas State,-4,0.609
+2013,11,333132116,UCF,Houston,-10,0.755
+2013,11,333132439,UNLV,Utah State,13,0.185
+2013,11,333130254,Utah,Arizona State,7,0.315
+2013,11,333132636,UT San Antonio,Tulane,-7.5,0.698
+2013,11,333130154,Wake Forest,Florida State,34.5,0.009
+2013,11,333130264,Washington,Colorado,-27,0.969
+2013,11,333130277,West Virginia,Texas,7.5,0.302
+2013,11,333130275,Wisconsin,BYU,-9,0.733
+2013,11,333132751,Wyoming,Fresno State,10.5,0.234
+2013,12,333200012,Arizona,Washington State,-13.5,0.824
+2013,12,333200009,Arizona State,Oregon State,-13.5,0.824
+2013,12,333202032,Arkansas State,Texas State,-6.5,0.673
+2013,12,333200002,Auburn,Georgia,-3,0.582
+2013,12,333200239,Baylor,Texas Tech,-27,0.969
+2013,12,333200068,Boise State,Wyoming,-20,0.916
+2013,12,333200103,Boston College,NC State,-7.5,0.698
+2013,12,333160189,Bowling Green,Ohio,-9,0.733
+2013,12,333200252,BYU,Idaho State,-46,0.999
+2013,12,333180228,Clemson,Georgia Tech,-10,0.755
+2013,12,333200038,Colorado,California,-1,0.527
+2013,12,333200150,Duke,Miami,3,0.418
+2013,12,333200151,East Carolina,UAB,-25,0.958
+2013,12,333200052,Florida State,Syracuse,-38.5,0.996
+2013,12,333202247,Georgia State,Louisiana,21,0.074
+2013,12,333200062,Hawai'i,San Diego State,5,0.365
+2013,12,333200356,Illinois,Ohio State,32,0.014
+2013,12,333202305,Kansas,West Virginia,7.5,0.302
+2013,12,333202306,Kansas State,TCU,-10.5,0.766
+2013,12,333172309,Kent State,Miami (OH),-16.5,0.872
+2013,12,333200097,Louisville,Houston,-16.5,0.872
+2013,12,333200344,Mississippi State,Alabama,24.5,0.046
+2013,12,333202426,Navy,South Alabama,-9.5,0.744
+2013,12,333200158,Nebraska,Michigan State,3.5,0.405
+2013,12,333202440,Nevada,San José State,7,0.315
+2013,12,333200167,New Mexico,Colorado State,4,0.391
+2013,12,333172459,Northern Illinois,Ball State,-6.5,0.673
+2013,12,333200077,Northwestern,Michigan,-1.5,0.541
+2013,12,333200201,Oklahoma,Iowa State,-21,0.926
+2013,12,333200145,Ole Miss,Troy,-28,0.973
+2013,12,333202483,Oregon,Utah,-25,0.958
+2013,12,333200213,Penn State,Purdue,-20.5,0.921
+2013,12,333200242,Rice,Louisiana Tech,-15,0.85
+2013,12,333200164,Rutgers,Cincinnati,2.5,0.432
+2013,12,333202567,SMU,Connecticut,-13.5,0.824
+2013,12,333202579,South Carolina,Florida,-11,0.776
+2013,12,333202572,Southern Mississippi,Florida Atlantic,14.5,0.159
+2013,12,333200058,South Florida,Memphis,2.5,0.432
+2013,12,333200218,Temple,UCF,17,0.121
+2013,12,333200251,Texas,Oklahoma State,2,0.445
+2013,12,333162649,Toledo,Buffalo,-3.5,0.595
+2013,12,333180202,Tulsa,Marshall,14.5,0.159
+2013,12,333190026,UCLA,Washington,-6.5,0.673
+2013,12,333200113,UMass,Akron,7,0.315
+2013,12,333200030,USC,Stanford,3,0.418
+2013,12,333202638,UTEP,Florida International,-6,0.66
+2013,12,333200238,Vanderbilt,Kentucky,-13.5,0.824
+2013,12,333200259,Virginia Tech,Maryland,-15,0.85
+2013,12,333202711,Western Michigan,Central Michigan,2.5,0.432
+2013,12,333200275,Wisconsin,Indiana,-18.5,0.899
+2013,13,333270333,Alabama,Chattanooga,-48.5,1
+2013,13,333270012,Arizona,Oregon,17.5,0.114
+2013,13,333270008,Arkansas,Mississippi State,3,0.418
+2013,13,333272032,Arkansas State,Georgia State,-23,0.944
+2013,13,333272117,Central Michigan,UMass,-8.5,0.721
+2013,13,333270228,Clemson,The Citadel,-40.5,0.997
+2013,13,333270038,Colorado,USC,21.5,0.069
+2013,13,333272199,Eastern Michigan,Bowling Green,24,0.049
+2013,13,333270057,Florida,Georgia Southern,-27.5,0.971
+2013,13,333272226,Florida Atlantic,New Mexico State,-21,0.926
+2013,13,333272229,Florida International,Marshall,33,0.011
+2013,13,333270052,Florida State,Idaho,-56,1
+2013,13,333270278,Fresno State,New Mexico,-31,0.984
+2013,13,333270061,Georgia,Kentucky,-26,0.964
+2013,13,333270059,Georgia Tech,Alabama A&M,-51.5,1
+2013,13,333270248,Houston,Cincinnati,-2.5,0.568
+2013,13,333272294,Iowa,Michigan,-3.5,0.595
+2013,13,333270066,Iowa State,Kansas,-5,0.635
+2013,13,333272306,Kansas State,Oklahoma,-3,0.582
+2013,13,333272348,Louisiana Tech,Tulsa,3.5,0.405
+2013,13,333270097,Louisville,Memphis,-22.5,0.94
+2013,13,333270099,LSU,Texas A&M,-4,0.609
+2013,13,333272390,Miami,Virginia,-19.5,0.911
+2013,13,333230193,Miami (OH),Buffalo,24,0.049
+2013,13,333270135,Minnesota,Wisconsin,14.5,0.159
+2013,13,333270152,NC State,East Carolina,6,0.34
+2013,13,333270153,North Carolina,Old Dominion,-17,0.879
+2013,13,333270249,North Texas,UT San Antonio,-7,0.685
+2013,13,333270077,Northwestern,Michigan State,7,0.315
+2013,13,333270087,Notre Dame,BYU,-1,0.527
+2013,13,333230195,Ohio,Kent State,-5.5,0.648
+2013,13,333270194,Ohio State,Indiana,-31.5,0.985
+2013,13,333270197,Oklahoma State,Baylor,13,0.185
+2013,13,333270145,Ole Miss,Missouri,2,0.445
+2013,13,333270204,Oregon State,Washington,1.5,0.459
+2013,13,333270213,Penn State,Nebraska,-2.5,0.568
+2013,13,333272509,Purdue,Illinois,6.5,0.327
+2013,13,333270021,San Diego State,Boise State,6,0.34
+2013,13,333260023,San José State,Navy,-3,0.582
+2013,13,333270006,South Alabama,Louisiana Monroe,-3,0.582
+2013,13,333272579,South Carolina,Coastal Carolina,-34,0.99
+2013,13,333272572,Southern Mississippi,Middle Tennessee,20.5,0.079
+2013,13,333270058,South Florida,SMU,5.5,0.352
+2013,13,333270024,Stanford,California,-28.5,0.975
+2013,13,333270183,Syracuse,Pittsburgh,1.5,0.459
+2013,13,333270218,Temple,Connecticut,-9,0.733
+2013,13,333272633,Tennessee,Vanderbilt,-2.5,0.568
+2013,13,333270326,Texas State,Western Kentucky,3.5,0.405
+2013,13,333242649,Toledo,Northern Illinois,3,0.418
+2013,13,333272655,Tulane,UTEP,-15.5,0.857
+2013,13,333250005,UAB,Rice,14,0.167
+2013,13,333252116,UCF,Rutgers,-14.5,0.841
+2013,13,333270026,UCLA,Arizona State,2,0.445
+2013,13,333270328,Utah State,Colorado State,-6,0.66
+2013,13,333270154,Wake Forest,Duke,5.5,0.352
+2013,13,333270265,Washington State,Utah,-1,0.527
+2013,13,333272751,Wyoming,Hawai'i,-6.5,0.673
+2013,14,333332006,Akron,Toledo,8.5,0.279
+2013,14,333340009,Arizona State,Arizona,-13.5,0.824
+2013,14,333340002,Auburn,Alabama,9.5,0.256
+2013,14,333332050,Ball State,Miami (OH),-34,0.99
+2013,14,333340068,Boise State,New Mexico,-35,0.992
+2013,14,333332117,Central Michigan,Eastern Michigan,-19,0.905
+2013,14,333340036,Colorado State,Air Force,-14,0.833
+2013,14,333340041,Connecticut,Rutgers,4,0.391
+2013,14,333340057,Florida,Florida State,26,0.036
+2013,14,333332226,Florida Atlantic,Florida International,-28.5,0.975
+2013,14,333342247,Georgia State,South Alabama,9,0.267
+2013,14,333340059,Georgia Tech,Georgia,3,0.418
+2013,14,333340062,Hawai'i,Army,-4.5,0.622
+2013,14,333330248,Houston,SMU,-10,0.755
+2013,14,333340356,Illinois,Northwestern,4,0.391
+2013,14,333340084,Indiana,Purdue,-20.5,0.921
+2013,14,333342305,Kansas,Kansas State,16.5,0.128
+2013,14,333340096,Kentucky,Tennessee,4,0.391
+2013,14,333340309,Louisiana,Louisiana Monroe,-13,0.815
+2013,14,333330099,LSU,Arkansas,-24.5,0.954
+2013,14,333330276,Marshall,East Carolina,-3,0.582
+2013,14,333340235,Memphis,Temple,-7.5,0.698
+2013,14,333340130,Michigan,Ohio State,13,0.185
+2013,14,333340127,Michigan State,Minnesota,-14,0.833
+2013,14,333342393,Middle Tennessee,UTEP,-21,0.926
+2013,14,333320344,Mississippi State,Ole Miss,3,0.418
+2013,14,333340142,Missouri,Texas A&M,-3,0.582
+2013,14,333340152,NC State,Maryland,3,0.418
+2013,14,333330158,Nebraska,Iowa,-3,0.582
+2013,14,333342440,Nevada,BYU,14.5,0.159
+2013,14,333340166,New Mexico State,Idaho,-4.5,0.622
+2013,14,333340153,North Carolina,Duke,-5.5,0.648
+2013,14,333302459,Northern Illinois,Western Michigan,-33.5,0.99
+2013,14,333330195,Ohio,UMass,-14,0.833
+2013,14,333332483,Oregon,Oregon State,-21,0.926
+2013,14,333330221,Pittsburgh,Miami,3,0.418
+2013,14,333340242,Rice,Tulane,-13,0.815
+2013,14,333330023,San José State,Fresno State,10,0.245
+2013,14,333342579,South Carolina,Clemson,-6,0.66
+2013,14,333340024,Stanford,Notre Dame,-14,0.833
+2013,14,333340183,Syracuse,Boston College,2.5,0.432
+2013,14,333342628,TCU,Baylor,14,0.167
+2013,14,333320251,Texas,Texas Tech,-6,0.66
+2013,14,333332653,Troy,Texas State,-4.5,0.622
+2013,14,333340202,Tulsa,North Texas,3,0.418
+2013,14,333340005,UAB,Southern Mississippi,-13.5,0.824
+2013,14,333332116,UCF,South Florida,-26,0.964
+2013,14,333342439,UNLV,San Diego State,3,0.418
+2013,14,333340030,USC,UCLA,-3.5,0.595
+2013,14,333340254,Utah,Colorado,-14,0.833
+2013,14,333340328,Utah State,Wyoming,-20,0.916
+2013,14,333342636,UT San Antonio,Louisiana Tech,-14,0.833
+2013,14,333340238,Vanderbilt,Wake Forest,-14,0.833
+2013,14,333340258,Virginia,Virginia Tech,13,0.185
+2013,14,333330264,Washington,Washington State,-14.5,0.841
+2013,14,333340098,Western Kentucky,Arkansas State,-4,0.609
+2013,14,333340277,West Virginia,Iowa State,-7.5,0.698
+2013,14,333340275,Wisconsin,Penn State,-23.5,0.947
+2013,15,333410009,Arizona State,Stanford,-3,0.582
+2013,15,333410002,Auburn,Missouri,2,0.445
+2013,15,333410239,Baylor,Texas,-13,0.815
+2013,15,333392132,Cincinnati,Louisville,6.5,0.327
+2013,15,333410041,Connecticut,Memphis,1.5,0.459
+2013,15,333410052,Florida State,Duke,-27.5,0.971
+2013,15,333410278,Fresno State,Utah State,-6,0.66
+2013,15,333410127,Michigan State,Ohio State,6.5,0.327
+2013,15,333402459,Northern Illinois,Bowling Green,-3,0.582
+2013,15,333410197,Oklahoma State,Oklahoma,-10.5,0.766
+2013,15,333410242,Rice,Marshall,11,0.224
+2013,15,333410164,Rutgers,South Florida,-7,0.685
+2013,15,333412567,SMU,UCF,10,0.245
+2013,15,333410006,South Alabama,Louisiana,-1.5,0.541
+2013,16,333482426,Navy,Army,-10,0.755

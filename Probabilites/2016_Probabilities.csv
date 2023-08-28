@@ -1,0 +1,803 @@
+﻿season,week,gameId,homeTeam,awayTeam,spread,homeWinProb
+2016,1,400869175,Air Force,Abilene Christian,-44,0.999
+2016,1,400869266,Akron,VMI,-28,0.973
+2016,1,400868969,Alabama,USC,-9,0.733
+2016,1,400868922,Arizona,BYU,-2.5,0.568
+2016,1,400869095,Arizona State,Northern Arizona,-26,0.964
+2016,1,400868970,Arkansas,Louisiana Tech,-20.5,0.921
+2016,1,400869265,Arkansas State,Toledo,-2.5,0.568
+2016,1,400868971,Auburn,Clemson,7.5,0.302
+2016,1,400868876,Baylor,Northwestern State,-48.5,1
+2016,1,400869424,Boston College,Georgia Tech,3,0.418
+2016,1,400869259,Buffalo,Albany,-23,0.944
+2016,1,400869090,California,Hawai'i,-23,0.944
+2016,1,400869257,Central Michigan,Presbyterian College,-33,0.989
+2016,1,400869502,Cincinnati,UT Martin,-24,0.951
+2016,1,400869093,Colorado,Colorado State,-10,0.755
+2016,1,400869503,Connecticut,Maine,-27,0.969
+2016,1,400869425,Duke,North Carolina Central,-37,0.995
+2016,1,400869505,East Carolina,Western Carolina,-17,0.879
+2016,1,400869263,Eastern Michigan,Mississippi Valley State,-46,0.999
+2016,1,400868957,Florida,UMass,-37,0.995
+2016,1,400869343,Florida Atlantic,Southern Illinois,-8,0.709
+2016,1,400869342,Florida International,Indiana,3,0.418
+2016,1,400868979,Florida State,Ole Miss,-5,0.635
+2016,1,400869808,Georgia Southern,Savannah State,-53,1
+2016,1,400869258,Georgia State,Ball State,5.5,0.352
+2016,1,400869507,Houston,Oklahoma,10,0.245
+2016,1,400869725,Idaho,Montana State,-7,0.685
+2016,1,400869652,Illinois,Murray State,-31,0.984
+2016,1,400869262,Iowa,Miami (OH),-32,0.986
+2016,1,400868887,Iowa State,Northern Iowa,-11,0.776
+2016,1,400869597,Kansas,Rhode Island,-35,0.992
+2016,1,400868973,Kentucky,Southern Mississippi,-7.5,0.698
+2016,1,400869176,Louisiana,Boise State,18,0.107
+2016,1,400869809,Louisiana Monroe,Southern,-16,0.865
+2016,1,400869341,Louisville,Charlotte,-39.5,0.997
+2016,1,400869653,Maryland,Howard,-51,1
+2016,1,400869508,Memphis,Southeast Missouri State,-24,0.951
+2016,1,400869718,Miami,Florida A&M,-59,1
+2016,1,400869180,Michigan,Hawai'i,-40.5,0.997
+2016,1,400869651,Michigan State,Furman,-45,0.999
+2016,1,400869344,Middle Tennessee,Alabama A&M,-47,0.999
+2016,1,400869092,Minnesota,Oregon State,-7.5,0.698
+2016,1,400868975,Mississippi State,South Alabama,-34,0.99
+2016,1,400869509,Navy,Fordham,-24,0.951
+2016,1,400869422,NC State,William & Mary,-30.5,0.982
+2016,1,400869179,Nebraska,Fresno State,-29.5,0.979
+2016,1,400869181,Nevada,Cal Poly,-19,0.905
+2016,1,400869177,New Mexico,South Dakota,-11,0.776
+2016,1,400868972,North Carolina,Georgia,3.5,0.405
+2016,1,400869345,North Texas,SMU,12,0.204
+2016,1,400869267,Northwestern,Western Michigan,-6.5,0.673
+2016,1,400869264,Ohio,Texas State,-19,0.905
+2016,1,400869260,Ohio State,Bowling Green,-27,0.969
+2016,1,400869619,Oklahoma State,Southeastern Louisiana,-48.5,1
+2016,1,400869346,Old Dominion,Hampton,-28,0.973
+2016,1,400869096,Oregon,UC Davis,-47,0.999
+2016,1,400869261,Penn State,Kent State,-19,0.905
+2016,1,400869426,Pittsburgh,Villanova,-27,0.969
+2016,1,400869578,Purdue,Eastern Kentucky,-15,0.85
+2016,1,400869182,San Diego State,New Hampshire,-34,0.99
+2016,1,400869506,South Florida,Towson,-17,0.879
+2016,1,400869094,Stanford,Kansas State,-16.5,0.872
+2016,1,400869423,Syracuse,Colgate,-25.5,0.961
+2016,1,400869624,TCU,South Dakota State,-39.5,0.997
+2016,1,400868910,Temple,Army,-21.5,0.931
+2016,1,400868977,Tennessee,Appalachian State,-23,0.944
+2016,1,400868946,Texas,Notre Dame,2.5,0.432
+2016,1,400868978,Texas A&M,UCLA,-1,0.527
+2016,1,400869625,Texas Tech,Stephen F. Austin,-42,0.998
+2016,1,400869810,Troy,Austin Peay,-37,0.995
+2016,1,400869183,Tulsa,San José State,-6,0.66
+2016,1,400869504,UCF,South Carolina State,-27,0.969
+2016,1,400869174,UNLV,Jackson State,-40,0.997
+2016,1,400869091,Utah,Southern Utah,-34,0.99
+2016,1,400869173,Utah State,Weber State,-21,0.926
+2016,1,400869348,UTEP,New Mexico State,-3.5,0.595
+2016,1,400869349,UT San Antonio,Alabama State,-28.5,0.975
+2016,1,400868968,Vanderbilt,South Carolina,4,0.391
+2016,1,400869427,Virginia,Richmond,-14,0.833
+2016,1,400869428,Virginia Tech,Liberty,-35,0.992
+2016,1,400869421,Wake Forest,Tulane,-16,0.865
+2016,1,400869097,Washington,Rutgers,-22.5,0.94
+2016,1,400869098,Washington State,Eastern Washington,-27.5,0.971
+2016,1,400869347,Western Kentucky,Rice,-14.5,0.841
+2016,1,400868976,West Virginia,Missouri,-11.5,0.786
+2016,1,400868974,Wisconsin,LSU,9.5,0.256
+2016,1,400869178,Wyoming,Northern Illinois,10.5,0.234
+2016,2,400868980,Alabama,Western Kentucky,-24,0.951
+2016,2,400869099,Arizona,Grambling,-45.5,0.999
+2016,2,400869100,Arizona State,Texas Tech,-5,0.635
+2016,2,400868911,Army,Rice,-7,0.685
+2016,2,400868982,Auburn,Arkansas State,-13,0.815
+2016,2,400868877,Baylor,SMU,-28.5,0.975
+2016,2,400869106,Boise State,Washington State,-12,0.796
+2016,2,400869276,Bowling Green,North Dakota,-20,0.916
+2016,2,400869350,Charlotte,Elon,-9,0.733
+2016,2,400869430,Clemson,Troy,-34,0.99
+2016,2,400869103,Colorado,Idaho State,-41.5,0.998
+2016,2,400869185,Colorado State,UT San Antonio,-10,0.755
+2016,2,400869431,Duke,Wake Forest,-8.5,0.721
+2016,2,400869435,East Carolina,NC State,3.5,0.405
+2016,2,400868983,Florida,Kentucky,-16.5,0.872
+2016,2,400869351,Florida International,Maryland,7,0.315
+2016,2,400869432,Florida State,Charleston Southern,-59.5,1
+2016,2,400868984,Georgia,Nicholls,-49.5,1
+2016,2,400869514,Houston,Lamar,-48,1
+2016,2,400869434,Illinois,North Carolina,7,0.315
+2016,2,400869269,Indiana,Ball State,-17.5,0.886
+2016,2,400868888,Iowa,Iowa State,-18,0.893
+2016,2,400869277,Kansas,Ohio,9,0.267
+2016,2,400869274,Kent State,North Carolina A&T,-13.5,0.824
+2016,2,400869812,Louisiana,McNeese,-4.5,0.622
+2016,2,400869352,Louisiana Tech,South Carolina State,-33,0.989
+2016,2,400868985,LSU,Jacksonville State,-30,0.981
+2016,2,400869353,Marshall,Morgan State,-41.5,0.998
+2016,2,400869719,Miami,Florida Atlantic,-23,0.944
+2016,2,400869271,Miami (OH),Eastern Illinois,-10,0.755
+2016,2,400869510,Michigan,UCF,-34.5,0.991
+2016,2,400869654,Minnesota,Indiana State,-44.5,0.999
+2016,2,400868987,Mississippi State,South Carolina,-9.5,0.744
+2016,2,400868988,Missouri,Eastern Michigan,-24.5,0.954
+2016,2,400869512,Navy,Connecticut,-7.5,0.698
+2016,2,400869187,Nebraska,Wyoming,-24,0.951
+2016,2,400869186,New Mexico State,New Mexico,11.5,0.214
+2016,2,400869354,North Texas,Bethune-Cookman,-13,0.815
+2016,2,400869655,Northwestern,Illinois State,-12.5,0.806
+2016,2,400868947,Notre Dame,Nevada,-26,0.964
+2016,2,400869516,Ohio State,Tulsa,-28.5,0.975
+2016,2,400869612,Oklahoma,Louisiana Monroe,-44,0.999
+2016,2,400869270,Oklahoma State,Central Michigan,-19,0.905
+2016,2,400868986,Ole Miss,Wofford,-44.5,0.999
+2016,2,400869104,Oregon,Virginia,-20.5,0.921
+2016,2,400869436,Pittsburgh,Penn State,-4.5,0.622
+2016,2,400869511,Purdue,Cincinnati,7,0.315
+2016,2,400869633,Rutgers,Howard,-42,0.998
+2016,2,400869107,San Diego State,California,-7,0.685
+2016,2,400869811,South Alabama,Georgia Southern,11.5,0.214
+2016,2,400869356,Southern Mississippi,Savannah State,-57,1
+2016,2,400869273,South Florida,Northern Illinois,-11.5,0.786
+2016,2,400869429,Syracuse,Louisville,13,0.185
+2016,2,400868981,TCU,Arkansas,-6,0.66
+2016,2,400869513,Temple,Stony Brook,-22,0.935
+2016,2,400868989,Tennessee,Virginia Tech,-9,0.733
+2016,2,400869357,Texas,UTEP,-26,0.964
+2016,2,400868990,Texas A&M,Prairie View,-49.5,1
+2016,2,400869272,Toledo,Maine,-30,0.981
+2016,2,400869515,Tulane,Southern,-31,0.984
+2016,2,400869102,UCLA,UNLV,-25.5,0.961
+2016,2,400868958,UMass,Boston College,16.5,0.128
+2016,2,400869101,USC,Utah State,-14,0.833
+2016,2,400868923,Utah,BYU,-4.5,0.622
+2016,2,400868991,Vanderbilt,Middle Tennessee,-5,0.635
+2016,2,400869105,Washington,Idaho,-35,0.992
+2016,2,400869626,West Virginia,Youngstown State,-25.5,0.961
+2016,2,400869268,Wisconsin,Akron,-24,0.951
+2016,3,400869720,Appalachian State,Miami,4,0.391
+2016,3,400868992,Arkansas,Texas State,-32.5,0.987
+2016,3,400868993,Auburn,Texas A&M,-4,0.609
+2016,3,400869279,Ball State,Eastern Kentucky,-13,0.815
+2016,3,400869281,Bowling Green,Middle Tennessee,3.5,0.405
+2016,3,400868924,BYU,UCLA,4,0.391
+2016,3,400869117,California,Texas,6,0.34
+2016,3,400869198,Central Michigan,UNLV,-14,0.833
+2016,3,400869280,Charlotte,Eastern Michigan,1.5,0.459
+2016,3,400869517,Cincinnati,Houston,7.5,0.302
+2016,3,400869438,Clemson,South Carolina State,-54,1
+2016,3,400869191,Colorado State,Northern Colorado,-22,0.935
+2016,3,400869444,Connecticut,Virginia,-6.5,0.673
+2016,3,400868994,Florida,North Texas,-35,0.992
+2016,3,400869813,Georgia Southern,Louisiana Monroe,-27,0.969
+2016,3,400869001,Georgia Tech,Vanderbilt,-7.5,0.698
+2016,3,400869284,Illinois,Western Michigan,1.5,0.459
+2016,3,400869656,Iowa,North Dakota State,-14.5,0.841
+2016,3,400869358,Kansas State,Florida Atlantic,-19,0.905
+2016,3,400869282,Kent State,Monmouth,-13,0.815
+2016,3,400868995,Kentucky,New Mexico State,-21.5,0.931
+2016,3,400869814,Louisiana,South Alabama,-3.5,0.595
+2016,3,400869440,Louisville,Florida State,4.5,0.378
+2016,3,400869278,Marshall,Akron,-15.5,0.857
+2016,3,400869520,Memphis,Kansas,-20,0.916
+2016,3,400869283,Miami (OH),Western Kentucky,15,0.15
+2016,3,400869111,Michigan,Colorado,-20,0.916
+2016,3,400868998,Missouri,Georgia,6,0.34
+2016,3,400869360,NC State,Old Dominion,-20.5,0.921
+2016,3,400869113,Nebraska,Oregon,-3,0.582
+2016,3,400869196,Nevada,Buffalo,-9,0.733
+2016,3,400869441,North Carolina,James Madison,-24.5,0.954
+2016,3,400869197,Northern Illinois,San Diego State,8,0.291
+2016,3,400869439,Northwestern,Duke,-4,0.609
+2016,3,400868948,Notre Dame,Michigan State,-7,0.685
+2016,3,400869613,Oklahoma,Ohio State,2.5,0.432
+2016,3,400869442,Oklahoma State,Pittsburgh,-6,0.66
+2016,3,400868997,Ole Miss,Alabama,9.5,0.256
+2016,3,400869114,Oregon State,Idaho State,-35,0.992
+2016,3,400869519,Penn State,Temple,-7,0.685
+2016,3,400869361,Rice,Baylor,27.5,0.029
+2016,3,400869192,Rutgers,New Mexico,-3.5,0.595
+2016,3,400869112,San José State,Utah,13,0.185
+2016,3,400869522,SMU,Liberty,-13.5,0.824
+2016,3,400868999,South Carolina,East Carolina,-6,0.66
+2016,3,400869362,Southern Mississippi,Troy,-11.5,0.786
+2016,3,400869110,Stanford,USC,-6.5,0.673
+2016,3,400869443,Syracuse,South Florida,13.5,0.176
+2016,3,400868889,TCU,Iowa State,-23.5,0.947
+2016,3,400869000,Tennessee,Ohio,-27.5,0.971
+2016,3,400869359,Texas Tech,Louisiana Tech,-12,0.796
+2016,3,400869195,Toledo,Fresno State,-20,0.916
+2016,3,400869521,Tulane,Navy,10.5,0.234
+2016,3,400869523,Tulsa,North Carolina A&T,-25,0.958
+2016,3,400869518,UCF,Maryland,9,0.267
+2016,3,400869193,Utah State,Arkansas State,-8,0.709
+2016,3,400869109,UT San Antonio,Arizona State,18.5,0.101
+2016,3,400869437,Virginia Tech,Boston College,-7,0.685
+2016,3,400869445,Wake Forest,Delaware,-24,0.951
+2016,3,400869115,Washington,Portland State,-41.5,0.998
+2016,3,400869116,Washington State,Idaho,-27.5,0.971
+2016,3,400869657,Wisconsin,Georgia State,-30,0.981
+2016,3,400869194,Wyoming,UC Davis,-22.5,0.94
+2016,4,400869285,Akron,Appalachian State,7,0.315
+2016,4,400869002,Alabama,Kent State,-41.5,0.998
+2016,4,400869119,Arizona,Washington,10,0.245
+2016,4,400869120,Arizona State,California,-6.5,0.673
+2016,4,400869815,Arkansas State,Central Arkansas,-15.5,0.857
+2016,4,400869003,Auburn,LSU,4,0.391
+2016,4,400868878,Baylor,Oklahoma State,-10,0.755
+2016,4,400869447,Boston College,Wagner,-35,0.992
+2016,4,400868913,Buffalo,Army,16,0.135
+2016,4,400869291,Cincinnati,Miami (OH),-19.5,0.911
+2016,4,400869450,Connecticut,Syracuse,-6,0.66
+2016,4,400869201,Eastern Michigan,Wyoming,2.5,0.432
+2016,4,400869286,Florida Atlantic,Ball State,3,0.418
+2016,4,400869364,Florida International,UCF,5.5,0.352
+2016,4,400869202,Fresno State,Tulsa,11.5,0.214
+2016,4,400869446,Georgia Tech,Clemson,11,0.224
+2016,4,400869452,Indiana,Wake Forest,-5.5,0.648
+2016,4,400869204,Iowa State,San José State,-6,0.66
+2016,4,400869605,Kansas State,Missouri State,-46.5,0.999
+2016,4,400869004,Kentucky,South Carolina,-1.5,0.541
+2016,4,400869366,Marshall,Louisville,23,0.056
+2016,4,400869287,Memphis,Bowling Green,-16.5,0.872
+2016,4,400869658,Michigan,Penn State,-15.5,0.857
+2016,4,400869659,Michigan State,Wisconsin,-6,0.66
+2016,4,400869365,Middle Tennessee,Louisiana Tech,-4,0.609
+2016,4,400869200,Minnesota,Colorado State,-15.5,0.857
+2016,4,400869006,Missouri,Delaware State,-50.5,1
+2016,4,400869449,North Carolina,Pittsburgh,-7,0.685
+2016,4,400869292,Northern Illinois,Western Illinois,-7,0.685
+2016,4,400869660,Northwestern,Nebraska,6.5,0.327
+2016,4,400868949,Notre Dame,Duke,-20,0.916
+2016,4,400869289,Ohio,Gardner-Webb,-27,0.969
+2016,4,400869368,Old Dominion,UT San Antonio,-1.5,0.541
+2016,4,400869005,Ole Miss,Georgia,-6,0.66
+2016,4,400869122,Oregon,Colorado,-11,0.776
+2016,4,400869123,Oregon State,Boise State,14,0.167
+2016,4,400869203,Purdue,Nevada,-5,0.635
+2016,4,400869367,Rice,North Texas,-7.5,0.698
+2016,4,400869634,Rutgers,Iowa,13.5,0.176
+2016,4,400869524,SMU,TCU,24,0.049
+2016,4,400869817,South Alabama,Nicholls,-16.5,0.872
+2016,4,400869448,South Florida,Florida State,5.5,0.352
+2016,4,400869363,Temple,Charlotte,-29.5,0.979
+2016,4,400869007,Tennessee,Florida,-8,0.709
+2016,4,400869008,Texas A&M,Arkansas,-3,0.582
+2016,4,400869525,Texas State,Houston,33,0.011
+2016,4,400869816,Troy,New Mexico State,-17.5,0.886
+2016,4,400869526,Tulane,Louisiana,-3,0.582
+2016,4,400869121,UCLA,Stanford,2.5,0.432
+2016,4,400868960,UMass,Mississippi State,25,0.042
+2016,4,400869205,UNLV,Idaho,-13,0.815
+2016,4,400869118,Utah,USC,-2,0.555
+2016,4,400869199,Utah State,Air Force,3,0.418
+2016,4,400869369,UTEP,Southern Mississippi,10,0.245
+2016,4,400869288,Virginia,Central Michigan,2,0.445
+2016,4,400869451,Virginia Tech,East Carolina,-9.5,0.744
+2016,4,400869009,Western Kentucky,Vanderbilt,-7.5,0.698
+2016,4,400869290,Western Michigan,Georgia Southern,-4,0.609
+2016,4,400868925,West Virginia,BYU,-3.5,0.595
+2016,5,400869206,Air Force,Navy,-10.5,0.766
+2016,5,400869010,Alabama,Kentucky,-32.5,0.987
+2016,5,400869818,Appalachian State,Georgia State,-21,0.926
+2016,5,400869011,Arkansas,Alcorn State,-53,1
+2016,5,400869012,Auburn,Louisiana Monroe,-34,0.99
+2016,5,400869297,Ball State,Northern Illinois,-1,0.527
+2016,5,400869207,Boise State,Utah State,-19.5,0.911
+2016,5,400869294,Boston College,Buffalo,-20,0.916
+2016,5,400869295,Bowling Green,Eastern Michigan,-6.5,0.673
+2016,5,400868926,BYU,Toledo,-4.5,0.622
+2016,5,400869128,California,Utah,-2,0.555
+2016,5,400869298,Central Michigan,Western Michigan,4,0.391
+2016,5,400869370,Charlotte,Old Dominion,7.5,0.302
+2016,5,400869529,Cincinnati,South Florida,6,0.34
+2016,5,400869453,Clemson,Louisville,-3.5,0.595
+2016,5,400869127,Colorado,Oregon State,-16,0.865
+2016,5,400869208,Colorado State,Wyoming,-5.5,0.648
+2016,5,400869454,Duke,Virginia,-5,0.635
+2016,5,400869528,East Carolina,UCF,-5.5,0.648
+2016,5,400869371,Florida International,Florida Atlantic,5,0.365
+2016,5,400869455,Florida State,North Carolina,-12,0.796
+2016,5,400869013,Georgia,Tennessee,2.5,0.432
+2016,5,400869721,Georgia Tech,Miami,5,0.365
+2016,5,400869527,Houston,Connecticut,-24.5,0.954
+2016,5,400869819,Idaho,Troy,13.5,0.176
+2016,5,400869661,Indiana,Michigan State,8,0.291
+2016,5,400869662,Iowa,Northwestern,-12,0.796
+2016,5,400868879,Iowa State,Baylor,17,0.121
+2016,5,400869293,Kent State,Akron,5,0.365
+2016,5,400869372,Louisiana Tech,UTEP,-21,0.926
+2016,5,400869014,LSU,Missouri,-14,0.833
+2016,5,400869663,Maryland,Purdue,-9,0.733
+2016,5,400869296,Miami (OH),Ohio,3.5,0.405
+2016,5,400869664,Michigan,Wisconsin,-10,0.755
+2016,5,400869456,NC State,Wake Forest,-9,0.733
+2016,5,400869665,Nebraska,Illinois,-21.5,0.931
+2016,5,400869209,New Mexico,San José State,-4.5,0.622
+2016,5,400869820,New Mexico State,Louisiana,8,0.291
+2016,5,400869374,North Texas,Middle Tennessee,16,0.135
+2016,5,400869635,Ohio State,Rutgers,-37,0.995
+2016,5,400869620,Oklahoma State,Texas,-3,0.582
+2016,5,400869666,Penn State,Minnesota,-4,0.609
+2016,5,400869373,Pittsburgh,Marshall,-14,0.833
+2016,5,400869212,South Alabama,San Diego State,17.5,0.114
+2016,5,400869016,South Carolina,Texas A&M,14,0.167
+2016,5,400869375,Southern Mississippi,Rice,-21,0.926
+2016,5,400868950,Syracuse,Notre Dame,12,0.204
+2016,5,400869530,Temple,SMU,-13.5,0.824
+2016,5,400869821,Texas State,Incarnate Word,-17,0.879
+2016,5,400869598,Texas Tech,Kansas,-27,0.969
+2016,5,400869125,UCLA,Arizona,3,0.418
+2016,5,400868961,UMass,Tulane,2.5,0.432
+2016,5,400869210,UNLV,Fresno State,-11.5,0.786
+2016,5,400869126,USC,Arizona State,-8,0.709
+2016,5,400869017,Vanderbilt,Florida,8.5,0.279
+2016,5,400869124,Washington,Stanford,-3.5,0.595
+2016,5,400869129,Washington State,Oregon,1,0.473
+2016,5,400869606,West Virginia,Kansas State,-5.5,0.648
+2016,6,400869302,Akron,Miami (OH),-7.5,0.698
+2016,6,400869131,Arizona State,UCLA,4.5,0.378
+2016,6,400869018,Arkansas,Alabama,13,0.185
+2016,6,400869822,Arkansas State,Georgia Southern,5.5,0.352
+2016,6,400869457,Boston College,Clemson,17,0.121
+2016,6,400869301,Buffalo,Kent State,-2,0.555
+2016,6,400869299,Central Michigan,Ball State,-13.5,0.824
+2016,6,400869215,Colorado State,Utah State,6,0.34
+2016,6,400869534,Connecticut,Cincinnati,2.5,0.432
+2016,6,400868914,Duke,Army,-6,0.66
+2016,6,400869304,Eastern Michigan,Toledo,17.5,0.114
+2016,6,400869377,Florida Atlantic,Charlotte,-15,0.85
+2016,6,400869823,Georgia State,Texas State,-8.5,0.721
+2016,6,400869667,Illinois,Purdue,-9,0.733
+2016,6,400869599,Kansas,TCU,29.5,0.021
+2016,6,400869607,Kansas State,Texas Tech,-9,0.733
+2016,6,400869020,Kentucky,Vanderbilt,-2,0.555
+2016,6,400869824,Louisiana Monroe,Idaho,-3,0.582
+2016,6,400869379,Louisiana Tech,Western Kentucky,-1,0.527
+2016,6,400869531,Memphis,Temple,-6.5,0.673
+2016,6,400869722,Miami,Florida State,-1.5,0.541
+2016,6,400868927,Michigan State,BYU,-5,0.635
+2016,6,400869668,Minnesota,Iowa,1.5,0.459
+2016,6,400869021,Mississippi State,Auburn,-1.5,0.541
+2016,6,400869536,Navy,Houston,17,0.121
+2016,6,400868951,NC State,Notre Dame,2.5,0.432
+2016,6,400869216,Nevada,Fresno State,-11.5,0.786
+2016,6,400869214,New Mexico,Boise State,16.5,0.128
+2016,6,400869459,North Carolina,Virginia Tech,-5.5,0.648
+2016,6,400869380,North Texas,Marshall,11,0.224
+2016,6,400869300,Ohio,Bowling Green,-15.5,0.857
+2016,6,400869643,Ohio State,Indiana,-32,0.986
+2016,6,400869615,Oklahoma,Texas,-6.5,0.673
+2016,6,400869590,Oklahoma State,Iowa State,-16.5,0.872
+2016,6,400868962,Old Dominion,UMass,-7,0.685
+2016,6,400869133,Oregon,Washington,6.5,0.327
+2016,6,400869134,Oregon State,California,10,0.245
+2016,6,400869669,Penn State,Maryland,-3,0.582
+2016,6,400869458,Pittsburgh,Georgia Tech,-8,0.709
+2016,6,400869636,Rutgers,Michigan,26.5,0.034
+2016,6,400869218,San Diego State,UNLV,-17.5,0.886
+2016,6,400869217,San José State,Hawai'i,-3.5,0.595
+2016,6,400869022,South Carolina,Georgia,8.5,0.279
+2016,6,400869535,South Florida,East Carolina,-20,0.916
+2016,6,400869135,Stanford,Washington State,-12.5,0.806
+2016,6,400869023,Texas A&M,Tennessee,-6.5,0.673
+2016,6,400869533,Tulsa,SMU,-11,0.776
+2016,6,400869132,USC,Colorado,-4,0.609
+2016,6,400869130,Utah,Arizona,-9,0.733
+2016,6,400869378,UTEP,Florida International,-2.5,0.568
+2016,6,400869381,UT San Antonio,Southern Mississippi,14.5,0.159
+2016,6,400869460,Wake Forest,Syracuse,-3,0.582
+2016,6,400869303,Western Michigan,Northern Illinois,-19,0.905
+2016,6,400869213,Wyoming,Air Force,13.5,0.176
+2016,7,400869219,Air Force,New Mexico,-15,0.85
+2016,7,400869310,Akron,Western Michigan,10.5,0.234
+2016,7,400869136,Arizona,USC,7,0.315
+2016,7,400869024,Arkansas,Ole Miss,6.5,0.327
+2016,7,400869826,Arkansas State,South Alabama,-6,0.66
+2016,7,400868915,Army,Lafayette,-33,0.989
+2016,7,400868880,Baylor,Kansas,-35,0.992
+2016,7,400869220,Boise State,Colorado State,-25.5,0.961
+2016,7,400869305,Buffalo,Ball State,9,0.267
+2016,7,400868928,BYU,Mississippi State,-4,0.609
+2016,7,400869462,Clemson,NC State,-17,0.879
+2016,7,400869137,Colorado,Arizona State,-8,0.709
+2016,7,400869025,Florida,Missouri,-13,0.815
+2016,7,400869463,Florida State,Wake Forest,-25.5,0.961
+2016,7,400869221,Fresno State,San Diego State,17.5,0.114
+2016,7,400869026,Georgia,Vanderbilt,-14.5,0.841
+2016,7,400869464,Georgia Tech,Georgia Southern,-8,0.709
+2016,7,400869541,Houston,Tulsa,-23.5,0.947
+2016,7,400869828,Idaho,New Mexico State,-3,0.582
+2016,7,400869670,Indiana,Nebraska,6,0.34
+2016,7,400869825,Louisiana,Appalachian State,10.5,0.234
+2016,7,400869829,Louisiana Monroe,Texas State,-4.5,0.622
+2016,7,400869461,Louisville,Duke,-27.5,0.971
+2016,7,400869027,LSU,Southern Mississippi,-21,0.926
+2016,7,400869383,Marshall,Florida Atlantic,-12,0.796
+2016,7,400869671,Maryland,Minnesota,-3,0.582
+2016,7,400869723,Miami,North Carolina,-7,0.685
+2016,7,400869672,Michigan State,Northwestern,-6.5,0.673
+2016,7,400869384,Middle Tennessee,Western Kentucky,-2.5,0.568
+2016,7,400869307,Northern Illinois,Central Michigan,4,0.391
+2016,7,400869308,Ohio,Eastern Michigan,-10,0.755
+2016,7,400869608,Oklahoma,Kansas State,-13,0.815
+2016,7,400869139,Oregon State,Utah,13,0.185
+2016,7,400869673,Purdue,Iowa,13,0.185
+2016,7,400869385,Rice,UT San Antonio,-1.5,0.541
+2016,7,400869637,Rutgers,Illinois,6,0.34
+2016,7,400869223,San José State,Nevada,-5,0.635
+2016,7,400869540,South Florida,Connecticut,-17,0.879
+2016,7,400869466,Syracuse,Virginia Tech,17,0.121
+2016,7,400869028,Tennessee,Alabama,9,0.267
+2016,7,400869591,Texas,Iowa State,-13.5,0.824
+2016,7,400869627,Texas Tech,West Virginia,-1,0.527
+2016,7,400869306,Toledo,Bowling Green,-24,0.951
+2016,7,400869827,Troy,Georgia State,-16.5,0.872
+2016,7,400869538,Tulane,Memphis,10.5,0.234
+2016,7,400869539,UCF,Temple,-1,0.527
+2016,7,400868963,UMass,Louisiana Tech,16,0.135
+2016,7,400869465,Virginia,Pittsburgh,5,0.365
+2016,7,400869138,Washington State,UCLA,-2,0.555
+2016,7,400869644,Wisconsin,Ohio State,9.5,0.256
+2016,8,400869225,Air Force,Hawai'i,-17.5,0.886
+2016,8,400869029,Alabama,Texas A&M,-16.5,0.872
+2016,8,400869831,Appalachian State,Idaho,-22,0.935
+2016,8,400869141,Arizona State,Washington State,6.5,0.327
+2016,8,400868916,Army,North Texas,-17.5,0.886
+2016,8,400869030,Auburn,Arkansas,-17,0.879
+2016,8,400869311,Ball State,Akron,-2,0.555
+2016,8,400869224,Boise State,BYU,-9.5,0.744
+2016,8,400869468,Boston College,Syracuse,-4.5,0.622
+2016,8,400869316,Bowling Green,Miami (OH),-3.5,0.595
+2016,8,400869140,California,Oregon,-3,0.582
+2016,8,400869544,Cincinnati,East Carolina,-2,0.555
+2016,8,400869543,Connecticut,UCF,2,0.445
+2016,8,400869387,Florida International,Louisiana Tech,16,0.135
+2016,8,400869833,Georgia State,UT Martin,-12.5,0.806
+2016,8,400869674,Iowa,Wisconsin,2.5,0.432
+2016,8,400869600,Kansas,Oklahoma State,28,0.027
+2016,8,400869609,Kansas State,Texas,-3,0.582
+2016,8,400869315,Kent State,Ohio,4,0.391
+2016,8,400869031,Kentucky,Mississippi State,1.5,0.459
+2016,8,400869469,Louisville,NC State,-20,0.916
+2016,8,400869032,LSU,Ole Miss,-4.5,0.622
+2016,8,400869386,Marshall,Charlotte,-17,0.879
+2016,8,400869675,Maryland,Michigan State,2.5,0.432
+2016,8,400869676,Michigan,Illinois,-28,0.973
+2016,8,400869638,Minnesota,Rutgers,-21,0.926
+2016,8,400869033,Missouri,Middle Tennessee,-4,0.609
+2016,8,400869546,Navy,Memphis,2,0.445
+2016,8,400869677,Nebraska,Purdue,-23.5,0.947
+2016,8,400869229,Nevada,Wyoming,3,0.418
+2016,8,400869227,New Mexico,Louisiana Monroe,-14.5,0.841
+2016,8,400869832,New Mexico State,Georgia Southern,14,0.167
+2016,8,400869312,Northern Illinois,Buffalo,-20,0.916
+2016,8,400869678,Northwestern,Indiana,-2.5,0.568
+2016,8,400869645,Penn State,Ohio State,20,0.084
+2016,8,400869389,Rice,Prairie View,-22,0.935
+2016,8,400869230,San Diego State,San José State,-22.5,0.94
+2016,8,400869545,SMU,Houston,24,0.049
+2016,8,400869830,South Alabama,Troy,9,0.267
+2016,8,400868964,South Carolina,UMass,-21,0.926
+2016,8,400869143,Stanford,Colorado,-3.5,0.595
+2016,8,400869542,Temple,South Florida,6,0.34
+2016,8,400869834,Texas State,Louisiana,11.5,0.214
+2016,8,400869616,Texas Tech,Oklahoma,13,0.185
+2016,8,400869313,Toledo,Central Michigan,-10,0.755
+2016,8,400869547,Tulsa,Tulane,-10,0.755
+2016,8,400869142,UCLA,Utah,-7,0.685
+2016,8,400869226,UNLV,Colorado State,-1.5,0.541
+2016,8,400869228,Utah State,Fresno State,-14,0.833
+2016,8,400869390,UT San Antonio,UTEP,-7,0.685
+2016,8,400869034,Vanderbilt,Tennessee State,-27.5,0.971
+2016,8,400869470,Virginia,North Carolina,9,0.267
+2016,8,400869467,Virginia Tech,Miami,-4.5,0.622
+2016,8,400869144,Washington,Oregon State,-31.5,0.985
+2016,8,400869388,Western Kentucky,Old Dominion,-13,0.815
+2016,8,400869314,Western Michigan,Eastern Michigan,-23.5,0.947
+2016,8,400869628,West Virginia,TCU,-5,0.635
+2016,9,400869146,Arizona,Stanford,-3,0.582
+2016,9,400869836,Arkansas State,Louisiana Monroe,-17,0.879
+2016,9,400869317,Buffalo,Akron,14.5,0.159
+2016,9,400869319,Central Michigan,Kent State,-14,0.833
+2016,9,400869551,East Carolina,Connecticut,-7.5,0.698
+2016,9,400869717,Eastern Michigan,Miami (OH),-7,0.685
+2016,9,400869392,Florida Atlantic,Western Kentucky,18,0.107
+2016,9,400869391,Florida International,Middle Tennessee,17,0.121
+2016,9,400869473,Florida State,Clemson,3,0.418
+2016,9,400869231,Fresno State,Air Force,13.5,0.176
+2016,9,400869035,Georgia,Florida,7.5,0.302
+2016,9,400869835,Georgia Southern,Appalachian State,4,0.391
+2016,9,400869474,Georgia Tech,Duke,-8.5,0.721
+2016,9,400869549,Houston,UCF,-12.5,0.806
+2016,9,400869679,Illinois,Minnesota,10,0.245
+2016,9,400869680,Indiana,Maryland,-5,0.635
+2016,9,400869592,Iowa State,Kansas State,6,0.34
+2016,9,400869393,Louisiana Tech,Rice,-23,0.944
+2016,9,400869552,Memphis,Tulsa,-7.5,0.698
+2016,9,400869681,Michigan State,Michigan,21,0.074
+2016,9,400869037,Mississippi State,Samford,-21.5,0.931
+2016,9,400869038,Missouri,Kentucky,-4.5,0.622
+2016,9,400869472,NC State,Boston College,-15.5,0.857
+2016,9,400868953,Notre Dame,Miami,-1,0.527
+2016,9,400869646,Ohio State,Northwestern,-24,0.951
+2016,9,400869601,Oklahoma,Kansas,-38.5,0.996
+2016,9,400869621,Oklahoma State,West Virginia,3,0.418
+2016,9,400869036,Ole Miss,Auburn,2,0.445
+2016,9,400869147,Oregon,Arizona State,-7.5,0.698
+2016,9,400869149,Oregon State,Washington State,17.5,0.114
+2016,9,400869471,Pittsburgh,Virginia Tech,4,0.391
+2016,9,400869682,Purdue,Penn State,10.5,0.234
+2016,9,400869837,South Alabama,Georgia State,-3.5,0.595
+2016,9,400869039,South Carolina,Tennessee,14,0.167
+2016,9,400869394,Southern Mississippi,Marshall,-10,0.755
+2016,9,400869548,South Florida,Navy,-9,0.733
+2016,9,400869629,TCU,Texas Tech,-8.5,0.721
+2016,9,400869550,Temple,Cincinnati,-8.5,0.721
+2016,9,400868881,Texas,Baylor,3.5,0.405
+2016,9,400869040,Texas A&M,New Mexico State,-43.5,0.999
+2016,9,400869318,Toledo,Ohio,-17.5,0.886
+2016,9,400869553,Tulane,SMU,-1,0.527
+2016,9,400868965,UMass,Wagner,-21,0.926
+2016,9,400869145,USC,California,-14.5,0.841
+2016,9,400869148,Utah,Washington,11.5,0.214
+2016,9,400869234,Utah State,San Diego State,3,0.418
+2016,9,400869396,UTEP,Old Dominion,5.5,0.352
+2016,9,400869395,UT San Antonio,North Texas,-4,0.609
+2016,9,400869475,Virginia,Louisville,27,0.031
+2016,9,400868917,Wake Forest,Army,-8,0.709
+2016,9,400869683,Wisconsin,Nebraska,-7.5,0.698
+2016,9,400869232,Wyoming,Boise State,12.5,0.194
+2016,10,400869322,Akron,Toledo,8,0.291
+2016,10,400869839,Appalachian State,Texas State,-30,0.981
+2016,10,400869041,Arkansas,Florida,3.5,0.405
+2016,10,400868918,Army,Air Force,3,0.418
+2016,10,400869042,Auburn,Vanderbilt,-26,0.964
+2016,10,400869321,Ball State,Western Michigan,16,0.135
+2016,10,400868882,Baylor,TCU,-9,0.733
+2016,10,400869236,Boise State,San José State,-26.5,0.966
+2016,10,400869476,Boston College,Louisville,24.5,0.046
+2016,10,400869154,California,Washington,17,0.121
+2016,10,400868930,Cincinnati,BYU,10,0.245
+2016,10,400869477,Clemson,Syracuse,-28,0.973
+2016,10,400869150,Colorado,UCLA,-10,0.755
+2016,10,400869237,Colorado State,Fresno State,-13,0.815
+2016,10,400869554,Connecticut,Temple,9.5,0.256
+2016,10,400869478,Duke,Virginia Tech,10,0.245
+2016,10,400869838,Georgia State,Arkansas State,2,0.445
+2016,10,400869684,Illinois,Michigan State,7,0.315
+2016,10,400869593,Iowa State,Oklahoma,19.5,0.089
+2016,10,400869610,Kansas State,Oklahoma State,-2.5,0.568
+2016,10,400869043,Kentucky,Georgia,2.5,0.432
+2016,10,400869840,Louisiana,Idaho,-7.5,0.698
+2016,10,400869841,Louisiana Monroe,South Alabama,13.5,0.176
+2016,10,400869044,LSU,Alabama,7,0.315
+2016,10,400869481,Miami,Pittsburgh,-6,0.66
+2016,10,400869324,Miami (OH),Central Michigan,6,0.34
+2016,10,400869685,Michigan,Maryland,-26.5,0.966
+2016,10,400869403,Middle Tennessee,UT San Antonio,-19,0.905
+2016,10,400869686,Minnesota,Purdue,-16.5,0.872
+2016,10,400869046,Mississippi State,Texas A&M,13,0.185
+2016,10,400868954,Navy,Notre Dame,-4.5,0.622
+2016,10,400869479,NC State,Florida State,6.5,0.327
+2016,10,400869238,New Mexico,Nevada,-11,0.776
+2016,10,400869480,North Carolina,Georgia Tech,-9.5,0.744
+2016,10,400869320,Northern Illinois,Bowling Green,-17,0.879
+2016,10,400869400,North Texas,Louisiana Tech,21,0.074
+2016,10,400869687,Northwestern,Wisconsin,6.5,0.327
+2016,10,400869323,Ohio,Buffalo,-19,0.905
+2016,10,400869647,Ohio State,Nebraska,-15.5,0.857
+2016,10,400869401,Old Dominion,Marshall,-7,0.685
+2016,10,400869045,Ole Miss,Georgia Southern,-20.5,0.921
+2016,10,400869688,Penn State,Iowa,-6.5,0.673
+2016,10,400869399,Rice,Florida Atlantic,-2,0.555
+2016,10,400869639,Rutgers,Indiana,13,0.185
+2016,10,400869240,San Diego State,Hawai'i,-19.5,0.911
+2016,10,400869556,SMU,Memphis,6.5,0.327
+2016,10,400869047,South Carolina,Missouri,-5,0.635
+2016,10,400869397,Southern Mississippi,Charlotte,-18,0.893
+2016,10,400869153,Stanford,Oregon State,-16.5,0.872
+2016,10,400869048,Tennessee,Tennessee Tech,-44,0.999
+2016,10,400869630,Texas Tech,Texas,4,0.391
+2016,10,400868966,Troy,UMass,-23,0.944
+2016,10,400921256,UCF,Tulane,-16.5,0.872
+2016,10,400869152,USC,Oregon,-14,0.833
+2016,10,400869482,Wake Forest,Virginia,-2.5,0.568
+2016,10,400869151,Washington State,Arizona,-16.5,0.872
+2016,10,400869398,Western Kentucky,Florida International,-25,0.958
+2016,10,400869602,West Virginia,Kansas,-32,0.986
+2016,10,400869239,Wyoming,Utah State,-4,0.609
+2016,11,400869241,Air Force,Colorado State,-6,0.66
+2016,11,400869327,Akron,Bowling Green,-11.5,0.786
+2016,11,400869049,Alabama,Mississippi State,-28.5,0.975
+2016,11,400869156,Arizona,Colorado,16.5,0.128
+2016,11,400869155,Arizona State,Utah,5.5,0.352
+2016,11,400869050,Arkansas,LSU,7,0.315
+2016,11,400869843,Arkansas State,New Mexico State,-20.5,0.921
+2016,11,400869325,Ball State,Eastern Michigan,-3.5,0.595
+2016,11,400869329,Buffalo,Miami (OH),12,0.204
+2016,11,400868931,BYU,Southern Utah,-31,0.984
+2016,11,400869404,Charlotte,Rice,-10,0.755
+2016,11,400869485,Clemson,Pittsburgh,-19,0.905
+2016,11,400869483,Duke,North Carolina,10.5,0.234
+2016,11,400869558,East Carolina,SMU,-5,0.635
+2016,11,400869051,Florida,South Carolina,-16,0.865
+2016,11,400869405,Florida Atlantic,UTEP,-2,0.555
+2016,11,400869484,Florida State,Boston College,-23,0.944
+2016,11,400869052,Georgia,Auburn,8,0.291
+2016,11,400869844,Georgia Southern,Louisiana,-10.5,0.766
+2016,11,400869845,Georgia State,Louisiana Monroe,-12.5,0.806
+2016,11,400869242,Hawai'i,Boise State,16.5,0.128
+2016,11,400869560,Houston,Tulane,-22,0.935
+2016,11,400869689,Indiana,Penn State,6.5,0.327
+2016,11,400869690,Iowa,Michigan,18.5,0.101
+2016,11,400869594,Kansas,Iowa State,11.5,0.214
+2016,11,400869326,Kent State,Western Michigan,18.5,0.101
+2016,11,400869406,Louisiana Tech,UT San Antonio,-19,0.905
+2016,11,400869487,Louisville,Wake Forest,-33,0.989
+2016,11,400869407,Marshall,Middle Tennessee,11.5,0.214
+2016,11,400869648,Maryland,Ohio State,28,0.027
+2016,11,400869559,Memphis,South Florida,3,0.418
+2016,11,400869640,Michigan State,Rutgers,-15.5,0.857
+2016,11,400869053,Missouri,Vanderbilt,-1,0.527
+2016,11,400869561,Navy,Tulsa,-1,0.527
+2016,11,400869691,Nebraska,Minnesota,-8,0.709
+2016,11,400869245,Nevada,San Diego State,20.5,0.079
+2016,11,400869328,Northern Illinois,Toledo,7.5,0.302
+2016,11,400868919,Notre Dame,Army,-11.5,0.786
+2016,11,400868883,Oklahoma,Baylor,-15.5,0.857
+2016,11,400869622,Oklahoma State,Texas Tech,-11,0.776
+2016,11,400869409,Old Dominion,Southern Mississippi,-2,0.555
+2016,11,400869159,Oregon,Stanford,1,0.473
+2016,11,400869692,Purdue,Northwestern,10.5,0.234
+2016,11,400869488,Syracuse,NC State,7,0.315
+2016,11,400869054,Tennessee,Kentucky,-10.5,0.766
+2016,11,400869631,Texas,West Virginia,1,0.473
+2016,11,400869055,Texas A&M,Ole Miss,-11,0.776
+2016,11,400869846,Texas State,Idaho,8,0.291
+2016,11,400869842,Troy,Appalachian State,-1.5,0.541
+2016,11,400869557,UCF,Cincinnati,-10,0.755
+2016,11,400869158,UCLA,Oregon State,-10,0.755
+2016,11,400869244,UNLV,Wyoming,9,0.267
+2016,11,400869243,Utah State,New Mexico,-2.5,0.568
+2016,11,400869724,Virginia,Miami,11,0.224
+2016,11,400869486,Virginia Tech,Georgia Tech,-14.5,0.841
+2016,11,400869157,Washington,USC,-10,0.755
+2016,11,400869160,Washington State,California,-16.5,0.872
+2016,11,400869408,Western Kentucky,North Texas,-30,0.981
+2016,11,400869693,Wisconsin,Illinois,-26.5,0.966
+2016,12,400869056,Alabama,Chattanooga,-48.5,1
+2016,12,400869848,Appalachian State,Louisiana Monroe,-27.5,0.971
+2016,12,400868920,Army,Morgan State,-43.5,0.999
+2016,12,400869057,Auburn,Alabama A&M,-52,1
+2016,12,400868884,Baylor,Kansas State,2,0.445
+2016,12,400869246,Boise State,UNLV,-26.5,0.966
+2016,12,400869490,Boston College,Connecticut,-7,0.685
+2016,12,400869330,Bowling Green,Kent State,3,0.418
+2016,12,400868932,BYU,UMass,-30,0.981
+2016,12,400869166,California,Stanford,11,0.224
+2016,12,400869331,Central Michigan,Ohio,-1,0.527
+2016,12,400869410,Charlotte,Middle Tennessee,6,0.34
+2016,12,400869563,Cincinnati,Memphis,7.5,0.302
+2016,12,400869164,Colorado,Washington State,-6,0.66
+2016,12,400869248,Colorado State,New Mexico,-5,0.635
+2016,12,400922541,East Carolina,Navy,8,0.291
+2016,12,400869333,Eastern Michigan,Northern Illinois,4,0.391
+2016,12,400869412,Florida Atlantic,Old Dominion,7.5,0.302
+2016,12,400869411,Florida International,Marshall,3,0.418
+2016,12,400869251,Fresno State,Hawai'i,2.5,0.432
+2016,12,400869059,Georgia,Louisiana,-21,0.926
+2016,12,400869849,Georgia State,Georgia Southern,3.5,0.405
+2016,12,400869494,Georgia Tech,Virginia,-10.5,0.766
+2016,12,400869694,Illinois,Iowa,10,0.245
+2016,12,400869595,Iowa State,Texas Tech,3,0.418
+2016,12,400869603,Kansas,Texas,21,0.074
+2016,12,400869060,Kentucky,Austin Peay,-43,0.998
+2016,12,400922862,LSU,Florida,-10.5,0.766
+2016,12,400869695,Michigan,Indiana,-28,0.973
+2016,12,400869649,Michigan State,Ohio State,23.5,0.053
+2016,12,400869696,Minnesota,Northwestern,-2,0.555
+2016,12,400869697,Nebraska,Maryland,-14.5,0.841
+2016,12,400869249,Nevada,Utah State,5,0.365
+2016,12,400869850,New Mexico State,Texas State,-6.5,0.673
+2016,12,400869496,North Carolina,The Citadel,-24,0.951
+2016,12,400869413,North Texas,Southern Mississippi,5.5,0.352
+2016,12,400868955,Notre Dame,Virginia Tech,-3,0.582
+2016,12,400869492,Pittsburgh,Duke,-6.5,0.673
+2016,12,400869698,Purdue,Wisconsin,26.5,0.034
+2016,12,400869414,Rice,UTEP,1.5,0.459
+2016,12,400869641,Rutgers,Penn State,22.5,0.06
+2016,12,400869247,San José State,Air Force,11,0.224
+2016,12,400869565,SMU,South Florida,12.5,0.194
+2016,12,400925661,South Alabama,Presbyterian College,-31,0.984
+2016,12,400869063,South Carolina,Western Carolina,-29,0.977
+2016,12,400869493,Syracuse,Florida State,20,0.084
+2016,12,400869623,TCU,Oklahoma State,-4.5,0.622
+2016,12,400869064,Tennessee,Missouri,-14.5,0.841
+2016,12,400869065,Texas A&M,UT San Antonio,-28,0.973
+2016,12,400869332,Toledo,Ball State,-19,0.905
+2016,12,400869847,Troy,Arkansas State,-8.5,0.721
+2016,12,400869566,Tulane,Temple,14.5,0.159
+2016,12,400869564,UCF,Tulsa,-1.5,0.541
+2016,12,400869163,UCLA,USC,10.5,0.234
+2016,12,400869165,Utah,Oregon,-10.5,0.766
+2016,12,400869066,Vanderbilt,Ole Miss,9.5,0.256
+2016,12,400869491,Wake Forest,Clemson,23.5,0.053
+2016,12,400869162,Washington,Arizona State,-26,0.964
+2016,12,400869334,Western Michigan,Buffalo,-34,0.99
+2016,12,400869617,West Virginia,Oklahoma,2.5,0.432
+2016,12,400869250,Wyoming,San Diego State,7.5,0.302
+2016,13,400869252,Air Force,Boise State,9,0.267
+2016,13,400869068,Alabama,Auburn,-20,0.916
+2016,13,400869167,Arizona,Arizona State,6,0.34
+2016,13,400869338,Bowling Green,Buffalo,-11,0.776
+2016,13,400868933,BYU,Utah State,-17,0.879
+2016,13,400869169,California,UCLA,5.5,0.352
+2016,13,400869074,Clemson,South Carolina,-24.5,0.954
+2016,13,400869170,Colorado,Utah,-11,0.776
+2016,13,400869570,Connecticut,Tulane,-2,0.555
+2016,13,400869069,Florida State,Florida,-5,0.635
+2016,13,400869255,Fresno State,San José State,4,0.391
+2016,13,400869070,Georgia,Georgia Tech,-4.5,0.622
+2016,13,400868967,Hawai'i,UMass,-10.5,0.766
+2016,13,400869853,Idaho,South Alabama,-2.5,0.568
+2016,13,400869700,Indiana,Purdue,-16,0.865
+2016,13,400869699,Iowa,Nebraska,-2.5,0.568
+2016,13,400869596,Iowa State,West Virginia,9,0.267
+2016,13,400869604,Kansas State,Kansas,-24.5,0.954
+2016,13,400869339,Kent State,Northern Illinois,5,0.365
+2016,13,400869852,Louisiana,Arkansas State,6.5,0.327
+2016,13,400869071,Louisville,Kentucky,-26,0.964
+2016,13,400869419,Marshall,Western Kentucky,21,0.074
+2016,13,400869642,Maryland,Rutgers,-2,0.555
+2016,13,400869568,Memphis,Houston,3,0.418
+2016,13,400869499,Miami,Duke,-14,0.833
+2016,13,400869336,Miami (OH),Ball State,-6,0.66
+2016,13,400869417,Middle Tennessee,Florida Atlantic,-12.5,0.806
+2016,13,400869073,Missouri,Arkansas,7.5,0.302
+2016,13,400869254,New Mexico,Wyoming,2,0.445
+2016,13,400869851,New Mexico State,Appalachian State,17,0.121
+2016,13,400869497,North Carolina,NC State,-10,0.755
+2016,13,400869701,Northwestern,Illinois,-15,0.85
+2016,13,400869335,Ohio,Akron,-7.5,0.698
+2016,13,400869650,Ohio State,Michigan,-7,0.685
+2016,13,400869416,Old Dominion,Florida International,-14,0.833
+2016,13,400869072,Ole Miss,Mississippi State,-8,0.709
+2016,13,400869171,Oregon State,Oregon,3,0.418
+2016,13,400869702,Penn State,Michigan State,-13.5,0.824
+2016,13,400869500,Pittsburgh,Syracuse,-23.5,0.947
+2016,13,400869253,San Diego State,Colorado State,-12.5,0.806
+2016,13,400869572,SMU,Navy,8,0.291
+2016,13,400869418,Southern Mississippi,Louisiana Tech,13.5,0.176
+2016,13,400869569,South Florida,UCF,-9.5,0.744
+2016,13,400869172,Stanford,Rice,-33,0.989
+2016,13,400869571,Temple,East Carolina,-19,0.905
+2016,13,400869067,Texas A&M,LSU,4,0.391
+2016,13,400869854,Texas State,Troy,26.5,0.034
+2016,13,400868885,Texas Tech,Baylor,2.5,0.432
+2016,13,400869567,Tulsa,Cincinnati,-18.5,0.899
+2016,13,400869256,UNLV,Nevada,-7,0.685
+2016,13,400868956,USC,Notre Dame,-17,0.879
+2016,13,400869415,UT San Antonio,Charlotte,-7,0.685
+2016,13,400869075,Vanderbilt,Tennessee,10,0.245
+2016,13,400869501,Virginia Tech,Virginia,-18.5,0.899
+2016,13,400869498,Wake Forest,Boston College,-2,0.555
+2016,13,400869168,Washington State,Washington,6,0.34
+2016,13,400869340,Western Michigan,Toledo,-9.5,0.744
+2016,13,400869703,Wisconsin,Minnesota,-14,0.833
+2016,14,400926943,Florida,Alabama,21.5,0.069
+2016,14,400869856,Georgia Southern,Troy,9,0.267
+2016,14,400869857,Idaho,Georgia State,-7,0.685
+2016,14,400869858,Louisiana Monroe,Louisiana,9.5,0.256
+2016,14,400926947,Navy,Temple,-1.5,0.541
+2016,14,400926941,Ohio,Western Michigan,17,0.121
+2016,14,400869618,Oklahoma,Oklahoma State,-14,0.833
+2016,14,400926946,Penn State,Wisconsin,1,0.473
+2016,14,400869859,South Alabama,New Mexico State,-12,0.796
+2016,14,400869611,TCU,Kansas State,-4.5,0.622
+2016,14,400869855,Texas State,Arkansas State,21.5,0.069
+2016,14,400926944,Virginia Tech,Clemson,8.5,0.279
+2016,14,400926942,Washington,Colorado,-6,0.66
+2016,14,400926948,Western Kentucky,Louisiana Tech,-7.5,0.698
+2016,14,400868886,West Virginia,Baylor,-14.5,0.841
+2016,14,400926949,Wyoming,San Diego State,7,0.315
+2016,15,400868921,Army,Navy,11.5,0.214
